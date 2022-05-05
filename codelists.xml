@@ -26233,6 +26233,14 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>NR0132</Code>
+      <Name lang="fi">Tarkista maksutiedot</Name>
+      <Name lang="sv">sv: Tarkista maksutiedot</Name>
+      <Name lang="en">en: Tarkista maksutiedot</Name>
+      <StartDate>2022-05-04</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>NR0200</Code>
       <Name lang="fi">Valitse lisämenettelykoodiksi joko F15, verorajan yli tuotavasta tavarasta tehtävä ilmoitus, tai 615, Ahvenanmaan ja manner-Suomen välisissä unionitavaran ilmoitus; et voi ilmoittaa molempia samalla ilmoituksella.</Name>
       <Name lang="en">As additional procedure code, choose either F15, declaration for goods imported across the tax border, or 615, declaration for Union goods transported between the Åland Islands and mainland Finland; you cannot provide both in the same declaration.</Name>
@@ -34745,5 +34753,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-04-26T06:05:04.400</Generated>
+  <Generated>2022-05-05T06:05:04.540</Generated>
 </CodeLists>
