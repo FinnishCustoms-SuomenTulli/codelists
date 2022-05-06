@@ -20392,6 +20392,471 @@ customs warehousing procedure</Description>
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>D01</Code>
+      <Name lang="fi">Kuormalavat (kuormalavojen laitteet ja varusteet mukaan luettuina)</Name>
+      <Name lang="sv">Lastpallar (inbegripet tillbehör och utrustning för lastpallar)</Name>
+      <Name lang="en">Pallets (including pallet spare parts, accessories and equipment)</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D02</Code>
+      <Name lang="fi">Kontit (konttien varaosat, laitteet ja varusteet mukaan luettuina)</Name>
+      <Name lang="sv">Containrar (inbegripet reservdelar, tillbehör och utrustning till containrar)</Name>
+      <Name lang="en">Containers (including container spare parts, accessories and equipment)</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D03</Code>
+      <Name lang="fi">Maantie-, rautatie-, ilma-, meri- ja sisävesiliikenteen kuljetusvälineet</Name>
+      <Name lang="sv">Transportmedel för vägtrafik, för trafik på räls, i luften, till sjöss och på inre vattenvägar</Name>
+      <Name lang="en">Means of road, rail, air, sea and inland waterway transport</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D04</Code>
+      <Name lang="fi">Matkustajien henkilökohtaiset tavarat ja urheilukäyttöön tarkoitetut tavarat</Name>
+      <Name lang="sv">Personliga tillhörigheter och varor för sportändamål som importeras av resande</Name>
+      <Name lang="en">Personal effects and goods for sports purposes imported by travelers</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D05</Code>
+      <Name lang="fi">Merimiesten ajanvieteaineisto</Name>
+      <Name lang="sv">Välfärdsmateriel för sjöfolk</Name>
+      <Name lang="en">Welfare material for seafarers</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D06</Code>
+      <Name lang="fi">Suuronnettomuuksien seurausten torjuntaan käytettävät välineet</Name>
+      <Name lang="sv">Utrustning för katastrofhjälp</Name>
+      <Name lang="en">Disaster relief material</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D07</Code>
+      <Name lang="fi">Lääketieteelliset ja kirurgiset laitteet sekä laboratoriolaitteet</Name>
+      <Name lang="sv">Medicinsk och kirurgisk utrustning och laboratorieutrustning</Name>
+      <Name lang="en">Medical, surgical and laboratory equipment</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D08</Code>
+      <Name lang="fi">Eläimet (vähintään 12 kuukauden ikäiset)</Name>
+      <Name lang="sv">Djur (tolv månader eller mer)</Name>
+      <Name lang="en">Animals (twelve months or more)</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D09</Code>
+      <Name lang="fi">Rajavyöhykkeellä käytettävät tavarat</Name>
+      <Name lang="sv">Varor som används i gränsområden</Name>
+      <Name lang="en">Goods for use in frontier zone</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D10</Code>
+      <Name lang="fi">Ääni-, kuva- ja tietotallenteet</Name>
+      <Name lang="sv">Ljud- eller bildinnehållande medier, medier för datalagring</Name>
+      <Name lang="en">Sound, image or data carrying media</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D11</Code>
+      <Name lang="fi">Mainosmateriaali</Name>
+      <Name lang="sv">Reklammaterial</Name>
+      <Name lang="en">Publicity material</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D12</Code>
+      <Name lang="fi">Ammatinharjoittamisvälineet</Name>
+      <Name lang="sv">Yrkesutrustning</Name>
+      <Name lang="en">Professional equipment</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D13</Code>
+      <Name lang="fi">Opetusvälineet ja tieteelliset välineet</Name>
+      <Name lang="sv">Undervisningsmateriel och vetenskaplig utrustning</Name>
+      <Name lang="en">Pedagogic material and scientific equipment</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D14</Code>
+      <Name lang="fi">Pakkauspäällykset, täydet</Name>
+      <Name lang="sv">Förpackningar, fyllda</Name>
+      <Name lang="en">Packings, full</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D15</Code>
+      <Name lang="fi">Pakkauspäällykset, tyhjät</Name>
+      <Name lang="sv">Förpackningar, tomma</Name>
+      <Name lang="en">Packings, empty</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D16</Code>
+      <Name lang="fi">Muotit, matriisit, kuvalaatat, piirustukset, luonnokset, mittaus-, valvonta- ja tarkistuskojeet ja muut vastaavat esineet</Name>
+      <Name lang="sv">Formar, matriser, klichéer, ritningar, skisser, mätnings-, kontroll- och testinstrument och andra liknande artiklar</Name>
+      <Name lang="en">Moulds, dies, blocks, drawings, sketches, measuring, checking and testing instruments and other similar articles</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D17</Code>
+      <Name lang="fi">Erityistyökalut ja -kojeet</Name>
+      <Name lang="sv">Specialverktyg och specialinstrument</Name>
+      <Name lang="en">Special tools and instruments</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D18</Code>
+      <Name lang="fi">Testattaviksi, kokeiltaviksi tai esiteltäviksi tarkoitetut tavarat</Name>
+      <Name lang="sv">Varor som genomgår tester, experiment eller demonstrationer</Name>
+      <Name lang="en">Goods subject to tests, experiments or demonstrations</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D19</Code>
+      <Name lang="fi">Tavarat, joiden on läpäistävä myyntisopimuksessa määrätyt hyväksyntätestit</Name>
+      <Name lang="sv">Varor, som omfattas av provningsförbehåll, i enlighet med ett försäljningskontrakt</Name>
+      <Name lang="en">Goods, subject to satisfactory acceptance tests, provided for in a sales contract</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D20</Code>
+      <Name lang="fi">Testeissä, kokeissa tai esittelyissä, jotka tapahtuvat ilman ansaitsemistarkoitusta, käytettävät tavarat (kuusi kuukautta)</Name>
+      <Name lang="sv">Varor som används för att utföra tester, experiment eller demonstrationer utan ekonomisk vinning (sex månader)</Name>
+      <Name lang="en">Goods used to carry out tests, experiments or demonstrations without financial gain (six months)</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D21</Code>
+      <Name lang="fi">Näytteet</Name>
+      <Name lang="sv">Prover</Name>
+      <Name lang="en">Samples</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D22</Code>
+      <Name lang="fi">Korvaavat tuotantovälineet (kuusi kuukautta)</Name>
+      <Name lang="sv">Ersättningsproduktionsmedel (sex månader)</Name>
+      <Name lang="en">Replacement means of production (six months)</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D23</Code>
+      <Name lang="fi">Tilaisuuksia varten tai myytäviksi tarkoitetut tavarat</Name>
+      <Name lang="sv">Varor som är avsedda för arrangemang eller försäljning</Name>
+      <Name lang="en">Goods for events or for sale</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D24</Code>
+      <Name lang="fi">Hyväksyttäviksi tarkoitetut tavarat (kuusi kuukautta)</Name>
+      <Name lang="sv">Varor till påseende (sex månader)</Name>
+      <Name lang="en">Goods for approval (six months)</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D25</Code>
+      <Name lang="fi">Taide-, keräily- ja antiikkiesineet</Name>
+      <Name lang="sv">Konstverk, föremål för samlingar samt antikviteter</Name>
+      <Name lang="en">Works of art, collectors' items and antiques</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D26</Code>
+      <Name lang="fi">Muut kuin juuri valmistetut tavarat, jotka on tuotu niiden myymiseksi huutokaupassa</Name>
+      <Name lang="sv">Icke-nytillverkade varor som importeras i syfte att säljas på auktion</Name>
+      <Name lang="en">Goods other than newly manufactured ones imported with a view to their sale by auction</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D27</Code>
+      <Name lang="fi">Varaosat, tarvikkeet ja varusteet</Name>
+      <Name lang="sv">Reservdelar, tillbehör och utrustning</Name>
+      <Name lang="en">Spare parts, accessories and equipment</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D28</Code>
+      <Name lang="fi">Erityisissä tilanteissa, joilla ei ole taloudellista vaikutusta, tuodut tavarat</Name>
+      <Name lang="sv">Varor som importeras i särskilda situationer som saknar ekonomisk betydelse</Name>
+      <Name lang="en">Goods imported in particular situations having no economic effect</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D29</Code>
+      <Name lang="fi">Enintään kolmen kuukauden ajaksi tuodut tavarat</Name>
+      <Name lang="sv">Varor som importeras vid enstaka tillfällen under en period på högst tre månader</Name>
+      <Name lang="en">Goods imported for a period not exceeding three months</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D30</Code>
+      <Name lang="fi">Unionin tullialueen ulkopuolelle sijoittautuneiden henkilöiden taikka henkilöiden, jotka aikovat muuttaa tavanomaisen kotipaikkansa kyseisen alueen ulkopuolelle, kulkuvälineet DA 216 art</Name>
+      <Name lang="sv">Transportmedel för personer etablerade utanför unionens tullområde eller för personer som planerar att flytta sin normala hemvist till en plats utanför detta område.</Name>
+      <Name lang="en">Means of transport for persons established outside the customs territory of the Union or for persons preparing the transfer of their normal place of residence outside that territory.</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D51</Code>
+      <Name lang="fi">Väliaikainen maahantuonti osittain tuontitullitta</Name>
+      <Name lang="sv">Tillfällig införsel med partiell befrielse från importtull</Name>
+      <Name lang="en">Temporary admission with partial relief from import duty</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>E01</Code>
       <Name lang="fi">Yksikköhinta</Name>
       <Name lang="sv">Enhetspris</Name>
@@ -34753,5 +35218,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-05-05T06:05:04.540</Generated>
+  <Generated>2022-05-06T06:05:04.777</Generated>
 </CodeLists>
