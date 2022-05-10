@@ -10714,6 +10714,42 @@
         <Value>0</Value>
       </Filter>
     </CodeItem>
+    <CodeItem>
+      <Code>Y</Code>
+      <Name lang="fi">Täydentävä ilmoitus yksinkertaistetuille tulli-ilmoituksille (koodit C ja F)</Name>
+      <Name lang="sv">En kompletterande deklaration av allmän eller periodisk art till förenklade deklarationer enligt C och F</Name>
+      <Name lang="en">A supplemetary declaration under a simlified procedure (codes C and F)</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Z</Code>
+      <Name lang="fi">Täydentävä ilmoitus koodeksin 182 artiklan mukaista menettelyä noudattaen (EIDR)</Name>
+      <Name lang="sv">Kompletterande deklaration enligt förfarandet i artikel 182 i kodexen. (EIDR)</Name>
+      <Name lang="en">Supplementary declaration under the procedure covered under Article 182 of the Code (EIDR)</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+      </Filter>
+    </CodeItem>
   </CodeList>
   <CodeList>
     <Identification>CL039G</Identification>
@@ -15600,6 +15636,31 @@ Vehicle production number</Description>
       <Filter>
         <Name>Filter_TRA</Name>
         <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>FISUR</Code>
+      <Name lang="fi">Korvaava ilmoitus</Name>
+      <Name lang="sv">sv: Korvaava ilmoitus</Name>
+      <Name lang="en">en: Korvaava ilmoitus</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
       </Filter>
     </CodeItem>
     <CodeItem>
@@ -35218,5 +35279,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-05-06T06:05:04.777</Generated>
+  <Generated>2022-05-10T06:05:05.930</Generated>
 </CodeLists>
