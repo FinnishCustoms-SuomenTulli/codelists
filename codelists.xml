@@ -18133,6 +18133,21 @@ customs warehousing procedure</Description>
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>11</Code>
+      <Name lang="fi">Sisäisessä jalostuksessa vastaavista tavaroista saatujen jalostettujen tuotteiden vienti ennen muiden kuin unionitavaroiden asettamista sisäiseen jalostukseen.</Name>
+      <Name lang="sv">Export av sådana förädlade produkter som framställts av likvärdiga varor inom ramen för förfarandet för aktiv förädling innan icke-unionsvaror hänförs till förfarandet för aktiv förädling.</Name>
+      <Name lang="en">Export of processed products obtained from equivalent goods under inward processing before placing non-Union goods under inward processing.</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>21</Code>
       <Name lang="fi">Väliaikainen vienti ulkoisessa jalostusmenettelyssä</Name>
       <Name lang="sv">Temporär export inom ramen för förfarandet för passiv förädling</Name>
@@ -35279,5 +35294,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-05-10T06:05:05.930</Generated>
+  <Generated>2022-05-11T06:05:04.880</Generated>
 </CodeLists>
