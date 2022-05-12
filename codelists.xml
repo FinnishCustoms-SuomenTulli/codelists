@@ -31275,6 +31275,1636 @@ customs warehousing procedure</Description>
     </CodeItem>
   </CodeList>
   <CodeList>
+    <Identification>NCL051</Identification>
+    <Name lang="fi">Päätöshuomautus</Name>
+    <Name lang="sv">Beslutsanmärkning</Name>
+    <Name lang="en">Decision remark</Name>
+    <CodeItem>
+      <Code>D0001</Code>
+      <Name lang="fi">Tulli on mitätöinyt ilmoituksen. Tavaroita ei ole esitetty Tullille 30 päivän kuluessa ilmoituksen antamisesta. UTK 171</Name>
+      <Name lang="sv">Tullen har ogiltigförklarat deklarationen. Varornas ankomst har inte anmälts till Tullen inom 30 dagar från inlämnandet av deklarationen. UTK 171</Name>
+      <Name lang="en">Customs has invalidated the declaration. The goods were not presented to Customs within 30 days from lodgement of the declaration. UCC, Article 171</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0002</Code>
+      <Name lang="fi">Pyyntönne perusteella asian käsittely raukeaa.</Name>
+      <Name lang="sv">På basis av er begäran upphör handläggningen av ärendet.</Name>
+      <Name lang="en">Following your request, the matter will lapse.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0002</Code>
+      <Name lang="fi">Pyyntönne perusteella asian käsittely raukeaa.</Name>
+      <Name lang="sv">På basis av er begäran upphör handläggningen av ärendet.</Name>
+      <Name lang="en">Following your request, the matter will lapse.</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0003</Code>
+      <Name lang="fi">Aiemmin lähettämänne oikaisuhakemus ei ole enää vireillä.</Name>
+      <Name lang="sv">Er tidigare omprövningsansökan är inte längre anhängig.</Name>
+      <Name lang="en">The amendment request you sent earlier is no longer pending.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0003</Code>
+      <Name lang="fi">Aiemmin lähettämänne oikaisuhakemus ei ole enää vireillä.</Name>
+      <Name lang="sv">Er tidigare omprövningsansökan är inte längre anhängig.</Name>
+      <Name lang="en">The amendment request you sent earlier is no longer pending.</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0004</Code>
+      <Name lang="fi">Aiemmin lähettämänne mitätöintihakemus ei ole enää vireillä.</Name>
+      <Name lang="sv">Er tidigare ansökan om ogiltigförklaring är inte längre anhängig.</Name>
+      <Name lang="en">The invalidation request you sent earlier is no longer pending.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0004</Code>
+      <Name lang="fi">Aiemmin lähettämänne mitätöintihakemus ei ole enää vireillä.</Name>
+      <Name lang="sv">Er tidigare ansökan om ogiltigförklaring är inte längre anhängig.</Name>
+      <Name lang="en">The invalidation request you sent earlier is no longer pending.</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0005</Code>
+      <Name lang="fi">Tavarat on luovutettu tullimenettelyyn. UTK 194 artikla</Name>
+      <Name lang="sv">Varorna har frigjorts för tullförfarandet. Artikel 194 i UTK</Name>
+      <Name lang="en">The goods have been released for the customs procedure. UCC, Article 194</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0006</Code>
+      <Name lang="fi">Tavarat on asetettu tullimenettelyyn kirjanpitoon tehdyn merkinnän perusteella. TA 235</Name>
+      <Name lang="sv">Varorna har hänförts till tullförfarandet genom registrering i deklarantens bokföring. GF 235</Name>
+      <Name lang="en">The goods have been placed under the customs procedure using EIDR. IA, Article 235</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0006</Code>
+      <Name lang="fi">Tavarat on asetettu tullimenettelyyn kirjanpitoon tehdyn merkinnän perusteella. TA 235</Name>
+      <Name lang="sv">Varorna har hänförts till tullförfarandet genom registrering i deklarantens bokföring. GF 235</Name>
+      <Name lang="en">The goods have been placed under the customs procedure using EIDR. IA, Article 235</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0007</Code>
+      <Name lang="fi">Tullivarastoluvanhaltijan on annettava Tullille menettelyn päättämistä koskeva päättämistiedonanto, kun kaikki tullivarastointimenettelyyn asetetut tavarat on luovutettu seuraavaan tullimenettelyyn tai muutoin tulliselvitetty.</Name>
+      <Name lang="sv">Innehavaren av tullagertillstånd ska inge en anmälan om avslutande av förfarande till Tullen när alla varor som hänförts till tullagerförfarandet har hänförts till följande tullförfarande eller har tullklarerats.</Name>
+      <Name lang="en">The holder of the customs warehousing authorisation must submit a discharge notification concerning the discharge of the procedure to Customs.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0008</Code>
+      <Name lang="fi">Tulli on korjannut tässä lueteltuja asiakkaan ilmoittamia tietoja.</Name>
+      <Name lang="sv">Tullen har korrigerat alla de uppgifter som här uppgetts av kunden.</Name>
+      <Name lang="en">Details declared by the customer and listed here have been amended by Customs.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0009</Code>
+      <Name lang="fi">[kentän nimi] [alkuperäinen arvo] on korjattu muotoon [korjattu arvo].</Name>
+      <Name lang="sv">[fältets namn] [ursprungligt värde] har korrigerats till formen [korrigerat värde].</Name>
+      <Name lang="en">[field name] [original value] has been amended to [amended value].</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0010</Code>
+      <Name lang="fi">Ilmoituksen tietoja on oikaistu Tullin toimesta. Tulli on muuttanut alla lueteltuja tietoja.</Name>
+      <Name lang="sv">Uppgifterna i deklarationen har rättats av Tullen. Tullen har ändrat de nedan nämnda uppgifterna.</Name>
+      <Name lang="en">Declaration details have been amended by Customs. Customs has amended the details listed below.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0010</Code>
+      <Name lang="fi">Ilmoituksen tietoja on oikaistu Tullin toimesta. Tulli on muuttanut alla lueteltuja tietoja.</Name>
+      <Name lang="sv">Uppgifterna i deklarationen har rättats av Tullen. Tullen har ändrat de nedan nämnda uppgifterna.</Name>
+      <Name lang="en">Declaration details have been amended by Customs. Customs has amended the details listed below.</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0011</Code>
+      <Name lang="fi">[kentän nimi] [alkuperäinen arvo] on oikaistu muotoon [oikaistu arvo].</Name>
+      <Name lang="sv">[fältets namn] [ursprungligt värde] har korrigerats till formen [korrigerat värde].</Name>
+      <Name lang="en">[field name] [original value] has been amended to [amended value].</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0011</Code>
+      <Name lang="fi">[kentän nimi] [alkuperäinen arvo] on oikaistu muotoon [oikaistu arvo].</Name>
+      <Name lang="sv">[fältets namn] [ursprungligt värde] har korrigerats till formen [korrigerat värde].</Name>
+      <Name lang="en">[field name] [original value] has been amended to [amended value].</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0012</Code>
+      <Name lang="fi">Ilmoituksen tietoja on oikaistu asiakkaan pyynnöstä. Tulli on muuttanut alla lueteltuja tietoja. UTK 173 (3)</Name>
+      <Name lang="sv">Uppgifterna i deklarationen har rättats på kundens begäran. Tullen har ändrat de nedan nämnda uppgifterna. UTK 173 (3)</Name>
+      <Name lang="en">Declaration details have been amended at the customer’s request. Customs has amended the details listed below. UCC, Article 173(3)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0012</Code>
+      <Name lang="fi">Ilmoituksen tietoja on oikaistu asiakkaan pyynnöstä. Tulli on muuttanut alla lueteltuja tietoja. UTK 173 (3)</Name>
+      <Name lang="sv">Uppgifterna i deklarationen har rättats på kundens begäran. Tullen har ändrat de nedan nämnda uppgifterna. UTK 173 (3)</Name>
+      <Name lang="en">Declaration details have been amended at the customer’s request. Customs has amended the details listed below. UCC, Article 173(3)</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0013</Code>
+      <Name lang="fi">Tulli on oikaissut alkuperäisellä tulli-ilmoituksella ilmoitettua tavaran määrää vastaamaan purkaustulosta.</Name>
+      <Name lang="sv">Tullen har ändrat varumängden, som deklarerats i den ursprungliga tulldeklarationen, för att motsvara lossningsresultatet.</Name>
+      <Name lang="en">Customs has amended the quantity of goods declared in the original customs declaration to match the quantity in the unloading report.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0013</Code>
+      <Name lang="fi">Tulli on oikaissut alkuperäisellä tulli-ilmoituksella ilmoitettua tavaran määrää vastaamaan purkaustulosta.</Name>
+      <Name lang="sv">Tullen har ändrat varumängden, som deklarerats i den ursprungliga tulldeklarationen, för att motsvara lossningsresultatet.</Name>
+      <Name lang="en">Customs has amended the quantity of goods declared in the original customs declaration to match the quantity in the unloading report.</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0014</Code>
+      <Name lang="fi">Oikaisupyyntönne on hylätty.</Name>
+      <Name lang="sv">Er begäran om ändring är avslagen.</Name>
+      <Name lang="en">Your amendment request has been rejected.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0014</Code>
+      <Name lang="fi">Oikaisupyyntönne on hylätty.</Name>
+      <Name lang="sv">Er begäran om ändring är avslagen.</Name>
+      <Name lang="en">Your amendment request has been rejected.</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0015</Code>
+      <Name lang="fi">Pyydettyjen tietojen oikaiseminen ei ole sallittua.</Name>
+      <Name lang="sv">Den begärda ändringen av uppgifter är inte tillåten.</Name>
+      <Name lang="en">The requested details cannot be amended.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0015</Code>
+      <Name lang="fi">Pyydettyjen tietojen oikaiseminen ei ole sallittua.</Name>
+      <Name lang="sv">Den begärda ändringen av uppgifter är inte tillåten.</Name>
+      <Name lang="en">The requested details cannot be amended.</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0016</Code>
+      <Name lang="fi">Ilmoituksen oikaiseminen on sallittu vain 3 vuotta ilmoituksen hyväksymisen jälkeen. UTK 173 (3)</Name>
+      <Name lang="sv">Ändring av deklarationen är endast tillåten 3 år efter godtagandet av deklarationen. UTK 173 (3)</Name>
+      <Name lang="en">A declaration may be amended only within 3 years of the date of acceptance of the declaration. UCC, Article 173(3)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0016</Code>
+      <Name lang="fi">Ilmoituksen oikaiseminen on sallittu vain 3 vuotta ilmoituksen hyväksymisen jälkeen. UTK 173 (3)</Name>
+      <Name lang="sv">Ändring av deklarationen är endast tillåten 3 år efter godtagandet av deklarationen. UTK 173 (3)</Name>
+      <Name lang="en">A declaration may be amended only within 3 years of the date of acceptance of the declaration. UCC, Article 173(3)</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0018</Code>
+      <Name lang="fi">Tulli on mitätöinyt ilmoituksen. Asiakas ei ole korjannut ilmoituksen tietoja Tullin lähettämän virheilmoituksen perusteella.</Name>
+      <Name lang="sv">Tullen har ogiltigförklarat deklarationen. Kunden har inte korrigerat uppgifterna i deklarationen utifrån felmeddelandet från Tullen.</Name>
+      <Name lang="en">Customs has invalidated the declaration. The customer has not amended the declaration details based on the error notification sent by Customs.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0018</Code>
+      <Name lang="fi">Tulli on mitätöinyt ilmoituksen. Asiakas ei ole korjannut ilmoituksen tietoja Tullin lähettämän virheilmoituksen perusteella.</Name>
+      <Name lang="sv">Tullen har ogiltigförklarat deklarationen. Kunden har inte korrigerat uppgifterna i deklarationen utifrån felmeddelandet från Tullen.</Name>
+      <Name lang="en">Customs has invalidated the declaration. The customer has not amended the declaration details based on the error notification sent by Customs.</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0019</Code>
+      <Name lang="fi">Tulli on evännyt luovutuksen. Ilmoitettu tavara ei täytä luovutuksen edellytyksiä.</Name>
+      <Name lang="sv">Tullen har avvisat frigörandet. Den deklarerade varan uppfyller inte villkoren för frigörandet.</Name>
+      <Name lang="en">Customs has refused release. The declared goods do not meet the conditions for release.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0019</Code>
+      <Name lang="fi">Tulli on evännyt luovutuksen. Ilmoitettu tavara ei täytä luovutuksen edellytyksiä.</Name>
+      <Name lang="sv">Tullen har avvisat frigörandet. Den deklarerade varan uppfyller inte villkoren för frigörandet.</Name>
+      <Name lang="en">Customs has refused release. The declared goods do not meet the conditions for release.</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0020</Code>
+      <Name lang="fi">Ilmoitus on mitätöity ilmoittajan pyynnöstä. Tavarat on asetettu toiseen tullimenettelyyn. UTK 174 (1) (a)</Name>
+      <Name lang="sv">Deklarationen har ogiltigförklarats på deklarantens begäran. Varorna har hänförts till ett annat tullförfarande. UTK 174 (1) (a)</Name>
+      <Name lang="en">The declaration has been invalidated at the declarant’s request. The goods have been placed under another customs procedure. UCC, Article 174(1)(a)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0020</Code>
+      <Name lang="fi">Ilmoitus on mitätöity ilmoittajan pyynnöstä. Tavarat on asetettu toiseen tullimenettelyyn. UTK 174 (1) (a)</Name>
+      <Name lang="sv">Deklarationen har ogiltigförklarats på deklarantens begäran. Varorna har hänförts till ett annat tullförfarande. UTK 174 (1) (a)</Name>
+      <Name lang="en">The declaration has been invalidated at the declarant’s request. The goods have been placed under another customs procedure. UCC, Article 174(1)(a)</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0021</Code>
+      <Name lang="fi">Mitätöintipyyntö on hylätty. Ilmoittaja ei ole toimittanut riittäviä todisteita tavaroiden asettamisesta toiseen tulli-menettelyyn. UTK 174 (1) (a)</Name>
+      <Name lang="sv">Begäran om ogiltigförklaring har avslagits. Deklaranten har inte ingett tillräckliga bevis för hänförande av varor till ett nytt tullförfarande. UTK 174 (1) (a)</Name>
+      <Name lang="en">The invalidation request has been rejected. The declarant has not provided sufficient evidence of the placing of the goods under another customs procedure. UCC, Article 174(1)(a)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0021</Code>
+      <Name lang="fi">Mitätöintipyyntö on hylätty. Ilmoittaja ei ole toimittanut riittäviä todisteita tavaroiden asettamisesta toiseen tulli-menettelyyn. UTK 174 (1) (a)</Name>
+      <Name lang="sv">Begäran om ogiltigförklaring har avslagits. Deklaranten har inte ingett tillräckliga bevis för hänförande av varor till ett nytt tullförfarande. UTK 174 (1) (a)</Name>
+      <Name lang="en">The invalidation request has been rejected. The declarant has not provided sufficient evidence of the placing of the goods under another customs procedure. UCC, Article 174(1)(a)</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0022</Code>
+      <Name lang="fi">Mitätöintipyyntö on hylätty. Ilmoittaja ei ole toimittanut riittäviä todisteita siitä, että tavaroita ei voida asettaa kyseiseen menettelyyn. UTK 174 (1) (b)</Name>
+      <Name lang="sv">Begäran om ogiltigförklaring har avslagits. Deklaranten har inte ingett tillräckliga bevis för att varorna inte kan hänföras till det ifrågavarande tullförfarandet. UTK 174 (1) (b)</Name>
+      <Name lang="en">The invalidation request has been rejected. The declarant has not provided sufficient evidence that the goods cannot be placed under the procedure concerned. UCC, Article 174(1)(b)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0022</Code>
+      <Name lang="fi">Mitätöintipyyntö on hylätty. Ilmoittaja ei ole toimittanut riittäviä todisteita siitä, että tavaroita ei voida asettaa kyseiseen menettelyyn. UTK 174 (1) (b)</Name>
+      <Name lang="sv">Begäran om ogiltigförklaring har avslagits. Deklaranten har inte ingett tillräckliga bevis för att varorna inte kan hänföras till det ifrågavarande tullförfarandet. UTK 174 (1) (b)</Name>
+      <Name lang="en">The invalidation request has been rejected. The declarant has not provided sufficient evidence that the goods cannot be placed under the procedure concerned. UCC, Article 174(1)(b)</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0023</Code>
+      <Name lang="fi">Ilmoitus on mitätöity ilmoittajan pyynnöstä. Tavaroiden asettaminen ilmoitettuun tullimenettelyyn ei erityisten olosuhteiden vuoksi ole enää perusteltua. UTK 174 (1) (b)</Name>
+      <Name lang="sv">Deklarationen har ogiltigförklarats på deklarantens begäran. På grund av särskilda omständigheter är det inte längre berättigat att hänföra varorna till det tullförfarande för vilket de deklarerats. UTK 174 (1) (b)</Name>
+      <Name lang="en">The declaration has been invalidated at the declarant’s request. As a result of special circumstances, the placing of the goods under the customs procedure for which they were declared is no longer justified. UCC, Article 174(1)(b)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0023</Code>
+      <Name lang="fi">Ilmoitus on mitätöity ilmoittajan pyynnöstä. Tavaroiden asettaminen ilmoitettuun tullimenettelyyn ei erityisten olosuhteiden vuoksi ole enää perusteltua. UTK 174 (1) (b)</Name>
+      <Name lang="sv">Deklarationen har ogiltigförklarats på deklarantens begäran. På grund av särskilda omständigheter är det inte längre berättigat att hänföra varorna till det tullförfarande för vilket de deklarerats. UTK 174 (1) (b)</Name>
+      <Name lang="en">The declaration has been invalidated at the declarant’s request. As a result of special circumstances, the placing of the goods under the customs procedure for which they were declared is no longer justified. UCC, Article 174(1)(b)</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0024</Code>
+      <Name lang="fi">Ilmoitus on mitätöity ilmoittajan pyynnöstä. Unionitavarat on ilmoitettu erehdyksessä tullivarastointimenettelyyn. DA 148 (4) (b)</Name>
+      <Name lang="sv">Deklarationen har ogiltigförklarats på deklarantens begäran. Unionsvaror har av misstag deklarerats till tullagerförfarandet. DF 148 (4) (b)</Name>
+      <Name lang="en">The declaration has invalidated at the declarant’s request. Union goods have been declared in error for the customs warehousing procedure. DA, Article 148(4)(b)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0024</Code>
+      <Name lang="fi">Ilmoitus on mitätöity ilmoittajan pyynnöstä. Unionitavarat on ilmoitettu erehdyksessä tullivarastointimenettelyyn. DA 148 (4) (b)</Name>
+      <Name lang="sv">Deklarationen har ogiltigförklarats på deklarantens begäran. Unionsvaror har av misstag deklarerats till tullagerförfarandet. DF 148 (4) (b)</Name>
+      <Name lang="en">The declaration has invalidated at the declarant’s request. Union goods have been declared in error for the customs warehousing procedure. DA, Article 148(4)(b)</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0025</Code>
+      <Name lang="fi">Ilmoitus on mitätöity ilmoittajan pyynnöstä. Samasta tavarasta on annettu useampi ilmoitus. DA 148 (4) (c)</Name>
+      <Name lang="sv">Deklarationen har ogiltigförklarats på deklarantens begäran. Flera deklarationer har ingetts för samma varor. DF 148 (4) (c)</Name>
+      <Name lang="en">The declaration has been invalidated at the declarant’s request. More than one declaration have been lodged for the same goods. DA, Article 148(4)(c)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0025</Code>
+      <Name lang="fi">Ilmoitus on mitätöity ilmoittajan pyynnöstä. Samasta tavarasta on annettu useampi ilmoitus. DA 148 (4) (c)</Name>
+      <Name lang="sv">Deklarationen har ogiltigförklarats på deklarantens begäran. Flera deklarationer har ingetts för samma varor. DF 148 (4) (c)</Name>
+      <Name lang="en">The declaration has been invalidated at the declarant’s request. More than one declaration have been lodged for the same goods. DA, Article 148(4)(c)</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0026</Code>
+      <Name lang="fi">Ilmoitus on mitätöity ilmoittajan pyynnöstä. Alkuperäinen ilmoitus sisältää virheellisiä tietoja, joiden muuttaminen ei ole sallittu.</Name>
+      <Name lang="sv">Deklarationen har ogiltigförklarats på deklarantens begäran. Den ursprungliga deklarationen innehåller felaktiga uppgifter som inte får ändras.</Name>
+      <Name lang="en">The declaration has been invalidated at the declarant’s request. The original declaration contains incorrect details that may not be amended.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0026</Code>
+      <Name lang="fi">Ilmoitus on mitätöity ilmoittajan pyynnöstä. Alkuperäinen ilmoitus sisältää virheellisiä tietoja, joiden muuttaminen ei ole sallittu.</Name>
+      <Name lang="sv">Deklarationen har ogiltigförklarats på deklarantens begäran. Den ursprungliga deklarationen innehåller felaktiga uppgifter som inte får ändras.</Name>
+      <Name lang="en">The declaration has been invalidated at the declarant’s request. The original declaration contains incorrect details that may not be amended.</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0027</Code>
+      <Name lang="fi">Mitätöintipyyntö on hylätty. Mitätöintipyyntö ei koske tavaran tullistatuksen muuttamista, eikä tavaroista ole annettu useampaa kuin yksi tulli-ilmoitus. UTK 174 (2), DA 148 (4) (b, c)</Name>
+      <Name lang="sv">Begäran om ogiltigförklaring har avslagits. Begäran om ogiltigförklaring gäller inte ändring av varans tullstatus, och endast en tulldeklaration har ingetts för varorna. UTK 174 (2), DF 148 (4) (b, c)</Name>
+      <Name lang="en">The invalidation request has been rejected. The invalidation request does not concern the changing of the customs status of the goods and no more than one customs declaration has been lodged for the goods. UCC, Article 174(2), DA, Article 148(4)(b, c)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0027</Code>
+      <Name lang="fi">Mitätöintipyyntö on hylätty. Mitätöintipyyntö ei koske tavaran tullistatuksen muuttamista, eikä tavaroista ole annettu useampaa kuin yksi tulli-ilmoitus. UTK 174 (2), DA 148 (4) (b, c)</Name>
+      <Name lang="sv">Begäran om ogiltigförklaring har avslagits. Begäran om ogiltigförklaring gäller inte ändring av varans tullstatus, och endast en tulldeklaration har ingetts för varorna. UTK 174 (2), DF 148 (4) (b, c)</Name>
+      <Name lang="en">The invalidation request has been rejected. The invalidation request does not concern the changing of the customs status of the goods and no more than one customs declaration has been lodged for the goods. UCC, Article 174(2), DA, Article 148(4)(b, c)</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0029</Code>
+      <Name lang="fi">Tulli on tarkastanut tavarat ja tutkitut tavarat ovat ilmoitetun mukaisia. Tavarantarkastusraportin nro 2021-TAVA-XXXX.</Name>
+      <Name lang="sv">Tullen har kontrollerat varorna och de undersökta varorna överensstämmer med det som angetts. Varugranskningsrapportens nr 2021-TAVA-XXXX.</Name>
+      <Name lang="en">Customs has controlled the goods, and the controlled goods match the declared data. Goods control report no. 2021-TAVA-XXXX.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0030</Code>
+      <Name lang="fi">Tulli kantaa suoritemaksun erillisellä veloituspäätöksellä. Tullin suoritteiden maksullisuudesta annettu valtiovarainministeriön asetus (1364/2016)</Name>
+      <Name lang="sv">Tullen uppbär en prestationsavgift med ett separat debiteringsbeslut. Finansministeriets förordning om Tullens avgiftsbelagda prestationer (1364/2016)</Name>
+      <Name lang="en">Customs will levy the performance charge through a separate decision on a charge. The Ministry of Finance Decree on Customs performances subject to charge (1364/2016)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0031</Code>
+      <Name lang="fi">Tulli kantaa virhemaksun erillisellä veloituspäätöksellä. TL 96 §</Name>
+      <Name lang="sv">Tullen uppbär en felavgift med ett separat debiteringsbeslut. 96 § i tullagen.</Name>
+      <Name lang="en">Customs will levy the penalty fee through a separate decision on a charge. The Finnish Customs Act, section 96</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0031</Code>
+      <Name lang="fi">Tulli kantaa virhemaksun erillisellä veloituspäätöksellä. TL 96 §</Name>
+      <Name lang="sv">Tullen uppbär en felavgift med ett separat debiteringsbeslut. 96 § i tullagen.</Name>
+      <Name lang="en">Customs will levy the penalty fee through a separate decision on a charge. The Finnish Customs Act, section 96</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0032</Code>
+      <Name lang="fi">Alkuperäinen saalistodistus on postitettava osoitteella: Tulli, Sähköinen palvelukeskus, PL 512, 00101 Helsinki.</Name>
+      <Name lang="sv">Det ursprungliga fångstintyget ska postas till: Tullen, Elektroniska servicecentralen, PB 512, 00101 Helsingfors</Name>
+      <Name lang="en">The original catch certificate shall be posted to: Finnish Customs, Electronic Service Centre, PO Box 512, 00101 Helsinki.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0032</Code>
+      <Name lang="fi">Alkuperäinen saalistodistus on postitettava osoitteella: Tulli, Sähköinen palvelukeskus, PL 512, 00101 Helsinki.</Name>
+      <Name lang="sv">Det ursprungliga fångstintyget ska postas till: Tullen, Elektroniska servicecentralen, PB 512, 00101 Helsingfors</Name>
+      <Name lang="en">The original catch certificate shall be posted to: Finnish Customs, Electronic Service Centre, PO Box 512, 00101 Helsinki.</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0033</Code>
+      <Name lang="fi">Tulli on mitätöinyt ilmoituksen. Tulli-ilmoitus sisälsi virheellisiä tietoja esittämishetkellä voimassaolevien sääntöjen mukaan.</Name>
+      <Name lang="sv">Tullen har ogiltigförklarat deklarationen. Tulldeklarationen innehöll felaktiga uppgifter enligt ikraftvarande regler vid tidpunkten då varornas ankomst anmäldes.</Name>
+      <Name lang="en">Customs has invalidated the declaration. The customs declaration contained erroneous data according to the rules valid at the time of presentation.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0033</Code>
+      <Name lang="fi">Tulli on mitätöinyt ilmoituksen. Tulli-ilmoitus sisälsi virheellisiä tietoja esittämishetkellä voimassaolevien sääntöjen mukaan.</Name>
+      <Name lang="sv">Tullen har ogiltigförklarat deklarationen. Tulldeklarationen innehöll felaktiga uppgifter enligt ikraftvarande regler vid tidpunkten då varornas ankomst anmäldes.</Name>
+      <Name lang="en">Customs has invalidated the declaration. The customs declaration contained erroneous data according to the rules valid at the time of presentation.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0034</Code>
+      <Name lang="fi">Tullia ei määrätä eikä arvonlisäveroa kanneta, jos kyseisen verolajin määrä on alle minimimäärän. Tullin minimi on 10 euroa. Arvonlisäveron minimi on 5 euroa. Minimin alle jäävää tullin määrää ei lisätä arvonlisäveron perusteeseen.</Name>
+      <Name lang="sv">Tull bestäms inte och mervärdesskatt uppbärs inte, om beloppet av skatteslaget i fråga understiger ett minimibelopp. För tull är minimibeloppet 10 euro och för mervärdesskatt är minimibeloppet 5 euro. Ett tullbelopp som understiger minimibeloppet räknas inte in i skattegrunden för mervärdesskatt.</Name>
+      <Name lang="en">No customs duty will be imposed or value added tax levied if the minimum amount is below the amount for the tax type in question. The minimum amount of customs duty is 10 euros. The minimum amount of value added tax is five euros. The amount of customs duty that is below the minimum amount is not included in the taxable amount for VAT.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-06-30</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0034</Code>
+      <Name lang="fi">Tullia ei määrätä jos sen määrä on alle minimimäärän, joka on 10 euroa. Minimin alle jäävää tullin määrää ei lisätä arvonlisäveron perusteeseen.</Name>
+      <Name lang="sv">Tull bestäms inte om dess belopp understiger minimibeloppet på 10 euro. Ett tullbelopp som understiger minimibeloppet räknas inte in i skattegrunden för mervärdesskatt.</Name>
+      <Name lang="en">No customs duty will be imposed if its amount is lower than the minimum amount of 10 euros. The amount of customs duty that is below the minimum amount is not included in the taxable amount for VAT.</Name>
+      <StartDate>2021-07-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0035</Code>
+      <Name lang="fi">Tulli-ilmoitus on mitätöity.</Name>
+      <Name lang="sv">Tulldeklarationen har ogiltigförklarats.</Name>
+      <Name lang="en">The customs declaration has been invalidated.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0036</Code>
+      <Name lang="fi">Ei-kaupallisten tuotteiden jälleentuonti korjauksesta DA 163 (1) (f) artiklan perusteella.</Name>
+      <Name lang="sv">Återimport av icke-kommersiella reparerade produkter utgående från artikel 163(1)(f) i DF.</Name>
+      <Name lang="en">Re-import of non-commercial products after repair on the basis of Article 163(1)(f) DA.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0036</Code>
+      <Name lang="fi">Ei-kaupallisten tuotteiden jälleentuonti korjauksesta DA 163 (1) (f) artiklan perusteella.</Name>
+      <Name lang="sv">Återimport av icke-kommersiella reparerade produkter utgående från artikel 163(1)(f) i DF.</Name>
+      <Name lang="en">Re-import of non-commercial products after repair on the basis of Article 163(1)(f) DA.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0037</Code>
+      <Name lang="fi">Vakiovaihtojärjestelmän käyttäminen tuontivaiheessa on sallittu DA 163 (1) (e) artiklan perusteella.</Name>
+      <Name lang="sv">Användning av standardutbytessystem vid import är tillåtet utgående från artikel 163(1)(e) i DF.</Name>
+      <Name lang="en">The standard exchange system may be used at import stage on the basis of Article 163(1)(e) DA.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0037</Code>
+      <Name lang="fi">Vakiovaihtojärjestelmän käyttäminen tuontivaiheessa on sallittu DA 163 (1) (e) artiklan perusteella.</Name>
+      <Name lang="sv">Användning av standardutbytessystem vid import är tillåtet utgående från artikel 163(1)(e) i DF.</Name>
+      <Name lang="en">The standard exchange system may be used at import stage on the basis of Article 163(1)(e) DA.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0038</Code>
+      <Name lang="fi">Lisäselvityksen määräaika on umpeutunut. Tullaus mitätöidään.</Name>
+      <Name lang="sv">Tidsfristen för tilläggsutredning har gått ut. Förtullningen ogiltigförklaras.</Name>
+      <Name lang="en">The time limit for additional information has expired. The declaration will be invalidated.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0038</Code>
+      <Name lang="fi">Lisäselvityksen määräaika on umpeutunut. Tullaus mitätöidään.</Name>
+      <Name lang="sv">Tidsfristen för tilläggsutredning har gått ut. Förtullningen ogiltigförklaras.</Name>
+      <Name lang="en">The time limit for additional information has expired. The declaration will be invalidated.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0039</Code>
+      <Name lang="fi">Tavaroiden tuonti unionin tullialueelle on kielletty.</Name>
+      <Name lang="sv">Införsel av varorna i unionens tullområde är förbjuden.</Name>
+      <Name lang="en">Bringing the goods into the customs territory of the Union is forbidden.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0039</Code>
+      <Name lang="fi">Tavaroiden tuonti unionin tullialueelle on kielletty.</Name>
+      <Name lang="sv">Införsel av varorna i unionens tullområde är förbjuden.</Name>
+      <Name lang="en">Bringing the goods into the customs territory of the Union is forbidden.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0040</Code>
+      <Name lang="fi">Tavaraa ei saa purkaa, eikä sinettiä poistaa ennen kuin Tulli on paikalla.</Name>
+      <Name lang="sv">Varan får inte lossas och förseglingen får inte brytas innan Tullen är på plats.</Name>
+      <Name lang="en">The goods may not be unloaded and the seal may not be removed until Customs is present.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0040</Code>
+      <Name lang="fi">Tavaraa ei saa purkaa, eikä sinettiä poistaa ennen kuin Tulli on paikalla.</Name>
+      <Name lang="sv">Varan får inte lossas och förseglingen får inte brytas innan Tullen är på plats.</Name>
+      <Name lang="en">The goods may not be unloaded and the seal may not be removed until Customs is present.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0041</Code>
+      <Name lang="fi">Tavarat ovat Tullilaboratorion tutkimilta osin määräysten mukaiset. Tutkimutulos nro XXXX.</Name>
+      <Name lang="sv">Varorna motsvarar föreskrifterna till den del som undersökts av Tullaboratoriet. Undersökningsresultat nr XXXX.</Name>
+      <Name lang="en">The goods are in compliance with the regulations to the extent examined by the Customs Laboratory. Examination result no. XXXX.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0041</Code>
+      <Name lang="fi">Tavarat ovat Tullilaboratorion tutkimilta osin määräysten mukaiset. Tutkimutulos nro XXXX.</Name>
+      <Name lang="sv">Varorna motsvarar föreskrifterna till den del som undersökts av Tullaboratoriet. Undersökningsresultat nr XXXX.</Name>
+      <Name lang="en">The goods are in compliance with the regulations to the extent examined by the Customs Laboratory. Examination result no. XXXX.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0043</Code>
+      <Name lang="fi">Tulliviranomaisen näytteinä ottamaa määrää ei voi vähentää ilmoitetusta määrästä. TA 240 (5) (k).</Name>
+      <Name lang="sv">Den mängd som tullmyndigheten tagit som prover kan inte dras av från den angivna mängden. GF 240 (5).</Name>
+      <Name lang="en">The quantities taken as samples by the customs authorities shall not be deducted from the quantity declared. Article 240(5) IA</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0043</Code>
+      <Name lang="fi">Tulliviranomaisen näytteinä ottamaa määrää ei voi vähentää ilmoitetusta määrästä. TA 240 (5) (k).</Name>
+      <Name lang="sv">Den mängd som tullmyndigheten tagit som prover kan inte dras av från den angivna mängden. GF 240 (5).</Name>
+      <Name lang="en">The quantities taken as samples by the customs authorities shall not be deducted from the quantity declared. Article 240(5) IA</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0044</Code>
+      <Name lang="fi">Tavarasta on otettu näyte kuluttajasuojatutkimuksia varten. Tutkimukset ovat kesken ja ne voivat johtaa hylkäyspäätökseen. (Tullilla on oikeus kieltää tavaran edelleen jakelu.)</Name>
+      <Name lang="sv">Ett prov har tagits för konsumentskyddsundersökning. Undersökningarna pågår och kan leda till ett beslut om avslag. (Tullen har rätt att förbjuda vidaredistribution.)</Name>
+      <Name lang="en">A sample has been taken of the goods for consumer protection examinations. The examinations are still underway and they may lead to a rejection decision. (Customs has the right to prohibit further distribution of the goods).</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0044</Code>
+      <Name lang="fi">Tavarasta on otettu näyte kuluttajasuojatutkimuksia varten. Tutkimukset ovat kesken ja ne voivat johtaa hylkäyspäätökseen. (Tullilla on oikeus kieltää tavaran edelleen jakelu.)</Name>
+      <Name lang="sv">Ett prov har tagits för konsumentskyddsundersökning. Undersökningarna pågår och kan leda till ett beslut om avslag. (Tullen har rätt att förbjuda vidaredistribution.)</Name>
+      <Name lang="en">A sample has been taken of the goods for consumer protection examinations. The examinations are still underway and they may lead to a rejection decision. (Customs has the right to prohibit further distribution of the goods).</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0045</Code>
+      <Name lang="fi">Tavarat on tarkastettu tai tavarasta on otettu näyte oikean verokohtelun määrittämiseksi. Nimikkeen oikeellisuuden varmistaminen on kesken ja tutkimuksen tulos voi johtaa luovutusvaiheessa ilmoitettujen tietojen muuttumiseen ja mahdollisesti myös jälkikantoon.</Name>
+      <Name lang="sv">Varorna har granskats eller ett prov har tagits på varan för fastställande av rätt skattebehandling. Säkerställandet av varukodens riktighet är inte slutfört och undersökningsresultatet kan leda till att uppgifter som angetts i frigörandeskedet ändras och leder eventuellt också till efteruppbörd.</Name>
+      <Name lang="en">The goods have been inspected or a sample has been taken of the goods to determine the correct tax treatment. The verification of the correctness of the commodity code is still underway and the result of the examination may change the declaration details provided at the point of release and may also lead to subsequent recovery.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0045</Code>
+      <Name lang="fi">Tavarat on tarkastettu tai tavarasta on otettu näyte oikean verokohtelun määrittämiseksi. Nimikkeen oikeellisuuden varmistaminen on kesken ja tutkimuksen tulos voi johtaa luovutusvaiheessa ilmoitettujen tietojen muuttumiseen ja mahdollisesti myös jälkikantoon.</Name>
+      <Name lang="sv">Varorna har granskats eller ett prov har tagits på varan för fastställande av rätt skattebehandling. Säkerställandet av varukodens riktighet är inte slutfört och undersökningsresultatet kan leda till att uppgifter som angetts i frigörandeskedet ändras och leder eventuellt också till efteruppbörd.</Name>
+      <Name lang="en">The goods have been inspected or a sample has been taken of the goods to determine the correct tax treatment. The verification of the correctness of the commodity code is still underway and the result of the examination may change the declaration details provided at the point of release and may also lead to subsequent recovery.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0046</Code>
+      <Name lang="fi">Tulliviranomaisen näytteinä ottamaa määrää ei voi vähentää ilmoitetusta määrästä. TA 240 (5) (k).</Name>
+      <Name lang="sv">Den mängd som tullmyndigheten tagit som prover kan inte dras av från den angivna mängden. GF 240 (5).</Name>
+      <Name lang="en">The quantities taken as samples by the customs authorities can’t be deducted from the quantity declared. Article 240(5) IA.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0046</Code>
+      <Name lang="fi">Tulliviranomaisen näytteinä ottamaa määrää ei voi vähentää ilmoitetusta määrästä. TA 240 (5) (k).</Name>
+      <Name lang="sv">Den mängd som tullmyndigheten tagit som prover kan inte dras av från den angivna mängden. GF 240 (5).</Name>
+      <Name lang="en">The quantities taken as samples by the customs authorities can’t be deducted from the quantity declared. Article 240(5) IA.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0047</Code>
+      <Name lang="fi">Tavarat on tarkastettu tai tavarasta on otettu näyte oikean verokohtelun määrittämiseksi. Nimikkeen oikeellisuuden varmistaminen on kesken ja tullauksella on varattu vakuutta XX,XX eur kunnes tutkimuksen tulos on vahvistettu.</Name>
+      <Name lang="sv">Varorna har granskats eller ett prov har tagits på varan för fastställande av rätt skattebehandling. Säkerställandet av varukodens riktighet är inte slutfört och XX,XX euro har reserverats i garanti för förtullningen tills resultatet av undersökningen har bestyrkts.</Name>
+      <Name lang="en">The goods have been inspected or a sample has been taken of the goods to determine the correct tax treatment. The verification of the correctness of the commodity code is still underway and a guarantee of XX.XX euros has been reserved for the clearance until the result of the examination has been confirmed.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0047</Code>
+      <Name lang="fi">Tavarat on tarkastettu tai tavarasta on otettu näyte oikean verokohtelun määrittämiseksi. Nimikkeen oikeellisuuden varmistaminen on kesken ja tullauksella on varattu vakuutta XX,XX eur kunnes tutkimuksen tulos on vahvistettu.</Name>
+      <Name lang="sv">Varorna har granskats eller ett prov har tagits på varan för fastställande av rätt skattebehandling. Säkerställandet av varukodens riktighet är inte slutfört och XX,XX euro har reserverats i garanti för förtullningen tills resultatet av undersökningen har bestyrkts.</Name>
+      <Name lang="en">The goods have been inspected or a sample has been taken of the goods to determine the correct tax treatment. The verification of the correctness of the commodity code is still underway and a guarantee of XX.XX euros has been reserved for the clearance until the result of the examination has been confirmed.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0048</Code>
+      <Name lang="fi">Lähetykseen tehdään kasvinterveystarkastus. Ottakaa yhteys Ruokaviraston kasvintarkastusyksikköön ja sopikaa tarkastuksesta alueen kasvintarkastajan kanssa. Lähetys on käyttökiellossa tarkastuksen ajan ja kunnes luovutuspäätös on annettu. Kun tarkastus on tehty ilmoita CHED-PP numero Tullin sähköiseen palvelukeskukseen spake.tuonti@tulli.fi.</Name>
+      <Name lang="sv">En växtsundhetskontroll görs på sändningen. Kontakta enheten för växthälsa vid Livsmedelsverket och kom överens om kontrollen med regionens växtinspektör. Sändningen omfattas av ett användningsförbud under kontrollen och tills frigörandebeslutet har delgetts. Efter utförd kontroll meddela CHED-PP-numret till Tullens elektroniska servicecentral spake.tuonti(at)tulli.fi.</Name>
+      <Name lang="en">A plant health check will be conducted on the consignment. Please contact the Plant Health Unit of the Finnish Food Authority and agree on the check with the regional plant inspector. The consignment will be subject to prohibition of use during the check and until a release decision has been issued. When the check has been conducted, send the CHED-PP number to Customs’ Electronic Service Centre by email: spake.tuonti(at)tulli.fi.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0048</Code>
+      <Name lang="fi">Lähetykseen tehdään kasvinterveystarkastus. Ottakaa yhteys Ruokaviraston kasvintarkastusyksikköön ja sopikaa tarkastuksesta alueen kasvintarkastajan kanssa. Lähetys on käyttökiellossa tarkastuksen ajan ja kunnes luovutuspäätös on annettu. Kun tarkastus on tehty ilmoita CHED-PP numero Tullin sähköiseen palvelukeskukseen spake.tuonti@tulli.fi.</Name>
+      <Name lang="sv">En växtsundhetskontroll görs på sändningen. Kontakta enheten för växthälsa vid Livsmedelsverket och kom överens om kontrollen med regionens växtinspektör. Sändningen omfattas av ett användningsförbud under kontrollen och tills frigörandebeslutet har delgetts. Efter utförd kontroll meddela CHED-PP-numret till Tullens elektroniska servicecentral spake.tuonti(at)tulli.fi.</Name>
+      <Name lang="en">A plant health check will be conducted on the consignment. Please contact the Plant Health Unit of the Finnish Food Authority and agree on the check with the regional plant inspector. The consignment will be subject to prohibition of use during the check and until a release decision has been issued. When the check has been conducted, send the CHED-PP number to Customs’ Electronic Service Centre by email: spake.tuonti(at)tulli.fi.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0049</Code>
+      <Name lang="fi">Tullausarvo ja muut tullausperusteet on vahvistettu maahantuonnin yhteydessä esitettyjen asiakirjojen perusteella.</Name>
+      <Name lang="sv">Tullvärdet och de övriga grunderna för förtullning har fastställts utgående från de presenterade dokumenten i samband med import.</Name>
+      <Name lang="en">The customs value and the other grounds for customs clearance have been confirmed on the basis of the documents presented upon import.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0049</Code>
+      <Name lang="fi">Tullausarvo ja muut tullausperusteet on vahvistettu maahantuonnin yhteydessä esitettyjen asiakirjojen perusteella.</Name>
+      <Name lang="sv">Tullvärdet och de övriga grunderna för förtullning har fastställts utgående från de presenterade dokumenten i samband med import.</Name>
+      <Name lang="en">The customs value and the other grounds for customs clearance have been confirmed on the basis of the documents presented upon import.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0050</Code>
+      <Name lang="fi">Tulli ottaa lähetyksestä näytteitä laboratoriotutkimuksia varten. Tavarat ovat käyttöönottokiellossa  XX ajan kunnes luovutuspäätös on annettu. Alkuperämaa on XX ja lähetysmaa on XX. Tutkimusmaksu on X euroa.  Kun näytteet ovat haettavissa, ota yhteys  valvovaan Tulliin puh.XXX. Tullilaboratorio: Lähettäkää tutkimustulos  sähköpostiin spake.tuonti@tulli.fi.</Name>
+      <Name lang="sv">Tullen tar prover från sändningen för laboratorieundersökningar. Varorna omfattas av ibruktagningsförbud under tiden XX tills frigörandebeslutet har delgetts. Ursprungsland är XX och avsändningsland är XX. Undersökningsavgiften är X euro.  När proven kan avhämtas, ta kontakt med den övervakande Tullen tfn XXX. Tullaboratoriet: Skicka undersökningsresultatet till e-postadressen spake.tuonti@tulli.fi.</Name>
+      <Name lang="en">Customs will take samples of the consignment for laboratory examinations. The consignment will be subject to prohibition of use during XX until a release decision has been issued. The country of origin is XX and the country of dispatch is XX. The examination fee is X euros. When the samples can be collected, contact the supervising customs office, tel. XXX. Tullilaboratorio: Lähettäkää tutkimustulos  sähköpostiin spake.tuonti@tulli.fi.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0050</Code>
+      <Name lang="fi">Tulli ottaa lähetyksestä näytteitä laboratoriotutkimuksia varten. Tavarat ovat käyttöönottokiellossa  XX ajan kunnes luovutuspäätös on annettu. Alkuperämaa on XX ja lähetysmaa on XX. Tutkimusmaksu on X euroa.  Kun näytteet ovat haettavissa, ota yhteys  valvovaan Tulliin puh.XXX. Tullilaboratorio: Lähettäkää tutkimustulos  sähköpostiin spake.tuonti@tulli.fi.</Name>
+      <Name lang="sv">Tullen tar prover från sändningen för laboratorieundersökningar. Varorna omfattas av ibruktagningsförbud under tiden XX tills frigörandebeslutet har delgetts. Ursprungsland är XX och avsändningsland är XX. Undersökningsavgiften är X euro.  När proven kan avhämtas, ta kontakt med den övervakande Tullen tfn XXX. Tullaboratoriet: Skicka undersökningsresultatet till e-postadressen spake.tuonti@tulli.fi.</Name>
+      <Name lang="en">Customs will take samples of the consignment for laboratory examinations. The consignment will be subject to prohibition of use during XX until a release decision has been issued. The country of origin is XX and the country of dispatch is XX. The examination fee is X euros. When the samples can be collected, contact the supervising customs office, tel. XXX. Tullilaboratorio: Lähettäkää tutkimustulos  sähköpostiin spake.tuonti@tulli.fi.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0052</Code>
+      <Name lang="fi">Tulli ottaa lähetyksestä näytteitä laboratoriotutkimuksia varten ja tekee vaatimustenmukaisuus- ja terveystarkastuksen. Tavarat ovat käyttöönottokiellossa tarkastusten ja  XX ajan kunnes luovutuspäätös on annettu. Alkuperämaa on XX ja lähetysmaa on XX. Tutkimusmaksu on XX euroa.  Kun näytteet ovat haettavissa, ota yhteys valvovaan Tulliin puh.XXXXX. Tullilaboratorio: Lähettäkää tutkimustulos  sähköpostiin spake.tuonti@tulli.fi.</Name>
+      <Name lang="sv">Tullen tar prover från sändningen för laboratorieundersökningar och gör en kontroll av överensstämmelse och sundhet. Varorna omfattas av ibruktagningsförbud under kontrollerna och tiden XX tills frigörandebeslutet har delgetts. Ursprungsland är XX och avsändningsland är XX. Undersökningsavgiften är XX euro.  När proven kan avhämtas, ta kontakt med den övervakande Tullen tfn XXXXX. Tullaboratoriet: Skicka undersökningsresultatet till e-postadressen spake.tuonti@tulli.fi.</Name>
+      <Name lang="en">Customs will take samples of the consignment for laboratory examinations and conduct a compliance and health check. The goods will be subject to prohibition of use during the checks and XX until a release decision has been issued. The country of origin is XX and the country of dispatch is XX. The examination fee is XX euros.  When the samples can be collected, contact the supervising customs office, tel. XXXXX. Tullilaboratorio: Lähettäkää tutkimustulos  sähköpostiin spake.tuonti@tulli.fi.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0052</Code>
+      <Name lang="fi">Tulli ottaa lähetyksestä näytteitä laboratoriotutkimuksia varten ja tekee vaatimustenmukaisuus- ja terveystarkastuksen. Tavarat ovat käyttöönottokiellossa tarkastusten ja  XX ajan kunnes luovutuspäätös on annettu. Alkuperämaa on XX ja lähetysmaa on XX. Tutkimusmaksu on XX euroa.  Kun näytteet ovat haettavissa, ota yhteys valvovaan Tulliin puh.XXXXX. Tullilaboratorio: Lähettäkää tutkimustulos  sähköpostiin spake.tuonti@tulli.fi.</Name>
+      <Name lang="sv">Tullen tar prover från sändningen för laboratorieundersökningar och gör en kontroll av överensstämmelse och sundhet. Varorna omfattas av ibruktagningsförbud under kontrollerna och tiden XX tills frigörandebeslutet har delgetts. Ursprungsland är XX och avsändningsland är XX. Undersökningsavgiften är XX euro.  När proven kan avhämtas, ta kontakt med den övervakande Tullen tfn XXXXX. Tullaboratoriet: Skicka undersökningsresultatet till e-postadressen spake.tuonti@tulli.fi.</Name>
+      <Name lang="en">Customs will take samples of the consignment for laboratory examinations and conduct a compliance and health check. The goods will be subject to prohibition of use during the checks and XX until a release decision has been issued. The country of origin is XX and the country of dispatch is XX. The examination fee is XX euros.  When the samples can be collected, contact the supervising customs office, tel. XXXXX. Tullilaboratorio: Lähettäkää tutkimustulos  sähköpostiin spake.tuonti@tulli.fi.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0053</Code>
+      <Name lang="fi">Siirtolupa nro (juokseva numero esim. 001/2020) Hakuninmaan rajatarkastusasemalle, jossa on oltava xx.xx.20xx klo 15 mennessä. Tavarat voidaan rajaeläinlääkärin hyväksymisen jälkeen siirtää toimijan varastolle siirtoluvassa mainittuun osoitteeseen. Tavarat on säilytettävä varastolla kunnes Tullin luovutuslupa on annettu. CHED nro  (CHEDP.FI.2017.0001343-V1) Tarkastuksen tulos: spake.tuonti@tulli.fi.</Name>
+      <Name lang="sv">Siirtolupa nro (juokseva numero esim. 001/2020) Hakuninmaan rajatarkastusasemalle, jossa on oltava xx.xx.20xx klo 15 mennessä. Tavarat voidaan rajaeläinlääkärin hyväksymisen jälkeen siirtää toimijan varastolle siirtoluvassa mainittuun osoitteeseen. Tavarat on säilytettävä varastolla kunnes Tullin luovutuslupa on annettu. CHED nro  (CHEDP.FI.2017.0001343-V1) Tarkastuksen tulos: spake.tuonti@tulli.fi.</Name>
+      <Name lang="en">Siirtolupa nro (juokseva numero esim. 001/2020) Hakuninmaan rajatarkastusasemalle, jossa on oltava xx.xx.20xx klo 15 mennessä. When the border veterinarian has approved the goods, they can moved to the trader’s warehouse at the address indicated in the movement permit. The goods must be kept at the warehouse until Customs has issued a release decision.CHED nro  (CHEDP.FI.2017.0001343-V1) Control result: spake.tuonti@tulli.fi.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0053</Code>
+      <Name lang="fi">Siirtolupa nro (juokseva numero esim. 001/2020) Hakuninmaan rajatarkastusasemalle, jossa on oltava xx.xx.20xx klo 15 mennessä. Tavarat voidaan rajaeläinlääkärin hyväksymisen jälkeen siirtää toimijan varastolle siirtoluvassa mainittuun osoitteeseen. Tavarat on säilytettävä varastolla kunnes Tullin luovutuslupa on annettu. CHED nro  (CHEDP.FI.2017.0001343-V1) Tarkastuksen tulos: spake.tuonti@tulli.fi.</Name>
+      <Name lang="sv">Siirtolupa nro (juokseva numero esim. 001/2020) Hakuninmaan rajatarkastusasemalle, jossa on oltava xx.xx.20xx klo 15 mennessä. Tavarat voidaan rajaeläinlääkärin hyväksymisen jälkeen siirtää toimijan varastolle siirtoluvassa mainittuun osoitteeseen. Tavarat on säilytettävä varastolla kunnes Tullin luovutuslupa on annettu. CHED nro  (CHEDP.FI.2017.0001343-V1) Tarkastuksen tulos: spake.tuonti@tulli.fi.</Name>
+      <Name lang="en">Siirtolupa nro (juokseva numero esim. 001/2020) Hakuninmaan rajatarkastusasemalle, jossa on oltava xx.xx.20xx klo 15 mennessä. When the border veterinarian has approved the goods, they can moved to the trader’s warehouse at the address indicated in the movement permit. The goods must be kept at the warehouse until Customs has issued a release decision.CHED nro  (CHEDP.FI.2017.0001343-V1) Control result: spake.tuonti@tulli.fi.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0054</Code>
+      <Name lang="fi">Täydentävä tulli-ilmoitus on annettu myöhässä. Myöhästymisestä ei ole määrätty sanktiota. Tullilaki 98§.</Name>
+      <Name lang="sv">Den kompletterande tulldeklarationen har lämnats för sent. Ingen sanktion har påförts p.g.a. förseningen. Tullagen 98 §.</Name>
+      <Name lang="en">The supplementary customs declaration has been lodged late. No sanction has been imposed for the delay. Customs Act, section 98.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0054</Code>
+      <Name lang="fi">Täydentävä tulli-ilmoitus on annettu myöhässä. Myöhästymisestä ei ole määrätty sanktiota. Tullilaki 98§.</Name>
+      <Name lang="sv">Den kompletterande tulldeklarationen har lämnats för sent. Ingen sanktion har påförts p.g.a. förseningen. Tullagen 98 §.</Name>
+      <Name lang="en">The supplementary customs declaration has been lodged late. No sanction has been imposed for the delay. Customs Act, section 98.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0055</Code>
+      <Name lang="fi">Tulli-ilmoitus tai muu tulliverotusta varten tarvittava tieto tai asiakirja on annettu säädetyn määräajan jälkeen. Tullia korotettu. (Tullilaki 95 § 1 mom.1 kohta)</Name>
+      <Name lang="sv">En tulldeklaration eller en annan uppgift eller handling som enligt vad som föreskrivs ska lämnas för tullbeskattningen har lämnats efter föreskriven tid. Tullen höjd. (Tullagen 95 § 1 mom. 1 punkten)</Name>
+      <Name lang="en">The customs declaration or other information or document required for customs taxation has been submitted after the expiry of the prescribed time limit. An increase in customs duty has been imposed. Customs Act, section 95(1)(1)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0055</Code>
+      <Name lang="fi">Tulli-ilmoitus tai muu tulliverotusta varten tarvittava tieto tai asiakirja on annettu säädetyn määräajan jälkeen. Tullia korotettu. (Tullilaki 95 § 1 mom.1 kohta)</Name>
+      <Name lang="sv">En tulldeklaration eller en annan uppgift eller handling som enligt vad som föreskrivs ska lämnas för tullbeskattningen har lämnats efter föreskriven tid. Tullen höjd. (Tullagen 95 § 1 mom. 1 punkten)</Name>
+      <Name lang="en">The customs declaration or other information or document required for customs taxation has been submitted after the expiry of the prescribed time limit. An increase in customs duty has been imposed. Customs Act, section 95(1)(1)</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0056</Code>
+      <Name lang="fi">Tulli-ilmoitus, muu tieto tai asiakirja on annettu vasta kehotuksen jälkeen. Tullia korotettu. (Tullilaki 95 § 1 mom. 2 kohta)</Name>
+      <Name lang="sv">Tulldeklaration, annan uppgift eller handling avgivits eller lämnats först efter uppmaning. Tullen höjd. (Tullagen 95 § 1 mom. 2 punkten)</Name>
+      <Name lang="en">The customs declaration, other information or document has only been submitted after a request. An increase in customs duty has been imposed. Customs Act, section 95(1)(2)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0056</Code>
+      <Name lang="fi">Tulli-ilmoitus, muu tieto tai asiakirja on annettu vasta kehotuksen jälkeen. Tullia korotettu. (Tullilaki 95 § 1 mom. 2 kohta)</Name>
+      <Name lang="sv">Tulldeklaration, annan uppgift eller handling avgivits eller lämnats först efter uppmaning. Tullen höjd. (Tullagen 95 § 1 mom. 2 punkten)</Name>
+      <Name lang="en">The customs declaration, other information or document has only been submitted after a request. An increase in customs duty has been imposed. Customs Act, section 95(1)(2)</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0057</Code>
+      <Name lang="fi">Tulli-ilmoitus tai muu tieto tai asiakirja on annettu vaillinaisena tai virheellisenä. Tullia korotettu. (Tullilaki 95 § 1 mom. 3 kohta)</Name>
+      <Name lang="sv">En ofullständig eller felaktig deklaration, annan uppgift eller handling har inlämnats. Tullavgiften förhöjd. (Tullagen 95 § 1 mom. 3 punkten)</Name>
+      <Name lang="en">The customs declaration or other information or document has been submitted as incomplete or incorrect. An increase in customs duty has been imposed. Customs Act, section 95(1)(3)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0057</Code>
+      <Name lang="fi">Tulli-ilmoitus tai muu tieto tai asiakirja on annettu vaillinaisena tai virheellisenä. Tullia korotettu. (Tullilaki 95 § 1 mom. 3 kohta)</Name>
+      <Name lang="sv">En ofullständig eller felaktig deklaration, annan uppgift eller handling har inlämnats. Tullavgiften förhöjd. (Tullagen 95 § 1 mom. 3 punkten)</Name>
+      <Name lang="en">The customs declaration or other information or document has been submitted as incomplete or incorrect. An increase in customs duty has been imposed. Customs Act, section 95(1)(3)</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0058</Code>
+      <Name lang="fi">Ilmoitusvelvollisuus laiminlyöty. Tullia korotettu. (Tullilaki 95 § 1 mom. 3 kohta)</Name>
+      <Name lang="sv">Deklarationsskyldigheten har försummats. Tullavgiften förhöjd. (Tullagen 95 § 1 mom. 3 punkten)</Name>
+      <Name lang="en">The obligation to declare has been neglected. An increase in customs duty has been imposed. Customs Act, section 95(1)(3)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0058</Code>
+      <Name lang="fi">Ilmoitusvelvollisuus laiminlyöty. Tullia korotettu. (Tullilaki 95 § 1 mom. 3 kohta)</Name>
+      <Name lang="sv">Deklarationsskyldigheten har försummats. Tullavgiften förhöjd. (Tullagen 95 § 1 mom. 3 punkten)</Name>
+      <Name lang="en">The obligation to declare has been neglected. An increase in customs duty has been imposed. Customs Act, section 95(1)(3)</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0059</Code>
+      <Name lang="fi">Vaillinaisen tai väärän tulli-ilmoituksen, muun tiedon tai asiakirjan antaminen taikka ilmoitusvelvollisuuden muutoin täyttämättä jättäminen on johtunut tahallisesta tai törkeästä huolimattomuudesta. Tullia korotettu. (Tullilaki 95 § 1 mom. 4 kohta)</Name>
+      <Name lang="sv">En ofullständig eller felaktig tulldeklaration, annan uppgift eller handling har lämnats in eller deklarationsskyldigheten med uppsåt eller av grov oaktsamhet helt eller delvis har försummats. Tullavgiften förhöjd. (Tullagen 95 § 1 mom. 4 punkten)</Name>
+      <Name lang="en">An incomplete or incorrect customs declaration, other information or document has been submitted or the obligation to declare has otherwise not been fulfilled deliberately or due to gross negligence. An increase in customs duty has been imposed. Customs Act, section 95(1)(4)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0059</Code>
+      <Name lang="fi">Vaillinaisen tai väärän tulli-ilmoituksen, muun tiedon tai asiakirjan antaminen taikka ilmoitusvelvollisuuden muutoin täyttämättä jättäminen on johtunut tahallisesta tai törkeästä huolimattomuudesta. Tullia korotettu. (Tullilaki 95 § 1 mom. 4 kohta)</Name>
+      <Name lang="sv">En ofullständig eller felaktig tulldeklaration, annan uppgift eller handling har lämnats in eller deklarationsskyldigheten med uppsåt eller av grov oaktsamhet helt eller delvis har försummats. Tullavgiften förhöjd. (Tullagen 95 § 1 mom. 4 punkten)</Name>
+      <Name lang="en">An incomplete or incorrect customs declaration, other information or document has been submitted or the obligation to declare has otherwise not been fulfilled deliberately or due to gross negligence. An increase in customs duty has been imposed. Customs Act, section 95(1)(4)</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0060</Code>
+      <Name lang="fi">Matkustaja on laiminlyönyt ilmoittamisvelvollisuutensa tietensä tai törkeästä huolimattomuudesta tuodessaan tai yrittämällä tuoda tullitta enemmän tavaraa, kuin mihin hänellä on oikeus. Tavaroista on kannettu maahantuontiverot. (Tullilaki 95 § 1 mom. 5 kohta)</Name>
+      <Name lang="sv">Resenären har med uppsåt eller av grov oaktsamhet försummat sin deklarationsskyldighet när personen fört in eller försökt föra in en större mängd varor tullfritt till landet än vad hen har rätt till. Importskatterna har uppburits för varan. (Tullagen 95 § 1 mom. 5 punkten)</Name>
+      <Name lang="en">The traveller has deliberately or due to gross negligence failed to fulfil their obligation to declare when importing or attempting to import goods in quantities exceeding the duty-free allowance. The import duties have been levied on the goods. Customs Act, section 95(1)(5)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0060</Code>
+      <Name lang="fi">Matkustaja on laiminlyönyt ilmoittamisvelvollisuutensa tietensä tai törkeästä huolimattomuudesta tuodessaan tai yrittämällä tuoda tullitta enemmän tavaraa, kuin mihin hänellä on oikeus. Tavaroista on kannettu maahantuontiverot. (Tullilaki 95 § 1 mom. 5 kohta)</Name>
+      <Name lang="sv">Resenären har med uppsåt eller av grov oaktsamhet försummat sin deklarationsskyldighet när personen fört in eller försökt föra in en större mängd varor tullfritt till landet än vad hen har rätt till. Importskatterna har uppburits för varan. (Tullagen 95 § 1 mom. 5 punkten)</Name>
+      <Name lang="en">The traveller has deliberately or due to gross negligence failed to fulfil their obligation to declare when importing or attempting to import goods in quantities exceeding the duty-free allowance. The import duties have been levied on the goods. Customs Act, section 95(1)(5)</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0061</Code>
+      <Name lang="fi">Viivästys tai muu virheellisyys on koskenut tullimenettelyä, jossa ei määrätä tullia tai jossa tullin määrä on vähäinen, eikä tullinkorotusta ole määrätty. Kannettu virhemaksua. (Tullilaki 96 § 1 mom.)</Name>
+      <Name lang="sv">En försening eller annan felaktighet gäller ett tullförfarande vid vilket tull inte fastställs eller vid vilket tullbeloppet är obetydligt och tullhöjning inte har fastställts. Felavgift har uppburits. (Tullagen 96 § 1 mom.)</Name>
+      <Name lang="en">The delay or other error concerns a customs procedure where no customs duty is imposed or where the amount of customs duty is small and no increase in customs duty has been imposed. A penalty fee has been levied. Customs Act, section 96(1)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0061</Code>
+      <Name lang="fi">Viivästys tai muu virheellisyys on koskenut tullimenettelyä, jossa ei määrätä tullia tai jossa tullin määrä on vähäinen, eikä tullinkorotusta ole määrätty. Kannettu virhemaksua. (Tullilaki 96 § 1 mom.)</Name>
+      <Name lang="sv">En försening eller annan felaktighet gäller ett tullförfarande vid vilket tull inte fastställs eller vid vilket tullbeloppet är obetydligt och tullhöjning inte har fastställts. Felavgift har uppburits. (Tullagen 96 § 1 mom.)</Name>
+      <Name lang="en">The delay or other error concerns a customs procedure where no customs duty is imposed or where the amount of customs duty is small and no increase in customs duty has been imposed. A penalty fee has been levied. Customs Act, section 96(1)</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0062</Code>
+      <Name lang="fi">Annettu vaillinainen tai virheellinen tieto tai asiakirja tullin palauttamiseksi tai tullietuuden saamiseksi. Kannettu virhemaksua. (Tullilaki 96 § 1 mom.)</Name>
+      <Name lang="sv">En ofullständig eller felaktig uppgift eller handling har lämnats i ett ansökningsförfarande eller i avsikt att få tullförmån. Felavgift har uppburits. (Tullagen 96 § 2 mom.)</Name>
+      <Name lang="en">Incomplete or incorrect information or document has been submitted for repayment of customs duty or to obtain preferential treatment. A penalty fee has been levied. Customs Act, section 96(2)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0062</Code>
+      <Name lang="fi">Annettu vaillinainen tai virheellinen tieto tai asiakirja tullin palauttamiseksi tai tullietuuden saamiseksi. Kannettu virhemaksua. (Tullilaki 96 § 1 mom.)</Name>
+      <Name lang="sv">En ofullständig eller felaktig uppgift eller handling har lämnats i ett ansökningsförfarande eller i avsikt att få tullförmån. Felavgift har uppburits. (Tullagen 96 § 2 mom.)</Name>
+      <Name lang="en">Incomplete or incorrect information or document has been submitted for repayment of customs duty or to obtain preferential treatment. A penalty fee has been levied. Customs Act, section 96(2)</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0063</Code>
+      <Name lang="fi">Tullausarvo määritetty samanlaisen tavaran kauppa-arvon perusteella. UTK 74 (2) (a)</Name>
+      <Name lang="sv">Tullvärdet fastställt utifrån transaktionsvärdet för en identisk vara. UTK 74 (2) (a)</Name>
+      <Name lang="en">Customs value determined on the basis of the transaction value of identical goods. Article 74(2)(a) UCC</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0063</Code>
+      <Name lang="fi">Tullausarvo määritetty samanlaisen tavaran kauppa-arvon perusteella. UTK 74 (2) (a)</Name>
+      <Name lang="sv">Tullvärdet fastställt utifrån transaktionsvärdet för en identisk vara. UTK 74 (2) (a)</Name>
+      <Name lang="en">Customs value determined on the basis of the transaction value of identical goods. Article 74(2)(a) UCC</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0064</Code>
+      <Name lang="fi">Tullausarvo määritetty samankaltaisen tavaran kauppa-arvon perusteella. UTK 74 (2) (b)</Name>
+      <Name lang="sv">Tullvärdet fastställs utifrån transaktionsvärdet för en liknande vara. UTK 74 (2) (b)</Name>
+      <Name lang="en">Customs value determined on basis of the transaction value of similar goods. Article 74(2)(b) UCC</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0064</Code>
+      <Name lang="fi">Tullausarvo määritetty samankaltaisen tavaran kauppa-arvon perusteella. UTK 74 (2) (b)</Name>
+      <Name lang="sv">Tullvärdet fastställs utifrån transaktionsvärdet för en liknande vara. UTK 74 (2) (b)</Name>
+      <Name lang="en">Customs value determined on basis of the transaction value of similar goods. Article 74(2)(b) UCC</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0065</Code>
+      <Name lang="fi">Tullausarvo määritetty sen yksikköhinnan perusteella, jolla suurin kokonaispaljous maahantuotuja, samanlaisia tai samankaltaisia tavaroita myydään yhteisössä. UTK 74 (2) (c)</Name>
+      <Name lang="sv">Tullvärdet fastställt enligt det styckepris för vilket de importerade varorna eller identiska eller liknande importerade varor säljs inom unionen. UTK 74 (2) (c)</Name>
+      <Name lang="en">Customs value determined on the basis of the unit price at which the imported goods, or identical or similar imported goods, are sold within the Union in the greatest aggregate quantity. Article 74(2)(c) UCC</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0065</Code>
+      <Name lang="fi">Tullausarvo määritetty sen yksikköhinnan perusteella, jolla suurin kokonaispaljous maahantuotuja, samanlaisia tai samankaltaisia tavaroita myydään yhteisössä. UTK 74 (2) (c)</Name>
+      <Name lang="sv">Tullvärdet fastställt enligt det styckepris för vilket de importerade varorna eller identiska eller liknande importerade varor säljs inom unionen. UTK 74 (2) (c)</Name>
+      <Name lang="en">Customs value determined on the basis of the unit price at which the imported goods, or identical or similar imported goods, are sold within the Union in the greatest aggregate quantity. Article 74(2)(c) UCC</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0066</Code>
+      <Name lang="fi">Tullausarvona käytetty tuotujen tavaroiden valmistuksessa käytettyjen materiaalien, käsittelyn kustannuksien sekä voittojen ja yleiskulujen määrä. UTK 74 (2) (d)</Name>
+      <Name lang="sv">Som tullvärde har använts kostnader för material och bearbetning vid tillverkning av de importerade varorna samt beloppet av vinst och allmänna omkostnader. UTK 74 (2) (d)</Name>
+      <Name lang="en">The customs value consists of the cost of materials and processing employed in producing the imported goods as well as the amount for profit and general expenses. Article 74(2)(d) UCC</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0066</Code>
+      <Name lang="fi">Tullausarvona käytetty tuotujen tavaroiden valmistuksessa käytettyjen materiaalien, käsittelyn kustannuksien sekä voittojen ja yleiskulujen määrä. UTK 74 (2) (d)</Name>
+      <Name lang="sv">Som tullvärde har använts kostnader för material och bearbetning vid tillverkning av de importerade varorna samt beloppet av vinst och allmänna omkostnader. UTK 74 (2) (d)</Name>
+      <Name lang="en">The customs value consists of the cost of materials and processing employed in producing the imported goods as well as the amount for profit and general expenses. Article 74(2)(d) UCC</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0067</Code>
+      <Name lang="fi">Valmisteveronalaisista tuotteista on tehtävä valmisteveroilmoitus neljän arkipäivän kuluessa tavaran luovutuksesta osoitteeseen: Verohallinto / valmisteverotus, PL 20, 00052 Vero tai sähköisesti Verohallinnon valmisteveropalvelussa.</Name>
+      <Name lang="sv">För punktskattepliktiga varor ska en punktskattedeklaration lämnas in inom fyra vardagar efter att produkterna överlåtits till adressen: Skatteförvaltningen / punktbeskattning, PB 20, 00052 SKATT eller elektroniskt i Skatteförvaltningens punktskattetjänst.</Name>
+      <Name lang="en">An excise duty return must be filed for excise products within four working days from the release of the goods to the address: Finnish Tax Administration / excise duties, PO Box 20, 00052 VERO or electronically in the Tax Administration’s excise duty service.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0067</Code>
+      <Name lang="fi">Valmisteveronalaisista tuotteista on tehtävä valmisteveroilmoitus neljän arkipäivän kuluessa tavaran luovutuksesta osoitteeseen: Verohallinto / valmisteverotus, PL 20, 00052 Vero tai sähköisesti Verohallinnon valmisteveropalvelussa.</Name>
+      <Name lang="sv">För punktskattepliktiga varor ska en punktskattedeklaration lämnas in inom fyra vardagar efter att produkterna överlåtits till adressen: Skatteförvaltningen / punktbeskattning, PB 20, 00052 SKATT eller elektroniskt i Skatteförvaltningens punktskattetjänst.</Name>
+      <Name lang="en">An excise duty return must be filed for excise products within four working days from the release of the goods to the address: Finnish Tax Administration / excise duties, PO Box 20, 00052 VERO or electronically in the Tax Administration’s excise duty service.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0068</Code>
+      <Name lang="fi">Jos Tulli on toimivaltainen viranomainen arvonlisäverotuksessa, maahantuonnin arvonlisäveroa ei palauteta ilmoittajana toimivalle yritykselle, jolla olisi ollut mahdollisuus vähentää se verotuksessaan. Sillä ei ole merkitystä, onko vähennys todellisuudessa tapahtunut vai ei (Arvonlisäverolaki 100 §).</Name>
+      <Name lang="sv">Om Tullen är den behöriga myndigheten vid momsbeskattning, återbetalas inte mervärdesskatten för import till företag som fungerar som deklarant, om företaget hade kunnat dra av skatten vid sin beskattning. Det saknar betydelse huruvida avdraget faktiskt har gjorts eller inte (Mervärdesskattelagen, 100 §).</Name>
+      <Name lang="en">If Finnish Customs is the competent authority for value added taxation, the import VAT will not be refunded to a company acting as a declarant that would have had the opportunity to deduct the VAT for taxation purposes. It is irrelevant whether or not the deduction has actually been made (Value Added Tax Act, section 100).</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0068</Code>
+      <Name lang="fi">Jos Tulli on toimivaltainen viranomainen arvonlisäverotuksessa, maahantuonnin arvonlisäveroa ei palauteta ilmoittajana toimivalle yritykselle, jolla olisi ollut mahdollisuus vähentää se verotuksessaan. Sillä ei ole merkitystä, onko vähennys todellisuudessa tapahtunut vai ei (Arvonlisäverolaki 100 §).</Name>
+      <Name lang="sv">Om Tullen är den behöriga myndigheten vid momsbeskattning, återbetalas inte mervärdesskatten för import till företag som fungerar som deklarant, om företaget hade kunnat dra av skatten vid sin beskattning. Det saknar betydelse huruvida avdraget faktiskt har gjorts eller inte (Mervärdesskattelagen, 100 §).</Name>
+      <Name lang="en">If Finnish Customs is the competent authority for value added taxation, the import VAT will not be refunded to a company acting as a declarant that would have had the opportunity to deduct the VAT for taxation purposes. It is irrelevant whether or not the deduction has actually been made (Value Added Tax Act, section 100).</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0069</Code>
+      <Name lang="fi">Ilmoittajan tai välillisessä edustuksessa päämiehen on annettava maahantuonnin arvonlisäveroa koskevat tiedot Verohallinnolle oma-aloitteisessa arvonlisäverotuksessa.</Name>
+      <Name lang="sv">Deklaranten eller vid indirekt ombudskap huvudmannen, ska deklarera uppgifterna om importmoms till Skatteförvaltningen på eget initiativ.</Name>
+      <Name lang="en">The declarant or, in cases of indirect representation, the principal shall declare the import VAT details to the Tax Administration on its own initiative.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-04-20</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0070</Code>
+      <Name lang="fi">Myönnetty DA 147 (1) kohdan mukaan pidennystä kauppalaskun esittämistä varten xx.xx.xxxx asti. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta, on jälkikantopyyntö asiakirjoineen toimitettava kirjaamo@tulli.fi.</Name>
+      <Name lang="sv">Tidsfristen för uppvisande av faktura har enligt DF art 147 punkt 1 förlängts fram till xx.xx.xxxx. Om slutsumman i fakturan avviker från det som angetts vid förtullningen, ska en begäran om efteruppbörd med dokument skickas till kirjaamo@tulli.fi.</Name>
+      <Name lang="en">The time-limit for presenting the invoice has been extended in accordance with Article 147(1) DA to xx.xx.xxxx. If the invoice amount differs from the declared amount, a request for subsequent recovery, with documents, shall be sent to kirjaamo@tulli.fi.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0070</Code>
+      <Name lang="fi">Myönnetty DA 147 artiklan mukaan pidennystä kauppalaskun esittämistä varten xx.xx.xxxx asti. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta, lähetä oikaisupyyntö asiakirjoineen ensisijaisesti vapaamuotoisella yhteydenotto-pyynnöllä tai lähettämällä jälkikantopyyntö asiakirjoineen kirjaamo@tulli.fi</Name>
+      <Name lang="sv">Tidsfristen för uppvisande av fakturan har enligt DF art 147 förlängts fram till xx.xx.xxxx. Om slutsumman i fakturan avviker från det som angetts vid förtullningen, skicka en begäran om omprövning i första hand med en fritt formulerad kontaktbegäran med tillhörande dokument eller skicka en begäran om efteruppbörd med tillhörande dokument till kirjaamo@tulli.fi.</Name>
+      <Name lang="en">The time-limit for presenting the invoice has been extended in accordance with Article 147(1) DA to xx.xx.xxxx. If the invoice amount differs from the declared amount, a request for subsequent recovery, with documents, shall be sent to kirjaamo@tulli.fi.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2022-03-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0070</Code>
+      <Name lang="fi">Myönnetty DA 147 artiklan mukaan pidennystä kauppalaskun esittämistä varten xx.xx.xxxx asti. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta, lähetä oikaisupyyntö asiakirjoineen ensisijaisesti vapaamuotoisella yhteydenotto-pyynnöllä. </Name>
+      <Name lang="sv">Tidsfristen för uppvisande av fakturan har enligt DF art 147 förlängts fram till xx.xx.xxxx. Om slutsumman i fakturan avviker från det som angetts vid förtullningen, skicka en begäran om omprövning i första hand med en fritt formulerad kontaktbegäran med tillhörande dokument.</Name>
+      <Name lang="en">The time-limit for presenting the invoice has been extended in accordance with Article 147(1) DA to xx.xx.xxxx. If the invoice amount differs from the declared amount, a request for subsequent recovery with documents must primarily be sent as a free-form contact request.</Name>
+      <StartDate>2022-03-22</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0071</Code>
+      <Name lang="fi">Myönnetty  DA:n 147 artiklan  mukaan pidennystä kauppalaskun esittämistä varten xx.xx.xxxx asti. Kauppalasku on esitettävä sova256@tulli.fi. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta on jälkikantopyyntö asiakirjoineen toimitettava kirjaamo@tulli.fi.</Name>
+      <Name lang="sv">Tidsfristen för uppvisande av faktura har enligt  artikel 147 i DF förlängts fram till xx.xx.xxxx. Fakturan ska skickas till sova256@tulli.fi. Om slutsumman i fakturan avviker från det som angetts vid förtullningen, ska en begäran om efteruppbörd med dokument skickas till kirjaamo@tulli.fi.</Name>
+      <Name lang="en">The time-limit for presenting the invoice has been extended in accordance with Article 147 DA to xx.xx.xxxx. The invoice must be sent to sova256@tulli.fi. If the invoice amount differs from the declared amount, a request for subsequent recovery, with documents, shall be sent to kirjaamo@tulli.fi.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0071</Code>
+      <Name lang="fi">Myönnetty DA:n 147 artiklan mukaan pidennystä kauppalaskun esittämistä varten xx.xx.xxxx asti. Kauppalasku on esitettävä sova256@tulli.fi. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta, on jälkikantopyyntö asiakirjoineen lähetettävä ensisijaisesti vapaamuotoisella yhteydenottopyynnöllä tai lähettämällä jälkikantopyyntö asiakirjoineen kirjaamo@tulli.fi</Name>
+      <Name lang="sv">Tidsfristen för uppvisande av faktura har enligt  artikel 147 i DF förlängts fram till xx.xx.xxxx. Fakturan ska skickas till sova256@tulli.fi. Om slutsumman i fakturan avviker från det som angetts vid förtullningen, ska en begäran om efteruppbörd i första hand skickas med en fritt formulerad kontaktbegäran med tillhörande dokument eller så skickas en begäran om efteruppbörd med tillhörande dokument till kirjaamo@tulli.fi.</Name>
+      <Name lang="en">The time limit for presenting the invoice has been extended to xx.xx.xxxx in accordance with Article 147 DA. The invoice must be sent to sova256@tulli.fi. If the invoice amount differs from the declared amount, a request for subsequent recovery with documents must primarily be sent as a free-form contact request, or send a request for subsequent recovery with documents to kirjaamo@tulli.fi.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2022-03-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0071</Code>
+      <Name lang="fi">Myönnetty DA:n 147 artiklan mukaan pidennystä kauppalaskun esittämistä varten xx.xx.xxxx asti. Kauppalasku lähetettävä vastaamalla lisäselvityspyyntöön. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta, on jälkikantopyyntö asiakirjoineen lähetettävä lisäselvityspyynnön sijaan ensisijaisesti vapaamuotoisella yhteydenottopyynnöllä.</Name>
+      <Name lang="sv">Tidsfristen för uppvisande av faktura har enligt  artikel 147 i DF förlängts fram till xx.xx.xxxx. Fakturan ska skickas till sova256@tulli.fi. Om slutsumman i fakturan avviker från det som angetts vid förtullningen, ska en begäran om efteruppbörd i första hand skickas med en fritt formulerad kontaktbegäran med tillhörande dokument.</Name>
+      <Name lang="en">The time limit for presenting the invoice has been extended to xx.xx.xxxx in accordance with Article 147 DA. The invoice must be sent to sova256@tulli.fi. If the invoice amount differs from the declared amount, a request for subsequent recovery with documents must primarily be sent as a free-form contact request.</Name>
+      <StartDate>2022-03-22</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0072</Code>
+      <Name lang="fi">Myönnetty DA 147 artiklan mukaan pidennystä XXX esittämistä varten xx.xx.xxxx asti. Rekisteröidyn asiakkaan vakuudesta varattu XX,XX euroa. Etuuskohteluun liittyvä asiakirja toimitettava vakuuden vapauttamista varten sova256@tulli.fi.</Name>
+      <Name lang="sv">Tidsfristen för uppvisande av XXX har enligt  artikel 147 i DF förlängts fram till xx.xx.xxxx. Ur den registrerade kundens garanti har XX,XX euro reserverats. Dokumentet som hänför sig till förmånsbehandlingen ska skickas till sova256@tulli.fi för frisläppande av garantin.</Name>
+      <Name lang="en">The time-limit for presenting the XXX has been extended in accordance with Article 147 DA to xx.xx.xxxx. XX.XX euros have been reserved from the registered customer’s guarantee. The document concerning the preferential treatment shall be submitted to sova256@tulli.fi for release of the guarantee.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0072</Code>
+      <Name lang="fi">Myönnetty DA 147 artiklan mukaan pidennystä XXX esittämistä varten xx.xx.xxxx asti. Rekisteröidyn asiakkaan vakuudesta varattu XX,XX euroa. Etuuskohteluun liittyvä asiakirja toimitettava vakuuden vapauttamista varten sova256@tulli.fi.</Name>
+      <Name lang="sv">Tidsfristen för uppvisande av XXX har enligt  artikel 147 i DF förlängts fram till xx.xx.xxxx. Ur den registrerade kundens garanti har XX,XX euro reserverats. Dokumentet som hänför sig till förmånsbehandlingen ska skickas till sova256@tulli.fi för frisläppande av garantin.</Name>
+      <Name lang="en">The time-limit for presenting the XXX has been extended in accordance with Article 147 DA to xx.xx.xxxx. XX.XX euros have been reserved from the registered customer’s guarantee. The document concerning the preferential treatment shall be submitted to sova256@tulli.fi for release of the guarantee.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2022-03-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0072</Code>
+      <Name lang="fi">Myönnetty DA 147 artiklan mukaan pidennystä XXX esittämistä varten xx.xx.xxxx asti. Rekisteröidyn asiakkaan vakuudesta varattu XX,XX euroa. Etuuskohteluun liittyvä asiakirja toimitettava vakuuden vapauttamista varten vastaamalla lisäselvityspyyntöön. </Name>
+      <Name lang="sv">Tidsfristen för uppvisande av XXX har enligt  artikel 147 i DF förlängts fram till xx.xx.xxxx. Ur den registrerade kundens garanti har XX,XX euro reserverats. Dokumentet som hänför sig till förmånsbehandlingen ska skickas till sova256@tulli.fi för frisläppande av garantin.</Name>
+      <Name lang="en">The time-limit for presenting the XXX has been extended in accordance with Article 147 DA to xx.xx.xxxx. XX.XX euros have been reserved from the registered customer’s guarantee. The document concerning the preferential treatment shall be submitted to sova256@tulli.fi for release of the guarantee.</Name>
+      <StartDate>2022-03-22</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0073</Code>
+      <Name lang="fi">Verohallinto on AVL 100 a§ perusteella määrännyt erityismenettelyn käytöstä. Tavaroista tulee maksaa niistä mahdollisesti kannettava tulli, mutta tavarat voidaan luovuttaa tullivalvonnasta vasta kuin arvonlisäveroa koskeva ilmoitus- ja maksuvelvollisuus on täytetty.</Name>
+      <Name lang="sv">Skatteförvaltningen har med stöd av 100 a § i mervärdesskattelagen bestämt om användning av särskilt förfarande. Eventuell tull ska betalas för varorna men varorna kan frisläppas från tullövervakning först efter att deklarations- och betalningsskyldigheten gällande mervärdesskatt uppfyllts.</Name>
+      <Name lang="en">The Finnish Tax Administration has decided on the use of a special procedure by virtue of section 100 a of the VAT Act. Customs duty, if any, shall be paid for the goods, but the goods can only be released from customs supervision when the declaration and payment obligation concerning value added tax has been met.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0073</Code>
+      <Name lang="fi">Verohallinto on AVL 100 a§ perusteella määrännyt erityismenettelyn käytöstä. Tavaroista tulee maksaa niistä mahdollisesti kannettava tulli, mutta tavarat voidaan luovuttaa tullivalvonnasta vasta kuin arvonlisäveroa koskeva ilmoitus- ja maksuvelvollisuus on täytetty.</Name>
+      <Name lang="sv">Skatteförvaltningen har med stöd av 100 a § i mervärdesskattelagen bestämt om användning av särskilt förfarande. Eventuell tull ska betalas för varorna men varorna kan frisläppas från tullövervakning först efter att deklarations- och betalningsskyldigheten gällande mervärdesskatt uppfyllts.</Name>
+      <Name lang="en">The Finnish Tax Administration has decided on the use of a special procedure by virtue of section 100 a of the VAT Act. Customs duty, if any, shall be paid for the goods, but the goods can only be released from customs supervision when the declaration and payment obligation concerning value added tax has been met.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0074</Code>
+      <Name lang="fi">Tulli on saanut tiedon Verohallinnolta, että tapahtumaan liittyvät arvonlisäverot on maksettu, joten tavarat luovutetaan tullivalvonnasta.</Name>
+      <Name lang="sv">Tullen har fått uppgift från Skatteförvaltningen att mervärdesskatterna med anknytning till händelsen har betalats. Varorna frisläpps från tullövervakning.</Name>
+      <Name lang="en">The Tax Administration has notified Customs that the value added taxes related to the case have been paid, so the goods will be released from customs supervision.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0074</Code>
+      <Name lang="fi">Tulli on saanut tiedon Verohallinnolta, että tapahtumaan liittyvät arvonlisäverot on maksettu, joten tavarat luovutetaan tullivalvonnasta.</Name>
+      <Name lang="sv">Tullen har fått uppgift från Skatteförvaltningen att mervärdesskatterna med anknytning till händelsen har betalats. Varorna frisläpps från tullövervakning.</Name>
+      <Name lang="en">The Tax Administration has notified Customs that the value added taxes related to the case have been paid, so the goods will be released from customs supervision.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0075</Code>
+      <Name lang="fi">Toimivaltaisen viranomaisen antama todistus nro XXXX on esitetty.</Name>
+      <Name lang="sv">Intyg nr XXXX från den behöriga myndigheten har presenterats.</Name>
+      <Name lang="en">Certification no. XXXX issued by the competent authority has been presented.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0075</Code>
+      <Name lang="fi">Toimivaltaisen viranomaisen antama todistus nro XXXX on esitetty.</Name>
+      <Name lang="sv">Intyg nr XXXX från den behöriga myndigheten har presenterats.</Name>
+      <Name lang="en">Certification no. XXXX issued by the competent authority has been presented.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0076</Code>
+      <Name lang="fi">Tulli-ilmoituksen oikeellisuutta ei ole tutkittu muilta osin kuin mitä päätöksen perusteluissa on todettu.</Name>
+      <Name lang="sv">Tulldeklarationens riktighet har inte undersökts i övrigt än vad som angetts i motiveringen av beslutet.</Name>
+      <Name lang="en">The correctness of the customs declaration has not been examined in other respects than what is stated in the grounds for the decision.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0076</Code>
+      <Name lang="fi">Tulli-ilmoituksen oikeellisuutta ei ole tutkittu muilta osin kuin mitä päätöksen perusteluissa on todettu.</Name>
+      <Name lang="sv">Tulldeklarationens riktighet har inte undersökts i övrigt än vad som angetts i motiveringen av beslutet.</Name>
+      <Name lang="en">The correctness of the customs declaration has not been examined in other respects than what is stated in the grounds for the decision.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0077</Code>
+      <Name lang="fi">Muutoksenhakijan viite: {0}</Name>
+      <Name lang="sv">Ändringssökandens referens: {0}</Name>
+      <Name lang="en">Applicant's reference: {0}</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0077</Code>
+      <Name lang="fi">Muutoksenhakijan viite: {0}</Name>
+      <Name lang="sv">Ändringssökandens referens: {0}</Name>
+      <Name lang="en">Applicant's reference: {0}</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0078</Code>
+      <Name lang="fi">Tullia ei määrätä, jos sen määrä on alle minimimäärän. Tullin minimi on 10 euroa. Minimin alle jäävää tullin määrää ei lisätä arvonlisäveron perusteeseen.</Name>
+      <Name lang="sv">Tull bestäms inte om dess belopp understiger minimibeloppet på 10 euro. Ett tullbelopp som understiger minimibeloppet räknas inte in i skattegrunden för mervärdesskatt.</Name>
+      <Name lang="en">No customs duty will be imposed if its amount is lower than the minimum amount. The minimum amount of customs duty is 10 euros. The amount of customs duty that is below the minimum amount is not included in the taxable amount for VAT.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0079</Code>
+      <Name lang="fi">Myös ilmoittaja on velallinen.</Name>
+      <Name lang="sv">Också deklaranten är gäldenär.</Name>
+      <Name lang="en">The declarant is also a debtor.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0079</Code>
+      <Name lang="fi">Myös ilmoittaja on velallinen.</Name>
+      <Name lang="sv">Också deklaranten är gäldenär.</Name>
+      <Name lang="en">The declarant is also a debtor.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0080</Code>
+      <Name lang="fi">Päätösesitys on ollut kuultavana. Vastinetta ei ole annettu.</Name>
+      <Name lang="sv">Förslaget har skickats för bemötande. Inget bemötande har avgetts.</Name>
+      <Name lang="en">The proposed decision has been sent for comments. No rejoinder has been provided.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0080</Code>
+      <Name lang="fi">Päätösesitys on ollut kuultavana. Vastinetta ei ole annettu.</Name>
+      <Name lang="sv">Förslaget har skickats för bemötande. Inget bemötande har avgetts.</Name>
+      <Name lang="en">The proposed decision has been sent for comments. No rejoinder has been provided.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0081</Code>
+      <Name lang="fi">Päätösesitys on ollut kuultavana. Vastine on annettu {0}.</Name>
+      <Name lang="sv">Förslaget har skickats för bemötande. Ett  bemötande har avgetts {0}.</Name>
+      <Name lang="en">The proposed decision has been sent for comments. A rejoinder has been provided {0}.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0081</Code>
+      <Name lang="fi">Päätösesitys on ollut kuultavana. Vastine on annettu {0}.</Name>
+      <Name lang="sv">Förslaget har skickats för bemötande. Ett  bemötande har avgetts {0}.</Name>
+      <Name lang="en">The proposed decision has been sent for comments. A rejoinder has been provided {0}.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0082</Code>
+      <Name lang="fi">Verovelvollisella on mahdollisuus ilmaista näkökantansa päätösesityksen sisältöön ennen päätöksen antamista. Vastine tulee esittää ylempänä ilmoitettuun määräaikaan mennessä lisäselvityspyynnön vastauksena. Vastineen voi toimittaa myös sähköpostitse oikaisutoimenvastineet@tulli.fi tai postitse. Postitse jätettävä vastine on toimitettava perille ilmoitettuun määräpäivään klo 16:15 mennessä päätösesityksellä näkyvään osoitteeseen. Vastineen toimittamatta jättäminen annetussa määräajassa ei estä asian ratkaisemista.</Name>
+      <Name lang="sv">Den skattskyldige har möjlighet att framföra sin ståndpunkt om beslutsförslagets innehåll innan beslutet fattas. Bemötandet ska lämnas in senast ovannämnda datum som svar på begäran om tilläggsutredning. Bemötandet kan också skickas per e-post till oikaisutoimenvastineet@tulli.fi eller per post. Bemötandet som skickas per post ska vara framme senast det angivna datumet kl. 16.15 på den adress som finns angiven i beslutsförslaget. Om inget bemötande lämnas in inom denna tidsfrist hindrar det inte Tullen att avgöra ärendet.</Name>
+      <Name lang="en">Before a decision is made, the party liable to pay tax has the opportunity to express their point of view on the content of the proposed decision. A rejoinder may be lodged within the time limit specified above as an additional information response. A rejoinder can also be sent by email to oikaisutoimenvastineet@tulli.fi. A rejoinder lodged by post must arrive by 4.15 pm on the final day of the prescribed time period at the address stated in the proposed decision. If no rejoinder is lodged within the time limit, this will not prevent a decision in the matter.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0082</Code>
+      <Name lang="fi">Verovelvollisella on mahdollisuus ilmaista näkökantansa päätösesityksen sisältöön ennen päätöksen antamista. Vastine tulee esittää ylempänä ilmoitettuun määräaikaan mennessä lisäselvityspyynnön vastauksena. Vastineen voi toimittaa myös sähköpostitse oikaisutoimenvastineet@tulli.fi tai postitse. Postitse jätettävä vastine on toimitettava perille ilmoitettuun määräpäivään klo 16:15 mennessä päätösesityksellä näkyvään osoitteeseen. Vastineen toimittamatta jättäminen annetussa määräajassa ei estä asian ratkaisemista.</Name>
+      <Name lang="sv">Den skattskyldige har möjlighet att framföra sin ståndpunkt om beslutsförslagets innehåll innan beslutet fattas. Bemötandet ska lämnas in senast ovannämnda datum som svar på begäran om tilläggsutredning. Bemötandet kan också skickas per e-post till oikaisutoimenvastineet@tulli.fi eller per post. Bemötandet som skickas per post ska vara framme senast det angivna datumet kl. 16.15 på den adress som finns angiven i beslutsförslaget. Om inget bemötande lämnas in inom denna tidsfrist hindrar det inte Tullen att avgöra ärendet.</Name>
+      <Name lang="en">Before a decision is made, the party liable to pay tax has the opportunity to express their point of view on the content of the proposed decision. A rejoinder may be lodged within the time limit specified above as an additional information response. A rejoinder can also be sent by email to oikaisutoimenvastineet@tulli.fi. A rejoinder lodged by post must arrive by 4.15 pm on the final day of the prescribed time period at the address stated in the proposed decision. If no rejoinder is lodged within the time limit, this will not prevent a decision in the matter.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0083</Code>
+      <Name lang="fi">Ilmoittajan tai välillisessä edustuksessa päämiehen on annettava maahantuonnin arvonlisäveroa koskevat tiedot Verohallinnolle arvonlisäveroilmoituksella.</Name>
+      <Name lang="sv">Deklaranten eller vid indirekt ombudskap huvudmannen ska anmäla uppgifterna om importmoms till Skatteförvaltningen med en momsdeklaration.</Name>
+      <Name lang="en">The declarant or, in the case of indirect representation, the principal shall submit the import VAT details to the Tax Administration by filing a VAT return.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0083</Code>
+      <Name lang="fi">Ilmoittajan tai välillisessä edustuksessa päämiehen on annettava maahantuonnin arvonlisäveroa koskevat tiedot Verohallinnolle arvonlisäveroilmoituksella.</Name>
+      <Name lang="sv">Deklaranten eller vid indirekt ombudskap huvudmannen ska anmäla uppgifterna om importmoms till Skatteförvaltningen med en momsdeklaration.</Name>
+      <Name lang="en">The declarant or, in the case of indirect representation, the principal shall submit the import VAT details to the Tax Administration by filing a VAT return.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2021-09-01</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0084</Code>
+      <Name lang="fi">Tällä muutoksella korjataan tulli-ilmoituksella ilmoittamianne tietoja, eikä muutos vaikuta tulliverotukseenne. Tulli-ilmoituksen oikeellisuutta on tutkittu vain muutettujen tietojen osalta.</Name>
+      <Name lang="sv">Med denna ändring korrigeras uppgifter som Ni lämnat på tulldeklarationen. Ändringen påverkar inte Er tullbeskattning. Tulldeklarationens riktighet har prövats endast vad de ändrade uppgifterna beträffar.</Name>
+      <Name lang="en">This amendment amends details you have provided in the customs declaration, and the amendment will not affect your taxation assessed by Customs. The correctness of the customs declaration has only been examined in respect of the amended details.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0084</Code>
+      <Name lang="fi">Tällä muutoksella korjataan tulli-ilmoituksella ilmoittamianne tietoja, eikä muutos vaikuta tulliverotukseenne. Tulli-ilmoituksen oikeellisuutta on tutkittu vain muutettujen tietojen osalta.</Name>
+      <Name lang="sv">Med denna ändring korrigeras uppgifter som Ni lämnat på tulldeklarationen. Ändringen påverkar inte Er tullbeskattning. Tulldeklarationens riktighet har prövats endast vad de ändrade uppgifterna beträffar.</Name>
+      <Name lang="en">This amendment amends details you have provided in the customs declaration, and the amendment will not affect your taxation assessed by Customs. The correctness of the customs declaration has only been examined in respect of the amended details.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0085</Code>
+      <Name lang="fi">Arvonlisäverolle kannetaan lisäksi veronlisäystä. Arvonlisäverolain 101 c §:n mukaan tavaran maahantuonnista suoritettavan veron maksamisen viivästysseuraamuksiin sovelletaan, mitä veronlisäyksestä ja viivekorosta annetussa laissa (1556/1995) säädetään. Veronlisäyksestä ja viivekorosta annetun lain 2 §:n mukaan verolle lasketaan veronlisäys jälkiverotuksen toimittamisen yhteydessä. Veronlisäys on määrältään kutakin kalenterivuotta edeltävän puolivuotiskauden korkolain (633/1982) 12 §:ssä tarkoitettu viitekorko lisättynä seitsemällä prosenttiyksiköllä, yhteensä kuitenkin vähintään kolme euroa. Veronlisäys lasketaan ajanjaksolta, jolta tullikoodeksin 114 artiklan 2 kohdassa tarkoitettu viivästyskorko lasketaan.</Name>
+      <Name lang="sv">På mervärdesskatten uppbärs dessutom skattetillägg. Enligt 101 c § i mervärdesskattelagen tillämpas bestämmelserna i lagen om skattetillägg och förseningsränta (1556/1995) på dröjsmålspåföljder i fråga om skatt som ska betalas för import av varor. Enligt 2 § i lagen om skattetillägg och förseningsränta beräknas skattetillägg på skatten när efterbeskattning verkställs. Skattetillägget motsvarar den i 12 § i räntelagen (633/1982) avsedda referensräntan för den halvårsperiod som föregår kalenderåret i fråga förhöjd med sju procentenheter, sammanlagt dock minst tre euro. Skattetillägget beräknas för den tidsperiod för vilken dröjsmålsränta enligt artikel 114.2 i tullkodexen beräknas.</Name>
+      <Name lang="en">An additional tax will also be imposed on the amount of VAT. According to section 101c of the Value Added Tax Act, the provisions of the Act on Additional Tax and Penalty Interest (1556/1995) are applied to penalty fees for late payment of the VAT payable on import goods. According to section 2 of the Act on Additional Tax and Penalty Interest, the additional tax is calculated on the VAT when the subsequent taxation is carried out. The amount of additional tax corresponds to the reference rate for a half–year period preceding each calendar year that is referred to in section 12 of the Interest Act (633/1982) plus seven percentage points, but amounting to at least three euros. The additional tax is calculated for the period for which the interest on arrears referred to in Article 114(2) of the Customs Code is calculated.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0085</Code>
+      <Name lang="fi">Arvonlisäverolle kannetaan lisäksi veronlisäystä. Arvonlisäverolain 101 c §:n mukaan tavaran maahantuonnista suoritettavan veron maksamisen viivästysseuraamuksiin sovelletaan, mitä veronlisäyksestä ja viivekorosta annetussa laissa (1556/1995) säädetään. Veronlisäyksestä ja viivekorosta annetun lain 2 §:n mukaan verolle lasketaan veronlisäys jälkiverotuksen toimittamisen yhteydessä. Veronlisäys on määrältään kutakin kalenterivuotta edeltävän puolivuotiskauden korkolain (633/1982) 12 §:ssä tarkoitettu viitekorko lisättynä seitsemällä prosenttiyksiköllä, yhteensä kuitenkin vähintään kolme euroa. Veronlisäys lasketaan ajanjaksolta, jolta tullikoodeksin 114 artiklan 2 kohdassa tarkoitettu viivästyskorko lasketaan.</Name>
+      <Name lang="sv">På mervärdesskatten uppbärs dessutom skattetillägg. Enligt 101 c § i mervärdesskattelagen tillämpas bestämmelserna i lagen om skattetillägg och förseningsränta (1556/1995) på dröjsmålspåföljder i fråga om skatt som ska betalas för import av varor. Enligt 2 § i lagen om skattetillägg och förseningsränta beräknas skattetillägg på skatten när efterbeskattning verkställs. Skattetillägget motsvarar den i 12 § i räntelagen (633/1982) avsedda referensräntan för den halvårsperiod som föregår kalenderåret i fråga förhöjd med sju procentenheter, sammanlagt dock minst tre euro. Skattetillägget beräknas för den tidsperiod för vilken dröjsmålsränta enligt artikel 114.2 i tullkodexen beräknas.</Name>
+      <Name lang="en">An additional tax will also be imposed on the amount of VAT. According to section 101c of the Value Added Tax Act, the provisions of the Act on Additional Tax and Penalty Interest (1556/1995) are applied to penalty fees for late payment of the VAT payable on import goods. According to section 2 of the Act on Additional Tax and Penalty Interest, the additional tax is calculated on the VAT when the subsequent taxation is carried out. The amount of additional tax corresponds to the reference rate for a half–year period preceding each calendar year that is referred to in section 12 of the Interest Act (633/1982) plus seven percentage points, but amounting to at least three euros. The additional tax is calculated for the period for which the interest on arrears referred to in Article 114(2) of the Customs Code is calculated.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0086</Code>
+      <Name lang="fi">Tullin määrästä kannetaan lisäksi viivästyskorkoa. Unionin tullikoodeksin 114 artiklan 2 kohdan mukaan tuonti- tai vientitullin määrästä on veloitettava viivästyskorkoa tullivelan syntypäivän ja sen tiedoksiantopäivän väliseltä ajalta, kun tullivelka syntyy 79 tai 82 artiklan perusteella tai kun tullivelkaa koskeva tiedoksianto johtuu jälkitarkastuksesta. Viivästyskorkokanta on Euroopan unionin virallisen lehden C-sarjassa julkaistu korkokanta, jota Euroopan keskuspankki sovelsi perusrahoitusoperaatioihinsa erääntymiskuukauden ensimmäisenä päivänä korotettuna kahdella prosenttiyksiköllä. Viivästyskorkoa ei kanneta, jos sen määrä on alle 10 euroa.</Name>
+      <Name lang="sv">På tullbeloppet uppbärs dessutom dröjsmålsränta. Enligt artikel 114.2 i unionstullkodexen ska dröjsmålsränta debiteras utöver import- eller exporttullbeloppet från och med den dag då tullskulden uppkommit till och med dagen för underrättelsen, om tullskulden uppkommit på grundval av artikel 79 eller 82, eller om underrättelsen om en tullskuld är en följd av en efterkontroll.  Dröjsmålsräntesatsen motsvarar den räntesats som offentliggjorts i Europeiska unionens officiella tidning, C-serien, och som Europeiska centralbanken tillämpat vid sina huvudsakliga refinansieringstransaktioner på den första dagen i den månad som innehåller förfallodagen, med tillägg av två procentenheter. Dröjsmålsränta uppbärs inte om dess belopp är mindre än 10 euro.</Name>
+      <Name lang="en">Additionally, interest on arrears will be imposed on the amount of customs duty. According to Article 114(2) of the Union Customs Code, where the customs debt is incurred on the basis of Article 79 or 82, or where the notification of the customs debt results from a post-release control, interest on arrears shall be charged on the amount of import or export duty, from the date on which the customs debt was incurred until the date of its notification. The rate of interest on arrears shall be equal to the interest rate as published in the Official Journal of the European Union, C series, which the European Central Bank applied to its main refinancing operations, on the first day of the month in which the due date fell, increased by two percentage points. Interest on arrears is not levied if its amount is less than 10 euros.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0086</Code>
+      <Name lang="fi">Tullin määrästä kannetaan lisäksi viivästyskorkoa. Unionin tullikoodeksin 114 artiklan 2 kohdan mukaan tuonti- tai vientitullin määrästä on veloitettava viivästyskorkoa tullivelan syntypäivän ja sen tiedoksiantopäivän väliseltä ajalta, kun tullivelka syntyy 79 tai 82 artiklan perusteella tai kun tullivelkaa koskeva tiedoksianto johtuu jälkitarkastuksesta. Viivästyskorkokanta on Euroopan unionin virallisen lehden C-sarjassa julkaistu korkokanta, jota Euroopan keskuspankki sovelsi perusrahoitusoperaatioihinsa erääntymiskuukauden ensimmäisenä päivänä korotettuna kahdella prosenttiyksiköllä. Viivästyskorkoa ei kanneta, jos sen määrä on alle 10 euroa.</Name>
+      <Name lang="sv">På tullbeloppet uppbärs dessutom dröjsmålsränta. Enligt artikel 114.2 i unionstullkodexen ska dröjsmålsränta debiteras utöver import- eller exporttullbeloppet från och med den dag då tullskulden uppkommit till och med dagen för underrättelsen, om tullskulden uppkommit på grundval av artikel 79 eller 82, eller om underrättelsen om en tullskuld är en följd av en efterkontroll.  Dröjsmålsräntesatsen motsvarar den räntesats som offentliggjorts i Europeiska unionens officiella tidning, C-serien, och som Europeiska centralbanken tillämpat vid sina huvudsakliga refinansieringstransaktioner på den första dagen i den månad som innehåller förfallodagen, med tillägg av två procentenheter. Dröjsmålsränta uppbärs inte om dess belopp är mindre än 10 euro.</Name>
+      <Name lang="en">Additionally, interest on arrears will be imposed on the amount of customs duty. According to Article 114(2) of the Union Customs Code, where the customs debt is incurred on the basis of Article 79 or 82, or where the notification of the customs debt results from a post-release control, interest on arrears shall be charged on the amount of import or export duty, from the date on which the customs debt was incurred until the date of its notification. The rate of interest on arrears shall be equal to the interest rate as published in the Official Journal of the European Union, C series, which the European Central Bank applied to its main refinancing operations, on the first day of the month in which the due date fell, increased by two percentage points. Interest on arrears is not levied if its amount is less than 10 euros.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0087</Code>
+      <Name lang="fi">Tullilain 96 §:n mukaan Tulli voi määrätä virhemaksua. Tullilain 98 §:n mukaan virhemaksun määrääminen perustuu kokonaisarviointiin.</Name>
+      <Name lang="sv">Enligt 96 § i tullagen kan Tullen påföra felavgift. Enligt 98 § i tullagen grundar sig bestämmandet av en felavgift på en helhetsbedömning.</Name>
+      <Name lang="en">Section 96 of the Finnish Customs Act provides that Customs can impose a penalty fee. Section 98 of the Finnish Customs Act provides that a penalty fee is to be imposed on the basis of an overall assessment.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0087</Code>
+      <Name lang="fi">Tullilain 96 §:n mukaan Tulli voi määrätä virhemaksua. Tullilain 98 §:n mukaan virhemaksun määrääminen perustuu kokonaisarviointiin.</Name>
+      <Name lang="sv">Enligt 96 § i tullagen kan Tullen påföra felavgift. Enligt 98 § i tullagen grundar sig bestämmandet av en felavgift på en helhetsbedömning.</Name>
+      <Name lang="en">Section 96 of the Finnish Customs Act provides that Customs can impose a penalty fee. Section 98 of the Finnish Customs Act provides that a penalty fee is to be imposed on the basis of an overall assessment.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0088</Code>
+      <Name lang="fi">Pyyntönne perusteella asian käsittely raukeaa. Aiemmin lähettämänne hakemus ei ole enää vireillä.</Name>
+      <Name lang="sv">På basis av er begäran upphör handläggningen av ärendet. Er tidigare ansökan är inte längre anhängig.</Name>
+      <Name lang="en">Following your request, the matter will lapse. The application you sent earlier is no longer pending.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0088</Code>
+      <Name lang="fi">Pyyntönne perusteella asian käsittely raukeaa. Aiemmin lähettämänne hakemus ei ole enää vireillä.</Name>
+      <Name lang="sv">På basis av er begäran upphör handläggningen av ärendet. Er tidigare ansökan är inte längre anhängig.</Name>
+      <Name lang="en">Following your request, the matter will lapse. The application you sent earlier is no longer pending.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0089</Code>
+      <Name lang="fi">Toimittaessaan tämän tullauksen/jälkitullauksen Tulli ei ole tehnyt päätöstä siitä, korottaako se määrättyjä tulleja ja veroja vai jättääkö se korotukset määräämättä. Jos Tulli päättää korottaa tällä päätöksellä nyt määrättyjä tulleja ja veroja, Tulli tekee asianomaisen korotuspäätöksen erillisellä päätöksellä määrättävästä veron- tai tullinkorotuksesta annetun lain (781/2013) 2§:n 3 momentin mukaisesti ensi vuoden loppuun mennessä.</Name>
+      <Name lang="sv">Vid verkställandet av denna förtullning/efterförtullning har Tullen inte ännu fattat beslut om huruvida de påförda tullarna och skatterna kommer att höjas eller inte. Om Tullen beslutar att höja de tullar och skatter som påförts genom detta beslut, fattar Tullen beslutet om skatteförhöjning senast före utgången av nästa år i enlighet med det som anges i 2 § 3 mom. i lagen om skatteförhöjning och tullhöjning som påförs genom ett särskilt beslut (781/2013).</Name>
+      <Name lang="en">When carrying out this customs clearance/post-clearance, Customs has not decided whether or not it will increase the imposed customs duties and taxes. If Customs decides to increase the customs duties and taxes imposed through this decision, it will issue a separate decision on the increase in accordance with section 2 subsection 3 of the Act on a Tax or Customs Duty Increase to be imposed through a Separate Decision (781/2013) by the end of next year.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0089</Code>
+      <Name lang="fi">Toimittaessaan tämän tullauksen/jälkitullauksen Tulli ei ole tehnyt päätöstä siitä, korottaako se määrättyjä tulleja ja veroja vai jättääkö se korotukset määräämättä. Jos Tulli päättää korottaa tällä päätöksellä nyt määrättyjä tulleja ja veroja, Tulli tekee asianomaisen korotuspäätöksen erillisellä päätöksellä määrättävästä veron- tai tullinkorotuksesta annetun lain (781/2013) 2§:n 3 momentin mukaisesti ensi vuoden loppuun mennessä.</Name>
+      <Name lang="sv">Vid verkställandet av denna förtullning/efterförtullning har Tullen inte ännu fattat beslut om huruvida de påförda tullarna och skatterna kommer att höjas eller inte. Om Tullen beslutar att höja de tullar och skatter som påförts genom detta beslut, fattar Tullen beslutet om skatteförhöjning senast före utgången av nästa år i enlighet med det som anges i 2 § 3 mom. i lagen om skatteförhöjning och tullhöjning som påförs genom ett särskilt beslut (781/2013).</Name>
+      <Name lang="en">When carrying out this customs clearance/post-clearance, Customs has not decided whether or not it will increase the imposed customs duties and taxes. If Customs decides to increase the customs duties and taxes imposed through this decision, it will issue a separate decision on the increase in accordance with section 2 subsection 3 of the Act on a Tax or Customs Duty Increase to be imposed through a Separate Decision (781/2013) by the end of next year.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0090</Code>
+      <Name lang="fi">Passituksen viitenumero:</Name>
+      <Name lang="sv">Referensnummer för transitering:</Name>
+      <Name lang="en">Transit reference number:</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0090</Code>
+      <Name lang="fi">Passituksen viitenumero:</Name>
+      <Name lang="sv">Referensnummer för transitering:</Name>
+      <Name lang="en">Transit reference number:</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0091</Code>
+      <Name lang="fi">Passitusvakuuden viitenumero:</Name>
+      <Name lang="sv">Referensnummer för transiteringsgaranti:</Name>
+      <Name lang="en">Transit guarantee reference number:</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0091</Code>
+      <Name lang="fi">Passitusvakuuden viitenumero:</Name>
+      <Name lang="sv">Referensnummer för transiteringsgaranti:</Name>
+      <Name lang="en">Transit guarantee reference number:</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0092</Code>
+      <Name lang="fi">Tulliton TTA 25 art., arvonlisäveroton  AVL 94.1. § 14 k., ValmVL 88 (tietyin ehdoin, eli alkoholi, tupakka, kahvi, tee määrärajoitukset).</Name>
+      <Name lang="sv">Tullfri enligt art. 25 i tullfrihetsförordning, momsfri enligt 94 § 1 mom. 14 p. i mervärdesskattelagen, punkskattefri enligt 88 i punktskattelagen (på vissa villkor, dvs. alkohol, tobak, kaffe, te, mängdbegränsningar).</Name>
+      <Name lang="en">Customs duty exemption under Article 25 Duty Relief Regulation, VAT exemption under section 94(1)(14) VAT Act, excise duty exemption under section 88 Act on Excise Duty (on certain conditions, i.e. alcohol, tobacco, coffee, tea quantitative restrictions).</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0092</Code>
+      <Name lang="fi">Tulliton TTA 25 art., arvonlisäveroton  AVL 94.1. § 14 k., ValmVL 88 (tietyin ehdoin, eli alkoholi, tupakka, kahvi, tee määrärajoitukset).</Name>
+      <Name lang="sv">Tullfri enligt art. 25 i tullfrihetsförordning, momsfri enligt 94 § 1 mom. 14 p. i mervärdesskattelagen, punkskattefri enligt 88 i punktskattelagen (på vissa villkor, dvs. alkohol, tobak, kaffe, te, mängdbegränsningar).</Name>
+      <Name lang="en">Customs duty exemption under Article 25 Duty Relief Regulation, VAT exemption under section 94(1)(14) VAT Act, excise duty exemption under section 88 Act on Excise Duty (on certain conditions, i.e. alcohol, tobacco, coffee, tea quantitative restrictions).</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0093</Code>
+      <Name lang="fi">Tullauksella on myönnetty osalle tavaroista tullittomuus TTA 25 art. ja arvonlisäverottomuus AVL 94.1. § 14 k. mukaisesti.</Name>
+      <Name lang="sv">Vid förtullningen har en del av varorna beviljats tullfrihet enligt art. 25 i tullfrihetsförordningen och momsfrihet enligt 94 § 1 mom. 14 p. i mervärdesskattelagen.</Name>
+      <Name lang="en">Some of the goods in the customs declaration have been granted customs duty exemption under Article 25 of the Duty Relief Regulation and VAT exemption under section 94(1)(14) of the VAT Act.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0093</Code>
+      <Name lang="fi">Tullauksella on myönnetty osalle tavaroista tullittomuus TTA 25 art. ja arvonlisäverottomuus AVL 94.1. § 14 k. mukaisesti.</Name>
+      <Name lang="sv">Vid förtullningen har en del av varorna beviljats tullfrihet enligt art. 25 i tullfrihetsförordningen och momsfrihet enligt 94 § 1 mom. 14 p. i mervärdesskattelagen.</Name>
+      <Name lang="en">Some of the goods in the customs declaration have been granted customs duty exemption under Article 25 of the Duty Relief Regulation and VAT exemption under section 94(1)(14) of the VAT Act.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0094</Code>
+      <Name lang="fi">Tullauksella on myönnetty yhdelle, alle 45 EUR, tavaralle tullittomuus TTA 25 art. ja arvonlisäverottomuus AVL 94.1. § 14 k. mukaisesti.</Name>
+      <Name lang="sv">Vid förtullningen har en vara värd mindre än 45 euro beviljats tullfrihet enligt art. 25 i tullfrihetsförordningen och momsfrihet enligt 94 § 1 mom. 14 p. i mervärdesskattelagen.</Name>
+      <Name lang="en">One goods item (value under EUR 45) in the customs declaration has been granted customs duty exemption under Article 25 of the Duty Relief Regulation and VAT exemption under section 94(1)(14) of the VAT Act.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0094</Code>
+      <Name lang="fi">Tullauksella on myönnetty yhdelle, alle 45 EUR, tavaralle tullittomuus TTA 25 art. ja arvonlisäverottomuus AVL 94.1. § 14 k. mukaisesti.</Name>
+      <Name lang="sv">Vid förtullningen har en vara värd mindre än 45 euro beviljats tullfrihet enligt art. 25 i tullfrihetsförordningen och momsfrihet enligt 94 § 1 mom. 14 p. i mervärdesskattelagen.</Name>
+      <Name lang="en">One goods item (value under EUR 45) in the customs declaration has been granted customs duty exemption under Article 25 of the Duty Relief Regulation and VAT exemption under section 94(1)(14) of the VAT Act.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0095</Code>
+      <Name lang="fi">Tavarat eivät täytä tullittomuusasetuksen TTA 25 &amp; 26 art. ehtoja. Lähetykselle ei voida myöntää tullittomuutta eikä arvonlisäverottomuutta ALV AVL 94.1 § 14 k. mukaisesti. Tullaus on mitätöity viranomaisaloitteisesti. Tehkää uusi tullaus Henkilöasiakkaiden tuontitullauspalvelussa valitsemalla haluan tullata listalta "Ostamani tavaran".</Name>
+      <Name lang="sv">Varorna uppfyller inte villkoren enligt art. 25 och 26 i tullfrihetsförordningen. Försändelsen kan inte beviljas tullfrihet och inte heller momsfrihet enligt 94 § 1 mom. 14 p. i mervärdesskattelagen. Förtullningen har ogiltigförklarats på myndighetsinitiativ. Gör en ny förtullning i importförtullningstjänsten för privatpersoner genom att i listan ”Jag vill förtulla” välja ”en vara jag köpt”.</Name>
+      <Name lang="en">The goods do not meet the criteria in articles 25 and 26 in the Duty Relief Regulation. The consignment cannot be granted customs duty exemption or VAT exemption under section 94(1)(14) of the VAT Act. The declaration has been invalidated on the initiative of the customs authority. Submit a new declaration in the Import Declaration Service for private persons by selecting “goods I’ve purchased” under ”I wish to declare”.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0095</Code>
+      <Name lang="fi">Tavarat eivät täytä verottoman lahjalähetyksen määritelmää, jonka ehdot löytyy tullittomuusasetuksesta TTA 25 &amp; 26 art. Lähetykselle ei voida myöntää tullittomuutta eikä arvonlisäverottomuutta ALV AVL 94.1 § 14 k. mukaisesti. Tullaus on mitätöity viranomaisaloitteisesti. Tehkää uusi tullaus Henkilöasiakkaiden tuontitullauspalvelussa valitsemalla haluan tullata listalta "Ostamani tavaran".</Name>
+      <Name lang="sv">Varorna uppfyller inte de villkor för en skattefri gåvoförsändelse som fastställs i art. 25 och 26 i tullfrihetsförordningen. Försändelsen kan inte beviljas tullfrihet och inte heller momsfrihet enligt 94 § 1 mom. 14 p. i mervärdesskattelagen. Förtullningen har ogiltigförklarats på myndighetsinitiativ. Gör en ny förtullning i importförtullningstjänsten för privatpersoner genom att i listan ”Jag vill förtulla” välja ”en vara jag köpt”.ra jag köpt”.</Name>
+      <Name lang="en">The goods do not meet the definition of a tax-free gift consignment in accordance with articles 25 and 26 in the Duty Relief Regulation.  The consignment cannot be granted customs duty exemption or VAT exemption under section 94(1)(14) of the VAT Act. The declaration has been invalidated on the initiative of the customs authority. Submit a new declaration in the Import Declaration Service for private persons by selecting “goods I’ve purchased” under “I wish to declare”.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0096</Code>
+      <Name lang="fi">Tähän tullaukseen liittyvät INF2-lomakkeet on esitettävä Tullille vahvistusmerkintää varten joko käymällä avoinna olevassa tullitoimipaikassa tai tullitoimipaikassa, jossa asiakaspalvelua saa ajanvarauksella tai postitse osoitteella Tulli, Sähköinen palvelukeskus / INF, PL 512, 00101, Helsinki</Name>
+      <Name lang="sv">INF2-blanketterna som hänför sig till denna förtullning ska visas upp för Tullen för bekräftelseanteckningar antingen genom att besöka ett öppet tullkontor eller ett tullkontor som erbjuder kundservice via tidsbokning, eller genom att skicka blanketterna per post till adressen Tullen, Elektroniska servicecentralen / INF, PB 512, 00101 Helsingfors.</Name>
+      <Name lang="en">en: Tähän tullaukseen liittyvät INF2-lomakkeet on esitettävä Tullille vahvistusmerkintää varten joko käymällä avoinna olevassa tullitoimipaikassa tai tullitoimipaikassa, jossa asiakaspalvelua saa ajanvarauksella tai postitse osoitteella Tulli, Sähköinen palvelukeskus / INF, PL 512, 00101, Helsinki</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0096</Code>
+      <Name lang="fi">Tähän tullaukseen liittyvät INF2-lomakkeet on esitettävä Tullille vahvistusmerkintää varten joko käymällä avoinna olevassa tullitoimipaikassa tai tullitoimipaikassa, jossa asiakaspalvelua saa ajanvarauksella tai postitse osoitteella Tulli, Sähköinen palvelukeskus / INF, PL 512, 00101, Helsinki</Name>
+      <Name lang="sv">INF2-blanketterna som hänför sig till denna förtullning ska visas upp för Tullen för bekräftelseanteckningar antingen genom att besöka ett öppet tullkontor eller ett tullkontor som erbjuder kundservice via tidsbokning, eller genom att skicka blanketterna per post till adressen Tullen, Elektroniska servicecentralen / INF, PB 512, 00101 Helsingfors.</Name>
+      <Name lang="en">en: Tähän tullaukseen liittyvät INF2-lomakkeet on esitettävä Tullille vahvistusmerkintää varten joko käymällä avoinna olevassa tullitoimipaikassa tai tullitoimipaikassa, jossa asiakaspalvelua saa ajanvarauksella tai postitse osoitteella Tulli, Sähköinen palvelukeskus / INF, PL 512, 00101, Helsinki</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0097</Code>
+      <Name lang="fi">Oikaisupyyntönne on hylätty.</Name>
+      <Name lang="sv">Er begäran om ändring är avslagen.</Name>
+      <Name lang="en">Your amendment request has been rejected.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0097</Code>
+      <Name lang="fi">Oikaisupyyntönne on hylätty.</Name>
+      <Name lang="sv">Er begäran om ändring är avslagen.</Name>
+      <Name lang="en">Your amendment request has been rejected.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0098</Code>
+      <Name lang="fi">Päätösesitys on ollut kuultavana. Vastine on annettu {0}. Päätösesitys on hyväksytty.</Name>
+      <Name lang="sv">Förslaget har skickats för bemötande. Ett  bemötande har avgetts {0}. Förslaget har accepterats.</Name>
+      <Name lang="en">The proposed decision has been sent for comments. A rejoinder has been provided {0}. The proposed decision has been approved.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0098</Code>
+      <Name lang="fi">Päätösesitys on ollut kuultavana. Vastine on annettu {0}. Päätösesitys on hyväksytty.</Name>
+      <Name lang="sv">Förslaget har skickats för bemötande. Ett  bemötande har avgetts {0}. Förslaget har accepterats.</Name>
+      <Name lang="en">The proposed decision has been sent for comments. A rejoinder has been provided {0}. The proposed decision has been approved.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0099</Code>
+      <Name lang="fi">Ilmoitus on mitätöity, koska yksityishenkilö tuojana ei maksanut tullivelkaa ja tavaran katsotaan palautuneen lähettäjälle.</Name>
+      <Name lang="sv">Deklarationen har ogiltigförklarats eftersom privatpersonen som importör inte betalade tullskulden och varorna anses ha återlämnats till avsändaren.</Name>
+      <Name lang="en">The declaration has been invalidated because private person as an importer did not paid the customs debt and the goods are deemed to be returned to the consignor.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0100</Code>
+      <Name lang="fi">Tämä päätös on muodostettu automaattisesti Tullin järjestelmässä.</Name>
+      <Name lang="sv">Detta beslut genereras automatiskt i tullsystemet.</Name>
+      <Name lang="en">This decision is automatically generated in the Customs system.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0102</Code>
+      <Name lang="fi">Tullauspäätös muodostettu kiintiöedun mukaisena, ennen kuin kiintiöön mahtuva määrä on selvillä. Tulli varaa vakuuden kriittisten tai jonokiintiöiden osalta. Mikäli tuontierä ei ole mahtunut kiintiöön tai vain osalle tavaroista myönnetään kiintiöetuus, Tulli tekee viranomaisaloitteisen jälkikannon.</Name>
+      <Name lang="sv">Förtullningsbeslutet har fattats i enlighet med kvotförmånen, innan mängden som ryms i kvoten är känd. Tullen reserverar en garanti för kritiska kvoter och kökvoter. Om importpartiet inte rymts i kvoten eller om kvotförmånen bara beviljas för en del av varorna, genomför Tullen en efteruppbörd på myndighetsinitiativ.</Name>
+      <Name lang="en">The customs clearance decision is generated according to the quota benefit before the quantity that falls within the quota is known. Customs reserves a guarantee for critical quotas or queue quotas. If the import consignment has not been accommodated by the quota, or a quota benefit is granted for only a part of the goods, Customs will carry out a subsequent levy on its own initiative.</Name>
+      <StartDate>2021-08-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0103</Code>
+      <Name lang="fi">Lisätietoja/huomautuksia  Mahdollinen verovelan vähentämisestä johtuva palautus maksetaan palautuksen saajan pankkitilille noin kahden kalenteriviikon kuluessa muutospäätöksen hyväksymispäivästä. Palautettava rahamäärä voi poiketa muutospäätöksellä annetusta verolajimuutosten yhteissummasta. Palautuksen määrään vaikuttavat muutoksen jälkeisen kannettavan määrän lisäksi maksettu määrä, maksun viivästymisestä aiheutuva viivekorko sekä palautuskoron määrä. Palautuskorko lasketaan tullilain (304/2016) 93 §:n mukaisesti oikaisuvaatimuksen vireilletulopäivästä tai, jos vero on maksettu vasta sen jälkeen, veron maksupäivästä takaisinmaksupäivään. Palautuskorkoa maksetaan vain silloin, kun päätös perustuu unionin tullikoodeksin (EU 952/2013) 116 (1) (a) artiklaan. Veroja ei palauteta, mikäli palautettava määrä jää alle unionin tullikoodeksin 116 (2) artiklassa säädetyn määrän, joka on 10 euroa. Lisätietoa saa tarvittaessa etunimi.sukunimi@tulli.fi.</Name>
+      <Name lang="sv">Ytterligare upplysningar/anmärkningar  En eventuell återbäring till följd av minskning av skatteskulden betalas in på återbäringsmottagarens bankkonto inom cirka två kalenderveckor efter dagen då ändringsbeslutet godkänts. Återbäringsbeloppet kan avvika från det sammanlagda belopp för skatteslagsändringarna som angetts i ändringsbeslutet. Beloppet på återbäringen beror utöver på det belopp som ska tas ut efter ändringen också på det belopp som betalats, beloppet på förseningsräntan på grund av försenad betalning samt på beloppet på återbäringsräntan. Återbäringsräntan räknas enligt 93 § i tullagen (304/2016) från den dag då begäran om omprövning blev anhängig eller, om skatten betalats först efter det, från betalningsdagen till den dag då beloppet återbetalas. Återbäringsränta betalas bara när beslutet grundar sig på artikel 116.1 a i unionstullkodexen (EU 952/2013). Skatt återbetalas inte om återbäringsbeloppet är mindre än beloppet enligt artikel 116.2 i tullkodexen, dvs. mindre än 10 euro. Mera information: fornamn.efternamn@tulli.fi.</Name>
+      <Name lang="en">Additional information/remarks  Any refund due to reduction of the tax debt will be paid to the bank account of the payee within two calendar weeks from the date of acceptance of the amendment decision. The amount refunded may differ from the total amount of the tax type changes stated on the amendment decision. The amount refunded depends not only on the amount to be imposed after the amendment, but also on the amount paid, the penalty interest for late payment and the amount of repayment interest. As laid down in section 93 of the Customs Act of Finland (304/2016), the repayment interest will be calculated from the date when the claim for a revised decision became pending or, if the tax was paid only after this date, from the date of payment of the tax to the date of repayment. Repayment interest will only be paid when the decision is based on Article 116(1)(a) of the Union Customs Code (EU 952/2013). Taxes will not be repaid if the amount to be repaid is below the amount laid down in Article 116(2) of the Union Customs Code, that is, below EUR 10. For more information, contact firstname.lastname@tulli.fi.</Name>
+      <StartDate>2019-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0106</Code>
+      <Name lang="fi">Erä luovutetaan vapaaseen liikkeeseen VI1-todistuksen kopiolla. Tuojan/asiamiehen velvollisuus on huolehtia alkuperäisen VI1-todistuksen toimittamisesta Tulliin merkitsemistä varten.</Name>
+      <Name lang="sv">Varupartiet frigörs för övergång till fri omsättning med en kopia av VI-1-intyget. Importören/ombudet har skyldigheten att se till att originalet av VI-1-intyget lämnas in till Tullen för påskrift.</Name>
+      <Name lang="en">The consignment is released into free circulation using a copy of the VI-1 certificate. The importer/agent is responsible for ensuring that the original VI-1 certificate is submitted to Customs for endorsement.</Name>
+      <StartDate>2021-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0118</Code>
+      <Name lang="fi">Tulli on mitätöinyt tullauksen viranomaisaloitteisesti, koska tulli-ilmoituksella ei ole tietoa rikkinäisen tavaran viennistä unionin ulkopuolelle, joten verottoman tullimenettelyn edellytykset eivät täyty. Tehkää uusi tullaus Henkilöasiakkaiden tuontitullauspalvelussa valitsemalla haluan tullata listalta "Ostamani tavaran”.  Ilmoita tullatessasi arvoksi tavaran todellinen arvo ja maksa maahantuontiverot. Voit hakea Tullilta oikaisua viallista tavaraa koskevaan alkuperäiseen tullaukseen tekemällä vapaamuotoisen oikaisuhakemuksen, lisäohjeet https://tulli.fi/henkiloasiakkaat/tullauspaatoksen-oikaisu</Name>
+      <Name lang="sv">Tullen har ogiltigförklarat förtullningen på myndighetsinitiativ eftersom tulldeklarationen inte innehåller någon information om export av en trasig vara till ett område utanför unionen, och därmed uppfylls inte förutsättningarna för skattefritt tullförfarande. Gör en ny förtullning i Importförtullningstjänsten för privatpersoner genom att i listan ”Jag vill förtulla” välja ”en vara jag köpt”.  När du förtullar varan ange varans faktiska värde som värde och betala importskatterna. Du kan hos Tullen ansöka om omprövning av den ursprungliga förtullningen av den defekta varan genom att lämna in en fritt formulerad omprövningsansökan. Mer detaljerade anvisningar om detta hittar du här: https://tulli.fi/sv/privatpersoner/omprovning-av-fortullningsbeslut</Name>
+      <Name lang="en">Customs has invalidated the clearance transaction on its own initiative, as there is no information in the customs declaration concerning export of a broken item outside the Union and therefore the requirements for a tax-exempt customs procedure are not fulfilled. Submit a new declaration in the Import Declaration Service for private persons by selecting “goods I’ve purchased” under ”I wish to declare”.  In the declaration, enter the actual value of the goods as the value and pay the import taxes. You can submit a free-form application to Customs asking for a revision of the original customs clearance involving the defective product. More guidance is available at https://tulli.fi/en/private-persons/appealing-against-a-customs-clearance-decision</Name>
+      <StartDate>2021-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0119</Code>
+      <Name lang="fi">Tavaroilla on 12 kuukauden luovutusrajoitus vapaaseen liikkeeseen luovutuksesta (TtA 8 art.)</Name>
+      <Name lang="sv">Varorna omfattas av 12 månaders överlåtelsebegränsning efter övergången till fri omsättning (TfriF art. 8).</Name>
+      <Name lang="en">The goods are under a 12-month prohibition of release into free circulation (Council Regulation on reliefs from customs duty, Article 8).</Name>
+      <StartDate>2020-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0120</Code>
+      <Name lang="fi">Tuojan on pystyttävä jälkikäteen osoittamaan käyttämänsä kauppahintaan perustuvan tulohinnan todenperäisyys. Tämän vuoksi tuojan on esitettävä tuontierän jälleenmyyntien hinnat esittämällä näihin jälleenmyynteihin liittyvät myyntikauppalaskut. Laskut on esitettävä kuukauden sisällä tuotteiden myynnistä, mutta kuitenkin neljän kuukauden sisällä tuotteiden vapaaseen liikkeeseen luovuttamisesta. Vakuutta on varattu X euroa. Vakuus vapautetaan siltä osin kuin todisteet jälleenmyyntiä koskevien edellytysten noudattamisesta on esitetty tulliviranomaisia tyydyttävällä tavalla (THT 7.6.2017). Jälleenmyyntien kauppalaskut on lähetettävä sähköpostilla helsinki.varastotarkastus@tulli.fi</Name>
+      <Name lang="sv">sv: Tuojan on pystyttävä jälkikäteen osoittamaan käyttämänsä kauppahintaan perustuvan tulohinnan todenperäisyys. Tämän vuoksi tuojan on esitettävä tuontierän jälleenmyyntien hinnat esittämällä näihin jälleenmyynteihin liittyvät myyntikauppalaskut. Laskut on esitettävä kuukauden sisällä tuotteiden myynnistä, mutta kuitenkin neljän kuukauden sisällä tuotteiden vapaaseen liikkeeseen luovuttamisesta. Vakuutta on varattu X euroa. Vakuus vapautetaan siltä osin kuin todisteet jälleenmyyntiä koskevien edellytysten noudattamisesta on esitetty tulliviranomaisia tyydyttävällä tavalla (THT 7.6.2017). Jälleenmyyntien kauppalaskut on lähetettävä sähköpostilla helsinki.varastotarkastus@tulli.fi</Name>
+      <Name lang="en">en. Tuojan on pystyttävä jälkikäteen osoittamaan käyttämänsä kauppahintaan perustuvan tulohinnan todenperäisyys. Tämän vuoksi tuojan on esitettävä tuontierän jälleenmyyntien hinnat esittämällä näihin jälleenmyynteihin liittyvät myyntikauppalaskut. Laskut on esitettävä kuukauden sisällä tuotteiden myynnistä, mutta kuitenkin neljän kuukauden sisällä tuotteiden vapaaseen liikkeeseen luovuttamisesta. Vakuutta on varattu X euroa. Vakuus vapautetaan siltä osin kuin todisteet jälleenmyyntiä koskevien edellytysten noudattamisesta on esitetty tulliviranomaisia tyydyttävällä tavalla (THT 7.6.2017). Jälleenmyyntien kauppalaskut on lähetettävä sähköpostilla helsinki.varastotarkastus@tulli.fi</Name>
+      <StartDate>2020-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0196</Code>
+      <Name lang="fi">Myönnetty delegoidun asetuksen 147 artiklan mukainen lupa esittää kauppalasku myöhemmin. Lisätty tulli-ilmoitukselle jälkikäteen toimitetun kauppalaskun numero ja korjattu tullaus- ja tilastoarvo kauppalaskussa esitetyn mukaisesti.</Name>
+      <Name lang="sv">sv: Myönnetty delegoidun asetuksen 147 artiklan mukainen lupa esittää kauppalasku myöhemmin. Lisätty tulli-ilmoitukselle jälkikäteen toimitetun kauppalaskun numero ja korjattu tullaus- ja tilastoarvo kauppalaskussa esitetyn mukaisesti.</Name>
+      <Name lang="en">en. Myönnetty delegoidun asetuksen 147 artiklan mukainen lupa esittää kauppalasku myöhemmin. Lisätty tulli-ilmoitukselle jälkikäteen toimitetun kauppalaskun numero ja korjattu tullaus- ja tilastoarvo kauppalaskussa esitetyn mukaisesti.</Name>
+      <StartDate>2019-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0198</Code>
+      <Name lang="fi">Vastauksen määräaika on umpeutunut. Tullaus mitätöidään.</Name>
+      <Name lang="sv">sv: Vastauksen määräaika on umpeutunut. Tullaus mitätöidään.</Name>
+      <Name lang="en">en. Vastauksen määräaika on umpeutunut. Tullaus mitätöidään.</Name>
+      <StartDate>2019-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0204</Code>
+      <Name lang="fi">Asiamies Transmar Ab hakee mitätöintiä tullauspäätökselle, koska tullaus on tehty väärälle tuojalle. Korvaava tullaus oikealle tuojalle on tehty.  Tulli mitätöi asiamiehen hakemuksesta tullauspäätöksen. Uusi korvaava tullaus oikein tiedoin on tehty.</Name>
+      <Name lang="sv">Ombudet Transmar Ab ansöker om annullering av förtullningsbeslut på grund av att förtullningen har gjorts för fel importör. En ersättande förtullning har gjorts för den rätta importören.  Tullen annullerar på basis av ombudets ansökan förtullningsbeslutet. En ny ersättande förtullning med korrekta uppgifter har gjorts.</Name>
+      <Name lang="en">Asiamies Transmar Ab hakee mitätöintiä tullauspäätökselle, koska tullaus on tehty väärälle tuojalle. Korvaava tullaus oikealle tuojalle on tehty.  Tulli mitätöi asiamiehen hakemuksesta tullauspäätöksen. Uusi korvaava tullaus oikein tiedoin on tehty.</Name>
+      <StartDate>2019-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D2007</Code>
+      <Name lang="fi">Tavara on tarkastettu/Tavarasta on otettu näyte oikean verokohtelun määrittämiseksi. Tavaraopilliset tutkimukset ovat kesken ja ne voivat johtaa luovutusvaiheessa ilmoitettujen tietojen muuttumiseen ja mahdollisesti myös jälkikantoon.</Name>
+      <Name lang="sv">Varan har granskats /På varan har tagits prov för att fastställa rätt skattebehandling. De varutekniska undersökningarna är inte färdiga och kan i överlåttelseskedet leda till att de deklarerade uppgifterna ändras och eventuellt också till efteruppbörd.</Name>
+      <Name lang="en">The goods have been inspected / A sample has been taken of the goods to determine the correct tax treatment. Examinations to determine the commodity code are still underway and they may change the declaration details provided at the point of release and</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DE001</Code>
+      <Name lang="fi">Ilmoitus on mitätöity asiakkaan pyynnöstä.</Name>
+      <Name lang="sv">Deklarationen har ogiltigförklarats på kundens begäran.</Name>
+      <Name lang="en">The declaration has been invalidated at the customer’s request.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-04</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DE001</Code>
+      <Name lang="fi">Ilmoitus on mitätöity asiakkaan pyynnöstä.</Name>
+      <Name lang="sv">Deklarationen har ogiltigförklarats på kundens begäran.</Name>
+      <Name lang="en">The declaration has been invalidated at the customer’s request.</Name>
+      <StartDate>2021-05-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DE002</Code>
+      <Name lang="fi">Pyyntönne mitätöidä ilmoitus on hylätty.</Name>
+      <Name lang="sv">Er begäran om ogiltigförklaring av deklarationen har avvisats.</Name>
+      <Name lang="en">Your request to invalidate the declaration has been rejected.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DE002</Code>
+      <Name lang="fi">Pyyntönne mitätöidä ilmoitus on hylätty.</Name>
+      <Name lang="sv">Er begäran om ogiltigförklaring av deklarationen har avvisats.</Name>
+      <Name lang="en">Your request to invalidate the declaration has been rejected.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DE003</Code>
+      <Name lang="fi">Tulli on tarkastanut tavaran.</Name>
+      <Name lang="sv">Tullen har granskat varan.</Name>
+      <Name lang="en">Customs has inspected the goods.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DE003</Code>
+      <Name lang="fi">Tulli on tarkastanut tavaran.</Name>
+      <Name lang="sv">Tullen har granskat varan.</Name>
+      <Name lang="en">Customs has inspected the goods.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PresentationOfGoods</Code>
+      <Name lang="fi">Tulli on mitätöinyt ilmoituksen. Tavaroita ei ole esitetty Tullille 30 päivän kuluessa ilmoituksen antamisesta. UTK 171</Name>
+      <Name lang="sv">Tullen har ogiltigförklarat deklarationen. Varornas ankomst har inte anmälts till Tullen inom 30 dagar från inlämnandet av deklarationen. UTK 171</Name>
+      <Name lang="en">Customs has invalidated the declaration. The goods were not presented to Customs within 30 days of lodging of the declaration. UCC, Article 171</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PresentationOfGoods</Code>
+      <Name lang="fi">Tulli on mitätöinyt ilmoituksen. Tavaroita ei ole esitetty Tullille 30 päivän kuluessa ilmoituksen antamisesta. UTK 171</Name>
+      <Name lang="sv">Tullen har ogiltigförklarat deklarationen. Varornas ankomst har inte anmälts till Tullen inom 30 dagar från inlämnandet av deklarationen. UTK 171</Name>
+      <Name lang="en">Customs has invalidated the declaration. The goods were not presented to Customs within 30 days of lodging of the declaration. UCC, Article 171</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ValidationAfterPresentationOfGoods</Code>
+      <Name lang="fi">Tulli on mitätöinyt ilmoituksen. Tulli-ilmoitus sisälsi virheellisiä tietoja esittämishetkellä voimassaolevien sääntöjen mukaan.</Name>
+      <Name lang="sv">Tullen har ogiltigförklarat deklarationen. Tulldeklarationen innehöll felaktiga uppgifter enligt ikraftvarande regler vid tidpunkten då varornas ankomst anmäldes.</Name>
+      <Name lang="en">Customs has invalidated the declaration. The customs declaration contained incorrect details according to the rules valid at the time of presentation.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2021-05-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ValidationAfterPresentationOfGoods</Code>
+      <Name lang="fi">Tulli on mitätöinyt ilmoituksen. Tulli-ilmoitus sisälsi virheellisiä tietoja esittämishetkellä voimassaolevien sääntöjen mukaan.</Name>
+      <Name lang="sv">Tullen har ogiltigförklarat deklarationen. Tulldeklarationen innehöll felaktiga uppgifter enligt ikraftvarande regler vid tidpunkten då varornas ankomst anmäldes.</Name>
+      <Name lang="en">Customs has invalidated the declaration. The customs declaration contained incorrect details according to the rules valid at the time of presentation.</Name>
+      <StartDate>2021-05-06</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+  </CodeList>
+  <CodeList>
     <Identification>NCL056</Identification>
     <Name lang="fi">Verotuksellisen lisäviitetiedon roolikoodi</Name>
     <Name lang="sv">Rollkod för ytterligare skatterelaterad referensuppgift</Name>
@@ -34951,6 +36581,68 @@ customs warehousing procedure</Description>
     </CodeItem>
   </CodeList>
   <CodeList>
+    <Identification>NCL295</Identification>
+    <Name lang="fi">Tullistatus</Name>
+    <Name lang="sv">Tullstatus</Name>
+    <Name lang="en">Customs status</Name>
+    <CodeItem>
+      <Code>C</Code>
+      <Name lang="fi">Yhteisötavarat</Name>
+      <Name lang="sv">Gemenskapsvaror</Name>
+      <Name lang="en">Community goods</Name>
+      <StartDate>2008-08-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>F</Code>
+      <Name lang="fi">Veroalueen rajan ylittävä yhteisötavara</Name>
+      <Name lang="sv">Gemenskapsvaror som förs över skattegränsen</Name>
+      <Name lang="en">Community goods crossing the fiscal border</Name>
+      <StartDate>2008-08-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>N</Code>
+      <Name lang="fi">Muut tavarat</Name>
+      <Name lang="sv">Andra varor</Name>
+      <Name lang="en">All other goods</Name>
+      <StartDate>2008-08-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>T1</Code>
+      <Name lang="fi">Ulkoinen passitusmenettely</Name>
+      <Name lang="sv">Förfarande för extern transitering</Name>
+      <Name lang="en">External transit procedure</Name>
+      <StartDate>2008-08-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TD</Code>
+      <Name lang="fi">Jo passitus- tai siirtomenettelyssä  oleva tavara</Name>
+      <Name lang="sv">Redan överlåtits till transiterings- /överföröringsför</Name>
+      <Name lang="en">Goods already in transit or transfer procedure</Name>
+      <StartDate>2008-08-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TF</Code>
+      <Name lang="fi">Veroalueen ylittävä yhteisötavara</Name>
+      <Name lang="sv">Gemenskapsvaror som förs genom skatteområdet</Name>
+      <Name lang="en">Community goods crossing the fiscal territory</Name>
+      <StartDate>2008-08-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>X</Code>
+      <Name lang="fi">Yhteisötavaran vienti</Name>
+      <Name lang="sv">Export av gemenskapsvaror</Name>
+      <Name lang="en">Community goods to be exported</Name>
+      <StartDate>2008-08-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+  </CodeList>
+  <CodeList>
     <Identification>NCL421</Identification>
     <Name lang="fi">Tarkastustyyppi</Name>
     <Description lang="fi">Tullin tarkastuksen tyyppi</Description>
@@ -35294,5 +36986,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-05-11T06:05:04.880</Generated>
+  <Generated>2022-05-12T09:04:49.510</Generated>
 </CodeLists>
