@@ -6899,7 +6899,7 @@
   <CodeList>
     <Identification>CL014</Identification>
     <Name lang="fi">Edeltävän asiakirjan tyyppi</Name>
-    <Name lang="sv">Typ av föregående dokument</Name>
+    <Name lang="sv">Typ av tidigare dokument</Name>
     <Name lang="en">Previous document type</Name>
     <CodeItem>
       <Code>337</Code>
@@ -7217,7 +7217,7 @@
     <CodeItem>
       <Code>IM</Code>
       <Name lang="fi">Tuonti-ilmoitus</Name>
-      <Name lang="sv">Import deklaration</Name>
+      <Name lang="sv">Importdeklaration</Name>
       <Name lang="en">Import declaration</Name>
       <StartDate>2021-01-21</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -7295,7 +7295,7 @@
     <CodeItem>
       <Code>ZZZ</Code>
       <Name lang="fi">Muu edeltävä asiakirja</Name>
-      <Name lang="sv">Annan tidigare dokument</Name>
+      <Name lang="sv">Annat tidigare dokument</Name>
       <Name lang="en">Other previous document</Name>
       <StartDate>2020-06-11</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -10755,7 +10755,7 @@
     <Identification>CL039G</Identification>
     <Name lang="fi">Lisätieto - tavaraerätaso</Name>
     <Description lang="fi">Tulli-ilmoituksen tavaraerään liittyvät lisätietokoodit</Description>
-    <Name lang="sv">Ytterligare information - varupostnivå</Name>
+    <Name lang="sv">Ytterligare uppgifter - varupostnivå</Name>
     <Description lang="sv">Koder för ytterligare information som hänför sig till varupostnivån av en tulldeklaration</Description>
     <Name lang="en">Additional information - goods item level</Name>
     <Description lang="en">Additional information codes that are related to the goods item level of a customs declaration</Description>
@@ -12108,7 +12108,7 @@
     <CodeItem>
       <Code>FIPER</Code>
       <Name lang="fi">Koontiajanjakson pituus (W = viikko, M = kuukausi)</Name>
-      <Name lang="sv">Längden på aggregeringsperioden (W = vecka, M = månad)</Name>
+      <Name lang="sv">Sammanfattande periodens längd (W = vecka, M = månad)</Name>
       <Name lang="en">Length of the aggregation period (W = week, M = month)</Name>
       <StartDate>2021-04-15</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -12234,10 +12234,10 @@
     <CodeItem>
       <Code>FIPRE</Code>
       <Name lang="fi">Toissijainen etuuskohtelu</Name>
-      <Name lang="sv">Sekondär förmåner</Name>
+      <Name lang="sv">Sekundär förmånsbehandling</Name>
       <Name lang="en">Secondary preference</Name>
       <StartDate>2021-04-15</StartDate>
-      <EndDate>2032-12-31</EndDate>
+      <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
         <Value>0</Value>
@@ -13467,7 +13467,7 @@ Vehicle production number</Description>
     <Identification>CL039H</Identification>
     <Name lang="fi">Lisätieto - otsikkotaso</Name>
     <Description lang="fi">Tulli-ilmoituksen otsikon tasolla ilmoitettavat lisätietokoodit</Description>
-    <Name lang="sv">Ytterligare information - huvudnivå</Name>
+    <Name lang="sv">Ytterligare uppgifter - huvudnivå</Name>
     <Description lang="sv">Koder för ytterligare information som hänför sig till hela tulldeklarationen</Description>
     <Name lang="en">Additional information - header level</Name>
     <Description lang="en">Additional information codes that are related to the entire customs declaration</Description>
@@ -15154,7 +15154,7 @@ Vehicle production number</Description>
     <CodeItem>
       <Code>FIPER</Code>
       <Name lang="fi">Koontiajanjakson pituus (W = viikko, M = kuukausi)</Name>
-      <Name lang="sv">Längden på aggregeringsperioden (W = vecka, M = månad)</Name>
+      <Name lang="sv">Sammanfattande periodens längd (W = vecka, M = månad)</Name>
       <Name lang="en">Length of the aggregation period (W = week, M = month)</Name>
       <StartDate>2021-04-15</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -17402,7 +17402,7 @@ Vehicle production number</Description>
     <CodeItem>
       <Code>11</Code>
       <Name lang="fi">Suora myynti/osto</Name>
-      <Name lang="sv">Fast försäljning/köp</Name>
+      <Name lang="sv">Direkt försäljning/köp</Name>
       <Name lang="en">Outright purchase/sale</Name>
       <StartDate>2022-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -17554,7 +17554,7 @@ Vehicle production number</Description>
     <CodeItem>
       <Code>41</Code>
       <Name lang="fi">Palkkatyötä varten toim. tavarat, palautus alkuperäiseen jäsenvaltioon/vientimaahan</Name>
-      <Name lang="sv">Varor för lönbearbetning som återföras till den ursprungliga exporterande medlemsstaten/det ursprungliga exportlandet</Name>
+      <Name lang="sv">Varor för lönbearbetning som förväntas återföras till den ursprungliga exporterande medlemsstaten/det ursprungliga exportlandet</Name>
       <Name lang="en">Goods for processing under contract expected to return to the initial Member State/country of export</Name>
       <StartDate>2022-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -17570,7 +17570,7 @@ Vehicle production number</Description>
     <CodeItem>
       <Code>42</Code>
       <Name lang="fi">Palkkatyötä varten toim. tavarat, eivät palaudu alkuperäiseen jäsenvaltioon/vientimaahan</Name>
-      <Name lang="sv">Varor för lönbearbetning som inte återföras till den ursprungliga exporterande medlemsstaten/det ursprungliga exportlandet</Name>
+      <Name lang="sv">Varor för lönbearbetning som inte förväntas återföras till den ursprungliga exporterande medlemsstaten/det ursprungliga exportlandet</Name>
       <Name lang="en">Goods for processing under contract not expected to return to the initial Member State/country of export</Name>
       <StartDate>2022-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -17586,7 +17586,7 @@ Vehicle production number</Description>
     <CodeItem>
       <Code>51</Code>
       <Name lang="fi">Tavaroiden palautus palkkatyöstä alkuperäiseen jäsenvaltioon/vientimaahan</Name>
-      <Name lang="sv">Returnering av varor efter lönbearbetning till den ursprungliga exporterande medlemsstaten/det ursprungliga exportlandet</Name>
+      <Name lang="sv">Varor som efter lönbearbetning återförs till den ursprungliga exporterande medlemsstaten/det ursprungliga exportlandet</Name>
       <Name lang="en">Returning goods after processing under contract to the initial Member State/country of export</Name>
       <StartDate>2022-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -17602,7 +17602,7 @@ Vehicle production number</Description>
     <CodeItem>
       <Code>52</Code>
       <Name lang="fi">Tavaroiden palautus palkkatyöstä muualle kuin alkuperäiseen jäsenvaltioon/vientimaahan</Name>
-      <Name lang="sv">Returnering av varor efter lönbearbetning, ej till den ursprungliga exporterande medlemsstaten/det ursprungliga exportlandet</Name>
+      <Name lang="sv">Varor som efter lönbearbetning inte återförs till den ursprungliga exporterande medlemsstaten/det ursprungliga exportlandet</Name>
       <Name lang="en">Returning goods after processing under contract, not to the initial Member State/country of export</Name>
       <StartDate>2022-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -36986,5 +36986,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-05-12T09:04:49.510</Generated>
+  <Generated>2022-05-18T08:56:52.383</Generated>
 </CodeLists>
