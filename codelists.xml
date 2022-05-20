@@ -5808,9 +5808,17 @@
     </CodeItem>
     <CodeItem>
       <Code>Y124</Code>
-      <Name lang="fi">Undertaking importing smaller amount of fluorinated greenhouse gases per year than that specified in Article 19.1 for bulk imports and 19.4 for products and equipment imports, and therefore not covered by the registration requirement according to Art. 19.</Name>
+      <Name lang="fi">Yritys, joka tuo fluorattuja kasvihuonekaasuja vuosittain vähemmän kuin 19 art.1 kohdassa eritellyn määrän irtotavaratuonnin osalta ja vähemmän kuin 19 art. 4 kohdassa eritellyn määrän tuotteiden ja laitteiden tuonnin osalta ja johon ei tämän vuoksi sovel</Name>
       <Name lang="sv">Företag som importerar mindre mängder fluorerade växthusgaser per år än den som anges i artikel 19.1 för bulkimport och 19.4 för import av produkter och utrustning, och som därför inte omfattas av registreringskravet enligt artiklarna 19.1 och 19.4 i föro</Name>
       <Name lang="en">Undertaking importing smaller amount of fluorinated greenhouse gases per year than that specified in Article 19.1 for bulk imports and 19.4 for products and equipment imports, and therefore not covered by the registration requirement according to Art. 19.</Name>
+      <StartDate>2022-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y125</Code>
+      <Name lang="fi">Tuonti, joka kuuluu EU:n markkinoille saatettujen fluorihiilivetyjen määrän vähentämistä koskevan asetuksen (EU) N:o 517/2014 15 artiklan 1 kohdan soveltamisalaan</Name>
+      <Name lang="sv">Import som omfattas av artikel 15.1 i förordning (EU) nr 517/2014 avseende minskning av mängden fluorkolväten som släpps ut på EU-marknaden</Name>
+      <Name lang="en">Import falling under Article 15.1 of Regulation (EU) N° 517/2014 on the reduction of the quantity of hydrofluorocarbons placed on the EU market</Name>
       <StartDate>2022-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -13226,36 +13234,6 @@ Vehicle production number</Description>
       </Filter>
     </CodeItem>
     <CodeItem>
-      <Code>FIXCB</Code>
-      <Name lang="fi">Ajoneuvon valmistenumero TESTI</Name>
-      <Description lang="fi">Ajoneuvon valmistenumero
-Fordonets tillverkningsnummer
-Vehicle production number</Description>
-      <Name lang="sv">Fordonets tillverkningsnummer TESTI</Name>
-      <Name lang="en">Vehicle production number TESTI</Name>
-      <StartDate>2021-05-18</StartDate>
-      <EndDate>2050-12-31</EndDate>
-      <Filter>
-        <Name>Filter_CWAR</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_ENTRY</Name>
-        <Value>1</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_EXP</Name>
-      </Filter>
-      <Filter>
-        <Name>Filter_IMP</Name>
-        <Value>1</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_TRA</Name>
-        <Value>0</Value>
-      </Filter>
-    </CodeItem>
-    <CodeItem>
       <Code>FIXEG</Code>
       <Name lang="fi">Ulkoinen jalostusmenettely EX/IM: Vastaavien tavaroiden käyttäminen UTK artikla 223 (1) 2 alakohta</Name>
       <Name lang="sv">Förfarande för passiv förädling EX/IM: Användning av likvärdiga varor, artikel 223.1.2 i UTK</Name>
@@ -16227,8 +16205,11 @@ Vehicle production number</Description>
     <CodeItem>
       <Code>FIXBH</Code>
       <Name lang="fi">Menettelyn päättämisen määräaika (pituus kuukausina;perustelut)</Name>
+      <Description lang="fi">Tiedoksi ilmoitetaan määräajan pituus kuukausina ja perustelut muodossa ”pituus kuukausina;perustelut”.</Description>
       <Name lang="sv">Tid för avslutande av förfarandet (längd i månader; motiveringar)</Name>
+      <Description lang="sv">The detail is provided in the form of the length of the period for discharge in months and reasons in the format “length in months;reasons”.</Description>
       <Name lang="en">Period for discharge (lenght in months;reasons)</Name>
+      <Description lang="en">Som uppgift anges tid för avslutande av förfarandet i månader och motiveringar i formen (längd i månader;motiveringar).</Description>
       <StartDate>2021-04-15</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -16433,8 +16414,11 @@ Vehicle production number</Description>
     <CodeItem>
       <Code>FIXBP</Code>
       <Name lang="fi">Jalostetut tuotteet (CN-koodi;tavarankuvaus)</Name>
+      <Description lang="fi">Tiedoksi ilmoitetaan tullinimike (CN) ja tavarankuvaus muodossa ”CN-koodi;tavarankuvaus”.</Description>
       <Name lang="sv">Förädlade produkter (CN-kod;varubeskrivning)</Name>
+      <Description lang="sv">Som uppgift anges varukoden (KN) och varubeskrivningen i formen ”KN-nummer;varubeskrivning”.</Description>
       <Name lang="en">Processed products (CN code;description)</Name>
+      <Description lang="en">The detail is provided in the form of the commodity code (CN) and goods description in the format “CN code;goods description”.</Description>
       <StartDate>2021-04-15</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -16484,8 +16468,11 @@ Vehicle production number</Description>
     <CodeItem>
       <Code>FIXBQ</Code>
       <Name lang="fi">Tunnistusmenetelmä</Name>
+      <Description lang="fi">Lisätiedon kuvaukseksi ilmoitetaan tunnistusmenetelmän numeerinen koodi ja sen kuvaus. Esimerkiksi koodi 1 edellyttää sarjanumeroa. Tieto ilmoitetaan muodossa ”1;123456”. Katso koodit Tullin menettelykohtaisilta verkkosivuilta.</Description>
       <Name lang="sv">Identifieringsmetod</Name>
+      <Description lang="sv">Som beskrivning för den ytterligare uppgiften anges den numeriska koden för identifieringsmetoden samt dess beskrivning. Till exempel kräver koden 1 ett serienummer. Uppgiften anges i formen ”1;123456”. Se koderna på Tullens förfarandespecifika webbsidor.</Description>
       <Name lang="en">Identification of goods</Name>
+      <Description lang="en">As the additional information description, enter the numeric code and description of the identification method. For example, code 1 requires a serial number. Enter the detail in the format “1;123456”. See the codes on Customs’ procedure-specific webpages.</Description>
       <StartDate>2021-04-15</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -22851,9 +22838,17 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>Y124</Code>
-      <Name lang="fi">Undertaking importing smaller amount of fluorinated greenhouse gases per year than that specified in Article 19.1 for bulk imports and 19.4 for products and equipment imports, and therefore not covered by the registration requirement according to Art. 19.</Name>
+      <Name lang="fi">Yritys, joka tuo fluorattuja kasvihuonekaasuja vuosittain vähemmän kuin 19 art.1 kohdassa eritellyn määrän irtotavaratuonnin osalta ja vähemmän kuin 19 art. 4 kohdassa eritellyn määrän tuotteiden ja laitteiden tuonnin osalta ja johon ei tämän vuoksi sovel</Name>
       <Name lang="sv">Företag som importerar mindre mängder fluorerade växthusgaser per år än den som anges i artikel 19.1 för bulkimport och 19.4 för import av produkter och utrustning, och som därför inte omfattas av registreringskravet enligt artiklarna 19.1 och 19.4 i föro</Name>
       <Name lang="en">Undertaking importing smaller amount of fluorinated greenhouse gases per year than that specified in Article 19.1 for bulk imports and 19.4 for products and equipment imports, and therefore not covered by the registration requirement according to Art. 19.</Name>
+      <StartDate>2022-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y125</Code>
+      <Name lang="fi">Tuonti, joka kuuluu EU:n markkinoille saatettujen fluorihiilivetyjen määrän vähentämistä koskevan asetuksen (EU) N:o 517/2014 15 artiklan 1 kohdan soveltamisalaan</Name>
+      <Name lang="sv">Import som omfattas av artikel 15.1 i förordning (EU) nr 517/2014 avseende minskning av mängden fluorkolväten som släpps ut på EU-marknaden</Name>
+      <Name lang="en">Import falling under Article 15.1 of Regulation (EU) N° 517/2014 on the reduction of the quantity of hydrofluorocarbons placed on the EU market</Name>
       <StartDate>2022-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -36986,5 +36981,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-05-18T08:56:52.383</Generated>
+  <Generated>2022-05-20T09:39:09.317</Generated>
 </CodeLists>
