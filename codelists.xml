@@ -4501,6 +4501,22 @@
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>L137</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) 833/2014 3m.5 artiklan mukainen tuontilupa (Bulgaria)</Name>
+      <Name lang="sv">Importtillstånd i enlighet med artikel 3m.5 i rådets förordning (EU) 833/2014 (Bulgarien)</Name>
+      <Name lang="en">Import authorisation by virtue of article 3m.5 of Council Regulation (EU) 833/2014 (Bulgaria)</Name>
+      <StartDate>2022-06-04</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>L138</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) 833/2014 (Kroatia) 3m.6 artiklan mukainen tuontilupa</Name>
+      <Name lang="sv">Importtillstånd i enlighet med artikel 3m.6 i rådets förordning (EU) 833/2014 (Kroatien)</Name>
+      <Name lang="en">Import authorisation by virtue of article 3m.6 of Council Regulation (EU) 833/2014 (Croatia)</Name>
+      <StartDate>2022-06-04</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>N002</Code>
       <Name lang="fi">Tuoreisiin hedelmiin ja vihanneksiin sovellettavia Euroopan unionin kaupan pitämisen vaatimuksia koskeva vaatimustenmukaisuustodistus</Name>
       <Name lang="sv">Intyg om överensstämmelse med Europeiska unionens handelsnormer för färsk frukt och färska grönsaker</Name>
@@ -5916,6 +5932,30 @@
       <Name lang="sv">Förbuden i artikel 3j.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3j.3)</Name>
       <Name lang="en">The prohibitions defined in article 3j.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3j.3)</Name>
       <StartDate>2022-04-09</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y840</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3m.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3m.3 artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3m.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3m.3)</Name>
+      <Name lang="en">The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3m.3)</Name>
+      <StartDate>2022-06-04</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y841</Code>
+      <Name lang="fi">fi: The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in articles 3m.3 (d) and 3m.4)</Name>
+      <Name lang="sv">sv: The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in articles 3m.3 (d) and 3m.4)</Name>
+      <Name lang="en">The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in articles 3m.3 (d) and 3m.4)</Name>
+      <StartDate>2022-06-04</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y842</Code>
+      <Name lang="fi">fi: The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3m.9)</Name>
+      <Name lang="sv">sv: The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3m.9)</Name>
+      <Name lang="en">The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3m.9)</Name>
+      <StartDate>2022-06-04</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -22949,6 +22989,30 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>Y840</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3m.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3m.3 artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3m.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3m.3)</Name>
+      <Name lang="en">The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3m.3)</Name>
+      <StartDate>2022-06-04</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y841</Code>
+      <Name lang="fi">fi: The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in articles 3m.3 (d) and 3m.4)</Name>
+      <Name lang="sv">sv: The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in articles 3m.3 (d) and 3m.4)</Name>
+      <Name lang="en">The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in articles 3m.3 (d) and 3m.4)</Name>
+      <StartDate>2022-06-04</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y842</Code>
+      <Name lang="fi">fi: The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3m.9)</Name>
+      <Name lang="sv">sv: The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3m.9)</Name>
+      <Name lang="en">The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3m.9)</Name>
+      <StartDate>2022-06-04</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>Y900</Code>
       <Name lang="fi">Ilmoitetut tavarat eivät kuulu Washingtonin yleissopimukseen (CITES)</Name>
       <Name lang="sv">Deklarerade varor återfinns inte i Washington-konventionen (CITES)</Name>
@@ -36981,5 +37045,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-05-20T09:39:09.317</Generated>
+  <Generated>2022-06-07T06:05:04.113</Generated>
 </CodeLists>
