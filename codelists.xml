@@ -4502,16 +4502,16 @@
     </CodeItem>
     <CodeItem>
       <Code>L137</Code>
-      <Name lang="fi">Neuvoston asetuksen (EU) 833/2014 3m.5 artiklan mukainen tuontilupa (Bulgaria)</Name>
-      <Name lang="sv">Importtillstånd i enlighet med artikel 3m.5 i rådets förordning (EU) 833/2014 (Bulgarien)</Name>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 m artiklan 5 kohdan mukainen tuontilupa (Bulgaria)</Name>
+      <Name lang="sv">Importtillstånd enligt artikel 3m.5 i rådets förordning (EU) nr 833/2014 (Bulgarien)</Name>
       <Name lang="en">Import authorisation by virtue of article 3m.5 of Council Regulation (EU) 833/2014 (Bulgaria)</Name>
       <StartDate>2022-06-04</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>L138</Code>
-      <Name lang="fi">Neuvoston asetuksen (EU) 833/2014 (Kroatia) 3m.6 artiklan mukainen tuontilupa</Name>
-      <Name lang="sv">Importtillstånd i enlighet med artikel 3m.6 i rådets förordning (EU) 833/2014 (Kroatien)</Name>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 m artiklan 6 kohdan mukainen tuontilupa (Kroatia)</Name>
+      <Name lang="sv">Importtillstånd enligt artikel 3m.6 i rådets förordning (EU) nr 833/2014 (Kroatien)</Name>
       <Name lang="en">Import authorisation by virtue of article 3m.6 of Council Regulation (EU) 833/2014 (Croatia)</Name>
       <StartDate>2022-06-04</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -37045,5 +37045,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-06-07T06:05:04.113</Generated>
+  <Generated>2022-06-09T06:05:03.780</Generated>
 </CodeLists>
