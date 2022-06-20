@@ -5791,6 +5791,14 @@
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>Y105</Code>
+      <Name lang="fi">Yleinen poikkeus REACH -lupavaatimuksesta (asetuksen (EY) N: o 1907/2006 56 artikla)</Name>
+      <Name lang="sv">Allmänt undantag från Reach -tillståndskravet (artikel 56 i förordning (EG) nr 1907/2006)</Name>
+      <Name lang="en">General exemption from the REACH authorization (Art. 56 of Regulation (EC) No 1907/2006)</Name>
+      <StartDate>2022-06-17</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>Y107</Code>
       <Name lang="fi">Tavarat, joihin ei sovelleta kieltoa – "CD"-alaviitteessä mainitut ilma-alusten varaosat</Name>
       <Name lang="sv">Varor som inte omfattas av förbudet - reservdelar från flygplan som nämns i ”CD”-fotnoten</Name>
@@ -5944,16 +5952,16 @@
     </CodeItem>
     <CodeItem>
       <Code>Y841</Code>
-      <Name lang="fi">fi: The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in articles 3m.3 (d) and 3m.4)</Name>
-      <Name lang="sv">sv: The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in articles 3m.3 (d) and 3m.4)</Name>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 m artiklan 1 kohdassa määriteltyjä kieltoja ei sovelleta (ks. poikkeukset 3 m artiklan 3 kohdan d alakohdassa ja 3 m artiklan 4 kohdassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3m.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantagen i artiklarna 3 m.3 d och 3 m.4)</Name>
       <Name lang="en">The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in articles 3m.3 (d) and 3m.4)</Name>
       <StartDate>2022-06-04</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>Y842</Code>
-      <Name lang="fi">fi: The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3m.9)</Name>
-      <Name lang="sv">sv: The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3m.9)</Name>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 m artiklan 1 kohdassa määriteltyjä kieltoja ei sovelleta (ks. poikkeukset 3 m artiklan 9)</Name>
+      <Name lang="sv">Förbuden i artikel 3m.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantagen i artiklarna 3 m.9)</Name>
       <Name lang="en">The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3m.9)</Name>
       <StartDate>2022-06-04</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -22325,6 +22333,14 @@ customs warehousing procedure</Description>
     <Name lang="sv">Ytterligare referens</Name>
     <Name lang="en">Additional reference</Name>
     <CodeItem>
+      <Code>C073</Code>
+      <Name lang="fi">Asetuksen (EY) N:o 1907/2006 VII osaston mukainen REACH-lupa</Name>
+      <Name lang="sv">Reach-tillstånd, i enlighet med kapitel VII i förordning (EG) nr 1907/2006</Name>
+      <Name lang="en">REACH Authorisation, according to Title VII of Regulation (EC) No 1907/2006</Name>
+      <StartDate>2022-06-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>Y001</Code>
       <Name lang="fi">Tuotettu kokonaan Libanonissa ja kuljetettu suoraan tästä maasta yhteisöön</Name>
       <Name lang="sv">Helt införskaffad i Libanon och transporterad direkt från detta land till gemenskapen</Name>
@@ -22845,6 +22861,14 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>Y105</Code>
+      <Name lang="fi">Yleinen poikkeus REACH -lupavaatimuksesta (asetuksen (EY) N: o 1907/2006 56 artikla)</Name>
+      <Name lang="sv">Allmänt undantag från Reach -tillståndskravet (artikel 56 i förordning (EG) nr 1907/2006)</Name>
+      <Name lang="en">General exemption from the REACH authorization (Art. 56 of Regulation (EC) No 1907/2006)</Name>
+      <StartDate>2022-06-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>Y107</Code>
       <Name lang="fi">Tavarat, joihin ei sovelleta kieltoa – "CD"-alaviitteessä mainitut ilma-alusten varaosat</Name>
       <Name lang="sv">Varor som inte omfattas av förbudet - reservdelar från flygplan som nämns i "CD"-fotnoten</Name>
@@ -22858,6 +22882,22 @@ customs warehousing procedure</Description>
       <Name lang="sv">Varor som inte omfattas av förbudet - sportutrustning med kaliber .22 tum</Name>
       <Name lang="en">Goods exempted from the prohibition – sport equipment of calibre .22 inches</Name>
       <StartDate>2020-12-02</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y109</Code>
+      <Name lang="fi">Erityinen poikkeus REACH-lupavaatimuksesta (lupavaatimuksesta vapautetut käytöt (tai käyttökategoriat) on lueteltu asetuksen (EY) N:o 1907/2006 liitteessä XIV)</Name>
+      <Name lang="sv">Särskilt undantag från Reach-tillståndet (undantagen användning (undantagna användningskategorier) som förtecknas i bilaga XIV i förordning (EG) nr 1907/2006)</Name>
+      <Name lang="en">Specific exemption from REACH authorisation (exempted (categories of) use listed in Annex XIV of Regulation (EC) No 1907/2006)</Name>
+      <StartDate>2022-06-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y115</Code>
+      <Name lang="fi">Vapautus asetuksen (EY) N:o 1907/2006 (REACH) VII osastossa määritellystä lupavaatimuksesta mainitun asetuksen 2 artiklan 5 ja 8 kohdan nojalla</Name>
+      <Name lang="sv">Undantag från tillståndskravet enligt avdelning VII med stöd av artikel 2.5 och 2.8 i förordning (EG) nr 1907/2006 (Reach)</Name>
+      <Name lang="en">Exemption from Authorization (Title VII) Article 2 point 5 and 8 of Regulation (EC) No 1907/2006 (REACH)</Name>
+      <StartDate>2022-06-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -22998,16 +23038,16 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>Y841</Code>
-      <Name lang="fi">fi: The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in articles 3m.3 (d) and 3m.4)</Name>
-      <Name lang="sv">sv: The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in articles 3m.3 (d) and 3m.4)</Name>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 m artiklan 1 kohdassa määriteltyjä kieltoja ei sovelleta (ks. poikkeukset 3 m artiklan 3 kohdan d alakohdassa ja 3 m artiklan 4 kohdassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3m.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantagen i artiklarna 3 m.3 d och 3 m.4)</Name>
       <Name lang="en">The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in articles 3m.3 (d) and 3m.4)</Name>
       <StartDate>2022-06-04</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>Y842</Code>
-      <Name lang="fi">fi: The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3m.9)</Name>
-      <Name lang="sv">sv: The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3m.9)</Name>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 m artiklan 1 kohdassa määriteltyjä kieltoja ei sovelleta (ks. poikkeukset 3 m artiklan 9)</Name>
+      <Name lang="sv">Förbuden i artikel 3m.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantagen i artiklarna 3 m.9)</Name>
       <Name lang="en">The prohibitions defined in article 3m.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3m.9)</Name>
       <StartDate>2022-06-04</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -37045,5 +37085,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-06-09T06:05:03.780</Generated>
+  <Generated>2022-06-20T06:05:03.883</Generated>
 </CodeLists>
