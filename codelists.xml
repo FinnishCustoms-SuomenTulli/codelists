@@ -25653,6 +25653,14 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>NC0244_FI</Code>
+      <Name lang="fi">Mikäli kyseessä on liiteasiakirja, tulee sen tunniste ilmoittaa. Mikäli kyseessä on lisäviite / muu viite (negaatiokoodi), ei tunnistetta ilmoiteta.</Name>
+      <Name lang="sv">sv: If function is Supporting document, then Identifier is required. If function is Additional reference, then Identifier is not used.</Name>
+      <Name lang="en">If function is Supporting document, then Identifier is required. If function is Additional reference, then Identifier is not used.</Name>
+      <StartDate>2019-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>NC0246</Code>
       <Name lang="fi">Bruttopaino ilmoitetaan tavaraerän tiedoissa. Jos tavarat on pakattu siten, että yksittäisen tavaraerän bruttopainoa ei voi ilmoittaa, bruttopaino ilmoitetaan tulliselvitettävällä. Bruttopainoa ei voi ilmoittaa sekä tulliselvitettävällä erällä että tavaraerällä.</Name>
       <Name lang="sv">Bruttovikten anges i varupostens uppgifter. Om varorna är packade så att du inte kan ange en varupostspecifik bruttovikt, ange bruttovikten i uppgifterna om deklarationsparti.  Bruttovikten kan inte anges både för deklarationspartiet och för varuposten.</Name>
@@ -37101,5 +37109,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-06-24T06:05:03.380</Generated>
+  <Generated>2022-06-28T06:05:02.953</Generated>
 </CodeLists>
