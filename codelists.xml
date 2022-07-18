@@ -12873,6 +12873,30 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>FIUKR</Code>
+      <Name lang="fi">Ukrainan katastrofin uhrien hyväksi tuodut tavarat</Name>
+      <Name lang="sv">Varor som importerats till förmån för offer för katastrofen i Ukraina</Name>
+      <Name lang="en">en: Ukrainan katastrofin uhrien hyväksi tuodut tavarat</Name>
+      <StartDate>2022-02-24</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>FIUKV</Code>
       <Name lang="fi">Lisätiedot kansainväliseen sopimukseen perustuvaa UTK 260a artiklan mukaista ulkoista jalostusta varten</Name>
       <Name lang="sv">Ytterligare uppgifter för passiv förädling baserad på ett internationellt avtal enligt artikel 260a i UTK</Name>
@@ -15955,6 +15979,30 @@ Vehicle production number</Description>
       <Filter>
         <Name>Filter_TRA</Name>
         <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>FIUKR</Code>
+      <Name lang="fi">Ukrainan katastrofin uhrien hyväksi tuodut tavarat</Name>
+      <Name lang="sv">Varor som importerats till förmån för offer för katastrofen i Ukraina</Name>
+      <Name lang="en">en: Ukrainan katastrofin uhrien hyväksi tuodut tavarat</Name>
+      <StartDate>2022-02-24</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
       </Filter>
     </CodeItem>
     <CodeItem>
@@ -19484,6 +19532,21 @@ customs warehousing procedure</Description>
       <Filter>
         <Name>Filter_IMP</Name>
         <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>696</Code>
+      <Name lang="fi">Katastrofin uhrien hyväksi tuotavat tullittomat tavarat</Name>
+      <Name lang="sv">Tullfria varor som importeras till förmån för katastrofoffer</Name>
+      <Name lang="en">en: Katastrofin uhrien hyväksi tuotavat tullittomat tavarat</Name>
+      <StartDate>2022-02-24</StartDate>
+      <EndDate>2022-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
       </Filter>
     </CodeItem>
     <CodeItem>
@@ -37173,5 +37236,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-07-14T06:05:03.293</Generated>
+  <Generated>2022-07-18T06:05:03.820</Generated>
 </CodeLists>
