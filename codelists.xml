@@ -5139,6 +5139,14 @@
       <Name lang="sv">Ursprungsförsäkran (artiklarna ORIG.19 i avtalet om ekonomiskt partnerskap mellan Europeiska unionen och UK)</Name>
       <Name lang="en">Statement on Origin (Article ORIG.19 of the EU-UK TCA)</Name>
       <StartDate>2020-12-31</StartDate>
+      <EndDate>2022-07-20</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>U116</Code>
+      <Name lang="fi">Alkuperävakuutus (EU:n ja UK välisen talouskumppanuussopimuksen 56 artiklan 4 kohdan a alakohdassa)</Name>
+      <Name lang="sv">Ursprungsförsäkran (artikel 56.4 a i avtalet om ekonomiskt partnerskap mellan Europeiska unionen och UK)</Name>
+      <Name lang="en">Statement on Origin (Article 56 (4) point (a) of the EU-UK TCA)</Name>
+      <StartDate>2022-07-21</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -5147,6 +5155,14 @@
       <Name lang="sv">Importörens kunskap (artiklarna ORIG.21 i avtalet om ekonomiskt partnerskap mellan Europeiska unionen och UK)</Name>
       <Name lang="en">Importer’s knowledge (Article ORIG.21 of the EU-UK TCA)</Name>
       <StartDate>2020-12-31</StartDate>
+      <EndDate>2022-07-20</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>U117</Code>
+      <Name lang="fi">Tuojan tieto (EU:n ja UK välisen talouskumppanuussopimuksen 58 artikla)</Name>
+      <Name lang="sv">Importörens kunskap (artiklarna 58 i avtalet om ekonomiskt partnerskap mellan Europeiska unionen och UK)</Name>
+      <Name lang="en">Importer’s knowledge (Article 58 of the EU-UK TCA)</Name>
+      <StartDate>2022-07-21</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -5155,6 +5171,14 @@
       <Name lang="sv">Ursprungsförsäkran för flera sändningar av identiska produkter (artiklarna ORIG.19 i avtalet om ekonomiskt partnerskap mellan Europeiska unionen och UK)</Name>
       <Name lang="en">Statement on Origin for multiple shipments of identical products (Article ORIG.19 of the EU-UK TCA)</Name>
       <StartDate>2020-12-31</StartDate>
+      <EndDate>2022-07-20</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>U118</Code>
+      <Name lang="fi">Useita samanlaisten tuotteiden lähetyksiä koskeva alkuperävakuutus (EU:n ja UK välisen talouskumppanuussopimuksen 56 artiklan 4 kohdan b alakohdassa)</Name>
+      <Name lang="sv">Ursprungsförsäkran för flera sändningar av identiska produkter (artikel 56.4 b i avtalet om ekonomiskt partnerskap mellan Europeiska unionen och UK)</Name>
+      <Name lang="en">Statement on Origin for multiple shipments of identical products (Article 56 (4) point (b) of the EU-UK TCA)</Name>
+      <StartDate>2022-07-21</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37236,5 +37260,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-07-21T06:05:04.103</Generated>
+  <Generated>2022-07-25T06:05:05.257</Generated>
 </CodeLists>
