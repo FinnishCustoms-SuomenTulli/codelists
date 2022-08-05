@@ -33122,6 +33122,14 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>D0212</Code>
+      <Name lang="fi">Tavaroiden edelleen luovuttamiseen liittyy rajoituksia. Komission päätös 2022/1108. Tulliton Tta 74 art. Arvonlisäveroton AVL 94.1 § 12 k. Ilmoittajan tai välillisessä edustuksessa päämiehen on annettava maahantuonnin arvonlisäveroa koskevat tiedot Verohallinnolle oma-aloitteisessa arvonlisäverotuksessa.</Name>
+      <Name lang="sv">Tavaroiden edelleen luovuttamiseen liittyy rajoituksia. Komission päätös 2022/1108. Tulliton Tta 74 art. Arvonlisäveroton AVL 94.1 § 12 k. Ilmoittajan tai välillisessä edustuksessa päämiehen on annettava maahantuonnin arvonlisäveroa koskevat tiedot Verohallinnolle oma-aloitteisessa arvonlisäverotuksessa.</Name>
+      <Name lang="en">Tavaroiden edelleen luovuttamiseen liittyy rajoituksia. Komission päätös 2022/1108. Tulliton Tta 74 art. Arvonlisäveroton AVL 94.1 § 12 k. Ilmoittajan tai välillisessä edustuksessa päämiehen on annettava maahantuonnin arvonlisäveroa koskevat tiedot Verohallinnolle oma-aloitteisessa arvonlisäverotuksessa.</Name>
+      <StartDate>2022-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>D2007</Code>
       <Name lang="fi">Tavara on tarkastettu/Tavarasta on otettu näyte oikean verokohtelun määrittämiseksi. Tavaraopilliset tutkimukset ovat kesken ja ne voivat johtaa luovutusvaiheessa ilmoitettujen tietojen muuttumiseen ja mahdollisesti myös jälkikantoon.</Name>
       <Name lang="sv">Varan har granskats /På varan har tagits prov för att fastställa rätt skattebehandling. De varutekniska undersökningarna är inte färdiga och kan i överlåttelseskedet leda till att de deklarerade uppgifterna ändras och eventuellt också till efteruppbörd.</Name>
@@ -37292,5 +37300,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-07-27T06:05:04.680</Generated>
+  <Generated>2022-08-04T06:05:04.960</Generated>
 </CodeLists>
