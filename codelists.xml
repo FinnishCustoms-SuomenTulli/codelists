@@ -14615,6 +14615,32 @@ Vehicle production number</Description>
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>FIFAL</Code>
+      <Name lang="fi">Varamenettely</Name>
+      <Name lang="sv">Reservförfarande</Name>
+      <Name lang="en">Fallback procedure</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>FIFPU</Code>
       <Name lang="fi">Jalostus- tai käyttöpaikka</Name>
       <Name lang="sv">Plats för förädling eller användning</Name>
@@ -37300,5 +37326,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-08-04T06:05:04.960</Generated>
+  <Generated>2022-08-08T08:34:58.230</Generated>
 </CodeLists>
