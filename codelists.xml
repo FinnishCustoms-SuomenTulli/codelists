@@ -33531,6 +33531,14 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>KOR</Code>
+      <Name lang="fi">Ilmoituksen korjaaminen</Name>
+      <Name lang="sv">sv: Ilmoituksen korjaaminen</Name>
+      <Name lang="en">Amendment before release</Name>
+      <StartDate>2022-10-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>OIK</Code>
       <Name lang="fi">Muutokset ilmoitettuihin tietoihin</Name>
       <Name lang="sv">Ändringar till deklarerade uppgifter</Name>
@@ -33543,6 +33551,36 @@ customs warehousing procedure</Description>
       <Name lang="fi">Palautus tai peruutus</Name>
       <Name lang="sv">Återbetalning eller eftergift</Name>
       <Name lang="en">Repayment or remission</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+  </CodeList>
+  <CodeList>
+    <Identification>NCL070</Identification>
+    <Name lang="fi">Maksutapa</Name>
+    <Name lang="sv">Betalningssätt</Name>
+    <Name lang="en">Method of payment</Name>
+    <CodeItem>
+      <Code>I</Code>
+      <Name lang="fi">IBAN-pankkitili</Name>
+      <Name lang="sv">IBAN-bankkonto</Name>
+      <Name lang="en">IBAN bank account</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>K</Code>
+      <Name lang="fi">Käteismaksu</Name>
+      <Name lang="sv">Kontant betalning</Name>
+      <Name lang="en">Payment in cash</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>M</Code>
+      <Name lang="fi">Pankkitili, muu kuin IBAN</Name>
+      <Name lang="sv">Bankkonto, annat än IBAN</Name>
+      <Name lang="en">Non-IBAN bank account</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -37570,5 +37608,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-08-17T06:05:04.030</Generated>
+  <Generated>2022-08-17T10:04:31.557</Generated>
 </CodeLists>
