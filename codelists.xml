@@ -33518,6 +33518,36 @@ customs warehousing procedure</Description>
     </CodeItem>
   </CodeList>
   <CodeList>
+    <Identification>NCL063</Identification>
+    <Name lang="fi">Muutostyyppi</Name>
+    <Name lang="sv">Typ av ändring</Name>
+    <Name lang="en">Amendment type</Name>
+    <CodeItem>
+      <Code>JAL</Code>
+      <Name lang="fi">Jälkikanto</Name>
+      <Name lang="sv">Efteruppbörd</Name>
+      <Name lang="en">Post-clearance recovery</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>OIK</Code>
+      <Name lang="fi">Muutokset ilmoitettuihin tietoihin</Name>
+      <Name lang="sv">Ändringar till deklarerade uppgifter</Name>
+      <Name lang="en">Changes to declared information</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PAL</Code>
+      <Name lang="fi">Palautus tai peruutus</Name>
+      <Name lang="sv">Återbetalning eller eftergift</Name>
+      <Name lang="en">Repayment or remission</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+  </CodeList>
+  <CodeList>
     <Identification>NCL096</Identification>
     <Name lang="fi">Sanomatyyppi</Name>
     <Description lang="fi">Sanomien koodit, nimet ja selitteet</Description>
@@ -36785,6 +36815,198 @@ customs warehousing procedure</Description>
     </CodeItem>
   </CodeList>
   <CodeList>
+    <Identification>NCL127</Identification>
+    <Name lang="fi">Tullijärjestelmä</Name>
+    <Name lang="sv">Tullsystem</Name>
+    <Name lang="en">Customs system</Name>
+    <CodeItem>
+      <Code>1008</Code>
+      <Name lang="fi">All third countries (Kolmannet maat)</Name>
+      <StartDate>2007-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>1011</Code>
+      <Name lang="fi">Erga omnes (kolmansien maiden tulli)</Name>
+      <StartDate>2001-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>1012</Code>
+      <Name lang="fi">Aset. 2366/2002 mainit. maaryhmään 5 kuuluvat maat</Name>
+      <StartDate>2003-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>1015</Code>
+      <Name lang="fi">Asetuksesta 1964/2003 poissuljetut maat</Name>
+      <StartDate>2003-11-09</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>1018</Code>
+      <Name lang="fi">Asetuksen 1964/2003 kattamat maat</Name>
+      <StartDate>2003-11-09</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>1021</Code>
+      <Name lang="fi">Euroopan vapaakauppaliitto EFTA</Name>
+      <StartDate>2001-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>1030</Code>
+      <Name lang="fi">GSP yleinen tullietuusjärjestelmä</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>1031</Code>
+      <Name lang="fi">AKT-valtiot (Afrikan, Karibian ja Tyynenmeren valtiot)</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>1051</Code>
+      <Name lang="fi">MED (EG, MT, TR)</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>1054</Code>
+      <Name lang="fi">MAGHREB (DZ ,MA, TN)</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>1099</Code>
+      <Name lang="fi">Länsi-Balkanin maat (AL, BA, YU)</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2005</Code>
+      <Name lang="fi">GSP Vähiten kehittyneet maat (2501/01 liite I, sarake H)</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2012</Code>
+      <Name lang="fi">Euroopan taloustalue ETA (IS, LI, NO)</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2020</Code>
+      <Name lang="fi">GSP Kehitysmaiden yleinen tullietuusjärjestelmä</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2021</Code>
+      <Name lang="fi">GSP (R03/0815 - art. 1(1) - MA (Marokko)</Name>
+      <StartDate>2003-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2022</Code>
+      <Name lang="fi">GSP (R03/0815 - art. 1(1) - MX (Meksiko)</Name>
+      <StartDate>2003-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2023</Code>
+      <Name lang="fi">GSP (R03/0815 - art. 1(1) - TN (TUnisia)</Name>
+      <StartDate>2003-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2027</Code>
+      <Name lang="fi">GSP Andit/Keski-Amerikan yhteismarkkinat/PK</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2028</Code>
+      <Name lang="fi">PHC (CZ, SK, HU, PL)</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2030</Code>
+      <Name lang="fi">BHPR (BG, HU, PL, RO)</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2032</Code>
+      <Name lang="fi">F (EE, LV, LT)</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2035</Code>
+      <Name lang="fi">Entisen Neuvostoliiton alueet</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2037</Code>
+      <Name lang="fi">BCR (BA, HR)</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2080</Code>
+      <Name lang="fi">MMA (merentakaiset maat ja alueet)</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2090</Code>
+      <Name lang="fi">LOMA ja LOMB</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2110</Code>
+      <Name lang="fi">MASHREK (EG, JO, LB, SY)</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2300</Code>
+      <Name lang="fi">Handloom (käsikangaspuilla kudotut silkki/puuvillakan)</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2301</Code>
+      <Name lang="fi">Handicrafts (tietyt käsintehdyt tuotteet)</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2400</Code>
+      <Name lang="fi">Diagonaalinen paneurooppalainen kumulaatio</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2500</Code>
+      <Name lang="fi">WTO:n jäsenmaat</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>2501</Code>
+      <Name lang="fi">Maat, jotka eivät ole WTO:n jäseniä</Name>
+      <StartDate>2002-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+  </CodeList>
+  <CodeList>
     <Identification>NCL151</Identification>
     <Name lang="fi">Verolaji</Name>
     <Name lang="sv">Skattetyp</Name>
@@ -37348,5 +37570,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-08-12T06:05:04.483</Generated>
+  <Generated>2022-08-17T06:05:04.030</Generated>
 </CodeLists>
