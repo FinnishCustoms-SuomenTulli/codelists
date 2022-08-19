@@ -12882,6 +12882,30 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>FITAA</Code>
+      <Name lang="fi">Unioniasema; T2L</Name>
+      <Name lang="sv">Unionsstatus; T2L</Name>
+      <Name lang="en">Union status; T2L</Name>
+      <StartDate>2022-08-18</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>FITAC</Code>
       <Name lang="fi">Selvitys maksuttomasta korjauksesta</Name>
       <Name lang="sv">Utredning om avgiftsfri reparation</Name>
@@ -14584,6 +14608,30 @@ Vehicle production number</Description>
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>FIETD</Code>
+      <Name lang="fi">Unioniasema, sähköinen kuljetusasiakirja</Name>
+      <Name lang="sv">Unionsstatus, elektroniskt transportdokument</Name>
+      <Name lang="en">Union status, electronic transport document</Name>
+      <StartDate>2022-08-18</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>FIEUP</Code>
       <Name lang="fi">Unionitavara toisesta EU-maasta luovutettu rahtikirjaa vastaan</Name>
       <Name lang="sv">Unionsvara från ett annat EU-land, frigjord mot fraktsedel</Name>
@@ -15842,6 +15890,30 @@ Vehicle production number</Description>
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>FITAA</Code>
+      <Name lang="fi">Unioniasema; T2L</Name>
+      <Name lang="sv">Unionsstatus; T2L</Name>
+      <Name lang="en">Union status; T2L</Name>
+      <StartDate>2022-08-18</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>FITAC</Code>
       <Name lang="fi">Selvitys maksuttomasta korjauksesta</Name>
       <Name lang="sv">Utredning om avgiftsfri reparation</Name>
@@ -16091,6 +16163,31 @@ Vehicle production number</Description>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>FIVAA</Code>
+      <Name lang="fi">Unioniaseman ilmoittaminen; valtuutettu antaja</Name>
+      <Name lang="sv">Angivande av unionsstatus; godkänd utfärdare</Name>
+      <Name lang="en">Union status; authorized issuer</Name>
+      <StartDate>2022-08-18</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
       </Filter>
     </CodeItem>
     <CodeItem>
@@ -37608,5 +37705,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-08-18T06:05:03.410</Generated>
+  <Generated>2022-08-19T06:05:03.523</Generated>
 </CodeLists>
