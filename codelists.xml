@@ -27233,6 +27233,14 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>NR0133</Code>
+      <Name lang="fi">Alkoholituotteita, virvoitusjuomia, tupakkaa, tupakkatuotteita, hajuvesiä ja eau de toilette-tuotteita ei voi ilmoittaa arvoltaan vähäarvoisissa lähetyksissä</Name>
+      <Name lang="sv">sv: Alkoholituotteita, virvoitusjuomia, tupakkaa, tupakkatuotteita, hajuvesiä ja eau de toilette-tuotteita ei voi ilmoittaa arvoltaan vähäarvoisissa lähetyksissä</Name>
+      <Name lang="en">en: Alkoholituotteita, virvoitusjuomia, tupakkaa, tupakkatuotteita, hajuvesiä ja eau de toilette-tuotteita ei voi ilmoittaa arvoltaan vähäarvoisissa lähetyksissä</Name>
+      <StartDate>2022-08-25</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>NR0200</Code>
       <Name lang="fi">Valitse lisämenettelykoodiksi joko F15, verorajan yli tuotavasta tavarasta tehtävä ilmoitus, tai 615, Ahvenanmaan ja manner-Suomen välisissä unionitavaran ilmoitus; et voi ilmoittaa molempia samalla ilmoituksella.</Name>
       <Name lang="en">As additional procedure code, choose either F15, declaration for goods imported across the tax border, or 615, declaration for Union goods transported between the Åland Islands and mainland Finland; you cannot provide both in the same declaration.</Name>
@@ -37705,5 +37713,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-08-19T06:05:03.523</Generated>
+  <Generated>2022-08-26T06:05:04.353</Generated>
 </CodeLists>
