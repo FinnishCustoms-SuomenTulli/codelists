@@ -6368,9 +6368,9 @@
     </CodeItem>
     <CodeItem>
       <Code>Y950</Code>
-      <Name lang="fi">Muut tavarat kuin fluorihiilivedyillä valmiiksi täytetyt</Name>
-      <Name lang="sv">Andra varor än redan påfylld utrustning med fluorkolväten</Name>
-      <Name lang="en">Goods other than pre-charged equipment with hydrofluorocarbons</Name>
+      <Name lang="fi">Muut tavarat kuin fluorihiilivedyillä valmiiksi täytetyt asetuksen (EY) N:o 517/2014 14.1 artiklan mukaisesti</Name>
+      <Name lang="sv">Andra varor än redan påfylld utrustning med fluorkolväten enligt artikel 14.1 i förordning 517/2014</Name>
+      <Name lang="en">Goods other than pre-charged equipment with hydrofluorocarbons, as defined in article 14.1 of Regulation (EU) No 517/2014</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -23726,10 +23726,10 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>Y950</Code>
-      <Name lang="fi">Muut tavarat kuin fluorihiilivedyillä valmiiksi täytetyt</Name>
-      <Name lang="sv">Andra varor än redan påfylld utrustning med fluorkolväten</Name>
-      <Name lang="en">Goods other than pre-charged equipment with hydrofluorocarbons</Name>
-      <StartDate>2020-12-02</StartDate>
+      <Name lang="fi">Muut tavarat kuin fluorihiilivedyillä valmiiksi täytetyt asetuksen (EY) N:o 517/2014 14.1 artiklan mukaisesti</Name>
+      <Name lang="sv">Andra varor än redan påfylld utrustning med fluorkolväten enligt artikel 14.1 i förordning 517/2014</Name>
+      <Name lang="en">Goods other than pre-charged equipment with hydrofluorocarbons, as defined in article 14.1 of Regulation (EU) No 517/2014</Name>
+      <StartDate>2020-12-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37713,5 +37713,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-08-26T06:05:04.353</Generated>
+  <Generated>2022-09-01T06:05:04.587</Generated>
 </CodeLists>
