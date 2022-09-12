@@ -31756,6 +31756,22 @@ customs warehousing procedure</Description>
       <StartDate>2021-01-28</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
+    <CodeItem>
+      <Code>008</Code>
+      <Name lang="fi">Tiedoksianto väliaikaisen maahantuonnin jälleenviennistä tai asettamisesta muuhun tullimenettelyyn (OSI)</Name>
+      <Name lang="sv">sv: Tiedoksianto väliaikaisen maahantuonnin jälleenviennistä tai asettamisesta muuhun tullimenettelyyn (OSI)</Name>
+      <Name lang="en">en: Tiedoksianto väliaikaisen maahantuonnin jälleenviennistä tai asettamisesta muuhun tullimenettelyyn (OSI)</Name>
+      <StartDate>2020-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>010</Code>
+      <Name lang="fi">Vastine kuulemiseen, hyväksyn Tullin esityksen</Name>
+      <Name lang="sv">Svar på begäran om hörsel, godkännande av förslaget</Name>
+      <Name lang="en">Response for hearing request, approval of the proposal</Name>
+      <StartDate>2020-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
   </CodeList>
   <CodeList>
     <Identification>NCL051</Identification>
@@ -33699,9 +33715,9 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>K</Code>
-      <Name lang="fi">Käteismaksu</Name>
-      <Name lang="sv">Kontant betalning</Name>
-      <Name lang="en">Payment in cash</Name>
+      <Name lang="fi">Maksuosoitus/Käteismaksu</Name>
+      <Name lang="sv">Anvisning/Kontant betalning</Name>
+      <Name lang="en">Payment order/Payment in cash</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -37737,5 +37753,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-09-06T06:05:07.143</Generated>
+  <Generated>2022-09-12T06:05:03.800</Generated>
 </CodeLists>
