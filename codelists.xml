@@ -16117,6 +16117,30 @@ Vehicle production number</Description>
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>FITSH</Code>
+      <Name lang="fi">Ennakolta annetun tulli-ilmoituksen esittäminen</Name>
+      <Name lang="sv">Anmälan av varors ankomst för en på förhand ingiven tulldeklaration</Name>
+      <Name lang="en">Presentation of a pre-lodged customs declaration</Name>
+      <StartDate>2022-09-14</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>FITTJ</Code>
       <Name lang="fi">Siirto toisen jäsenmaan väliaikaisesta varastosta</Name>
       <Name lang="sv">Flyttning från ett tillfälligt lager i ett annat medlemsland</Name>
@@ -37753,5 +37777,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-09-13T06:05:06.923</Generated>
+  <Generated>2022-09-15T06:05:07.380</Generated>
 </CodeLists>
