@@ -6055,6 +6055,38 @@
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>Y846</Code>
+      <Name lang="fi">Muut kuin ne, joita asetuksen (EU) N:o 833/2014 2 aa artiklan määritellyt kiellot koskevat</Name>
+      <Name lang="sv">Andra varor än de som berörs av de förbud som definieras i artikel 2aa i förordning (EU) nr 833/2014</Name>
+      <Name lang="en">Goods other than those concerned by the prohibitions defined in article 2aa of Regulation (EU) No 833/2014</Name>
+      <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y849</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3g.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3g.3 artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3g.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3g.3)</Name>
+      <Name lang="en">The prohibitions defined in article 3g.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3g.3)</Name>
+      <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y850</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3i.3 a artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3i.3a)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
+      <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y853</Code>
+      <Name lang="fi">Kolmannessa maassa jalostetut rauta- ja terästuotteet, jotka eivät sisällä Venäjältä peräisin olevia rauta- ja terästuotteita, sellaisina kuin ne on lueteltu asetuksen (EU) N:o 833/2014 liitteessä XVII</Name>
+      <Name lang="sv">Järn- och stålprodukter som bearbetas i ett tredje land och som inte innehåller järn- och stålprodukter med ursprung i Ryssland enligt förteckningen i bilaga XVII till förordning (EU) nr 833/2014</Name>
+      <Name lang="en">Iron and steel products processed in a third country, not incorporating iron and steel products originating in Russia as listed in Annex XVII of Regulation (EU) No 833/2014</Name>
+      <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>Y900</Code>
       <Name lang="fi">Ilmoitetut tavarat eivät kuulu Washingtonin yleissopimukseen (CITES)</Name>
       <Name lang="sv">Deklarerade varor återfinns inte i Washington-konventionen (CITES)</Name>
@@ -14690,6 +14722,30 @@ Vehicle production number</Description>
       <Filter>
         <Name>Filter_TRA</Name>
         <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>FIEVR</Code>
+      <Name lang="fi">Tavaroiden esittäminen verorajalla</Name>
+      <Name lang="sv">Anmälan av varors ankomst vid skattegränsen</Name>
+      <Name lang="en">Presentation of goods at tax border</Name>
+      <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
       </Filter>
     </CodeItem>
     <CodeItem>
@@ -24178,6 +24234,38 @@ customs warehousing procedure</Description>
       <Name lang="sv">Andra varor än de som berörs av de förbud som definieras i artikel 3o i förordning (EU) nr 833/2014</Name>
       <Name lang="en">Goods other than those concerned by the prohibitions defined in article 3o of Regulation (EU) No 833/2014</Name>
       <StartDate>2022-07-22</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y846</Code>
+      <Name lang="fi">Muut kuin ne, joita asetuksen (EU) N:o 833/2014 2 aa artiklan määritellyt kiellot koskevat</Name>
+      <Name lang="sv">Andra varor än de som berörs av de förbud som definieras i artikel 2aa i förordning (EU) nr 833/2014</Name>
+      <Name lang="en">Goods other than those concerned by the prohibitions defined in article 2aa of Regulation (EU) No 833/2014</Name>
+      <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y849</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3g.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3g.3 artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3g.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3g.3)</Name>
+      <Name lang="en">The prohibitions defined in article 3g.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3g.3)</Name>
+      <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y850</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3i.3 a artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3i.3a)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
+      <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y853</Code>
+      <Name lang="fi">Kolmannessa maassa jalostetut rauta- ja terästuotteet, jotka eivät sisällä Venäjältä peräisin olevia rauta- ja terästuotteita, sellaisina kuin ne on lueteltu asetuksen (EU) N:o 833/2014 liitteessä XVII</Name>
+      <Name lang="sv">Järn- och stålprodukter som bearbetas i ett tredje land och som inte innehåller järn- och stålprodukter med ursprung i Ryssland enligt förteckningen i bilaga XVII till förordning (EU) nr 833/2014</Name>
+      <Name lang="en">Iron and steel products processed in a third country, not incorporating iron and steel products originating in Russia as listed in Annex XVII of Regulation (EU) No 833/2014</Name>
+      <StartDate>2022-10-07</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -41620,5 +41708,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-10-05T06:05:06.640</Generated>
+  <Generated>2022-10-10T06:05:03.663</Generated>
 </CodeLists>
