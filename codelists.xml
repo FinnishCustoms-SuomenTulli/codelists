@@ -4477,6 +4477,22 @@
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>K025</Code>
+      <Name lang="fi">Tariffikiintiö - järjestysnumero 09.8258 hakemus tehty, ei loppuun käytetty</Name>
+      <Name lang="sv">Tullkvot - ordernummer 09.8258 ansökt och ej förbrukad</Name>
+      <Name lang="en">Tariff quota - order number 09.8258 requested and not exhausted</Name>
+      <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>K026</Code>
+      <Name lang="fi">Tariffikiintiö - järjestysnumero 09.8259 hakemus tehty, ei loppuun käytetty</Name>
+      <Name lang="sv">Tullkvot - ordernummer 09.8259 ansökt och ej förbrukad</Name>
+      <Name lang="en">Tariff quota - order number 09.8259 requested and not exhausted</Name>
+      <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>L001</Code>
       <Name lang="fi">Tuontitodistus AGRIM</Name>
       <Name lang="sv">Importlicens AGRIM</Name>
@@ -4554,6 +4570,22 @@
       <Name lang="sv">Importtillstånd enligt artikel 3m.6 i rådets förordning (EU) nr 833/2014 (Kroatien)</Name>
       <Name lang="en">Import authorisation by virtue of article 3m.6 of Council Regulation (EU) 833/2014 (Croatia)</Name>
       <StartDate>2022-06-04</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>L139</Code>
+      <Name lang="fi">Import authorisation by virtue of article 3g.7 of Council Regulation (EU) 833/2014</Name>
+      <Name lang="sv">Import authorisation by virtue of article 3g.7 of Council Regulation (EU) 833/2014</Name>
+      <Name lang="en">Import authorisation by virtue of article 3g.7 of Council Regulation (EU) 833/2014</Name>
+      <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>L142</Code>
+      <Name lang="fi">Import authorisation by virtue of article 3i.3c of Council Regulation (EU) 833/2014</Name>
+      <Name lang="sv">Import authorisation by virtue of article 3i.3c of Council Regulation (EU) 833/2014</Name>
+      <Name lang="en">Import authorisation by virtue of article 3i.3c of Council Regulation (EU) 833/2014</Name>
+      <StartDate>2022-10-07</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -6074,6 +6106,14 @@
       <Code>Y850</Code>
       <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3i.3 a artiklassa)</Name>
       <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3i.3a)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
+      <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y851</Code>
+      <Name lang="fi">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
+      <Name lang="sv">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
       <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
       <StartDate>2022-10-07</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -23501,6 +23541,22 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>K025</Code>
+      <Name lang="fi">Tariffikiintiö - järjestysnumero 09.8258 hakemus tehty, ei loppuun käytetty</Name>
+      <Name lang="sv">Tullkvot - ordernummer 09.8258 ansökt och ej förbrukad</Name>
+      <Name lang="en">Tariff quota - order number 09.8258 requested and not exhausted</Name>
+      <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>K026</Code>
+      <Name lang="fi">Tariffikiintiö - järjestysnumero 09.8259 hakemus tehty, ei loppuun käytetty</Name>
+      <Name lang="sv">Tullkvot - ordernummer 09.8259 ansökt och ej förbrukad</Name>
+      <Name lang="en">Tariff quota - order number 09.8259 requested and not exhausted</Name>
+      <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>Y001</Code>
       <Name lang="fi">Tuotettu kokonaan Libanonissa ja kuljetettu suoraan tästä maasta yhteisöön</Name>
       <Name lang="sv">Helt införskaffad i Libanon och transporterad direkt från detta land till gemenskapen</Name>
@@ -24256,6 +24312,14 @@ customs warehousing procedure</Description>
       <Code>Y850</Code>
       <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3i.3 a artiklassa)</Name>
       <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3i.3a)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
+      <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y851</Code>
+      <Name lang="fi">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
+      <Name lang="sv">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
       <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
       <StartDate>2022-10-07</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -41708,5 +41772,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-10-10T06:05:03.663</Generated>
+  <Generated>2022-10-11T06:05:04.803</Generated>
 </CodeLists>
