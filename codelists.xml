@@ -4574,16 +4574,16 @@
     </CodeItem>
     <CodeItem>
       <Code>L139</Code>
-      <Name lang="fi">Import authorisation by virtue of article 3g.7 of Council Regulation (EU) 833/2014</Name>
-      <Name lang="sv">Import authorisation by virtue of article 3g.7 of Council Regulation (EU) 833/2014</Name>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 g artiklan 7 kohdan mukainen tuontilupa</Name>
+      <Name lang="sv">Importtillstånd enligt artikel 3g.7 i rådets förordning (EU) nr 833/2014</Name>
       <Name lang="en">Import authorisation by virtue of article 3g.7 of Council Regulation (EU) 833/2014</Name>
       <StartDate>2022-10-07</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>L142</Code>
-      <Name lang="fi">Import authorisation by virtue of article 3i.3c of Council Regulation (EU) 833/2014</Name>
-      <Name lang="sv">Import authorisation by virtue of article 3i.3c of Council Regulation (EU) 833/2014</Name>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 i artiklan 3 c kohdan mukainen tuontilupa</Name>
+      <Name lang="sv">Importtillstånd enligt artikel 3i.3c i rådets förordning (EU) nr 833/2014</Name>
       <Name lang="en">Import authorisation by virtue of article 3i.3c of Council Regulation (EU) 833/2014</Name>
       <StartDate>2022-10-07</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -6104,16 +6104,16 @@
     </CodeItem>
     <CodeItem>
       <Code>Y850</Code>
-      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3i.3 a artiklassa)</Name>
-      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3i.3a)</Name>
-      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3i.3 b artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3i.3b)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3b)</Name>
       <StartDate>2022-10-07</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>Y851</Code>
-      <Name lang="fi">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
-      <Name lang="sv">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso poikkeukset 3i.3a artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3a)</Name>
       <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
       <StartDate>2022-10-07</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -22969,6 +22969,17 @@ customs warehousing procedure</Description>
       <Name lang="sv">Förenade Arabemiraten dirham</Name>
       <Name lang="en">United Arab Emirates Dirham</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AED</Code>
+      <Name lang="fi">Arabiemiirikuntien dirhami</Name>
+      <Description lang="fi">Arabiemiirikuntien dirham</Description>
+      <Name lang="sv">Emiratisk dirham</Name>
+      <Description lang="sv">Förenade Arabemiraten dirham</Description>
+      <Name lang="en">United Arab Emirates dirham</Name>
+      <Description lang="en">United Arab Emirates Dirham</Description>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -22977,6 +22988,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Afghansk afghani</Name>
       <Name lang="en">EN: Afganistanin afgaani</Name>
       <StartDate>2021-07-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AFN</Code>
+      <Name lang="fi">Afganistanin afgaani</Name>
+      <Name lang="sv">Afghansk afghani</Name>
+      <Name lang="en">Afghanistan afghanis</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -22985,6 +23004,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Albansk lek</Name>
       <Name lang="en">EN: Albanian lek</Name>
       <StartDate>2021-07-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ALL</Code>
+      <Name lang="fi">Albanian lek</Name>
+      <Name lang="sv">Albansk lek</Name>
+      <Name lang="en">Albanian lek</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -22993,6 +23020,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Armenisk dram</Name>
       <Name lang="en">EN: Armenian dram</Name>
       <StartDate>2021-07-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ARS</Code>
+      <Name lang="fi">Argentiinan peso</Name>
+      <Name lang="sv">Argentinsk peso</Name>
+      <Name lang="en">Argentine peso</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23001,6 +23036,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Australiska dollar</Name>
       <Name lang="en">Australian dollar</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AUD</Code>
+      <Name lang="fi">Australian dollari</Name>
+      <Name lang="sv">Australisk dollar</Name>
+      <Name lang="en">Australian dollar</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23009,7 +23052,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">Azerbajdzjansk manat</Name>
       <Name lang="en">EN: Azerbaidžanin manat</Name>
       <StartDate>2021-07-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-10-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>BAM</Code>
@@ -23017,6 +23060,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Bosnisk mark</Name>
       <Name lang="en">EN: Bosnian markka</Name>
       <StartDate>2021-07-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BBD</Code>
+      <Name lang="fi">Barbadoksen dollari</Name>
+      <Name lang="sv">Barbadisk dollar</Name>
+      <Name lang="en">Barbados dollar</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23025,6 +23076,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Bangladeshisk taka</Name>
       <Name lang="en">EN: Bangladeshin taka</Name>
       <StartDate>2021-07-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BDT</Code>
+      <Name lang="fi">Bangladeshin taka</Name>
+      <Name lang="sv">Bangladeshisk taka</Name>
+      <Name lang="en">Bangladesh taka</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23033,6 +23092,54 @@ customs warehousing procedure</Description>
       <Name lang="sv">Bulgarian leva</Name>
       <Name lang="en">Bulgarian lev</Name>
       <StartDate>2009-09-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BGN</Code>
+      <Name lang="fi">Bulgarian uusi lev</Name>
+      <Name lang="sv">Bulgarisk lev</Name>
+      <Name lang="en">Bulgarian lev</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BHD</Code>
+      <Name lang="fi">Bahrainin dinaari</Name>
+      <Name lang="sv">Bahrainsk dinar</Name>
+      <Name lang="en">Bahraini dinar</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BIF</Code>
+      <Name lang="fi">Burundin frangi</Name>
+      <Name lang="sv">Burundisk franc</Name>
+      <Name lang="en">Burundi franc</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BMD</Code>
+      <Name lang="fi">Bermudan dollari</Name>
+      <Name lang="sv">Bermudisk dollar</Name>
+      <Name lang="en">Bermudian dollar</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BND</Code>
+      <Name lang="fi">Brunein dollari</Name>
+      <Name lang="sv">Bruneisk dollar</Name>
+      <Name lang="en">Brunei dollar</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BOB</Code>
+      <Name lang="fi">Bolivian boliaviano</Name>
+      <Name lang="sv">Boliviansk boliviano</Name>
+      <Name lang="en">Bolivian boliviano</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23041,7 +23148,39 @@ customs warehousing procedure</Description>
       <Name lang="sv">Brasiliansk real</Name>
       <Name lang="en">Brazilian real</Name>
       <StartDate>2016-07-01</StartDate>
-      <EndDate>2032-12-31</EndDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BRL</Code>
+      <Name lang="fi">Brasilian real</Name>
+      <Name lang="sv">Brasiliansk real</Name>
+      <Name lang="en">Brazilian real</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BSD</Code>
+      <Name lang="fi">Bahaman dollari</Name>
+      <Name lang="sv">Bahamansk dollar</Name>
+      <Name lang="en">Bahamas dollar</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BTN</Code>
+      <Name lang="fi">Bhutanin ngultrum</Name>
+      <Name lang="sv">Bhutanesisk ngultrum</Name>
+      <Name lang="en">Bhutan ngultrum</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BWP</Code>
+      <Name lang="fi">Botswanan pula</Name>
+      <Name lang="sv">Botswansk pula</Name>
+      <Name lang="en">Botswana pula</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>BYN</Code>
@@ -23049,6 +23188,22 @@ customs warehousing procedure</Description>
       <Name lang="sv">Belarusisk rubel</Name>
       <Name lang="en">EN: Valko-Venäjän rupla</Name>
       <StartDate>2021-07-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BYN</Code>
+      <Name lang="fi">Valko-Venäjän rupla</Name>
+      <Name lang="sv">Belarusisk rubel</Name>
+      <Name lang="en">Belarussian Ruble</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BZD</Code>
+      <Name lang="fi">Belizen dollari</Name>
+      <Name lang="sv">Bellizisk dollar</Name>
+      <Name lang="en">Belize dollar</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23057,6 +23212,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kanadensiska dollar</Name>
       <Name lang="en">Canadian dollar</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CAD</Code>
+      <Name lang="fi">Kanadan dollari</Name>
+      <Name lang="sv">Kanadensisk dollar</Name>
+      <Name lang="en">Canadian dollar</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23065,7 +23228,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kongolesisk franc</Name>
       <Name lang="en">EN: Kongon frangi</Name>
       <StartDate>2021-07-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-10-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>CHF</Code>
@@ -23073,6 +23236,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Schweiziska franc</Name>
       <Name lang="en">Swiss franc</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CHF</Code>
+      <Name lang="fi">Sveitsin frangi</Name>
+      <Name lang="sv">Schweizisk franc</Name>
+      <Name lang="en">Swiss franc</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23081,6 +23252,22 @@ customs warehousing procedure</Description>
       <Name lang="sv">Chilensk peso</Name>
       <Name lang="en">EN: Chilen peso</Name>
       <StartDate>2021-07-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CLP</Code>
+      <Name lang="fi">Chilen peso</Name>
+      <Name lang="sv">Chilensk peso</Name>
+      <Name lang="en">Chilean Peso</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CNH</Code>
+      <Name lang="fi">Kiinan offshore renminbi</Name>
+      <Name lang="sv">Renminbi offshore (Kina)</Name>
+      <Name lang="en">Chinese yuan offshore</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23089,6 +23276,38 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kinesiska renminbi</Name>
       <Name lang="en">Chinese yuan renminbi</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CNY</Code>
+      <Name lang="fi">Kiinan juan renminbi</Name>
+      <Name lang="sv">yuan renminbi (Kina)</Name>
+      <Name lang="en">Chinese yuan renminbi</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>COP</Code>
+      <Name lang="fi">Kolumbian peso</Name>
+      <Name lang="sv">Colombiansk peso</Name>
+      <Name lang="en">Colombian peso</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CRC</Code>
+      <Name lang="fi">Costa Rican colon</Name>
+      <Name lang="sv">Costaricansk colón</Name>
+      <Name lang="en">Costa Rican colon</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CUP</Code>
+      <Name lang="fi">Kuuban peso</Name>
+      <Name lang="sv">Kubansk peso</Name>
+      <Name lang="en">Cuban peso</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23097,6 +23316,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tjeckiska koruna</Name>
       <Name lang="en">Czech koruna</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CZK</Code>
+      <Name lang="fi">Tšekin koruna</Name>
+      <Name lang="sv">Tjeckisk krona</Name>
+      <Name lang="en">Czech koruna</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23105,6 +23332,30 @@ customs warehousing procedure</Description>
       <Name lang="sv">Danska kronor</Name>
       <Name lang="en">Danish krone</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DKK</Code>
+      <Name lang="fi">Tanskan kruunu</Name>
+      <Name lang="sv">Dansk kronor</Name>
+      <Name lang="en">Danish krone</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DOP</Code>
+      <Name lang="fi">Dominik. tasavallan peso</Name>
+      <Name lang="sv">Dominikanska peso</Name>
+      <Name lang="en">Dominican peso</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DZD</Code>
+      <Name lang="fi">Algerian dinaari</Name>
+      <Name lang="sv">Algerisk dinar</Name>
+      <Name lang="en">Algerian dinar</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23113,6 +23364,22 @@ customs warehousing procedure</Description>
       <Name lang="sv">Egyptiska pund</Name>
       <Name lang="en">Egyptian Pound</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>EGP</Code>
+      <Name lang="fi">Egyptin punta</Name>
+      <Name lang="sv">Egyptisk pund</Name>
+      <Name lang="en">Egyptian Pound</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ETB</Code>
+      <Name lang="fi">Etiopian birr</Name>
+      <Name lang="sv">Etiopisk birr</Name>
+      <Name lang="en">Ethiopian birr</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23121,6 +23388,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Euro</Name>
       <Name lang="en">Euro</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>EUR</Code>
+      <Name lang="fi">Euro</Name>
+      <Name lang="sv">Euro</Name>
+      <Name lang="en">Euro</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23129,6 +23404,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Brittiska pund</Name>
       <Name lang="en">Pound sterling</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GBP</Code>
+      <Name lang="fi">Englannin punta</Name>
+      <Name lang="sv">brittiskt pund</Name>
+      <Name lang="en">UK pound sterling</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23137,6 +23420,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Ghanansk cedi</Name>
       <Name lang="en">EN: Ghanan cedi</Name>
       <StartDate>2021-07-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GHS</Code>
+      <Name lang="fi">Ghanan cedi</Name>
+      <Name lang="sv">Ghanansk cedi</Name>
+      <Name lang="en">Ghana cedi</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23145,6 +23436,38 @@ customs warehousing procedure</Description>
       <Name lang="sv">Gibraltiskt pund</Name>
       <Name lang="en">EN: Gibraltarin punta</Name>
       <StartDate>2021-07-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GMD</Code>
+      <Name lang="fi">Gambian dalasi</Name>
+      <Name lang="sv">Gambisk dalasi</Name>
+      <Name lang="en">Gambian dalasi</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GNF</Code>
+      <Name lang="fi">Guinean frangi</Name>
+      <Name lang="sv">Guineafranc</Name>
+      <Name lang="en">Guinea franc</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GTQ</Code>
+      <Name lang="fi">Guatemalan quetzal</Name>
+      <Name lang="sv">Guatemalansk quetzal</Name>
+      <Name lang="en">Guatemalan quetzal</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GYD</Code>
+      <Name lang="fi">Guyanan dollari</Name>
+      <Name lang="sv">Guyansk dollar</Name>
+      <Name lang="en">Guyanan dollar</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23153,6 +23476,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Hongkong dollar</Name>
       <Name lang="en">Hong Kong dollar</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>HKD</Code>
+      <Name lang="fi">Hongkongin dollari</Name>
+      <Name lang="sv">Hongkongdollar</Name>
+      <Description lang="sv">Hongkong dollar</Description>
+      <Name lang="en">Hong Kong dollar</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>HNL</Code>
+      <Name lang="fi">Hondurasin lempira</Name>
+      <Name lang="sv">Honduransk lempira</Name>
+      <Name lang="en">Honduran lempira</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23161,6 +23501,22 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kroatisk kuna</Name>
       <Name lang="en">Croatian kuna</Name>
       <StartDate>2013-06-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>HRK</Code>
+      <Name lang="fi">Kroatian kuna</Name>
+      <Name lang="sv">Kroatisk kuna</Name>
+      <Name lang="en">Croatian kuna</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>HTG</Code>
+      <Name lang="fi">Haitin gourde</Name>
+      <Name lang="sv">Haitisk gourde</Name>
+      <Name lang="en">Haitian gourde</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23169,6 +23525,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Ungerska forinter</Name>
       <Name lang="en">Hungarian forint</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>HUF</Code>
+      <Name lang="fi">Unkarin forintti</Name>
+      <Name lang="sv">Ungersk forinter</Name>
+      <Name lang="en">Hungarian forint</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23177,7 +23541,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Indonesisk rupiah</Name>
       <Name lang="en">Indonesian rupiah</Name>
       <StartDate>2016-07-01</StartDate>
-      <EndDate>2032-12-31</EndDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>IDR</Code>
+      <Name lang="fi">Indonesian rupia</Name>
+      <Name lang="sv">Indonesisk rupiah</Name>
+      <Name lang="en">Indonesian rupiah</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>ILS</Code>
@@ -23185,6 +23557,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Nya israeliska shekeln</Name>
       <Name lang="en">Israeli shekel</Name>
       <StartDate>2008-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ILS</Code>
+      <Name lang="fi">Israelin uusi sekeli</Name>
+      <Name lang="sv">Israelisk shekel</Name>
+      <Name lang="en">Israeli shekel</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23193,6 +23573,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Indiska rupier</Name>
       <Name lang="en">Indian rupee</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>INR</Code>
+      <Name lang="fi">Intian rupia</Name>
+      <Name lang="sv">Indisk rupier</Name>
+      <Name lang="en">Indian rupee</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23201,7 +23589,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">Irakisk dinar</Name>
       <Name lang="en">EN: Irakin dinaari</Name>
       <StartDate>2021-07-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-10-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>IRR</Code>
@@ -23209,6 +23597,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Iranska rial</Name>
       <Name lang="en">Iranian Rial</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>IRR</Code>
+      <Name lang="fi">Iranin rial</Name>
+      <Name lang="sv">Iranska rial</Name>
+      <Name lang="en">Iranian Rial</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23223,6 +23619,31 @@ customs warehousing procedure</Description>
       <Name lang="fi">Islannin kruunu</Name>
       <Name lang="sv">Isländska kronor</Name>
       <StartDate>2020-06-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ISK</Code>
+      <Name lang="fi">Islannin kruunu</Name>
+      <Name lang="sv">Isländsk kronor</Name>
+      <Description lang="sv">Isländsk krona</Description>
+      <Name lang="en">Icelandic krona</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>JMD</Code>
+      <Name lang="fi">Jamaikan dollari</Name>
+      <Name lang="sv">Jamaicansk dollar</Name>
+      <Name lang="en">Jamaican dollar</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>JOD</Code>
+      <Name lang="fi">Jordanian dinaari</Name>
+      <Name lang="sv">Jordansk dinar</Name>
+      <Name lang="en">Jordanian dinar</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23231,6 +23652,22 @@ customs warehousing procedure</Description>
       <Name lang="sv">Japanska yen</Name>
       <Name lang="en">Japanese yen</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>JPY</Code>
+      <Name lang="fi">Japanin jeni</Name>
+      <Name lang="sv">Japansk yen</Name>
+      <Name lang="en">Japanese yen</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KES</Code>
+      <Name lang="fi">Kenian šillinki</Name>
+      <Name lang="sv">Kenyansk shilling</Name>
+      <Name lang="en">Kenyan shilling</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23239,7 +23676,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Sydkoreansk won</Name>
       <Name lang="en">South Korean won</Name>
       <StartDate>2016-07-01</StartDate>
-      <EndDate>2032-12-31</EndDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KRW</Code>
+      <Name lang="fi">Etelä-Korean won</Name>
+      <Name lang="sv">Sydkoreansk won</Name>
+      <Name lang="en">Korean won (Republic)</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>KWD</Code>
@@ -23247,6 +23692,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kuwaitiska dinar</Name>
       <Name lang="en">Kuwait dinar</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KWD</Code>
+      <Name lang="fi">Kuwaitin dinaari</Name>
+      <Name lang="sv">Kuwaitisk dinar</Name>
+      <Name lang="en">Kuwait dinar</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23255,6 +23708,46 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tenge</Name>
       <Name lang="en">Tenge</Name>
       <StartDate>2008-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KZT</Code>
+      <Name lang="fi">Kazakstanin tenge</Name>
+      <Name lang="sv">Kazakisk tenge</Name>
+      <Name lang="en">Kazakstan tenge</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>LAK</Code>
+      <Name lang="fi">Laosin kip</Name>
+      <Name lang="sv">Laotisk kip</Name>
+      <Name lang="en">Lao kip</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>LBP</Code>
+      <Name lang="fi">Libanonin punta</Name>
+      <Name lang="sv">Libanesiskt pund</Name>
+      <Name lang="en">Lebanese pound</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>LKR</Code>
+      <Name lang="fi">Sri Lankan rupia</Name>
+      <Name lang="sv">Srilankesisk rupie</Name>
+      <Name lang="en">Sri Lankan rupee</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>LRD</Code>
+      <Name lang="fi">Liberian dollari</Name>
+      <Name lang="sv">Liberiansk dollar</Name>
+      <Name lang="en">Liberian dollar</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23265,11 +23758,27 @@ customs warehousing procedure</Description>
       <EndDate>2015-09-08</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>LYD</Code>
+      <Name lang="fi">Libyan dinaari</Name>
+      <Name lang="sv">Libysk dinar</Name>
+      <Name lang="en">Libyan dinar</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>MAD</Code>
       <Name lang="fi">Marokon dirham</Name>
       <Name lang="sv">Marockanskka dirham</Name>
       <Name lang="en">Moroccan dirham</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MAD</Code>
+      <Name lang="fi">Marokon dirhami</Name>
+      <Name lang="sv">Marockansk dirham</Name>
+      <Name lang="en">Moroccan dirham</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23278,6 +23787,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Moldavisk leu</Name>
       <Name lang="en">EN: Moldovan leu</Name>
       <StartDate>2021-07-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MGA</Code>
+      <Name lang="fi">Madagaskarin ariary</Name>
+      <Name lang="sv">Madagaskisk ariary</Name>
+      <Name lang="en">Madagascar ariary</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23286,6 +23803,62 @@ customs warehousing procedure</Description>
       <Name lang="sv">Makedonisk denar</Name>
       <Name lang="en">EN: Makedonian denaari</Name>
       <StartDate>2021-07-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MKD</Code>
+      <Name lang="fi">Makedonian denaari</Name>
+      <Name lang="sv">Makedonsk denar</Name>
+      <Name lang="en">Macedonian denar</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MMK</Code>
+      <Name lang="fi">Myanmarin kyat</Name>
+      <Name lang="sv">Myanmarsk kyat</Name>
+      <Name lang="en">Myanmar kyat</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MNT</Code>
+      <Name lang="fi">Mongolian tugrik</Name>
+      <Name lang="sv">Mongolisk tögrög (tugrik)</Name>
+      <Name lang="en">Mongolian tugrik</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MOP</Code>
+      <Name lang="fi">Macaon pataca</Name>
+      <Name lang="sv">Macaosk pataca</Name>
+      <Name lang="en">Macau pataca</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MUR</Code>
+      <Name lang="fi">Mauritiuksen rupia</Name>
+      <Name lang="sv">Mauritisk rupie</Name>
+      <Name lang="en">Mauritius rupee</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MWK</Code>
+      <Name lang="fi">Malawin kwacha</Name>
+      <Name lang="sv">Malawisk kwacha</Name>
+      <Name lang="en">Malawi kwacha</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MVR</Code>
+      <Name lang="fi">Malediivien rufiyaa</Name>
+      <Name lang="sv">Maldiisk rufiyaa</Name>
+      <Name lang="en">Maldive rufiyaa</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23294,7 +23867,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Mexikansk peso</Name>
       <Name lang="en">Mexican peso</Name>
       <StartDate>2016-07-01</StartDate>
-      <EndDate>2032-12-31</EndDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MXN</Code>
+      <Name lang="fi">Meksikon peso</Name>
+      <Name lang="sv">Mexikansk peso</Name>
+      <Name lang="en">Mexican peso</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>MYR</Code>
@@ -23302,6 +23883,30 @@ customs warehousing procedure</Description>
       <Name lang="sv">Malaysiska ringit</Name>
       <Name lang="en">Malaysian ringgit</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MYR</Code>
+      <Name lang="fi">Malesian ringit</Name>
+      <Name lang="sv">Malaysiska ringit</Name>
+      <Name lang="en">Malaysian ringgit</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MZN</Code>
+      <Name lang="fi">Mosambikin metical</Name>
+      <Name lang="sv">moçambiquisk metical</Name>
+      <Name lang="en">Mozambique, Meticais</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NAD</Code>
+      <Name lang="fi">Namibian dollari</Name>
+      <Name lang="sv">Namibisk dollar</Name>
+      <Name lang="en">Namibian dollar</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23310,6 +23915,22 @@ customs warehousing procedure</Description>
       <Name lang="sv">Nigeriansk naira</Name>
       <Name lang="en">EN: Nigerian naira</Name>
       <StartDate>2021-07-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NGN</Code>
+      <Name lang="fi">Nigerian naira</Name>
+      <Name lang="sv">Nigeriansk naira</Name>
+      <Name lang="en">Nigerian Naira</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NIO</Code>
+      <Name lang="fi">Nicaraguan kultacordoba</Name>
+      <Name lang="sv">Nicaraguansk córdoba</Name>
+      <Name lang="en">Nicaraguan cordoba</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23318,6 +23939,22 @@ customs warehousing procedure</Description>
       <Name lang="sv">Norska kronor</Name>
       <Name lang="en">Norwegian krone</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NOK</Code>
+      <Name lang="fi">Norjan kruunu</Name>
+      <Name lang="sv">Norsk krona</Name>
+      <Name lang="en">Norwegian krone</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NPR</Code>
+      <Name lang="fi">Nepalin rupia</Name>
+      <Name lang="sv">Nepalesisk rupie</Name>
+      <Name lang="en">Nepaleese rupee</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23326,6 +23963,30 @@ customs warehousing procedure</Description>
       <Name lang="sv">Nyzeeländska dollar</Name>
       <Name lang="en">New Zealand dollar</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NZD</Code>
+      <Name lang="fi">Uuden-Seelannin dollari</Name>
+      <Name lang="sv">Nyzeeländsk dollar</Name>
+      <Name lang="en">New Zealand dollar</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>OMR</Code>
+      <Name lang="fi">Omanin rial</Name>
+      <Name lang="sv">Omansk rial</Name>
+      <Name lang="en">Oman sul rial</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PEN</Code>
+      <Name lang="fi">Perun uusi sol</Name>
+      <Name lang="sv">Peruansk ny sol</Name>
+      <Name lang="en">Peru nuevo sol</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23334,7 +23995,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Filippinsk peso</Name>
       <Name lang="en">Philippine peso</Name>
       <StartDate>2016-07-01</StartDate>
-      <EndDate>2032-12-31</EndDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PHP</Code>
+      <Name lang="fi">Filippiinien peso</Name>
+      <Name lang="sv">Filippinsk peso</Name>
+      <Name lang="en">Philippine peso</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>PKR</Code>
@@ -23342,6 +24011,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Pakistansk rupie</Name>
       <Name lang="en">EN: Pakistanin rupia</Name>
       <StartDate>2021-07-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PKR</Code>
+      <Name lang="fi">Pakistanin rupia</Name>
+      <Name lang="sv">Pakistansk rupie</Name>
+      <Name lang="en">Pakistan rupee</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23350,6 +24027,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Polska zlotyn</Name>
       <Name lang="en">Polish zloty</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PLN</Code>
+      <Name lang="fi">Puolan zloty</Name>
+      <Name lang="sv">Polsk zloty</Name>
+      <Name lang="en">Polish zloty</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23358,6 +24043,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Qatarisk rial</Name>
       <Name lang="en">EN: Qatarin rial</Name>
       <StartDate>2021-07-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QAR</Code>
+      <Name lang="fi">Qatarin rial</Name>
+      <Name lang="sv">Qatarisk rial</Name>
+      <Name lang="en">Qatari riyal</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23366,7 +24059,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Rumänsk ley</Name>
       <Name lang="en">Romanian leu</Name>
       <StartDate>2009-09-01</StartDate>
-      <EndDate>2025-09-16</EndDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>RON</Code>
+      <Name lang="fi">Romanian uusi leu</Name>
+      <Name lang="sv">Rumänsk ley</Name>
+      <Name lang="en">Romanian leu</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>RSD</Code>
@@ -23374,7 +24075,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Serbisk dinar</Name>
       <Name lang="en">Serbian dinar</Name>
       <StartDate>2016-07-01</StartDate>
-      <EndDate>2032-12-31</EndDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>RSD</Code>
+      <Name lang="fi">Serbian dinaari</Name>
+      <Name lang="sv">Serbisk dinar</Name>
+      <Name lang="en">Serbian dinar</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>RUB</Code>
@@ -23382,6 +24091,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Ryska rubel</Name>
       <Name lang="en">Russian rouble</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>RUB</Code>
+      <Name lang="fi">Venäjän rupla</Name>
+      <Name lang="sv">Rysk rubel</Name>
+      <Name lang="en">Russian rouble</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23390,6 +24107,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Saudiarabiska rial</Name>
       <Name lang="en">Saudi Arabian riyal</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SAR</Code>
+      <Name lang="fi">Saudi-Arabian rial</Name>
+      <Name lang="sv">Saudisk rial</Name>
+      <Name lang="en">Saudi riyal</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23398,6 +24123,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Svenska kronor</Name>
       <Name lang="en">Swedish krona</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SEK</Code>
+      <Name lang="fi">Ruotsin kruunu</Name>
+      <Name lang="sv">Svensk krona</Name>
+      <Name lang="en">Swedish krona</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23406,6 +24139,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Singapore dollar</Name>
       <Name lang="en">Singapore dollar</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SGD</Code>
+      <Name lang="fi">Singaporen dollari</Name>
+      <Name lang="sv">Singaporiansk dollar</Name>
+      <Name lang="en">Singapore dollar</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23421,6 +24162,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Thailändska baht</Name>
       <Name lang="en">Thai baht</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>THB</Code>
+      <Name lang="fi">Thaimaan baht</Name>
+      <Name lang="sv">Thailändsk baht</Name>
+      <Name lang="en">Thai baht</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23429,6 +24178,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tunisiska dinar</Name>
       <Name lang="en">Tunisian dinar</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TND</Code>
+      <Name lang="fi">Tunisian dinaari</Name>
+      <Name lang="sv">Tunisisk dinar</Name>
+      <Name lang="en">Tunisian dinar</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23444,6 +24201,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Turkiska ny lire</Name>
       <Name lang="en">Turkish lira</Name>
       <StartDate>2004-12-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TRY</Code>
+      <Name lang="fi">Turkin liira</Name>
+      <Name lang="sv">Turkisk lira</Name>
+      <Name lang="en">Turkish lira</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23452,7 +24217,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Ny taiwanesisk dollar</Name>
       <Name lang="en">New Taiwan dollar</Name>
       <StartDate>2016-07-01</StartDate>
-      <EndDate>2032-12-31</EndDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TWD</Code>
+      <Name lang="fi">Uusi Taiwanin dollari</Name>
+      <Name lang="sv">Ny taiwanesisk dollar</Name>
+      <Name lang="en">New Taiwan dollar</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>UAH</Code>
@@ -23460,6 +24233,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Ukrainsk hryvnia</Name>
       <Name lang="en">EN: Ukrainan hryvnia</Name>
       <StartDate>2021-07-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>UAH</Code>
+      <Name lang="fi">Ukrainan grivna</Name>
+      <Name lang="sv">Ukrainsk hryvnia</Name>
+      <Name lang="en">Ukraine hryvnia</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23468,6 +24249,22 @@ customs warehousing procedure</Description>
       <Name lang="sv">Amerikanska dollar</Name>
       <Name lang="en">US dollar</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>USD</Code>
+      <Name lang="fi">Yhdysvaltain dollari</Name>
+      <Name lang="sv">US-dollar</Name>
+      <Name lang="en">US dollar</Name>
+      <StartDate>2022-11-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>UYU</Code>
+      <Name lang="fi">Uruguayn peso</Name>
+      <Name lang="sv">Uruguyansk peso</Name>
+      <Name lang="en">Uruguayan peso</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23476,6 +24273,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Vietnamesisk dong</Name>
       <Name lang="en">EN: Vietnamin dong</Name>
       <StartDate>2021-07-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VND</Code>
+      <Name lang="fi">Vietnamin dong</Name>
+      <Name lang="sv">Vietnamesisk dong</Name>
+      <Name lang="en">Vietnamese dong</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -23484,7 +24289,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">SDR - Special Drawing Right</Name>
       <Name lang="en">SDR - Special Drawing Right</Name>
       <StartDate>2021-07-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-10-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>ZAR</Code>
@@ -23492,6 +24297,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Sydafrikanska rand</Name>
       <Name lang="en">South African rand</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ZAR</Code>
+      <Name lang="fi">Etelä-Afrikan randi</Name>
+      <Name lang="sv">Sydafrikansk rand</Name>
+      <Name lang="en">South African rand</Name>
+      <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
@@ -24310,16 +25123,16 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>Y850</Code>
-      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3i.3 a artiklassa)</Name>
-      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3i.3a)</Name>
-      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3i.3 b artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3i.3b)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3b)</Name>
       <StartDate>2022-10-07</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>Y851</Code>
-      <Name lang="fi">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
-      <Name lang="sv">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso poikkeukset 3i.3a artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3a)</Name>
       <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
       <StartDate>2022-10-07</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -41772,5 +42585,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-10-11T06:05:04.803</Generated>
+  <Generated>2022-10-12T06:05:04.440</Generated>
 </CodeLists>
