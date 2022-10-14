@@ -2990,6 +2990,14 @@
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>8ESI</Code>
+      <Name lang="fi">Manuaalinen oikaisuesitys</Name>
+      <Name lang="sv">Manuellt förslag till omprövningsbeslut</Name>
+      <Name lang="en">Manual proposed amendment decision</Name>
+      <StartDate>2019-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>8OIK</Code>
       <Name lang="fi">Manuaalinen oikaisupäätös</Name>
       <Name lang="sv">Manuellt omprövningsbeslut</Name>
@@ -10766,7 +10774,7 @@
       <Name lang="fi">Yksinkertaistettu tulli-ilmoitus säännöllistä käyttöä varten</Name>
       <Name lang="sv">Förenklad tulldeklaration som används regelbundet</Name>
       <Name lang="en">Simplified customs declaration with regular use</Name>
-      <StartDate>2021-02-16</StartDate>
+      <StartDate>2022-11-05</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -10825,7 +10833,7 @@
       <Name lang="fi">Ennakolta annettu yksinkertaistettu tulli-ilmoitus satunnaista käyttöä varten</Name>
       <Name lang="sv">På förhand ingiven förenklad deklaration vid enstaka tillfällen</Name>
       <Name lang="en">Pre-lodged simplified declaration on occasional basis</Name>
-      <StartDate>2022-09-24</StartDate>
+      <StartDate>2022-11-05</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -10843,7 +10851,7 @@
       <Name lang="fi">Ennakolta annettu yksinkertaistettu tulli-ilmoitus säännöllistä käyttöä varten</Name>
       <Name lang="sv">På förhand ingiven förenklad deklaration som används regelbundet</Name>
       <Name lang="en">Pre-lodged simplified declaration with regular use</Name>
-      <StartDate>2022-09-24</StartDate>
+      <StartDate>2022-11-05</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -10861,7 +10869,7 @@
       <Name lang="fi">Jälkikäteen jätetty ilmoitus</Name>
       <Name lang="sv">Tulldeklaration ingiven i efterhand</Name>
       <Name lang="en">Retrospective lodgement of a declaration</Name>
-      <StartDate>2022-09-24</StartDate>
+      <StartDate>2022-11-05</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -10879,7 +10887,7 @@
       <Name lang="fi">Koodeissa C ja F määriteltyjä yksinkertaistettuja ilmoituksia kokoava täydentävä ilmoitus</Name>
       <Name lang="sv">För en kompletterande sammanfattande deklaration till förenklade deklarationer enligt C och F.</Name>
       <Name lang="en">For a supplementary recapitulative declaration of simplified declarations covered by C and F</Name>
-      <StartDate>2022-09-24</StartDate>
+      <StartDate>2022-11-05</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -10897,7 +10905,7 @@
       <Name lang="fi">Kokoava täydentävä ilmoitus koodeksin 182 artiklan mukaisessa menettelyssä</Name>
       <Name lang="sv">För en kompletterande sammanfattande deklaration enligt förfarandet i artikel 182 i kodexen.</Name>
       <Name lang="en">For a supplementary recapitulative declaration under the procedure covered under Article 182 of the Code</Name>
-      <StartDate>2022-09-24</StartDate>
+      <StartDate>2022-11-05</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -10915,7 +10923,7 @@
       <Name lang="fi">Täydentävä ilmoitus yksinkertaistetuille tulli-ilmoituksille (koodit B ja E)</Name>
       <Name lang="sv">För en kompletterande deklaration till förenklade deklarationer enligt B och E.</Name>
       <Name lang="en">For a supplementary declaration of simplified declarations covered by B and E</Name>
-      <StartDate>2022-09-24</StartDate>
+      <StartDate>2022-11-05</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -20494,6 +20502,22 @@ customs warehousing procedure</Description>
       <Name lang="sv">Slutanvändning: Markträningsapparater och delar till dessa som importerats av ett utländskt flygbolag och för vilka mervärdesskatt inte uppbärs. (UTK art. 254) (MomsL 94.1 § 9 punkten)</Name>
       <Name lang="en">End-use: Ground flying trainers and parts thereof imported by foreign airlines, no VAT is collected (Article 254 UCC, section 94(1)(9) VAT Act)</Name>
       <StartDate>2019-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>657</Code>
+      <Name lang="fi">Tietty käyttötarkoitus - muut Yhdistetyn Nimikkeistön nimikkeissä ja alaviitteissä mainitut tavarat (UTK 254 art.)</Name>
+      <Name lang="sv">Slutanvändning - övriga varor som nämns i varukodstexterna och fotnoterna i Kombinerade nomenklaturen (UTK 254 art.)</Name>
+      <Name lang="en">End-use - spare parts and equipment for vessels. No VAT is levied. (Article 254 UCC)</Name>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -42585,5 +42609,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-10-13T06:05:05.010</Generated>
+  <Generated>2022-10-14T06:05:03.753</Generated>
 </CodeLists>
