@@ -2998,10 +2998,66 @@
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>8KTP</Code>
+      <Name lang="fi">Korvaava tullauspäätös</Name>
+      <Name lang="sv">Ersättande förtullningbeslut</Name>
+      <Name lang="en">en: Korvaava tullauspäätös</Name>
+      <StartDate>2019-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>8LIS</Code>
+      <Name lang="fi">Lisäselvitys</Name>
+      <Name lang="sv">Tilläggsutredning</Name>
+      <Name lang="en">Additional information</Name>
+      <StartDate>2019-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>8OIK</Code>
       <Name lang="fi">Manuaalinen oikaisupäätös</Name>
       <Name lang="sv">Manuellt omprövningsbeslut</Name>
       <Name lang="en">Manual amendment decision</Name>
+      <StartDate>2019-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>8RKV</Code>
+      <Name lang="fi">Reklamaatiokirjeenvaihto</Name>
+      <Name lang="sv">sv: Reklamaatiokirjeenvaihto</Name>
+      <Name lang="en">en: Reklamaatiokirjeenvaihto</Name>
+      <StartDate>2019-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>8SAA</Code>
+      <Name lang="fi">Saate</Name>
+      <Name lang="sv">sv: Saate</Name>
+      <Name lang="en">en: Saate</Name>
+      <StartDate>2019-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>8TIL</Code>
+      <Name lang="fi">Tiliyhteystiedot</Name>
+      <Name lang="sv">sv: Tiliyhteystiedot</Name>
+      <Name lang="en">en: Tiliyhteystiedot</Name>
+      <StartDate>2019-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>8VAL</Code>
+      <Name lang="fi">Valtakirja</Name>
+      <Name lang="sv">Fullmakt</Name>
+      <Name lang="en">Power of attorney</Name>
+      <StartDate>2019-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>8VAS</Code>
+      <Name lang="fi">Vastine</Name>
+      <Name lang="sv">Bemötande</Name>
+      <Name lang="en">Rejoinder</Name>
       <StartDate>2019-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -15159,8 +15215,8 @@ Vehicle production number</Description>
     <CodeItem>
       <Code>FIMIT</Code>
       <Name lang="fi">Korvaava tullaus. Pyydetään mitätöintiä edeltävälle tullaukselle.</Name>
-      <Name lang="sv">Korvaava tullaus. Pyydetään mitätöintiä edeltävälle tullaukselle.</Name>
-      <Name lang="en">Korvaava tullaus. Pyydetään mitätöintiä edeltävälle tullaukselle.</Name>
+      <Name lang="sv">sv: Korvaava tullaus. Pyydetään mitätöintiä edeltävälle tullaukselle.</Name>
+      <Name lang="en">en: Korvaava tullaus. Pyydetään mitätöintiä edeltävälle tullaukselle.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -35677,7 +35733,7 @@ customs warehousing procedure</Description>
       <Code>100</Code>
       <Name lang="fi">Kolmansiin maihin sovellettava yleinen tulli</Name>
       <Name lang="sv">Allmän tullsats vid import från tredje land</Name>
-      <Name lang="en">Tariff arrangement erga omnes</Name>
+      <Name lang="en">Erga Omnes third country duty rates</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -35685,15 +35741,15 @@ customs warehousing procedure</Description>
       <Code>110</Code>
       <Name lang="fi">Kolmansiin maihin sovellettava autonominen tullisuspensio</Name>
       <Name lang="sv">Autonom tullsuspension vid import från tredje land</Name>
-      <Name lang="en">Tariff arrangement erga omnes - Tariff suspension</Name>
+      <Name lang="en">Erga Omnes autonomous tariff suspension</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>119</Code>
-      <Name lang="fi">Sellaisiin tuotteisiin sovellettava väliaikainen tullisuspensio, jotka tuodaan lentokelpoisuustodistuksella varustettuna.</Name>
+      <Name lang="fi">Sellaisiin tuotteisiin sovellettava väliaikainen tullisuspensio, jotka tuodaan huolto- ja valmistustodistuksella varustettuna.</Name>
       <Name lang="sv">Temporär tullbefrielse för varor som importeras med luftvärdighetsintyg</Name>
-      <Name lang="en">Erga Omnes autonomous tariff suspensions subject to an “airworthiness certificate”</Name>
+      <Name lang="en">Erga Omnes autonomous tariff suspensions subject to an “airworthiness certificate"</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -35701,7 +35757,7 @@ customs warehousing procedure</Description>
       <Code>120</Code>
       <Name lang="fi">Kolmansiin maihin sovellettava WTO-tullikiintiö</Name>
       <Name lang="sv">WTO-tullkvot vid import från tredje land</Name>
-      <Name lang="en">Non preferential tariff quota</Name>
+      <Name lang="en">Non preferential tariff quotas</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -35711,7 +35767,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">WTO-tullkvot vid import från tredje land</Name>
       <Name lang="en">Non preferential tariff quotas subject to and end use authorisation</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-11-04</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>125</Code>
@@ -35719,7 +35775,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">WTO-tullkvot som tillämpas vid import från tredje land och som förutsätter att ett särskilt intyg företes för varorna</Name>
       <Name lang="en">Non preferential tariff quotas subject to a special certificate</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-11-04</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>128</Code>
@@ -35727,7 +35783,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tullkvot erga omnes efter passiv förädling</Name>
       <Name lang="en">Erga Omnes tariff quotas following outward processing</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-11-04</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>140</Code>
@@ -35735,7 +35791,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tullfrihet eller tullnedsättning som förutsätter att varan används för ett särskilt  ändamål.</Name>
       <Name lang="en">Special end use resulting from Common Customs Tariff</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-11-04</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>150</Code>
@@ -35743,7 +35799,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">Klassificering av varan till ett visst KN-nummer förutsätter att ett särskilt intyg företes för varan</Name>
       <Name lang="en">Admission to CN codes subject to special certificate</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-11-04</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>200</Code>
@@ -35759,7 +35815,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">GSP-tullkvot</Name>
       <Name lang="en">GSP tariff quotas</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-11-04</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>223</Code>
@@ -35767,7 +35823,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">GSP-tullkvot på grund av användning för särskilda ändamål</Name>
       <Name lang="en">GSP tariff quota subject to an end use</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-11-04</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>225</Code>
@@ -35775,7 +35831,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">GSP-tullkvot med stöd av ett särskilt intyg</Name>
       <Name lang="en">GSP tariff quotas subject to a special certificate</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-11-04</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>240</Code>
@@ -35783,13 +35839,13 @@ customs warehousing procedure</Description>
       <Name lang="sv">GSP-förmånstullsats på grund av användning för särskilda ändamål</Name>
       <Name lang="en">GSP preferential duty rates subject to an end use</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-11-04</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>300</Code>
-      <Name lang="fi">Etuustulli ei liity ehtoja/rajoituksia</Name>
-      <Name lang="sv">Tullförmån utan villkor och begränsningar (inkl. tulltak)</Name>
-      <Name lang="en">Tariff preferences other than those mentioned under code 2</Name>
+      <Name lang="fi">Etuustulli, johon ei liity ehtoja eikä rajoituksia (katot mukaan lukien)</Name>
+      <Name lang="sv">Förmånstullsats utan villkor eller begränsningar (inbegripet tak)</Name>
+      <Name lang="en">Preferential duty rate without conditions or limits (including ceilings)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -35805,7 +35861,7 @@ customs warehousing procedure</Description>
       <Code>320</Code>
       <Name lang="fi">Etuustullikiintiö</Name>
       <Name lang="sv">Förmånstullkvot</Name>
-      <Name lang="en">Preferential tariff quota</Name>
+      <Name lang="en">Preferential tariff quotas</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -35815,7 +35871,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tullkvot med förmånsbehandling på grund av användning för särskilda ändamål</Name>
       <Name lang="en">Preferential tariff quotas subject to an end use</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-11-04</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>325</Code>
@@ -35823,7 +35879,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tullkvot med förmånsbehandling med stöd av ett särskilt intyg</Name>
       <Name lang="en">Preferential tariff quotas subject to a special certificate</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-11-04</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>340</Code>
@@ -35831,7 +35887,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">Förmånstullsats på grund av användning för särskilda ändamål</Name>
       <Name lang="en">Preferential duty rates subject to an end use</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-11-04</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>400</Code>
@@ -42274,28 +42330,6 @@ customs warehousing procedure</Description>
     <Name lang="en">Control type</Name>
     <Description lang="en">Type of Customs' control</Description>
     <CodeItem>
-      <Code>AT005</Code>
-      <Name lang="fi">Punnitus</Name>
-      <Description lang="fi">Punnitus (AT005)</Description>
-      <Name lang="sv">Vägning</Name>
-      <Description lang="sv">Vägning (AT005)</Description>
-      <Name lang="en">Weighing</Name>
-      <Description lang="en">Weighing (AT005)</Description>
-      <StartDate>2020-01-15</StartDate>
-      <EndDate>2020-11-18</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>AT019</Code>
-      <Name lang="fi">Näytteenotto</Name>
-      <Description lang="fi">Näytteenotto (AT019)</Description>
-      <Name lang="sv">Provtagning</Name>
-      <Description lang="sv">Provtagning (AT019)</Description>
-      <Name lang="en">Sampling</Name>
-      <Description lang="en">Sampling (AT019)</Description>
-      <StartDate>2020-01-15</StartDate>
-      <EndDate>2020-11-18</EndDate>
-    </CodeItem>
-    <CodeItem>
       <Code>AT05</Code>
       <Name lang="fi">Punnitus</Name>
       <Description lang="fi">Punnitus (AT05)</Description>
@@ -42609,5 +42643,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-10-14T06:05:03.753</Generated>
+  <Generated>2022-10-20T06:05:07.073</Generated>
 </CodeLists>
