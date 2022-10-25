@@ -15902,6 +15902,30 @@ Vehicle production number</Description>
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>FISGN</Code>
+      <Name lang="fi">Verorajanumero</Name>
+      <Name lang="sv">Skattegränsnummer</Name>
+      <Name lang="en">Tax border number</Name>
+      <StartDate>2022-10-24</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>FISKN</Code>
       <Name lang="fi">Säilytyskuitin numero</Name>
       <Name lang="sv">Förvaringsintygets nummer</Name>
@@ -20622,6 +20646,22 @@ customs warehousing procedure</Description>
       <Name lang="en">Consignment value is no more than 22 euros</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2021-09-23</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>665</Code>
+      <Name lang="fi">Kiinasta peräisin olevien ns. sähköpolkupyörien, sähkö- tai tavallisten potkulautojen kokoamiseen käytettävien polkupyörän oleellisten osien vapauttaminen polkumyyntitullista tietyn käyttötarkoituksen menettelyä soveltamalla ((EY) Nro 88/97, AVL 1.1.2)</Name>
+      <Name lang="sv">sv: Kiinasta peräisin olevien ns. sähköpolkupyörien, sähkö- tai tavallisten potkulautojen kokoamiseen käytettävien polkupyörän oleellisten osien vapauttaminen polkumyyntitullista tietyn käyttötarkoituksen menettelyä soveltamalla ((EY) Nro 88/97, AVL 1.1.2</Name>
+      <Name lang="en">en: Kiinasta peräisin olevien ns. sähköpolkupyörien, sähkö- tai tavallisten potkulautojen kokoamiseen käytettävien polkupyörän oleellisten osien vapauttaminen polkumyyntitullista tietyn käyttötarkoituksen menettelyä soveltamalla ((EY) Nro 88/97, AVL 1.1.2</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
         <Value>0</Value>
@@ -42643,5 +42683,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-10-20T06:05:07.073</Generated>
+  <Generated>2022-10-25T06:05:03.463</Generated>
 </CodeLists>
