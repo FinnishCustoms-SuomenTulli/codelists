@@ -20658,8 +20658,8 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>665</Code>
       <Name lang="fi">Kiinasta peräisin olevien ns. sähköpolkupyörien, sähkö- tai tavallisten potkulautojen kokoamiseen käytettävien polkupyörän oleellisten osien vapauttaminen polkumyyntitullista tietyn käyttötarkoituksen menettelyä soveltamalla ((EY) Nro 88/97, AVL 1.1.2)</Name>
-      <Name lang="sv">sv: Kiinasta peräisin olevien ns. sähköpolkupyörien, sähkö- tai tavallisten potkulautojen kokoamiseen käytettävien polkupyörän oleellisten osien vapauttaminen polkumyyntitullista tietyn käyttötarkoituksen menettelyä soveltamalla ((EY) Nro 88/97, AVL 1.1.2</Name>
-      <Name lang="en">en: Kiinasta peräisin olevien ns. sähköpolkupyörien, sähkö- tai tavallisten potkulautojen kokoamiseen käytettävien polkupyörän oleellisten osien vapauttaminen polkumyyntitullista tietyn käyttötarkoituksen menettelyä soveltamalla ((EY) Nro 88/97, AVL 1.1.2</Name>
+      <Name lang="sv">Befrielse från antidumpningstullar genom tillämpning av förfarandet för slutanvändning i fråga om vissa essentiella cykeldelar med ursprung i Kina som används för montering av s.k. elcyklar, elsparkcyklar eller vanliga sparkcyklar (förordning (EG) nr 88/9</Name>
+      <Name lang="en">Exemption of imports of essential bicycle parts originating in China and used in assembling so-called electric bicycles, electric kick scooters or regular scooters from the anti-dumping duty through application of the end-use procedure (Reg. (EC) No 88/97</Name>
       <StartDate>2022-11-05</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -42683,5 +42683,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-10-25T06:05:03.463</Generated>
+  <Generated>2022-10-26T06:05:03.157</Generated>
 </CodeLists>
