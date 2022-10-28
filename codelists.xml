@@ -28667,7 +28667,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>NC1254</Code>
-      <Name lang="fi">fi: Amount in supplementary measure unitis is required by TARIC codelist</Name>
+      <Name lang="fi">Taricin vaatima lisäpaljous ilmoitettava</Name>
       <Name lang="sv">sv: Amount in supplementary measure unitis is required by TARIC codelist</Name>
       <Name lang="en">Amount in supplementary measure unitis is required by TARIC codelist</Name>
       <StartDate>2019-01-01</StartDate>
