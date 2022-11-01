@@ -41064,6 +41064,24 @@ customs warehousing procedure</Description>
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>OSI</Code>
+      <Name lang="fi">Osittain tuontitullittoman väliaikaisen maahantuonnin tullivelkaa koskeva päätös</Name>
+      <Name lang="sv">Beslut gällande tullskuld vid tillfällig införsel med partiell befrielse från importtullar</Name>
+      <Name lang="en">Decision on customs debt regarding temporary admission with partial relief from import duty</Name>
+      <StartDate>2022-11-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>PAL</Code>
       <Name lang="fi">Muutospäätös tullivelan vähentämiseksi</Name>
       <Name lang="sv">sv: Muutospäätös tullivelan vähentämiseksi</Name>
@@ -42691,5 +42709,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-10-31T06:05:03.837</Generated>
+  <Generated>2022-11-01T06:05:09.117</Generated>
 </CodeLists>
