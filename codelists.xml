@@ -38695,7 +38695,7 @@ customs warehousing procedure</Description>
     <Name lang="fi">Sanomatyyppi</Name>
     <Description lang="fi">Sanomien koodit, nimet ja selitteet</Description>
     <Name lang="sv">Meddelandetyp</Name>
-    <Description lang="sv">Meddlendens koder, namn och beskrivningar</Description>
+    <Description lang="sv">Meddelandens koder, namn och beskrivningar</Description>
     <Name lang="en">Message type</Name>
     <Description lang="en">Codes, names and descriptions of messages</Description>
     <CodeItem>
