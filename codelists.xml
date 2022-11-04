@@ -12157,6 +12157,31 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>FIKUR</Code>
+      <Name lang="fi">Valuuttakurssi</Name>
+      <Name lang="sv">Valutakurs</Name>
+      <Name lang="en">Exchange rate</Name>
+      <StartDate>2021-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>FIMAN</Code>
       <Name lang="fi">Tuonti Ahvenanmaalta</Name>
       <Name lang="sv">Import från Åland</Name>
@@ -42709,5 +42734,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-11-01T06:05:09.117</Generated>
+  <Generated>2022-11-04T06:05:10.690</Generated>
 </CodeLists>
