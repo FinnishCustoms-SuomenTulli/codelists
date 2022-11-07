@@ -40930,82 +40930,194 @@ customs warehousing procedure</Description>
     <Name lang="en">Reason for contact - amendment</Name>
     <Description lang="en">Reason for amendment request</Description>
     <CodeItem>
-      <Code>B</Code>
-      <Name lang="fi">Liian suuriksi vahvistetut tuontitullien määrät. UTK 116(1)(a) ja 117(1)</Name>
-      <Name lang="sv">Importtull har tagits ut med ett för stort belopp. UTK 116(1)(a) och 117(1)</Name>
-      <Name lang="en">Overcharged amounts of import duty. UCC, Articles 116(1)(a) and 117(1)</Name>
+      <Code>B-01</Code>
+      <Name lang="fi">Alkuperä</Name>
+      <Name lang="sv">Ursprung</Name>
+      <Name lang="en">Origin</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>C</Code>
-      <Name lang="fi">Liian suuriksi vahvistetut tuontitullien määrät, jos hakemus liittyy tariffikiintiöön, tariffikattoon, alennettuun tuontitullin tai tullittomuuteen. UTK 116(1)(a) ja 117(2)</Name>
-      <Name lang="sv">Importtull har tagits ut med ett för stort belopp om ansökan avser en tullkvot, tak, nedsatt importtull eller nollsats på importtull. UTK 116(1)(a) och 117(2)</Name>
-      <Name lang="en">Overcharged amounts of import duty where the application is related to a tariff quota, ceiling, reduced import duty or zero rate of duty. UCC, Articles 116(1)(a) and 117(2)</Name>
+      <Code>B-04</Code>
+      <Name lang="fi">Nimike</Name>
+      <Name lang="sv">sv: Nimike</Name>
+      <Name lang="en">en: Nimike</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>F</Code>
-      <Name lang="fi">Tavara ei vastaa sopimusehtoja, tai on viallinen. UTK 116(1)(b) ja 118</Name>
-      <Name lang="sv">Varorna är defekta eller uppfyller inte villkoren i avtalet. UTK 116(1)(b) och 118</Name>
-      <Name lang="en">Defective goods or goods not complying with the terms of the contract. UCC, Articles 116(1)(b) and 118</Name>
+      <Code>B-07</Code>
+      <Name lang="fi">Tullausarvo</Name>
+      <Name lang="sv">Tullvärde</Name>
+      <Name lang="en">en: Tullausarvo</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>I</Code>
-      <Name lang="fi">Toimivaltaisten viranomaisten virhe. UTK 116(1)(c) ja 119</Name>
-      <Name lang="sv">De berörda myndigheterna har begått ett fel. UTK 116(1)(c) och 119</Name>
-      <Name lang="en">Error by the competent authorities. UCC, Articles 116(1)(c) and 119</Name>
+      <Code>B-08</Code>
+      <Name lang="fi">Tullittomuus</Name>
+      <Name lang="sv">sv: Tullittomuus</Name>
+      <Name lang="en">en: Tullittomuus</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>J</Code>
-      <Name lang="fi">Kohtuusyyt. UTK 116(1)(d) ja 120</Name>
-      <Name lang="sv">Av rättviseskäl. UTK 116(1)(d) och 120</Name>
-      <Name lang="en">Equity. UCC, Articles 116(1)(d) and 120</Name>
+      <Code>B-09</Code>
+      <Name lang="fi">Varastosta luovuttamiseen liittyvä virhe</Name>
+      <Name lang="sv">sv: Varastosta luovuttamiseen liittyvä virhe</Name>
+      <Name lang="en">en: Varastosta luovuttamiseen liittyvä virhe</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>M</Code>
-      <Name lang="fi">Muu ilmoituksella havaittu virhe</Name>
-      <Name lang="sv">Andra fel som konstaterats av deklaranten</Name>
-      <Name lang="en">Other errors observed by declarant</Name>
+      <Code>B-12</Code>
+      <Name lang="fi">Väärä ilmoittaja / väärä edustusmuoto</Name>
+      <Name lang="sv">sv: Väärä ilmoittaja / väärä edustusmuoto</Name>
+      <Name lang="en">en: Väärä ilmoittaja / väärä edustusmuoto</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>P</Code>
-      <Name lang="fi">Purkaustuloksen ja ilmoituksen väliset poikkeamat</Name>
-      <Name lang="sv">Avvikelser mellan lossningsresultatet och deklarationen</Name>
-      <Name lang="en">Discrepancies between the unloading report and the declaration/notification</Name>
+      <Code>B-14</Code>
+      <Name lang="fi">Muut</Name>
+      <Name lang="sv">sv: Muut</Name>
+      <Name lang="en">en: Muut</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>T</Code>
-      <Name lang="fi">Virheellisten tietojen ilmoittaminen. UTK 173(3)</Name>
-      <Name lang="sv">Felaktiga uppgifter om deklarationen. UTK 173(3)</Name>
-      <Name lang="en">Erroneuous declaration data. UCC, Article 173(3)</Name>
+      <Code>C-02</Code>
+      <Name lang="fi">Kiintiö</Name>
+      <Name lang="sv">sv: Kiintiö</Name>
+      <Name lang="en">Quata</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2020-11-23</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>T</Code>
-      <Name lang="fi">Virheellisten tietojen ilmoittaminen. UTK 173(3) tai Hallintolaki 50 §</Name>
-      <Name lang="sv">Felaktiga uppgifter om deklarationen. UTK 173(3) eller Förvaltningslag 50 §</Name>
-      <Name lang="en">Erroneuous declaration data. UCC, Article 173(3) or Administrative Law 50 §</Name>
-      <StartDate>2020-11-24</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>X</Code>
-      <Name lang="fi">Jälkikantoon johtava muutos. UTK 105</Name>
-      <Name lang="sv">Ändring som leder till efteruppbörd,  UTK 105</Name>
-      <Name lang="en">Amendment resulting in post-clearance recovery. Article 105 UCC</Name>
+      <Code>F-10</Code>
+      <Name lang="fi">Vialliset tavarat</Name>
+      <Name lang="sv">sv: Vialliset tavarat</Name>
+      <Name lang="en">en: Vialliset tavarat</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>I-11</Code>
+      <Name lang="fi">Viranomaisen virhe</Name>
+      <Name lang="sv">sv: Viranomaisen virhe</Name>
+      <Name lang="en">en: Viranomaisen virhe</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>J-03</Code>
+      <Name lang="fi">Kohtuusyyt</Name>
+      <Name lang="sv">Av rättviseskäl</Name>
+      <Name lang="en">Equity</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>T-01</Code>
+      <Name lang="fi">Alkuperä</Name>
+      <Name lang="sv">Ursprung</Name>
+      <Name lang="en">Origin</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>T-04</Code>
+      <Name lang="fi">Nimike</Name>
+      <Name lang="sv">sv: Nimike</Name>
+      <Name lang="en">en: Nimike</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>T-07</Code>
+      <Name lang="fi">Tullausarvo</Name>
+      <Name lang="sv">Tullvärde</Name>
+      <Name lang="en">en: Tullausarvo</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>T-09</Code>
+      <Name lang="fi">Varastosta luovuttamiseen liittyvä virhe</Name>
+      <Name lang="sv">sv. Varastosta luovuttamiseen liittyvä virhe</Name>
+      <Name lang="en">en: Varastosta luovuttamiseen liittyvä virhe</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>T-12</Code>
+      <Name lang="fi">Väärä ilmoittaja / väärä edustusmuoto</Name>
+      <Name lang="sv">sv: Väärä ilmoittaja / väärä edustusmuoto</Name>
+      <Name lang="en">en: Väärä ilmoittaja / väärä edustusmuoto</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>T-14</Code>
+      <Name lang="fi">Muut</Name>
+      <Name lang="sv">sv: Väärä ilmoittaja / väärä edustusmuoto</Name>
+      <Name lang="en">en: Väärä ilmoittaja / väärä edustusmuoto</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>X-01</Code>
+      <Name lang="fi">Alkuperä</Name>
+      <Name lang="sv">Ursprung</Name>
+      <Name lang="en">Origin</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>X-02</Code>
+      <Name lang="fi">Kiintiö</Name>
+      <Name lang="sv">Kvot</Name>
+      <Name lang="en">Quota</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>X-04</Code>
+      <Name lang="fi">Nimike</Name>
+      <Name lang="sv">sv: Nimike</Name>
+      <Name lang="en">en: Nimike</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>X-07</Code>
+      <Name lang="fi">Tullausarvo</Name>
+      <Name lang="sv">Tullvärde</Name>
+      <Name lang="en">en: Tullausarvo</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>X-08</Code>
+      <Name lang="fi">Tullittomuus</Name>
+      <Name lang="sv">sv: Tullittomuus</Name>
+      <Name lang="en">en: Tullittomuus</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>X-09</Code>
+      <Name lang="fi">Varastosta luovuttamiseen liittyvä virhe</Name>
+      <Name lang="sv">sv: Varastosta luovuttamiseen liittyvä virhe</Name>
+      <Name lang="en">en: Varastosta luovuttamiseen liittyvä virhe</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>X-14</Code>
+      <Name lang="fi">Muut</Name>
+      <Name lang="sv">sv: Varastosta luovuttamiseen liittyvä virhe</Name>
+      <Name lang="en">en: Varastosta luovuttamiseen liittyvä virhe</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -51654,5 +51766,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-11-07T06:05:04.137</Generated>
+  <Generated>2022-11-07T09:49:33.047</Generated>
 </CodeLists>
