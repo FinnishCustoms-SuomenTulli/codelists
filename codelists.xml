@@ -19979,8 +19979,8 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>01</Code>
-      <Name lang="fi">"Tavaroiden samanaikainen luovutus vapaaseen liikkeeseen ja jälleenlähettäminen unionin tullialueen niiden osien, joissa sovelletaan direktiivin 2006/112/EY tai direktiivin 2008/118/EY säännöksiä, ja tämän alueen niiden osien, joissa kyseisiä säännöksiä e</Name>
-      <Name lang="sv">sv: Free circulation of goods simultaneously redispatched for trade between the EC and the countries with which it has formed a customs union.</Name>
+      <Name lang="fi">Tavaroiden samanaikainen luovutus vapaaseen liikkeeseen ja jälleenlähettäminen unionin tullialueen niiden osien, joissa sovelletaan direktiivin 2006/112/EY tai direktiivin 2008/118/EY säännöksiä, ja tämän alueen niiden osien, joissa kyseisiä säännöksiä e</Name>
+      <Name lang="sv">Övergång till fri omsättning av varor med samtidig vidaresändning i samband med handel mellan delar av unionens tullområde där bestämmelserna i direktiv 2006/112/EG eller direktiv 2008/118/EG är tillämpliga och delar av området där dessa bestämmelser inte</Name>
       <Name lang="en">Free circulation of goods simultaneously redispatched for trade between the EC and the countries with which it has formed a customs union.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -19997,8 +19997,8 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>02</Code>
-      <Name lang="fi">Sisäisen jalostuksen menettelyssä (tullinpalautusjärjestelmä) olevan tavaran vienti</Name>
-      <Name lang="sv">sv: Free circulation of goods with a view to applying the inward processing procedure (drawback system).</Name>
+      <Name lang="fi">Sisäisen jalostuksen menettelyssä (tullinpalautusjärjestelmä) olevan tavaran vienti.</Name>
+      <Name lang="sv">Export av varor som är hänförda till förfarandet för aktiv förädling (restitutionssystemet).</Name>
       <Name lang="en">Free circulation of goods with a view to applying the inward processing procedure (drawback system).</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -20127,8 +20127,8 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>40</Code>
-      <Name lang="fi">Vapaaseen liikeeseen ja kulutukseen luovutetun tavaran vienti</Name>
-      <Name lang="sv">sv: Vapaaseen liikeeseen ja kulutukseen luovutetun tavaran vienti</Name>
+      <Name lang="fi">Vapaaseen liikeeseen ja kulutukseen luovutetun tavaran vienti.</Name>
+      <Name lang="sv">Export av varor som övergått till fri omsättning och fri konsumtion.</Name>
       <Name lang="en">Simultaneous release for free circulation and home use of goods which are not the subject of a VAT-exempt supply.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -20145,8 +20145,8 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>41</Code>
-      <Name lang="fi">Sisäisessä jalostuksessa (tullinpalautusjärjestelmä) olevan tavaran vienti</Name>
-      <Name lang="sv">sv: Sisäisessä jalostuksessa (tullinpalautusjärjestelmä) olevan tavaran vienti</Name>
+      <Name lang="fi">Sisäisessä jalostuksessa (tullinpalautusjärjestelmä) olevan tavaran vienti.</Name>
+      <Name lang="sv">Export av varor hänförda till aktiv förädling (restitutionssystemet).</Name>
       <Name lang="en">Simultaneous release for free circulation and home use of goods placed under the inward processing procedure (drawback system).</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -20164,7 +20164,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>42</Code>
       <Name lang="fi">Sellaisten tavaroiden samanaikainen luovutus vapaaseen liikkeeseen ja kulutukseen, jotka luovutetaan arvonlisäverotta toiseen jäsenvaltioon ja, soveltuvin osin, väliaikaisesti valmisteverottomina.</Name>
-      <Name lang="sv">sv: Simultaneous release for free circulation and home use of goods which are the subject of a VAT-exempt supply to another Member State and, when applicable, an excise duty suspension.</Name>
+      <Name lang="sv">Samtidig övergång till fri omsättning och fri konsumtion av varor som vid leverans till en annan medlemsstat är undantagna från mervärdesskatt och, när så är tillämpligt, omfattas av punktskatteuppskov.</Name>
       <Name lang="en">Simultaneous release for free circulation and home use of goods which are the subject of a VAT-exempt supply to another Member State and, when applicable, an excise duty suspension.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -20182,7 +20182,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>43</Code>
       <Name lang="fi">Tavaroiden samanaikainen luovutus kulutukseen ja vapaaseen liikkeeseen sovellettaessa tietyn määrän kantamiseen liittyviä erityisiä määräyksiä uusien jäsenvaltioiden liittymistä seuraavan siirtymäkauden aikana.</Name>
-      <Name lang="sv">sv: Tavaroiden samanaikainen luovutus kulutukseen ja vapaaseen liikkeeseen sovellettaessa tietyn määrän kantamiseen liittyviä erityisiä määräyksiä uusien jäsenvaltioiden liittymistä seuraavan siirtymäkauden aikana.</Name>
+      <Name lang="sv">Samtidig övergång till fri omsättning och fri konsumtion av varor som är föremål för särskilda åtgärder i samband med uttag av belopp under en övergångsperiod efter anslutningen av nya medlemsstater.</Name>
       <Name lang="en">Simultaneous release for free circulation and home use of goods subject to specific measures, transition period after accession of new MS</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -20200,7 +20200,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>45</Code>
       <Name lang="fi">Tavaroiden luovutus vapaaseen liikkeeseen ja osittainen saattaminen kulutukseen joko arvonlisäveron tai valmisteverojen kantamiseksi sekä niiden asettaminen varastoon, joka ei ole tullivarasto.</Name>
-      <Name lang="sv">sv: Tavaroiden luovutus vapaaseen liikkeeseen ja osittainen saattaminen kulutukseen joko arvonlisäveron tai valmisteverojen kantamiseksi sekä niiden asettaminen varastoon, joka ei ole tullivarasto.</Name>
+      <Name lang="sv">Varors övergång till fri omsättning och partiell övergång till fri konsumtion för mervärdesskatt eller punktskatter samt deras placering i lager som inte är tullager.</Name>
       <Name lang="en">Release of goods for free circulation and home use for either VAT or excise duties and their placing under the tax warehouse procedure.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -20218,7 +20218,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>46</Code>
       <Name lang="fi">Vastaavista tavaroista ulkoisessa jalostusmenettelyssä saatujen jalostettujen tuotteiden tuonti ennen niiden tavaroiden vientiä, jotka ne korvaavat.</Name>
-      <Name lang="sv">sv. Vastaavista tavaroista ulkoisessa jalostusmenettelyssä saatujen jalostettujen tuotteiden tuonti ennen niiden tavaroiden vientiä, jotka ne korvaavat.</Name>
+      <Name lang="sv">Import av sådana förädlade produkter som framställts av likvärdiga varor inom ramen för förfarandet för passiv förädling före exporten av de varor de ersätter.</Name>
       <Name lang="en">Goods dispatched in the context of trade with special fiscal territories (Article 1 (3) of the Code).</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -20236,7 +20236,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>48</Code>
       <Name lang="fi">Korvaavien tuotteiden samanaikainen luovutus kulutukseen ja vapaaseen liikkeeseen ulkoisessa jalostusmenettelyssä ennen väliaikaisesti vietävien viallisten tavaroiden vientiä.</Name>
-      <Name lang="sv">sv: Korvaavien tuotteiden samanaikainen luovutus kulutukseen ja vapaaseen liikkeeseen ulkoisessa jalostusmenettelyssä ennen väliaikaisesti vietävien viallisten tavaroiden vientiä.</Name>
+      <Name lang="sv">Övergång till fri konsumtion med samtidig övergång till fri omsättning av ersättningsprodukter inom ramen för förfarandet för passiv förädling, före exporten av de defekta varorna.</Name>
       <Name lang="en">Entry for home use with simultaneous release for free circulation of replacement goods under the customs outward processing procedure</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -20253,8 +20253,8 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>49</Code>
-      <Name lang="fi">Manner-Suomeen tai Ahvenanmaalle (koodilla 4900) tuotu</Name>
-      <Name lang="sv">sv: Manner-Suomeen tai Ahvenanmaalle (koodilla 4900) tuotu</Name>
+      <Name lang="fi">Manner-Suomeen tai Ahvenanmaalle (koodilla 4900) tuotu.</Name>
+      <Name lang="sv">Import (med koden 4900) till Fastlandsfinland eller Åland.</Name>
       <Name lang="en">Entry for home use of goods in the context of trade between the Community and the countries with which it has formed a customs union.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -20292,7 +20292,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>53</Code>
       <Name lang="fi">Väliaikainen maahantuonti</Name>
-      <Name lang="sv">Temporär import</Name>
+      <Name lang="sv">Tillfällig införsel</Name>
       <Name lang="en">Import under temporary import procedure</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -20351,9 +20351,9 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>76</Code>
-      <Name lang="fi">Unionitavaroiden asettaminen tullivarastointimenettelyyn koodeksin 237 artiklan 2 kohdan mukaisesti</Name>
-      <Name lang="sv">sv: Unionitavaroiden asettaminen tullivarastointimenettelyyn koodeksin 237 artiklan 2 kohdan mukaisesti</Name>
-      <Name lang="en">Placing under the customs warehousing procedure or in a free zone with advance payment of export refunds of products</Name>
+      <Name lang="fi">Unionitavaroiden asettaminen tullivarastointimenettelyyn koodeksin 237 artiklan 2 kohdan mukaisesti.</Name>
+      <Name lang="sv">Hänförande av unionsvaror till tullagerförfarandet i enlighet med artikel 237.2 i kodexen.</Name>
+      <Name lang="en">Placing under the customs warehousing procedure or in a free zone with advance payment of export refunds of products.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -20370,8 +20370,8 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>77</Code>
       <Name lang="fi">Unionitavaroiden ennen vientiä (koodeksin 5 artiklan 27 ja 3 kohdassa tarkoitetussa) tulliviranomaisten tullivalvonnassa tapahtuva valmistus ja vientitukien maksaminen.</Name>
-      <Name lang="sv">sv: Unionitavaroiden ennen vientiä (koodeksin 5 artiklan 27 ja 3 kohdassa tarkoitetussa) tulliviranomaisten tullivalvonnassa tapahtuva valmistus ja vientitukien maksaminen.</Name>
-      <Name lang="en">Placing in an export warehouse, free zone or free warehouse with advance payment of export refunds of processed products</Name>
+      <Name lang="sv">Tillverkning av unionsvaror under tullövervakning av tullmyndigheterna och under tullkontroll (i den mening som avses i artikel 5.27 och 5.3 i kodexen) före export och utbetalning av exportbidrag.</Name>
+      <Name lang="en">Placing in an export warehouse, free zone or free warehouse with advance payment of export refunds of processed products.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -20407,8 +20407,8 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>91</Code>
-      <Name lang="fi">Tullivalvonnassa tapahtuvassa valmistuksen menettelyssä olleen tavaran vienti</Name>
-      <Name lang="sv">sv: Tullivalvonnassa tapahtuvassa valmistuksen menettelyssä olleen tavaran vienti</Name>
+      <Name lang="fi">Tullivalvonnassa tapahtuvassa valmistuksen menettelyssä olleen tavaran vienti.</Name>
+      <Name lang="sv">Export av varor som varit hänförda till tillverkning under tullövervakning.</Name>
       <Name lang="en">Placing of goods under processing under customs control.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -20425,9 +20425,9 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>92</Code>
-      <Name lang="fi">Tullivalvonnassa.tapahtuneen.valmistuksen toisessa jäsenvaltiossa olleen tavaran vienti</Name>
-      <Name lang="sv">sv: Tullivalvonnassa.tapahtuneen.valmistuksen toisessa jäsenvaltiossa olleen tavaran vienti</Name>
-      <Name lang="en">Processing under customs control in another Member State (without release for free circulation in that Member State)</Name>
+      <Name lang="fi">Tullivalvonnassa tapahtuneen valmistuksen toisessa jäsenvaltiossa olleen tavaran vienti.</Name>
+      <Name lang="sv">Export av varor som varit hänförda till tillverkning under tullövervakning i en annan medlemsstat.</Name>
+      <Name lang="en">Processing under customs control in another Member State (without release for free circulation in that Member State).</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -20443,9 +20443,9 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>95</Code>
-      <Name lang="fi">"Tavaroiden asettaminen muuhun varastointimenettelyyn kuin tullivarastointimenettelyyn, kun arvonlisäveroa ja, soveltuvin osin, valmisteveroa ei ole maksettu"</Name>
-      <Name lang="sv">sv: "Tavaroiden asettaminen muuhun varastointimenettelyyn kuin tullivarastointimenettelyyn, kun arvonlisäveroa ja, soveltuvin osin, valmisteveroa ei ole maksettu"</Name>
-      <Name lang="en">Placing of Union Goods under a warehousing procedure other than a customs warehousing procedure where neither VAT nor, when applicable, excise duties have been paid</Name>
+      <Name lang="fi">Tavaroiden asettaminen muuhun varastointimenettelyyn kuin tullivarastointimenettelyyn, kun arvonlisäveroa ja, soveltuvin osin, valmisteveroa ei ole maksettu.</Name>
+      <Name lang="sv">Hänförande av unionsvaror till ett annat lagerförfarande än ett tullagerförfarande där varken mervärdesskatt eller, när så är tillämpligt, punktskatter har betalats.</Name>
+      <Name lang="en">Placing of Union Goods under a warehousing procedure other than a customs warehousing procedure where neither VAT nor, when applicable, excise duties have been paid.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -20462,7 +20462,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>96</Code>
       <Name lang="fi">Unionitavaroiden asettaminen muuhun varastointimenettelyyn kuin tullivarastointimenettelyyn, kun arvonlisäveroa tai, soveltuvin osin, valmisteveroa ei ole maksettu ja toinen vero jätetään väliaikaisesti kantamatta.</Name>
-      <Name lang="sv">sv: Unionitavaroiden asettaminen muuhun varastointimenettelyyn kuin tullivarastointimenettelyyn, kun arvonlisäveroa tai, soveltuvin osin, valmisteveroa ei ole maksettu ja toinen vero jätetään väliaikaisesti kantamatta.</Name>
+      <Name lang="sv">Hänförande av unionsvaror till ett annat lagerförfarande än ett tullagerförfarande där varken mervärdesskatt eller, när så är tillämpligt, punktskatter har betalats och där övrig skatt omfattas av uppskov.</Name>
       <Name lang="en">Placing of Union Goods under a warehousing procedure other than a customs warehousing procedure where either VAT or, when applicable, excise duties have been paid and the payment of the other tax is suspended.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -34188,6 +34188,14 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>R3005</Code>
+      <Name lang="fi">Toimijan on oltava EORI-rekisteröitynyt. Tunnistenumeron on oltava kotimainen tai ulkomainen EORI-numero.</Name>
+      <Name lang="sv">Aktören ska vara EORI-registrerad. Identifikationsnumret ska vara ett inhemskt eller utländskt EORI-nummer.</Name>
+      <Name lang="en">The trader must be registered for EORI. The identification number must be a Finnish or a foreign EORI number.</Name>
+      <StartDate>2022-11-10</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>RequestCorrelation</Code>
       <Name lang="fi">Vastaus pyyntöön voidaan lähettää vain tilanteessa, jossa ilmoitukseen liittyy pyyntö, jolle odotetaan vastausta.</Name>
       <Name lang="sv">Ett svar till begäran kan endast skickas i situationer där en begäran om svar är förknippat med deklarationen.</Name>
@@ -39904,11 +39912,11 @@ customs warehousing procedure</Description>
   </CodeList>
   <CodeList>
     <Identification>NCL061</Identification>
-    <Name lang="fi">Yhteydenoton syy - mitätöinti</Name>
+    <Name lang="fi">Yhteydenoton syy - mitätöinti; tuonti</Name>
     <Description lang="fi">Mitätöintipyynnön syy</Description>
-    <Name lang="sv">Orsak till kontakt - ogiltigförklaring</Name>
+    <Name lang="sv">Orsak till kontakt - ogiltigförklaring; import</Name>
     <Description lang="sv">Orsak för begäran till ogiltigförklaring</Description>
-    <Name lang="en">Reason for contact - invalidation</Name>
+    <Name lang="en">Reason for contact - invalidation; import</Name>
     <Description lang="en">Reason for invalidation request</Description>
     <CodeItem>
       <Code>A-12</Code>
@@ -50282,11 +50290,11 @@ customs warehousing procedure</Description>
   </CodeList>
   <CodeList>
     <Identification>NCL261</Identification>
-    <Name lang="fi">Yhteydenoton syy - mitätöinti</Name>
+    <Name lang="fi">Yhteydenoton syy - mitätöinti; saapuminen</Name>
     <Description lang="fi">Mitätöintipyynnön syy</Description>
-    <Name lang="sv">Orsak till kontakt - ogiltigförklaring</Name>
+    <Name lang="sv">Orsak till kontakt - ogiltigförklaring; ankomst</Name>
     <Description lang="sv">Orsak för begäran till ogiltigförklaring</Description>
-    <Name lang="en">Reason for contact - invalidation</Name>
+    <Name lang="en">Reason for contact - invalidation; entry</Name>
     <Description lang="en">Reason for invalidation request</Description>
     <CodeItem>
       <Code>D</Code>
@@ -50820,5 +50828,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-11-10T06:05:03.703</Generated>
+  <Generated>2022-11-11T06:05:03.600</Generated>
 </CodeLists>
