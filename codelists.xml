@@ -49735,7 +49735,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">sv: Test code</Name>
       <Name lang="en">Test code</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2017-01-02</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>50</Code>
@@ -49791,7 +49791,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">sv: unit price (used like invoice price) - maybe-</Name>
       <Name lang="en">unit price (used like invoice price) - maybe-</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2017-01-02</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>AB</Code>
@@ -50828,5 +50828,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-11-11T06:05:03.600</Generated>
+  <Generated>2022-11-15T06:05:06.547</Generated>
 </CodeLists>
