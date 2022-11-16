@@ -20816,8 +20816,8 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>606</Code>
       <Name lang="fi">Käytetty tavara</Name>
-      <Name lang="sv">Käytetty tavara SE</Name>
-      <Name lang="en">Käytetty tavara EN</Name>
+      <Name lang="sv">Begagnade varor</Name>
+      <Name lang="en">Used goods</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -21040,8 +21040,8 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>648</Code>
       <Name lang="fi">Matkustajatullaus</Name>
-      <Name lang="sv">Matkustajatullaus SV</Name>
-      <Name lang="en">Matkustajatullaus EN</Name>
+      <Name lang="sv">Resandeförtullning</Name>
+      <Name lang="en">Passenger declaration</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -39921,31 +39921,31 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>A-12</Code>
       <Name lang="fi">Tavarat asetettu toiseen tullimenettelyyn</Name>
-      <Name lang="sv">Varor som är placerade under ett annat tullförfarande</Name>
+      <Name lang="sv">Varorna har hänförts till ett annat tullförfarande</Name>
       <Name lang="en">Goods placed under another customs procedure</Name>
-      <StartDate>2021-12-28</StartDate>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>D-12</Code>
       <Name lang="fi">Tuplailmoitus</Name>
-      <Name lang="sv">Duplikatdeklaration</Name>
+      <Name lang="sv">Dubbeldeklaration</Name>
       <Name lang="en">Duplicate declaration</Name>
-      <StartDate>2021-12-28</StartDate>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>E-12</Code>
       <Name lang="fi">Tavaroiden asettaminen tullimenettelyyn ei ole mahdollista erityisten olosuhteiden vuoksi</Name>
-      <Name lang="sv">Placering av varor enligt ett tullförfarande är inte möjligt på grund av speciella omständigheter</Name>
+      <Name lang="sv">Varorna kan inte hänföras till ett tullförfarande på grund av särskilda omständigheter</Name>
       <Name lang="en">The placing of goods under a customs procedure is not possible due to special circumstances</Name>
-      <StartDate>2021-12-28</StartDate>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>K-15</Code>
       <Name lang="fi">Yksityishenkilö palauttaa etämyynnistä ostamansa tavarat DA 148 3</Name>
-      <Name lang="sv">sv: Yksityishenkilö palauttaa etämyynnistä ostamansa tavarat DA 148 3</Name>
+      <Name lang="sv">En privatperson återsänder varorna som hen köpt inom ramen för distansförsäljning, artikel 148.3 DA)</Name>
       <Name lang="en">en: Yksityishenkilö palauttaa etämyynnistä ostamansa tavarat DA 148 3</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -39961,23 +39961,23 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>U-12</Code>
       <Name lang="fi">Unionitavaran ilmoittaminen</Name>
-      <Name lang="sv">Unionsvaror deklarerade</Name>
+      <Name lang="sv">Unionsvaror har deklarerats</Name>
       <Name lang="en">Union goods declared</Name>
-      <StartDate>2021-12-28</StartDate>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V-12</Code>
       <Name lang="fi">Väärän ilmoittajan ilmoittaminen</Name>
-      <Name lang="sv">sv: Väärän ilmoittajan ilmoittaminen</Name>
+      <Name lang="sv">Angivande av fel deklarant</Name>
       <Name lang="en">en: Väärän ilmoittajan ilmoittaminen</Name>
-      <StartDate>2021-12-28</StartDate>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V-14</Code>
       <Name lang="fi">Virheellisten tietojen ilmoittaminen</Name>
-      <Name lang="sv">sv. Virheellisten tietojen ilmoittaminen</Name>
+      <Name lang="sv">Angivande av felaktiga uppgifter</Name>
       <Name lang="en">en: Virheellisten tietojen ilmoittaminen</Name>
       <StartDate>2021-12-28</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -40002,7 +40002,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>B-04</Code>
       <Name lang="fi">Nimike</Name>
-      <Name lang="sv">sv: Nimike</Name>
+      <Name lang="sv">Varukod</Name>
       <Name lang="en">en: Nimike</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -40018,7 +40018,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>B-08</Code>
       <Name lang="fi">Tullittomuus</Name>
-      <Name lang="sv">sv: Tullittomuus</Name>
+      <Name lang="sv">Tullfrihet</Name>
       <Name lang="en">en: Tullittomuus</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -40026,7 +40026,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>B-09</Code>
       <Name lang="fi">Varastosta luovuttamiseen liittyvä virhe</Name>
-      <Name lang="sv">sv: Varastosta luovuttamiseen liittyvä virhe</Name>
+      <Name lang="sv">Fel vid utlämning från lagret</Name>
       <Name lang="en">en: Varastosta luovuttamiseen liittyvä virhe</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -40034,7 +40034,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>B-12</Code>
       <Name lang="fi">Väärä ilmoittaja / väärä edustusmuoto</Name>
-      <Name lang="sv">sv: Väärä ilmoittaja / väärä edustusmuoto</Name>
+      <Name lang="sv">Fel deklarant / fel typ av ombudskap</Name>
       <Name lang="en">en: Väärä ilmoittaja / väärä edustusmuoto</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -40042,7 +40042,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>B-14</Code>
       <Name lang="fi">Muut</Name>
-      <Name lang="sv">sv: Muut</Name>
+      <Name lang="sv">Andra</Name>
       <Name lang="en">en: Muut</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -40050,7 +40050,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>C-02</Code>
       <Name lang="fi">Kiintiö</Name>
-      <Name lang="sv">sv: Kiintiö</Name>
+      <Name lang="sv">Kvot</Name>
       <Name lang="en">Quata</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -40058,7 +40058,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>F-10</Code>
       <Name lang="fi">Vialliset tavarat</Name>
-      <Name lang="sv">sv: Vialliset tavarat</Name>
+      <Name lang="sv">Felaktiga varor</Name>
       <Name lang="en">en: Vialliset tavarat</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -40066,7 +40066,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>I-11</Code>
       <Name lang="fi">Viranomaisen virhe</Name>
-      <Name lang="sv">sv: Viranomaisen virhe</Name>
+      <Name lang="sv">Myndighetens fel</Name>
       <Name lang="en">en: Viranomaisen virhe</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -40090,7 +40090,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>T-04</Code>
       <Name lang="fi">Nimike</Name>
-      <Name lang="sv">sv: Nimike</Name>
+      <Name lang="sv">Varukod</Name>
       <Name lang="en">en: Nimike</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -40106,7 +40106,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>T-09</Code>
       <Name lang="fi">Varastosta luovuttamiseen liittyvä virhe</Name>
-      <Name lang="sv">sv. Varastosta luovuttamiseen liittyvä virhe</Name>
+      <Name lang="sv">Fel vid utlämning från lagret</Name>
       <Name lang="en">en: Varastosta luovuttamiseen liittyvä virhe</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -40114,7 +40114,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>T-12</Code>
       <Name lang="fi">Väärä ilmoittaja / väärä edustusmuoto</Name>
-      <Name lang="sv">sv: Väärä ilmoittaja / väärä edustusmuoto</Name>
+      <Name lang="sv">Fel deklarant / fel typ av ombudskap</Name>
       <Name lang="en">en: Väärä ilmoittaja / väärä edustusmuoto</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -40122,8 +40122,8 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>T-14</Code>
       <Name lang="fi">Muut</Name>
-      <Name lang="sv">sv: Väärä ilmoittaja / väärä edustusmuoto</Name>
-      <Name lang="en">en: Väärä ilmoittaja / väärä edustusmuoto</Name>
+      <Name lang="sv">Andra</Name>
+      <Name lang="en">en: Muut</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -40146,7 +40146,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>X-04</Code>
       <Name lang="fi">Nimike</Name>
-      <Name lang="sv">sv: Nimike</Name>
+      <Name lang="sv">Varukod</Name>
       <Name lang="en">en: Nimike</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -40162,7 +40162,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>X-08</Code>
       <Name lang="fi">Tullittomuus</Name>
-      <Name lang="sv">sv: Tullittomuus</Name>
+      <Name lang="sv">Tullfrihet</Name>
       <Name lang="en">en: Tullittomuus</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -40170,7 +40170,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>X-09</Code>
       <Name lang="fi">Varastosta luovuttamiseen liittyvä virhe</Name>
-      <Name lang="sv">sv: Varastosta luovuttamiseen liittyvä virhe</Name>
+      <Name lang="sv">Fel vid utlämning från lagret</Name>
       <Name lang="en">en: Varastosta luovuttamiseen liittyvä virhe</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -40178,8 +40178,8 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>X-14</Code>
       <Name lang="fi">Muut</Name>
-      <Name lang="sv">sv: Varastosta luovuttamiseen liittyvä virhe</Name>
-      <Name lang="en">en: Varastosta luovuttamiseen liittyvä virhe</Name>
+      <Name lang="sv">Andra</Name>
+      <Name lang="en">en: Muut</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -50828,5 +50828,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-11-15T06:05:06.547</Generated>
+  <Generated>2022-11-16T06:05:03.587</Generated>
 </CodeLists>
