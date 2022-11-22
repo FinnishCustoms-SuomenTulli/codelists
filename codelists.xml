@@ -1190,9 +1190,9 @@
     </CodeItem>
     <CodeItem>
       <Code>MK</Code>
-      <Name lang="fi">Makedonia, EJT</Name>
-      <Name lang="sv">Makedonien, FJR</Name>
-      <Name lang="en">Macedonia, the former Yugoslav Rep.</Name>
+      <Name lang="fi">Pohjois-Makedonia</Name>
+      <Name lang="sv">Nordmakedonien</Name>
+      <Name lang="en">North Macedonia</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -13991,7 +13991,7 @@
       <Name lang="fi">Verkkolaskuosoite</Name>
       <Name lang="sv">Nätfakturaadress</Name>
       <Name lang="en">E-invoicing address</Name>
-      <StartDate>2020-06-15</StartDate>
+      <StartDate>2020-03-01</StartDate>
       <EndDate>2021-04-14</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -17295,7 +17295,7 @@ Vehicle production number</Description>
       <Name lang="fi">Verkkolaskuosoite</Name>
       <Name lang="sv">Nätfakturaadress</Name>
       <Name lang="en">E-invoicing address</Name>
-      <StartDate>2020-06-15</StartDate>
+      <StartDate>2020-03-01</StartDate>
       <EndDate>2021-04-14</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -20767,7 +20767,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>3RE</Code>
-      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 43 art., arvonlisäveroton AVL 94.1. § 12 k. Tavaroita  ei saa lainata, vuokrata eikä luovuNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisestaa vastikkeellisesti eikä vastikkeeNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta ilmoiNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisestamaNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta asiasta etukäteen Tullille (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 48 - 49 art.)</Name>
+      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 43 art., arvonlisäveroton AVL 94.1. § 12 k. Tavaroita, ei saa lainata, vuokrata eikä luovuttaa vastikkeellisesti eikä vastikkeetta ilmoittamatta asiasta etukäteen Tullille (TtA 48- 49 art.)</Name>
       <Name lang="sv">Samlarföremål och konstverk, bilaga II.B (TfriF artikel 43, MomsL 94.1.12 §)</Name>
       <Name lang="en">Collector’s pieces and works of art, Annex II(B) (Article 43 Duty Relief Regulation, section 94(1)(12) VAT Act)</Name>
       <StartDate>2017-01-01</StartDate>
@@ -20895,7 +20895,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>624</Code>
-      <Name lang="fi">Verkonhaltijan verkkoon toimitettava sähkö Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisestava sähkö, arvonlisäveroton AVL 94.1 § 2 k.</Name>
+      <Name lang="fi">Verkonhaltijan verkkoon toimitettava sähkö, arvonlisäveroton AVL 94.1 § 2 k.</Name>
       <Name lang="sv">Elström som levereras till elnätsinnehavares nät (MomsL 94.1.2 §)</Name>
       <Name lang="en">Electricity delivered to the network of a network operator (Section 94(1)(2) VAT Act)</Name>
       <StartDate>2017-01-01</StartDate>
@@ -20903,7 +20903,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>625</Code>
-      <Name lang="fi">Maakaasuverkon  tai siihen yhdistetyn verkon kauNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta toimiteNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisestava kaasu, kaasusäiliöaluksesta maakaasuverkkoon tai tuotantovaiheen kaasuputkistoon syötettävä kaasu sekä lämpö- ja jäähdytysverkon kauNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta toimiteNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisestava lämpö- ja jäähdytysenergia, arvonlisäveroton AVL 94.1. § 2 k. valmisteveroton Laki sähkön ja eräiden polttoaineiden valmisteverosta 20 §</Name>
+      <Name lang="fi">Maakaasuverkon  tai siihen yhdistetyn verkon kautta toimitettava kaasu, kaasusäiliöaluksesta maakaasuverkkoon tai tuotantovaiheen kaasuputkistoon syötettävä kaasu sekä lämpö- ja jäähdytysverkon kautta toimitettava lämpö- ja jäähdytysenergia, arvonlisäveroton AVL 94.1. § 2 k. valmisteveroton Laki sähkön ja eräiden polttoaineiden valmisteverosta 20 §</Name>
       <Name lang="sv">Gas som levereras genom ett naturgasnät eller genom ett nät som är anslutet till ett naturgasnät; gas som införs från ett gastankfartyg i ett naturgasnät eller ett rörledningsnät uppströms; samt värme och kyla som levereras genom ett nät för värme och kyl</Name>
       <Name lang="en">Gas delivered through a natural gas system or any network connected to such a system or fed in from a vessel transporting gas into a natural gas system or any upstream pipeline network, as well as heat or cooling energy delivered through heating or coolin</Name>
       <StartDate>2017-01-01</StartDate>
@@ -20991,7 +20991,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>636</Code>
-      <Name lang="fi">Atk-erikoisohjelma, maahantuojana elinkeinonharjoiNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisestaja, arvonlisäveroton AVL 94 a §</Name>
+      <Name lang="fi">Atk-erikoisohjelma, maahantuojana elinkeinonharjoittaja, arvonlisäveroton AVL 94 a §</Name>
       <Name lang="sv">ADB-specialprogram, då importören är en näringsidkare (Förordn. (EEG) nr 2658/87, MomsL 94 a §)</Name>
       <Name lang="en">Special automatic data processing software, imported by an entrepreneur (Reg. 2658/87, VAT Act, section 94(a))</Name>
       <StartDate>2017-01-01</StartDate>
@@ -21031,7 +21031,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>644</Code>
-      <Name lang="fi">Jalostettujen tuotteiden luovutus vapaaseen liikkeeseen sovelleNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisestaessa koodeksin 85 artiklan 1 kohtaa</Name>
+      <Name lang="fi">Jalostettujen tuotteiden luovutus vapaaseen liikkeeseen sovellettaessa koodeksin 85 artiklan 1 kohta</Name>
       <Name lang="sv">Övergång till fri omsättning av förädlade produkter vid tillämpning av artikel 85.1 i kodexen</Name>
       <Name lang="en">Processed products released for free circulation by applying article 85(1) UCC</Name>
       <StartDate>2019-01-01</StartDate>
@@ -21439,7 +21439,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>C12</Code>
-      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 43 art., arvonlisävero AVL 1.1. § 2 k. Tavaroita, ei saa lainata, vuokrata eikä luovuNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisestaa vastikkeellisesti eikä vastikkeeNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta ilmoiNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisestamaNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta asiasta etukäteen Tullille (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 48- 49 art.)</Name>
+      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 43 art., arvonlisävero AVL 1.1. § 2 k. Tavaroita, ei saa lainata, vuokrata eikä luovuttaa vastikkeellisesti eikä vastikkeetta  ilmoittamatta asiasta etukäteen Tullille (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 48- 49 art.)</Name>
       <Name lang="sv">Undervisningsmateriel, vetenskaplig och kulturell materiel; vetenskapliga instrument och apparater i bilaga  IIA (TfriF 43, MomsL 1.1.2)</Name>
       <Name lang="en">Educational, scientific and cultural materials; scientific instruments and apparatus listed in Annex IIA (Article 43 Duty Relief Regulation, Section 1(1)(2) VAT Act)</Name>
       <StartDate>2017-01-01</StartDate>
@@ -21447,7 +21447,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>C13</Code>
-      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 44 ja 45 art., arvonlisävero AVL 1.1. § 2 k. Tavaroita  ei saa lainata, vuokrata eikä luovuNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisestaa vastikkeellisesti eikä vastikkeeNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta ilmoiNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisestamaNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta asiasta etukäteen Tullille (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 48 - 49 art.)</Name>
+      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 44 ja 45 art., arvonlisävero AVL 1.1. § 2 k. Tavaroita  ei saa lainata, vuokrata eikä luovuttaa vastikkeellisesti eikä vastikkeetta ilmoittamatta asiasta etukäteen Tullille (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 48 - 49 art.)</Name>
       <Name lang="sv">Undervisningsmateriel, vetenskaplig och kulturell materiel; Vetenskapliga instrument och apparater (reservdelar, komponenter och tillbehör) (TfriF 45, MomsL 1.1.2)</Name>
       <Name lang="en">Educational, scientific and cultural materials; scientific instruments and apparatus (spare parts, components, accessories and tools) (REL 45, VAT 1.1.2)</Name>
       <StartDate>2017-01-01</StartDate>
@@ -21455,7 +21455,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>C14</Code>
-      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 51 art., arvonlisävero AVL 1.1. § 2 k. Tavaroita ei saa lainata, vuokrata eikä luovuNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisestaa vastikkeellisesti tai vastikkeeNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta ilmoiNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisestamaNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta asiasta etukäteen Tullille (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 52 art.).</Name>
+      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 51 art., arvonlisävero AVL 1.1. § 2 k. Tavaroita ei saa lainata, vuokrata eikä luovuttaa vastikkeellisesti tai vastikkeetta ilmoittamatta asiasta etukäteen Tullille (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 52 art.).</Name>
       <Name lang="sv">Utrustning importerad för icke-kommersiella ändamål eller på uppdrag av en vetenskaplig forskningsinstitution eller organisation med säte utanför gemenskapen (TfriF art. 51, MomsL 1.1.2 §)</Name>
       <Name lang="en">Equipment imported for non-commercial purposes or on behalf of a scientific research establishment or organisation based outside the Community (Article 51 Duty Relief Regulation, section 1(1)(2) VAT Act)</Name>
       <StartDate>2017-01-01</StartDate>
@@ -21503,7 +21503,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>C20</Code>
-      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 61 art. 1 kohdan a alakohta, arvonlisäveroton AVL 94.1. § 12 k. Tavaroita ei saa lainata, vuokrata eikä luovuNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisestaa vastikkeellisesti tai vastikkeeNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta muihin kuin Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 61 artiklan 1 kohdan a ja b alakohdassa säädettyihin tarkoituksiin ilmoiNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisestamaNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta asiasta etukäteenTullille (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 64 ja 65 art.).</Name>
+      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 61 art. 1 kohdan a alakohta, arvonlisäveroton AVL 94.1. § 12 k. Tavaroita ei saa lainata, vuokrata eikä luovuttaa vastikkeellisesti tai vastikkeetta muihin kuin TtA 61 artiklan1 kohdan a ja b alakohdassa säädettyihin tarkoituksiin ilmoittamatta asiasta etukäteen Tullille (TtA 64 ja 65art.)</Name>
       <Name lang="sv">Varor till välgörenhetsorganisationer och filantropiska organisationer – basförnödenheter som importeras av statliga organisationer eller andra godkända organisationer</Name>
       <Name lang="en">Goods for charitable or philanthropic organisations — basic necessities imported by State organisations or other approved organisations</Name>
       <StartDate>2017-01-01</StartDate>
@@ -21687,7 +21687,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>C43</Code>
-      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 10 art., arvonlisäveroton AVL 94.1. § 12 k. Tavaroilla on 12 kuukauden luovutusrajoitus siitä päivästä, jolloin asianomainen on  muuNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisestanut vakituisesti unionin tullialueelle  (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 8 art. ja 10 art. 2 kohdan b alakohta).</Name>
+      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 10 art., arvonlisäveroton AVL 94.1. § 12 k. Tavaroilla on 12 kuukauden luovutusrajoitus siitä päivästä, jolloin asianomainen on  muuttanut vakituisesti unionin tullialueelle  (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 8 art. ja 10 art. 2 kohdan b alakohta).</Name>
       <Name lang="sv">Import i förväg av flyttgods som tillhör en person som lämnar ett tredje land för yrkesmässiga plikter (TfriF 10, MomsL 94.1.12)</Name>
       <Name lang="en">Prior import of removal goods belonging to persons leaving a third country owing to occupational commitments (Article 10 Duty Relief Regulation, Section 94(1)(12) VAT Act)</Name>
       <StartDate>2017-01-01</StartDate>
@@ -21735,7 +21735,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>C49</Code>
-      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 61 art. 1 kohdan b alakohta, arvonlisäveroton AVL 94.1. § 12 k. Tavaroita ei saa lainata, vuokrata eikä luovuNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisestaa vastikkeellisesti tai vastikkeeNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta muihin kuin Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 61 artiklan 1 kohdan a ja b alakohdassa säädettyihin tarkoituksiin ilmoiNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisestamaNeuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta asiasta etukäteenTullille (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 64 ja 65 art.).</Name>
+      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 61 art. 1 kohdan b alakohta, arvonlisäveroton AVL 94.1. § 12 k. Tavaroita ei saa lainata, vuokrata eikä luovuttaa vastikkeellisesti tai vastikkeetta muihin kuin TtA 61 artiklan1 kohdan a ja b alakohdassa säädettyihin tarkoituksiin ilmoittamatta asiasta etukäteen Tullille (TtA 64 ja 65 art.)</Name>
       <Name lang="sv">Varor till välgörenhetsorganisationer och filantropiska organisationer – varor av alla slag som skickas kostnadsfritt och som ska användas för att vid tillfälliga välgörenhetsevenemang skaffa medel till förmån för behövande</Name>
       <Name lang="en">Goods for charitable or philanthropic organisations - goods of every description sent free of charge and to be used for fund-raising at occasional charity events for the benefit of needy persons</Name>
       <StartDate>2017-01-01</StartDate>
@@ -30144,6 +30144,14 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>NR0152</Code>
+      <Name lang="fi">Annettu oikaisupyynnön syy on virheellinen</Name>
+      <Name lang="sv">sv: Annettu oikaisupyynnön syy on virheellinen</Name>
+      <Name lang="en">en: Annettu oikaisupyynnön syy on virheellinen</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>NR0153</Code>
       <Name lang="fi">Jos lisätietokoodi on 00100, pyydetty menettely pitää olla jokin seuraavista 44,48,51 tai 53 JA lupatyyppi ei ole EUS, OPO, IPO tai TEA</Name>
       <Name lang="sv">Om koden för ytterligare uppgifter är 00100, ska det begärda förfarandet vara antingen 44, 48, 51 eller 53, OCH tillståndstypen får inte vara EUS, OPO, IPO eller TEA</Name>
@@ -30189,6 +30197,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">I en nationell skattegränsdeklaration kan man som tullförfarande endast ange 40 eller 61, och som föregående förfarande ska man ange 00, 21, 23 eller 71.</Name>
       <Name lang="en">In a national tax border declaration, the customs procedure can only be 40 or 61 and the previous procedure must be 00, 21, 23 or 71.</Name>
       <StartDate>2022-11-03</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NR0159</Code>
+      <Name lang="fi">Ilmoitettu liiteasiakirja C512 ei ole sallittu ilmoittaa.</Name>
+      <Name lang="sv">sv: Ilmoitettu liiteasiakirja C512 ei ole sallittu ilmoittaa.</Name>
+      <Name lang="en">en: Ilmoitettu liiteasiakirja C512 ei ole sallittu ilmoittaa.</Name>
+      <StartDate>2022-11-18</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -50828,5 +50844,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-11-18T06:05:03.610</Generated>
+  <Generated>2022-11-22T06:05:03.487</Generated>
 </CodeLists>
