@@ -30240,6 +30240,14 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>NR0163</Code>
+      <Name lang="fi">Kun  pyydetty menettely on 53, pitää FIFPU tieto olla.</Name>
+      <Name lang="sv">sv: Kun  pyydetty menettely on 53, pitää FIFPU tieto olla.</Name>
+      <Name lang="en">en: Kun  pyydetty menettely on 53, pitää FIFPU tieto olla.</Name>
+      <StartDate>2022-11-24</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>NR0200</Code>
       <Name lang="fi">Valitse lisämenettelykoodiksi joko F15, verorajan yli tuotavasta tavarasta tehtävä ilmoitus, tai 615, Ahvenanmaan ja manner-Suomen välisissä unionitavaran ilmoitus; et voi ilmoittaa molempia samalla ilmoituksella.</Name>
       <Name lang="sv">Som kod för ytterligare förfarande välj antingen F15, deklaration för varor som införs över skattegränsen, eller 615, deklaration för unionsvaror som transporteras mellan Åland och Fastlandsfinland; du kan inte ange båda i samma deklaration.</Name>
@@ -36037,7 +36045,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>400</Code>
       <Name lang="fi">Tullien kantaminen Euroopan unionin tekemien tulliliittosopimusten mukaisesti</Name>
-      <Name lang="sv">Inget uttag av tull, i enlighet med avtal om tullunion som ingåtts av gemenskapen</Name>
+      <Name lang="sv">Tull i enlighet med avtal om tullunion som ingåtts av Europeiska unionen</Name>
       <Name lang="en">Customs duties under the provisions of customs union agreements concluded by the European Union</Name>
       <StartDate>2020-06-23</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -50868,5 +50876,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-11-23T06:05:03.573</Generated>
+  <Generated>2022-11-25T06:05:04.973</Generated>
 </CodeLists>
