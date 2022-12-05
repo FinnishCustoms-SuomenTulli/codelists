@@ -2670,6 +2670,14 @@
       <EndDate>2020-11-11</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>45SR</Code>
+      <Name lang="fi">Vakuutus muuttotavaroina maahan tuotujen tavaroiden tullittomuuden ja verottomuuden edellytyksistä.</Name>
+      <Name lang="sv">Försäkran om förutsättningarna för skattefrihet och tullfrihet av varor som förts in som flyttgods.</Name>
+      <Name lang="en">Declaration on the conditions for exemption from customs duties and taxes on goods imported as removal goods</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>4HVT</Code>
       <Name lang="fi">Hävitystodistus</Name>
       <Name lang="sv">Intyg för förstöring</Name>
@@ -6645,6 +6653,14 @@
       <Name lang="sv">Jag har bevis för att varorna har exporterats från USA till unionen före 10.11.2020 (Reg.2020 /1646)</Name>
       <Name lang="en">I have proof that the goods have been exported from the USA to the Union before 10.11.2020 (Reg.2020 /1646)</Name>
       <StartDate>2020-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y997</Code>
+      <Name lang="fi">Muut kuin Krimiltä tai Sevastopolista peräisin olevat tai niille tarkoitetut tavarat (neuvoston asetuksen (EU) N:o 692/2014 2 artiklan a ja b kohdan 1 alakohta)</Name>
+      <Name lang="sv">Varor som inte har sitt ursprung i eller är avsedda för Krim eller Sevastopol (artiklarna 2 a och 2b.1 i rådets förordning (EU) nr 692/2014)</Name>
+      <Name lang="en">Goods not originating from or destined to Crimea or Sevastopol (Articles 2.a and 2b.1 of Council Regulation (EU) No 692/2014)</Name>
+      <StartDate>2022-12-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
@@ -12846,9 +12862,9 @@
     </CodeItem>
     <CodeItem>
       <Code>FIHPL</Code>
-      <Name lang="fi">Tavarat esitetään Tullin hyväksymässä paikassa</Name>
-      <Name lang="sv">Varornas ankomst anmäls vid en plats godkänd av Tullen</Name>
-      <Name lang="en">The goods are presented at a location approved by Customs</Name>
+      <Name lang="fi">Tavarat esitetään Tullin hyväksymässä paikassa (HPA-lupa)</Name>
+      <Name lang="sv">Varornas ankomst anmäls vid en plats godkänd av Tullen (HPA-tillstånd)</Name>
+      <Name lang="en">The goods are presented at a location approved by Customs (HPA-authorisation)</Name>
       <StartDate>2021-04-15</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -12867,6 +12883,31 @@
       <Filter>
         <Name>Filter_TRA</Name>
         <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>FIKUR</Code>
+      <Name lang="fi">Valuuttakurssi</Name>
+      <Name lang="sv">Valutakurs</Name>
+      <Name lang="en">Exchange rate</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
       </Filter>
     </CodeItem>
     <CodeItem>
@@ -15705,9 +15746,9 @@ Vehicle production number</Description>
     </CodeItem>
     <CodeItem>
       <Code>FIHPL</Code>
-      <Name lang="fi">Tavarat esitetään Tullin hyväksymässä paikassa</Name>
-      <Name lang="sv">Varornas ankomst anmäls vid en plats godkänd av Tullen</Name>
-      <Name lang="en">The goods are presented at a location approved by Customs</Name>
+      <Name lang="fi">Tavarat esitetään Tullin hyväksymässä paikassa (HPA-lupa)</Name>
+      <Name lang="sv">Varornas ankomst anmäls vid en plats godkänd av Tullen (HPA-tillstånd)</Name>
+      <Name lang="en">The goods are presented at a location approved by Customs (HPA-authorisation)</Name>
       <StartDate>2021-04-15</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -20736,88 +20777,88 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>3KV</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 128 art., arvonlisävero AVL 1.1. § 2 k.</Name>
-      <Name lang="sv">Tullbefrielse med stöd av internationella överenskommelser och TfriF artikel 128 (internationell överenskommelse), momsfri enligt MomsL 1.1 § 2 punkten</Name>
-      <Name lang="en">Duty relief based on international agreements and Article 128 of the Duty Relief Regulation (international agreements), VAT exemption under section 1(1)(2) VAT Act</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 128; moms MomsL 1 § 1 mom. 2 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 128 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>3KW</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 128 art.,ValmVL 18§, arvonlisävero AVL 1.1. § 2 k.</Name>
-      <Name lang="sv">Tullfri och punktskattefri enligt internationell överenskommelse, TfriF artikel 128, PunktskatteL 18 §, momsfri enligt MomsL 1.1 § 2 punkten</Name>
-      <Name lang="en">Exempt from customs duty and excise duty based on an international agreement, Article 128 Duty Relief Regulation, section 18 Act on Excise Duty, VAT exemption under section 1(1)(2) VAT Act</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 128; Punktskattelagen, 18 §; moms MomsL 1 § 1 mom. 2 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 128 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, section 18 Act on Excise Duty, section 1(1)(2) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>3KY</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 128 art , arvonlisäveroton AVL 96 §</Name>
-      <Name lang="sv">Tullfri och momsfri enligt internationell överenskommelse, TfriF artikel 128, MomsL 96 §</Name>
-      <Name lang="en">Exempt from customs duty and VAT based on an international agreement, Article 128 Duty Relief Regulation, section 96 VAT Act</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 128; momsfri MomsL 96 §.</Name>
+      <Name lang="en">Customs duty exemption. Article 128 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 96 VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>3KZ</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 128 art., ValmVL 18 § , arvonlisäveroton AVL 96 §</Name>
-      <Name lang="sv">Tullfri, punktskattefri och momsfri enligt internationell överenskommelse, TfriF artikel 128, PunktskatteL 18 §, MomsL 96 §</Name>
-      <Name lang="en">Exempt from customs duties, excise duties and VAT based on an international agreement, Article 128 Duty Relief Regulation, section 18 Act on Excise Duty, section 96 VAT Act</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 128; Punktskattelagen, 18 §; momsfri MomsL 96 §.</Name>
+      <Name lang="en">Customs duty exemption. Article 128 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, section 18 Act on Excise Duty, VAT exemption under section 96 VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>3MF</Code>
       <Name lang="fi">Ammattiliikenteen henkilöstön tuomiset yhden kalenterikuukauden aikana. , Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 41 art.  ja  arvonlisäveroton AVL 95 e § , valmisteveroton VVL 90 §</Name>
-      <Name lang="sv">Varor som införs av personal inom yrkestrafiken under en kalendermånad (tullfri enligt TfriF artikel 41, skattefri enligt MomsL 95 e §, PunktskatteL 90 §)</Name>
-      <Name lang="en">Goods brought back by the crew of a means of transport in commercial traffic during one calendar month (customs duty exemption under Article 41 Duty Relief Regulation, VAT exemption under section 95(e) VAT Act, section 90 Act on Excise Duty)</Name>
+      <Name lang="sv">Varor som införs av personal inom yrkestrafiken under en kalendermånad. Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 41 och momsfri MomsL 95 e §; punktskattefri Punktskattelagen, 90 §.</Name>
+      <Name lang="en">Goods brought back by the crew of a means of transport in commercial traffic during one calendar month. Customs duty exemption. Article 41 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 95 VAT Act, excise duty exemption under section 90 Act on Excise Duty</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>3RA</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 25 art., arvonlisävero AVL 1.1. § 2 k.</Name>
-      <Name lang="sv">Småförsändelser av icke-kommersiell natur som skickas mellan privatpersoner och är värda högst 45 euro. (Tullfri enligt TfriF artikel 25, momsfri enligt MomsL 1.1 § 2 punkten)</Name>
-      <Name lang="en">Small non-commercial consignments that are sent by a private individual to another private individual and are worth no more than 45 euros. (Customs duty exemption under Article 25 Duty Relief Regulation, VAT exemption under section 1(1)(2) VAT Act)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 25; moms MomsL 1 § 1 mom. 2 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 25 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>3RE</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 43 art., arvonlisäveroton AVL 94.1. § 12 k. Tavaroita, ei saa lainata, vuokrata eikä luovuttaa vastikkeellisesti eikä vastikkeetta ilmoittamatta asiasta etukäteen Tullille (TtA 48- 49 art.)</Name>
-      <Name lang="sv">Samlarföremål och konstverk, bilaga II.B (TfriF artikel 43, MomsL 94.1.12 §)</Name>
-      <Name lang="en">Collector’s pieces and works of art, Annex II(B) (Article 43 Duty Relief Regulation, section 94(1)(12) VAT Act)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 43; momsfri MomsL 94 § 1 mom. 12 p. Varorna får inte lånas ut, hyras ut eller överlåtas, vare sig mot ersättning eller kostnadsfritt, utan att detta först har anmälts till Tullen (art. 48-49 i TfriF).</Name>
+      <Name lang="en">Customs duty exemption. Article 43 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act. The goods may not be lent, hired out or transferred, whether for a consideration or free of charge, without prior notification to Customs (Articles 48–49 Duty Relief Regulation)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>3RG</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 53 art., arvonlisäveroton AVL 94.1. § 15 k.</Name>
-      <Name lang="sv">Laboratoriedjur för forskningsändamål utan vederlag (TfriF artikel 53, MomsL 94.1.15 §)</Name>
-      <Name lang="en">Laboratory animals intended for research, supplied free of charge (Article 53 Duty Relief Regulation, section 94(1)(15) VAT Act)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 53; momsfri MomsL 94 § 1 mom. 15 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 53 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(15) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>3RI</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 53art., arvonlisäveroton AVL 94.1. § 15 k.</Name>
-      <Name lang="sv">Biologiska och kemiska ämnen för forskningsändamål utan vederlag.</Name>
-      <Name lang="en">Biological or chemical substances intended for research and imported free of charge.</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 53; momsfri MomsL 94 § 1 mom. 15 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 53 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(15) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>3RJ</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 104 art., arvonlisäveroton AVL 94.1. § 16 k.</Name>
-      <Name lang="sv">Diverse dokument och artiklar utan vederlag till myndigheter och organisationer (TfriF artikel 104, MomsL 94.1.16 §)</Name>
-      <Name lang="en">Miscellaneous documents and articles sent free of charge to authorities and organisations (Article 104 Duty Relief Regulation, section 94(1)(16) VAT Act)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 104; momsfri MomsL 94 § 1 mom. 16 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 104 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(16) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>3RK</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 105 art., arvonlisäveroton AVL 94.1. § 17 k.</Name>
-      <Name lang="sv">Material som används för skydd av varor under transporten, om vederlaget för dessa varor inkluderas i skattegrunden för skatten på importen av den transporterade varan (TfriF artikel 105, MomsL 94.1.17 §)</Name>
-      <Name lang="en">Single-use materials needed for the protection of goods during their transport if the consideration paid for them is included in the taxable amount for importation of the transported goods (Article 105 Duty Relief Regulation, section 94(1)(17) VAT Act)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 105; momsfri MomsL 94 § 1 mom. 17 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 105 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(17) VAT Act</Name>
       <StartDate>2020-09-17</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -20832,7 +20873,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>606</Code>
       <Name lang="fi">Käytetty tavara</Name>
-      <Name lang="sv">Begagnade varor</Name>
+      <Name lang="sv">Begagnad vara</Name>
       <Name lang="en">Used goods</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -20872,88 +20913,88 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>619</Code>
       <Name lang="fi">Ilma-alusten varaosat ja varusteet huolto- ja valmistustodistus esitettäessä. Tulliton., Neuvoston asetus (EU) 2018/581, Komission täytäntöönpanoasetus (EU) 2018/1517 , arvonlisäveroton  AVL 94.1. § 9 k.)</Name>
-      <Name lang="sv">Reservdelar eller utrustning till luftfartyg mot uppvisande av luftvärdighetsbevis (förordning (EG) nr 1146/2002, MomsL 94.1.9 §)</Name>
-      <Name lang="en">Spare parts and equipment for aircraft on presentation of an airworthiness certificate (Regulation (EC) No 1146/2002, section 94(1)(9) VAT Act)</Name>
+      <Name lang="sv">Reservdelar eller utrustning till luftfartyg mot uppvisande av intyg om auktoriserat underhåll/tillverkning. Tullfri, Rådets förordning (EU) 2018/581, kommissionens genomförandeförordning (EU) 2018/1517, momsfri MomsL 94.1 § 9 punkten.</Name>
+      <Name lang="en">Spare parts and equipment for aircraft on presentation of an authorised release certificate. Customs duty exemption under Council Regulation (EU) 2018/581, Commission Implementing Regulation (EU) 2018/1517, VAT exemption under section 94(1)(9) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>620</Code>
       <Name lang="fi">Muut AVL 70 §:ssä tarkoitetut ilma-alukset, varaosat ja varusteet, arvonlisäveroton AVL 94.1 § 9 k.</Name>
-      <Name lang="sv">Övriga luftfartyg och reservdelar samt övrig utrustning som avses i 70 § i MomsL (MomsL 94.1.9 §)</Name>
-      <Name lang="en">Other aircraft, spare parts and equipment referred to in section 70 of the VAT Act (section 94(1)(9) VAT Act)</Name>
+      <Name lang="sv">Övriga luftfartyg och reservdelar samt övrig utrustning som avses i 70 § i MomsL, mervärdesskattefri MomsL 94 § 1 mom. 9 p.</Name>
+      <Name lang="en">Other aircraft, spare parts and equipment referred to in section 70 of the VAT Act, VAT exemption under section 94(1)(9) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>621</Code>
       <Name lang="fi">Vesialuksen arvonlisäveroton maahantuonti, AVL 94.1 § 9 k., AVL 58.1 §</Name>
-      <Name lang="sv">Mervärdesskattefri import av fartyg (MomsL 94.1 § 9 punkten, MomsL 58.1 §)</Name>
-      <Name lang="en">VAT-exempt import of vessels (VAT Act, section 94(1)(9); VAT Act, section 58(1))</Name>
+      <Name lang="sv">Mervärdesskattefri import av fartyg, MomsL 94 § 1 mom. 9 p., MomsL 58 § 1 mom.)</Name>
+      <Name lang="en">VAT-exempt import of vessels, section 94(1)(9) VAT Act, section 58(1) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>622</Code>
       <Name lang="fi">Diplomaattitavarat, Tulliton.  TL 44 §, arvonlisäveroton AVL 94.1 § 20 k., valmisteveroton VVL 18 §</Name>
-      <Name lang="sv">Diplomatvaror (TL 44 §, MomsL 94.1.20 §, PunktskatteL 18 §)</Name>
-      <Name lang="en">Diplomatic goods (Customs Act, section 44; VAT Act, section 94(1)(20); Act on Excise Duty, section 18)</Name>
+      <Name lang="sv">Diplomatvaror, Tullfri.  Tullagen 44 §, momsfri MomsL 94 § 1 mom. 20 p., punktskattefri PunktskatteL 18 §</Name>
+      <Name lang="en">Diplomatic goods, Customs duty exemption. Section 44 Customs Act, VAT exemption under section 94(1)(20) VAT Act, excise duty exemption under section 18 Act on Excise Duty</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>623</Code>
       <Name lang="fi">AVL 36 § 3 k. hammasproteesit, arvonlisäveroton AVL 94.1 § 11 k.</Name>
-      <Name lang="sv">Tandproteser som avses i 36 § 3 punkten i MomsL (Förordn. (EEG) nr 2658/87, MomsL 94.1.11 §)</Name>
-      <Name lang="en">Dentures referred to in section 36(3) of the VAT Act (Reg. 2658/87, VAT Act, section 94(1)(11))</Name>
+      <Name lang="sv">MomsL 36 § 3 p. Tandproteser, momsfri MomsL 94 § 1 mom. 11 p.</Name>
+      <Name lang="en">Dentures referred to in section 36(3) VAT Act, VAT exemption under section 94(1)(11) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>624</Code>
       <Name lang="fi">Verkonhaltijan verkkoon toimitettava sähkö, arvonlisäveroton AVL 94.1 § 2 k.</Name>
-      <Name lang="sv">Elström som levereras till elnätsinnehavares nät (MomsL 94.1.2 §)</Name>
-      <Name lang="en">Electricity delivered to the network of a network operator (Section 94(1)(2) VAT Act)</Name>
+      <Name lang="sv">Elström som levereras till en elnätsinnehavares nät, momsfri MomsL 94 § 1 mom. 2 p.)</Name>
+      <Name lang="en">Electricity delivered to the network of a network operator, VAT exemption under section 94(1)(2) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>625</Code>
       <Name lang="fi">Maakaasuverkon  tai siihen yhdistetyn verkon kautta toimitettava kaasu, kaasusäiliöaluksesta maakaasuverkkoon tai tuotantovaiheen kaasuputkistoon syötettävä kaasu sekä lämpö- ja jäähdytysverkon kautta toimitettava lämpö- ja jäähdytysenergia, arvonlisäveroton AVL 94.1. § 2 k. valmisteveroton Laki sähkön ja eräiden polttoaineiden valmisteverosta 20 §</Name>
-      <Name lang="sv">Gas som levereras genom ett naturgasnät eller genom ett nät som är anslutet till ett naturgasnät; gas som införs från ett gastankfartyg i ett naturgasnät eller ett rörledningsnät uppströms; samt värme och kyla som levereras genom ett nät för värme och kyl</Name>
-      <Name lang="en">Gas delivered through a natural gas system or any network connected to such a system or fed in from a vessel transporting gas into a natural gas system or any upstream pipeline network, as well as heat or cooling energy delivered through heating or coolin</Name>
+      <Name lang="sv">Gas som levereras genom ett naturgasnät eller genom ett nät som är anslutet till ett naturgasnät, gas som införs från ett gastankfartyg till ett naturgasnät eller ett rörledningsnät uppströms samt värme och kyla som levereras genom ett nät för värme och kyla, momsfri, MomsL 94 § 1 mom. 2 p, punktskattefri, Lagen om punktskatt på elström och vissa bränslen, 20 §.</Name>
+      <Name lang="en">Gas delivered through a natural gas system or any network connected to such a system or fed in from a vessel transporting gas into a natural gas system or any upstream pipeline network, as well as heat or cooling energy delivered through heating or cooling networks, VAT exemption under section 94(1)(2) VAT Act, excise duty exemption under section 20 Act on Excise Duty on Electricity and Certain Fuels</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>626</Code>
       <Name lang="fi">Maakaasu verollisessa käytössä, L sähkön ja eräiden polttoaineiden valmisteverosta 1 §, AVL 94.1 § 2 k.)</Name>
-      <Name lang="sv">Skattepliktig användning av naturgas (L om punktskatt på elström och vissa bränslen 1 §, MomsL 94.1.2 §)</Name>
-      <Name lang="en">Natural gas in taxable use (Act on Excise Duty on Electricity and Certain Fuels, section 1; VAT Act, section 94(1)(2))</Name>
+      <Name lang="sv">Skattepliktig användning av naturgas, Lagen om punktskatt på elström och vissa bränslen 1 §, MomsL 94 § 1 mom. 2 p.)</Name>
+      <Name lang="en">Natural gas in taxable use, section 1 Act on Excise Duty on Electricity and Certain Fuels, section 94(1)(2) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>627</Code>
       <Name lang="fi">Maakaasu sähköntuotannossa, valmisteveroton Laki sähkön ja eräiden polttoaineiden valmisteverosta 21.1 § 3 k.</Name>
-      <Name lang="sv">Användning av naturgas vid elproduktion (L om punktskatt på elström och vissa bränslen 21.1 § 3 punkten)</Name>
-      <Name lang="en">Natural gas used in the production of electricity (Section 21(1)(3) Act on Excise Duty on Electricity and Certain Fuels)</Name>
+      <Name lang="sv">Användning av naturgas vid elproduktion, punktskattefri, lagen om punktskatt på elström och vissa bränslen 21 § 1 mom. 3 p.</Name>
+      <Name lang="en">Natural gas used in the production of electricity, excise duty exemption, section 21(1)(3) Act on Excise Duty on Electricity and Certain Fuels</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>628</Code>
       <Name lang="fi">Arvonlisäveroton AVL 94.1 § 19 k.</Name>
-      <Name lang="sv">Mervärdesskattefri MomsL 94.1 § 19 punkten</Name>
-      <Name lang="en">Exempt from VAT (VAT Act, section 94(1)(19))</Name>
+      <Name lang="sv">Mervärdesskattefri MomsL 94 § 1 mom. 19 p.</Name>
+      <Name lang="en">VAT exemption under section 94(1)(19) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>629</Code>
       <Name lang="fi">Maa- ja turvalaitteet siviililentoliikenteessä, Tulliton. TL  49 §, arvonlisäveroton AVL 94.1 § 13 k.</Name>
-      <Name lang="sv">Land- och säkerhetsanordningar för civil flygtrafik (TL 49 §, MomsL 94.1.13 §)</Name>
-      <Name lang="en">Ground equipment and safety devices used in civilian air traffic (Customs Act, section 49; VAT Act, section 94(1)(13))</Name>
+      <Name lang="sv">Land- och säkerhetsanordningar för civil flygtrafik, Tullfri. Tullagen 49 §, mervärdesskattefri MomsL 94 § 1 mom. 13 p.</Name>
+      <Name lang="en">Ground equipment and safety devices used in civilian air traffic, Customs duty exemption. Section 49 Customs Act, VAT exemption under section 94(1)(13) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -20968,72 +21009,72 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>631</Code>
       <Name lang="fi">Äidinmaito, ihmisveri, -elimet ja kudokset, arvonlisäveroton AVL 94.1 § 1 k.</Name>
-      <Name lang="sv">Modersmjölk, människoblod samt mänskliga organ och vävnader (Förordn. (EEG) nr 2658/87, MomsL 94.1.1 §)</Name>
-      <Name lang="en">Mother's milk, human blood and human organs and tissues (Reg. 2658/87, section 94(1)(1) VAT Act)</Name>
+      <Name lang="sv">Modersmjölk, människoblod samt mänskliga organ och vävnader, momsfri, MomsL 94 § 1 mom. 1 p.</Name>
+      <Name lang="en">Mother's milk, human blood and human organs and tissues, VAT exemption under section 94(1)(1) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>632</Code>
       <Name lang="fi">AVL 56 §:n sanoma- ja aikakausilehdet , arvonlisäveroton AVL 94.1 § 7 k</Name>
-      <Name lang="sv">Tidningar och tidskrifter som avses i 56 § (Förordn. (EEG) nr 2658/87, MomsL 94.1.7 §)</Name>
-      <Name lang="en">Newspapers and periodicals referred to in section 56 of the VAT Act (Reg. 2658/87, section 94(1)(7) VAT Act)</Name>
+      <Name lang="sv">Tidningar och tidskrifter som avses i 56 § MomsL momsfri MomsL 94 § 1 mom. 7 p.</Name>
+      <Name lang="en">Newspapers and periodicals referred to in section 56 VAT Act, VAT exemption under section 94(1)(7) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>633</Code>
       <Name lang="fi">Kulta keskuspankin maahantuomana, arvonlisäveroton AVL 94.1 § 8 k.</Name>
-      <Name lang="sv">Guld, då importören är centralbanken (Förordn. (EEG) nr 2658/87, MomsL 94.1.8 §)</Name>
-      <Name lang="en">Gold imported by the central bank (Reg. 2658/87, section 94(1)(8) VAT Act)</Name>
+      <Name lang="sv">Guld, när importören är centralbanken, momsfri MomsL 94 § 1 mom. 8 p</Name>
+      <Name lang="en">Gold imported by the central bank, VAT exemption under section 94(1)(8) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>634</Code>
       <Name lang="fi">AVL 59 § 1 k. setelit ja kolikot, arvonlisäveroton AVL 94.1 § 10 k.</Name>
-      <Name lang="sv">Sedlar och mynt som avses i 59 § 1 punkten (Förordn. (EEG) nr 2658/87, MomsL 94.1 § 10 punkten)</Name>
-      <Name lang="en">Bills and coins referred to in section 59(1) (Reg. 2658/87, section 94(1)(10) VAT Act)</Name>
+      <Name lang="sv">Sedlar och mynt som avses i 59 § 1 punkten, momsfri MomsL 94 § 1 mom. 10 p.</Name>
+      <Name lang="en">Bills and coins referred to in section 59(1) VAT Act, VAT exemption under section 94(1)(10) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>635</Code>
       <Name lang="fi">Euroopan yhteisöjen viralliseen käyttöön hankitut tavarat, veron peruste ja vero vähintään 80 euroa, arvonlisäveroton AVL 94.1 § 22 k., valmisteveroton VVL 18 §</Name>
-      <Name lang="sv">Varor som förvärvats för officiellt bruk av organ inom Europeiska gemenskaperna, skattegrund med mervärdeskatt minst 80 euro (Förordn. (EEG) nr 2658/87, MomsL 94.1.22 §, PunktskatteL 18 §)</Name>
-      <Name lang="en">Goods acquired for the official use of the European Communities; taxable amount and VAT amounting to at least 80 euros (Reg. 2658/87, section 94(1)(22) VAT Act, section 18 Act on Excise Duty)</Name>
+      <Name lang="sv">Varor som förvärvats för officiellt bruk av organ inom Europeiska gemenskaperna, skattegrund med mervärdeskatt minst 80 euro, momsfri MomsL 94 § 1 mom. 22 p., punktskattefri Punktskattelagen 18 §</Name>
+      <Name lang="en">Goods acquired for the official use of the European Communities, taxable amount and VAT amounting to at least 80 euros, VAT exemption under section 94(1)(22) VAT Act, excise duty exemption under section 18 of the Excise Duty Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>636</Code>
       <Name lang="fi">Atk-erikoisohjelma, maahantuojana elinkeinonharjoittaja, arvonlisäveroton AVL 94 a §</Name>
-      <Name lang="sv">ADB-specialprogram, då importören är en näringsidkare (Förordn. (EEG) nr 2658/87, MomsL 94 a §)</Name>
-      <Name lang="en">Special automatic data processing software, imported by an entrepreneur (Reg. 2658/87, VAT Act, section 94(a))</Name>
+      <Name lang="sv">ADB-specialprogram, när importören är en näringsidkare, momsfri MomsL 94 a §</Name>
+      <Name lang="en">Special automatic data processing software, imported by an entrepreneur, VAT exemption under section 94 a VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>637</Code>
       <Name lang="fi">AVL 43 b § sijoituskulta, arvonlisäveroton AVL 94.1 § 5 k.</Name>
-      <Name lang="sv">Investeringsguld som avses i 43 b § i MomsL (MomsL 94.1.5 §)</Name>
-      <Name lang="en">Investment gold referred to in section 43(b) of the VAT Act (section 94(1)(5) VAT Act)</Name>
+      <Name lang="sv">Investeringsguld som avses i 43 b § i MomsL, momsfri MomsL 94 § 1 mom. 5 p.</Name>
+      <Name lang="en">Investment gold referred to in section 43 b VAT Act, VAT exemption under section 94(1)(5) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>638</Code>
       <Name lang="fi">ALV 129 b §:ssä tarkoitetun kansainvälisen järjestön ja sen henkilökunnan maahantuomat tavarat,  arvonlisäveroton AVL 94.1 § 23 k</Name>
-      <Name lang="sv">Varor som importeras av sådana internationella organisationer som avses i MomsL 129 b § samt av deras personal under de förutsättningar och med de begränsningar som fastställs i avtalet om grundande av organisationen eller i värdlandsöverenskommelsen och</Name>
-      <Name lang="en">Goods imported by international organisations referred to in section 129(b) of the VAT Act and by their staff, under the conditions and within the limits as provided in the treaty establishing the organisation or in its host country agreement, provided th</Name>
+      <Name lang="sv">Varor som importeras av sådana internationella organisationer som avses i 129 b § MomsL eller av dessa organisationers personal, momsfri MomsL 94 § 1 mom. 23 p.</Name>
+      <Name lang="en">Goods imported by the international organisations referred to in section 129 b VAT Act and by their personnel, VAT exemption under section 94(1)(23) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>640</Code>
       <Name lang="fi">Kaksinkertaisen verotuksen tuontihuojennus, Laki Ahvenanmaan maakuntaa koskevista poikkeuksista arvonlisävero- ja valmisteverolainsäädäntöön 18 a §</Name>
-      <Name lang="sv">Regeln om importlättnad avsedd att avskaffa dubbelbeskattning (L om undantag för landskapet Åland i fråga om mervärdesskatte- och accislagstiftningen 18 a §)</Name>
-      <Name lang="en">Import relief regulation for the removal of double taxation (Act on exceptions to value added tax and excise duty legislation for the region of Åland, section 18(a))</Name>
+      <Name lang="sv">Importlättnad avsedd att avskaffa dubbelbeskattning, Lag om undantag för landskapet Åland i fråga om mervärdesskatte- och accislagstiftningen 18 a §</Name>
+      <Name lang="en">Import relief regarding double taxation, section 18 a of the Act on exceptions to value added tax and excise duty legislation for the region of Åland</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -21049,7 +21090,7 @@ customs warehousing procedure</Description>
       <Code>644</Code>
       <Name lang="fi">Jalostettujen tuotteiden luovutus vapaaseen liikkeeseen sovellettaessa koodeksin 85 artiklan 1 kohta</Name>
       <Name lang="sv">Övergång till fri omsättning av förädlade produkter vid tillämpning av artikel 85.1 i kodexen</Name>
-      <Name lang="en">Processed products released for free circulation by applying article 85(1) UCC</Name>
+      <Name lang="en">Release for free circulation of processed products when applying Article 85(1) UCC</Name>
       <StartDate>2019-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -21057,7 +21098,7 @@ customs warehousing procedure</Description>
       <Code>648</Code>
       <Name lang="fi">Matkustajatullaus</Name>
       <Name lang="sv">Resandeförtullning</Name>
-      <Name lang="en">Passenger declaration</Name>
+      <Name lang="en">Traveller clearance</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -21104,8 +21145,8 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>654</Code>
       <Name lang="fi">Puolustustarvikkeet, Tulliton., asetus (EY) Nro 150/2003</Name>
-      <Name lang="sv">Militär utrustning (förordning (EG) nr 150/2003, MomsL 1.1 § 2 punkten)</Name>
-      <Name lang="en">Military equipment (Reg. (EC) No 150/2003, Section 1(1)(2) VAT Act)</Name>
+      <Name lang="sv">Militär utrustning, Tullfri, förordning (EG) nr 150/2003</Name>
+      <Name lang="en">Military equipment, Customs duty exemption, Regulation (EC) No 150/2003</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -21144,8 +21185,8 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>659</Code>
       <Name lang="fi">Siirto arvonlisäverottomaan varastoon, AVL 72 h. 1 §  2 k.</Name>
-      <Name lang="sv">sv: Siirto arvonlisäverottomaan varastoon, AVL 72 h. 1 §  2 k.</Name>
-      <Name lang="en">en: Siirto arvonlisäverottomaan varastoon, AVL 72 h. 1 §  2 k.</Name>
+      <Name lang="sv">Överföring till momsfritt lager (MomsL 72 h § 1 mom. 2 punkten)</Name>
+      <Name lang="en">Movement of goods to VAT warehouse, section 72 h(1)(2) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -21376,480 +21417,480 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>C01</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 3 art., arvonlisäveroton AVL 94.1. § 12 k. Tavaroilla on 12 kuukauden luovutusrajoitus vapaaseen liikkeeseen luovutuksesta (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 8 art.).</Name>
-      <Name lang="sv">Personlig egendom som införs av  fysiska personer som flyttar sin normala bostad till gemenskapen, med beaktande av begränsningarna i artikel 6 (TfriF 3, MomsL 94.1.12)</Name>
-      <Name lang="en">Personal property belonging to natural persons transferring their normal place of residence to the Community (REL 3, VAT 94.1.12)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 3; momsfri MomsL 94 § 1 mom. 12 p. Varorna omfattas av en överlåtelsebegränsning i 12 månader från övergången till fri omsättning (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 8).</Name>
+      <Name lang="en">Customs duty exemption. Article 3 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act. The goods are subject to a 12-month transfer restriction as regards release for free circulation (Article 8 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C02</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 12 art. 1 kohta, arvonlisäveroton AVL 94.1. § 12 k. Tavaroilla on 12 kuukauden luovutusrajoitus vapaaseen liikkeeseen luovutuksesta (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 16 art.).</Name>
-      <Name lang="sv">Varor importerade med anledning av giftermål (brudutstyrsel och bohag), med beaktande av begränsningarna i artikel 13  (TfriF 12 art. 1 punkten, MomsL 94.1.12</Name>
-      <Name lang="en">Goods imported on the occasion of a marriage (trousseaux and household effects) (REL 12.1, VAT 94.1.12)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 12.1; momsfri MomsL 94 § 1 mom. 12 p. Varorna omfattas av en överlåtelsebegränsning i 12 månader från övergången till fri omsättning (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 16).</Name>
+      <Name lang="en">Customs duty exemption. Article 12(1) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act. The goods are subject to a 12-month transfer restriction as regards release for free circulation (Article 16 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C03</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 12 art. 2 kohta, arvonlisäveroton AVL 94.1. § 12 k. Tavaroilla on 12 kuukauden luovutusrajoitus vapaaseen liikkeeseen luovutuksesta (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 16 art.).</Name>
-      <Name lang="sv">Varor importerade med anledning av giftermål (gåvor som vanligen ges vid et bröllop) (TfriF 12 art. 2 punkten, MomsL 94.1.12)</Name>
-      <Name lang="en">Goods imported on the occasion of a marriage (presents customarily given on the occasion of a marriage) (REL 12.2,VAT 94.1.12)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 12.2; momsfri MomsL 94 § 1 mom. 12 p. Varorna omfattas av en överlåtelsebegränsning i 12 månader från övergången till fri omsättning (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 16).</Name>
+      <Name lang="en">Customs duty exemption. Article 12(2) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act. The goods are subject to a 12-month transfer restriction as regards release for free circulation (Article 16 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C04</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 17 art., arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Personlig egendom som förvärvats genom arv, med beaktande av begränsningarna i artikel 18 (TfriF 17, MomsL 94.1.12)</Name>
-      <Name lang="en">Personal property acquired by inheritance, subject to restrictions laid down in Article 18 (Article 17 Duty Relief Regulation, Section 94(1)(12) VAT Act)7, AVL 94.1.12)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 17; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 17 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C06</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 21 art., arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Utstyrsel, skolmateriel och bohag för skolbruk (TfriF 21, MomsL 94.1.12)</Name>
-      <Name lang="en">School outfits and related household effects (Article 21 Duty Relief Regulation, Section 94(1)(12) VAT Act)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 21; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 21 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C07</Code>
       <Name lang="fi">Arvoltaan vähäiset lähetykset, joiden todellinen arvo on enintään 150 euroa. Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 23 art., arvonlisäveroton AVL 94.1. § 24 k.</Name>
-      <Name lang="sv">Försändelser av ringa värde, upp till 150 euro</Name>
-      <Name lang="en">Consignments of negligible value, up to 150 euros</Name>
+      <Name lang="sv">Varuförsändelser av lågt värde (högst 150 euro) Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 23; momsfri MomsL 94 § 1 mom. 24 p.</Name>
+      <Name lang="en">Consignments of negligible value (the intrinsic value does not exceed 150 euros). Customs duty exemption. Article 23 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(24) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C08</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 25 art., arvonlisäveroton  AVL 94.1. § 14 k., ValmVL 88 (tietyin ehdoin, eli alkoholi, tupakka alv, kahvi, tee määrärajoitukset)</Name>
-      <Name lang="sv">Försändelser som skickas från en privatperson till en annan privatperson</Name>
-      <Name lang="en">Consignments sent from one private individual to another</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 25; momsfri, MomsL 94 § 1 mom., 14 p. Punktskattelagen, 88 § (på vissa villkor, dvs. alkohol, tobak moms, kaffe, te mängdbegränsningar)</Name>
+      <Name lang="en">Customs duty exemption. Article 25 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(14) VAT Act, section 88 Act on Excise Duty (on certain conditions, i.e. alcohol, tobacco VAT, coffee, tea quantitative restrictions)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C09</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 28 art., arvonlisävero AVL 1.1. § 2 k. Tavaroilla on 12 kuukauden luovutusrajoitus vapaaseen liikkeeseen luovutuksesta (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 33 art.).</Name>
-      <Name lang="sv">Kapitalvaror och annan utrustning som importeras i samband med överflyttning av verksamhet från ett tredjeland till unionen</Name>
-      <Name lang="en">Capital goods and other equipment imported on the transfer of activities from a third country into the Union</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 28; moms, MomsL 1 § 1 mom. 2 p. Varorna omfattas av en överlåtelsebegränsning i 12 månader från övergången till fri omsättning (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 33).</Name>
+      <Name lang="en">Customs duty exemption. Article 28 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act. The goods are subject to a 12-month transfer restriction as regards release for free circulation (Article 33 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C10</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 34 art., arvonlisävero AVL 1.1. § 2 k. Tavaroilla on 12 kuukauden luovutusrajoitus vapaaseen liikkeeseen luovutuksesta (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 33 art.).</Name>
-      <Name lang="sv">Kapitalvaror och annan utrustning som tillhör personer som utövar ett fritt yrke och juridiska personer som ägnar sig åt ideell verksamhet</Name>
-      <Name lang="en">Capital goods and other equipment belonging to persons engaged in a liberal profession and to legal persons engaged in a non-profit making activity</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 34; moms MomsL 1 § 1 mom. 2 p. Varorna omfattas av en överlåtelsebegränsning i 12 månader från övergången till fri omsättning (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 33).</Name>
+      <Name lang="en">Customs duty exemption. Article 34 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act. The goods are subject to a 12-month transfer restriction as regards release for free circulation (Article 33 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C11</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 42 art., arvonlisävero AVL 1.1. § 2 k.</Name>
-      <Name lang="sv">Undervisningsmateriel, vetenskaplig och kulturell materiel; vetenskapliga instrument och apparater i bilaga I  (TfriF 42, MomsL 1.1.2)</Name>
-      <Name lang="en">Educational, scientific and cultural materials; scientific instruments and apparatus listed in Annex I (Article 42 Duty Relief Regulation, Section 1(1)(2) VAT Act)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 42; moms MomsL 1 § 1 mom. 2 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 42 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C12</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 43 art., arvonlisävero AVL 1.1. § 2 k. Tavaroita, ei saa lainata, vuokrata eikä luovuttaa vastikkeellisesti eikä vastikkeetta  ilmoittamatta asiasta etukäteen Tullille (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 48- 49 art.)</Name>
-      <Name lang="sv">Undervisningsmateriel, vetenskaplig och kulturell materiel; vetenskapliga instrument och apparater i bilaga  IIA (TfriF 43, MomsL 1.1.2)</Name>
-      <Name lang="en">Educational, scientific and cultural materials; scientific instruments and apparatus listed in Annex IIA (Article 43 Duty Relief Regulation, Section 1(1)(2) VAT Act)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 43; moms MomsL 1 § 1 mom. 2 p. Varorna får inte lånas ut, hyras ut eller överlåtas, vare sig mot ersättning eller kostnadsfritt, utan att detta först har anmälts till Tullen (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 48-49).</Name>
+      <Name lang="en">Customs duty exemption. Article 43 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act. The goods may not be lent, hired out or transferred, whether for a consideration or free of charge, without prior notification to Customs (Articles 48–49 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C13</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 44 ja 45 art., arvonlisävero AVL 1.1. § 2 k. Tavaroita  ei saa lainata, vuokrata eikä luovuttaa vastikkeellisesti eikä vastikkeetta ilmoittamatta asiasta etukäteen Tullille (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 48 - 49 art.)</Name>
-      <Name lang="sv">Undervisningsmateriel, vetenskaplig och kulturell materiel; Vetenskapliga instrument och apparater (reservdelar, komponenter och tillbehör) (TfriF 45, MomsL 1.1.2)</Name>
-      <Name lang="en">Educational, scientific and cultural materials; scientific instruments and apparatus (spare parts, components, accessories and tools) (REL 45, VAT 1.1.2)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 44 och 45; moms MomsL 1 § 1 mom. 2 p. Varorna får inte lånas ut, hyras ut eller överlåtas, vare sig mot ersättning eller kostnadsfritt, utan att detta först har anmälts till Tullen (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 48-49).</Name>
+      <Name lang="en">Customs duty exemption. Articles 44 and 45 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act. The goods may not be lent, hired out or transferred, whether for a consideration or free of charge, without prior notification to Customs (Articles 48–49 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C14</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 51 art., arvonlisävero AVL 1.1. § 2 k. Tavaroita ei saa lainata, vuokrata eikä luovuttaa vastikkeellisesti tai vastikkeetta ilmoittamatta asiasta etukäteen Tullille (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 52 art.).</Name>
-      <Name lang="sv">Utrustning importerad för icke-kommersiella ändamål eller på uppdrag av en vetenskaplig forskningsinstitution eller organisation med säte utanför gemenskapen (TfriF art. 51, MomsL 1.1.2 §)</Name>
-      <Name lang="en">Equipment imported for non-commercial purposes or on behalf of a scientific research establishment or organisation based outside the Community (Article 51 Duty Relief Regulation, section 1(1)(2) VAT Act)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 51; moms MomsL 1 § 1 mom. 2 p. Varorna får inte lånas ut, hyras ut eller överlåtas, vare sig mot ersättning eller kostnadsfritt, utan att detta först har anmälts till Tullen (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 52).</Name>
+      <Name lang="en">Customs duty exemption. Article 51 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act. The goods may not be lent, hired out or transferred, whether for a consideration or free of charge, without prior notification to Customs (Article 52 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C15</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 53 art., arvonlisävero AVL 1.1. § 2 k.</Name>
-      <Name lang="sv">Försöksdjur och biologiska eller kemiska ämnen som är avsedda för forskningsändamål (TfriF art. 53, MomsL 1.1.2 §)</Name>
-      <Name lang="en">Laboratory animals and biological or chemical substances intended for research (Article 53 Duty Relief Regulation, section 1(1)(2) VAT Act)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 53; moms MomsL 1 § 1 mom. 2 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 53 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C16</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 54 art., arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Terapeutiska ämnen av mänskligt ursprung och reagenser för blodgrupps- och vävnadsbestämning (TfriF art. 54, MomsL 94.1.12 §)</Name>
-      <Name lang="en">Therapeutic substances of human origin and blood-grouping and tissue-typing reagents (Article 54 Duty Relief Regulation, section 94(1)(12) VAT Act)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 54; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 54 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C17</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 57 art., arvonlisävero AVL 1.1. § 2 k.</Name>
-      <Name lang="sv">Instrument och apparater avsedda för medicinsk forskning, medicinska diagnoser eller medicinsk behandling (TfriF art. 57, MomsL 1.1.2 §)</Name>
-      <Name lang="en">Instruments and apparatus intended for medical research, establishing medical diagnoses or carrying out medical treatment (Article 57 Duty Relief Regulation, section 1(1)(2) VAT Act)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 57; moms MomsL 1 § 1 mom. 2 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 57 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C18</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 59 art., arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Referenssubstanser för kvalitetskontroll av läkemedel, se förutsättningar och tillstånd i 8 § i L om accis på alkohol och alkoholdrycker och 17 § i AlkoholL (TfriF art. 59, MomsL 94.1.12 §)</Name>
-      <Name lang="en">Reference substances for the quality control of medicinal products; for requirements and authorisations see Act on Excise Duty on Alcohol and Alcoholic Beverages, section 8 and Alcohol Act, section 17 (Article 59 Duty Relief Regulation, section 94(1)(12)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 59; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 59 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C19</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 60 art, arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Farmaceutiska produkter som används vid internationella idrottsevenemang</Name>
-      <Name lang="en">Pharmaceutical products used at international sports events.</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 60; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 60 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C20</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 61 art. 1 kohdan a alakohta, arvonlisäveroton AVL 94.1. § 12 k. Tavaroita ei saa lainata, vuokrata eikä luovuttaa vastikkeellisesti tai vastikkeetta muihin kuin TtA 61 artiklan1 kohdan a ja b alakohdassa säädettyihin tarkoituksiin ilmoittamatta asiasta etukäteen Tullille (TtA 64 ja 65art.)</Name>
-      <Name lang="sv">Varor till välgörenhetsorganisationer och filantropiska organisationer – basförnödenheter som importeras av statliga organisationer eller andra godkända organisationer</Name>
-      <Name lang="en">Goods for charitable or philanthropic organisations — basic necessities imported by State organisations or other approved organisations</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 61.1 a; momsfri MomsL 94 § 1 mom. 12 p. Varorna får inte lånas ut, hyras ut eller överlåtas, vare sig mot ersättning eller kostnadsfritt, för andra ändamål än de som fastställs i punkt 1 a och 1 b i artikel 61 i TfriF utan att detta först har anmälts till Tullen (art. 64 och 65 i TfriF).</Name>
+      <Name lang="en">Customs duty exemption. Article 61(1)(a) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act. The goods may not be lent, hired out or transferred, whether for a consideration or free of charge, for purposes other than those provided for by Article 61(1)(a and b) Duty Relief Regulation, without prior notification to Customs (Articles 64 and 65 Duty Relief Regulation)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C21</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 67  art. 1 kohta a alakohta, arvonlisävero AVL 1.1. § 2 k.</Name>
-      <Name lang="sv">I bilaga III till förordning (EG) nr 1186/2009 förtecknade varor avsedda för blinda</Name>
-      <Name lang="en">Articles in Annex III to Regulation (EC) No 1186/2009 intended for the blind</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 67.1 a; moms MomsL 94 § 1 mom. 2 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 67(1)(a) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C22</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 67  art. 1 kohdan a alakohta, Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 67 art. 2 kohta, arvonlisävero AVL 1.1. § 2 k. Tavaroilla on luovutusrajoitus (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 71-73 art.).</Name>
-      <Name lang="sv">I bilaga IV till förordning (EG) nr 1186/2009 förtecknade varor avsedda för blinda och importerade av de blinda själva för eget bruk (inbegripet reservdelar, komponenter, tillbehör och verktyg)</Name>
-      <Name lang="en">Articles in Annex IV to Regulation (EC) No 1186/2009 intended for the blind imported by blind persons themselves for their own use (including spare parts, components, accessories and tools)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 67.1 a, Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 67.2, moms MomsL 1 § 1 mom. 2 p. Varorna omfattas av en överlåtelsebegränsning (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 71-73).</Name>
+      <Name lang="en">Customs duty exemption. Article 67(1)(a) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, Article 67(2) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act. The goods are subject to a transfer restriction (Articles 71–73 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C23</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 67 art. 1 kohdan b alakohta, Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 67 art. 2 kohta, arvonlisävero AVL 1.1. § 2 k. Tavaroilla on luovutusrajoitus (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 71 - 73 art.).</Name>
-      <Name lang="sv">I bilaga IV till förordning (EG) nr 1186/2009 förtecknade varor avsedda för blinda och importerade av vissa institutioner eller organisationer (inbegripet reservdelar, komponenter, tillbehör och verktyg)</Name>
-      <Name lang="en">Articles in Annex IV to Regulation (EC) No 1186/2009 intended for the blind imported by certain institutions or organisations (including spare parts, components, accessories and tools)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 67.1 b, Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 67.2, moms MomsL 1 § 1 mom. 2 p. Varorna omfattas av en överlåtelsebegränsning (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 71-73).</Name>
+      <Name lang="en">Customs duty exemption. Article 67(1)(b) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, Article 67(2) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act. The goods are subject to a transfer restriction (Articles 71–73 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C24</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 68 art. 1 kohdan a alakohta, Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 68 art. 2 kohta, arvonlisävero AVL 1.1. § 2 k. Tavaroilla on luovutusrajoitus (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 71 - 73 art.).</Name>
-      <Name lang="sv">Varor avsedda för andra funktionshindrade än blinda och importerade av de funktionshindrade själva för eget bruk (inbegripet reservdelar, komponenter, tillbehör och verktyg)</Name>
-      <Name lang="en">Articles intended for other handicapped persons (other than blind persons) imported by handicapped persons themselves for their own use (including spare parts, components, accessories and tools)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 68.1 a, Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 68.2, moms MomsL 1 § 1 mom. 2 p. Varorna omfattas av en överlåtelsebegränsning (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 71-73).</Name>
+      <Name lang="en">Customs duty exemption. Article 68(1)(a) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, Article 68(2) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act. The goods are subject to a transfer restriction (Articles 71–73 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C25</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 68 art. 1 kohdan b alakohta, Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 68 art. 2 kohta, arvonlisävero AVL 1.1. § 2 k. Tavaroilla on luovutusrajoitus (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 71 - 73 art.).</Name>
-      <Name lang="sv">Varor avsedda för andra funktionshindrade än blinda och importerade av vissa institutioner eller organisationer (inbegripet reservdelar, komponenter, tillbehör och verktyg)</Name>
-      <Name lang="en">Articles intended for other handicapped persons (other than blind persons) imported by certain institutions or organisations (including spare parts, components, accessories and tools)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 68.1 b, Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 68.2, moms MomsL 1 § 1 mom. 2 p. Varorna omfattas av en överlåtelsebegränsning (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 71-73).</Name>
+      <Name lang="en">Customs duty exemption. Article 68(1)(b) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, Article 68(2) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act. The goods are subject to a transfer restriction (Articles 71–73 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C26</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 74 art., arvonlisäveroton AVL 94.1. § 12 k. Tavaroilla on luovutusrajoitus (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 78 - 80 art.).</Name>
-      <Name lang="sv">Varor som importerats till förmån för katastrofoffer (TfriF 74, MomsL 94.1.12)</Name>
-      <Name lang="en">Goods imported for the benefit of disaster victims (REL 74, VAT 94.1.12)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 74; momsfri MomsL 94 § 1 mom. 12 p. Varorna omfattas av en överlåtelsebegränsning (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 78-80).</Name>
+      <Name lang="en">Customs duty exemption. Article 74 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act. The goods are subject to a transfer restriction (Articles 78–80 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C27</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 81 art. a alakohta, arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Hederstecken som har förlänats av tredjelands regering till personer som har sin normala bostad inom unionens tullområde</Name>
-      <Name lang="en">Decorations conferred by governments of third countries on persons whose normal place of residence is in the customs territory of the Union</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 81 a; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 81(a) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C28</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 82 art. a alakohta, arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Varor som importeras till unionens tullområde av personer som har avlagt ett officiellt besök i ett tredjeland och vid detta tillfälle har erhållit dessa varor som gåvor av värdmyndigheterna</Name>
-      <Name lang="en">Goods imported into the customs territory of the Union by persons who have paid an official visit to a third country and who have received them on this occasion as gifts from the host authorities</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 82 a; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 82(a) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C29</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 85 art., arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Varor som ska användas av monarker eller statsöverhuvuden</Name>
-      <Name lang="en">Goods to be used by monarchs or Heads of State</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 85; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 85 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C30</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 86 art., arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Varuprover av ringa värde som importeras för handelsfrämjande ändamål</Name>
-      <Name lang="en">Samples of goods of negligible value imported for trade promotion purposes</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 86; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 86 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2020-10-05</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C31</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 87 art., arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Tryckt reklammaterial</Name>
-      <Name lang="en">Printed advertising matter</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 87; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 87 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C32</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 90 art. 1 kohdan a alakohta, arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Små representativa prover av varor som tillverkas utanför unionens tullområde, avsedda för en handelsmässa eller liknande. TfriF artikel 90.1 a</Name>
-      <Name lang="en">Small representative samples of goods manufactured outside the customs territory of the Union intended for a trade fair or similar event. (Article 90.1(a) Duty Relief Regulation)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 90.1 a; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 90(1)(a) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C33</Code>
-      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 95 art.,  arvonlisäveroton AVL 94.1. § 12 k., ValmVL ks. mm. TupakkaVL 10 § 2k., VL 8 §</Name>
-      <Name lang="sv">Varor som importeras för undersökning, analys eller provning</Name>
-      <Name lang="en">Goods imported for examination, analysis or test purposes</Name>
+      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 95 art.,  arvonlisäveroton AVL 94.1. § 12 k., ValmVL ks. mm. TupakkaVL 10 § 2k., AlkojholjuomaVL 8 §</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 95; momsfri MomsL 94 § 1 mom. 12 p.; Punktskattelagen se bl.a. lagen om tobaksaccis, 10 § 2 p.; Lagen om accis på alkohol och alkoholdrycker, 8 §</Name>
+      <Name lang="en">Customs duty exemption. Article 95 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act, see i.a. section 10(2) Act on Excise Duty on Tobacco, section 8 Act on Excise Duty on Alcohol and Alcoholic Beverages</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C34</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 102 art., arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Försändelser till organisationer som skyddar upphovsrätt eller industriella och kommersiella patenträttigheter</Name>
-      <Name lang="en">Consignments sent to organisations protecting copyrights or industrial and commercial patent rights</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 102; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 102 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C35</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 103 art., arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Litteratur avsedd som turistinformation</Name>
-      <Name lang="en">Tourist information literature</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 103; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 103 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C36</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 104 art., arvonlisävero AVL 1.1. § 2 k.</Name>
-      <Name lang="sv">Diverse dokument och artiklar</Name>
-      <Name lang="en">Miscellaneous documents and articles</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 104; moms MomsL 1 § 1 mom. 2 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 104 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C37</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 105., arvonlisävero AVL 1.1. § 2 k.</Name>
-      <Name lang="sv">Hjälpmaterial för stuvning och skydd av varor under transport</Name>
-      <Name lang="en">Ancillary materials for the stowage and protection of goods during their transport</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 105; moms MomsL 1 § 1 mom. 2 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 105 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C38</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 106 art., arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Strö, torrfoder och annat foder för djur under transport</Name>
-      <Name lang="en">Litter, fodder and feeding stuffs for animals during their transport</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 106; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 106 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C39</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 107 art., arvonlisäveroton AVL 94.1. § 12 k., TL 48§, ValmVL 87§ ja 91§</Name>
-      <Name lang="sv">Drivmedel i standardtankarna på motordrivna landfordon, samt smörjmedel i dessa motorfordon, i privata bilar dessutom högst 10 liter drivmedel i en bärbar tank. (Tullfri enligt TfriF artikel 107, momsfri enligt MomsL 94.1§ 12 k.,  TL48 §, ValmVL 87§ ja 91</Name>
-      <Name lang="en">Fuel contained in the standard tanks of land motor vehicles, and lubricants present in the vehicles; in addition, a maximum of 10 litres of fuel contained in portable tanks carried by private cars. (Customs duty exemption under Article 107 Duty Relief Reg</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 107; momsfri MomsL 94 § 1 mom. 12 p.; Tullagen 48 §; Punktskattelagen 87 § och 91 §</Name>
+      <Name lang="en">Customs duty exemption. Article 107 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act, section 48 Customs Act, sections 87 and 91 Act on Excise Duty</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C40</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 112 art., arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Material för uppförande, underhåll eller utsmyckning av minnesmärken eller kyrkogårdar för krigsoffer.</Name>
-      <Name lang="en">Materials for the construction, upkeep or ornamentation of memorials to, or cemeteries for, war victims</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 112; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 112 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C41</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 113 art., arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Kistor, urnor och artiklar för utsmyckning vid begravningar</Name>
-      <Name lang="en">Coffins, burial urns and funeral decorations</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 113; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 113 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C42</Code>
-      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 9 art. 1 kohta, arvonlisäveroton AVL 94.1. § 12 k. Tavaroilla on 12 kuukauden luovutusrajoitus vapaaseen vapaaseen liikkeeseen luovutuksesta (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 8 art.).</Name>
-      <Name lang="sv">Import i förväg av flyttgods som tillhör en person som kommer att flytta sin stadigvarande boningsort till gemenskapen (TfriF 9, MomsL 94.1.12</Name>
-      <Name lang="en">mport of personal property before the person concerned establishes his normal place of residence in the Community (REL art. 9, VAT 94.1.12)</Name>
+      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 9 art. 1 kohta, arvonlisäveroton AVL 94.1. § 12 k. Tavaroilla on 12 kuukauden luovutusrajoitus vapaaseen liikkeeseen luovutuksesta (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 8 art.).</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 9.1; momsfri MomsL 94 § 1 mom. 12 p. Varorna omfattas av en överlåtelsebegränsning i 12 månader från övergången till fri omsättning (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 8).</Name>
+      <Name lang="en">Customs duty exemption. Article 9(1) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act. The goods are subject to a 12-month transfer restriction as regards release for free circulation (Article 8 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C43</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 10 art., arvonlisäveroton AVL 94.1. § 12 k. Tavaroilla on 12 kuukauden luovutusrajoitus siitä päivästä, jolloin asianomainen on  muuttanut vakituisesti unionin tullialueelle  (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 8 art. ja 10 art. 2 kohdan b alakohta).</Name>
-      <Name lang="sv">Import i förväg av flyttgods som tillhör en person som lämnar ett tredje land för yrkesmässiga plikter (TfriF 10, MomsL 94.1.12)</Name>
-      <Name lang="en">Prior import of removal goods belonging to persons leaving a third country owing to occupational commitments (Article 10 Duty Relief Regulation, Section 94(1)(12) VAT Act)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 10; momsfri MomsL 94 § 1 mom. 12 p. Varorna omfattas av en överlåtelsebegränsning på 12 månader från den dag så personen har flyttat stadigvarande till unionens tullområde (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 8 och art. 10.2 b)</Name>
+      <Name lang="en">Customs duty exemption. Article 10 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act. The goods are subject to a 12-month transfer restriction calculated from the date when the person concerned establishes his normal place of residence in the customs territory of the Union (Articles 8 and 10(2)(b) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C44</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 20 art., arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Personlig egendom som genom arv förvärvats av juridiska personer som ägnar sig åt ideell verksamhet och som är etablerade inom unionens tullområde. TfriF artikel 20</Name>
-      <Name lang="en">Personal property acquired by inheritance by legal persons engaged in a non-profit making activity who are established in the customs territory of the Union (Article 20 Duty Relief Regulation)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 20; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 20 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C45</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 35 art., arvonlisävero AVL 1.1. § 2 k.</Name>
-      <Name lang="sv">Produkter från jordbruk, husdjursskötsel, biodling, trädgårdsodling och skogsbruk från egendomar belägna i ett tredjeland som gränsar till unionens tullområde</Name>
-      <Name lang="en">Agricultural, stock-farming, bee-keeping, horticultural and forestry products from properties located in a third country adjoining the customs territory of the Union</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 35; moms MomsL 1 § 1 mom. 2 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 35 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C46</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 38 art., arvonlisävero AVL 1.1. § 2 k.</Name>
-      <Name lang="sv">Produkter från fiske eller fiskodling som bedrivs i de sjöar eller vattendrag som gränsar till en medlemsstat och ett tredjeland av fiskare från unionen samt produkter från jakt som bedrivs på sådana sjöar eller vattendrag av jägare från unionen</Name>
-      <Name lang="en">Products of fishing or fish-farming activities carried out in the lakes or waterways bordering a Member State and a third country by Union fishermen and products of hunting activities carried out on such lakes or waterways by Union sportsmen</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 38; moms MomsL 1 § 1 mom. 2 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 38 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C47</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 38 art., arvonlisävero AVL 1.1. § 2 k.</Name>
-      <Name lang="sv">Utsäde, gödselmedel och produkter för behandling av jord och grödor, avsedda för användning på egendomar som är belägna inom unionens tullområde som gränsar till ett tredjeland</Name>
-      <Name lang="en">Seeds, fertilisers and products for treatment of soil and crops, intended for use on property located in the customs territory of the Union adjoining a third country</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 38; moms MomsL 1 § 1 mom. 2 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 38 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C48</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 41 art., arvonlisäveroton  AVL  95-95e §, ValmVL 84-87 §.</Name>
-      <Name lang="sv">sv: Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 41 art., arvonlisäveroton  AVL  95-95e §, ValmVL 84-87 §.</Name>
-      <Name lang="en">en: Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 41 art., arvonlisäveroton  AVL  95-95e §, ValmVL 84-87 §.</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 41; momsfri MomsL 95-95e §; Punktskattelagen, 84-87 §.</Name>
+      <Name lang="en">Customs duty exemption. Article 41 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under sections 95–95e VAT Act, sections 84–87 Act on Excise Duty.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C49</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 61 art. 1 kohdan b alakohta, arvonlisäveroton AVL 94.1. § 12 k. Tavaroita ei saa lainata, vuokrata eikä luovuttaa vastikkeellisesti tai vastikkeetta muihin kuin TtA 61 artiklan1 kohdan a ja b alakohdassa säädettyihin tarkoituksiin ilmoittamatta asiasta etukäteen Tullille (TtA 64 ja 65 art.)</Name>
-      <Name lang="sv">Varor till välgörenhetsorganisationer och filantropiska organisationer – varor av alla slag som skickas kostnadsfritt och som ska användas för att vid tillfälliga välgörenhetsevenemang skaffa medel till förmån för behövande</Name>
-      <Name lang="en">Goods for charitable or philanthropic organisations - goods of every description sent free of charge and to be used for fund-raising at occasional charity events for the benefit of needy persons</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 61.1 b; momsfri MomsL 94 § 1 mom. 12 p. Varorna får inte lånas ut, hyras ut eller överlåtas, vare sig mot ersättning eller kostnadsfritt, för andra ändamål än de som fastställs i punkt 1 a och 1 b i artikel 61 i TfriF utan att detta först har anmälts till Tullen (art. 64 och 65 i TfriF).</Name>
+      <Name lang="en">Customs duty exemption. Article 61(1)(b) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act. The goods may not be lent, hired out or transferred, whether for a consideration or free of charge, for purposes other than those provided for by Article 61(1)(a and b) of the Duty Relief Regulation, without prior notification to Customs (Articles 64 and 65 Duty Relief Regulation).</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C50</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 61 art. 1 kohdan c alakohta, arvonlisäveroton AVL 94.1. § 12 k. Tavaroilla on luovutusrajoitus (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 65 art.).</Name>
-      <Name lang="sv">Varor till välgörenhetsorganisationer och filantropiska organisationer – utrustning och kontorsmateriel som skickas kostnadsfritt</Name>
-      <Name lang="en">Goods for charitable or philanthropic organisations — equipment and office materials sent free of charge</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 61.1 c; momsfri MomsL 94 § 1 mom. 12 p. Varorna omfattas av en överlåtelsebegränsning (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 65).</Name>
+      <Name lang="en">Customs duty exemption. Article 61(1)(c) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act. The goods are subject to a transfer restriction (Article 65 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C51</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 81 art. b alakohta, arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Pokaler, medaljer och liknande artiklar av huvudsakligen symbolisk art som har utdelats i ett tredjeland till personer som har sin normala bostad inom unionens tullområde</Name>
-      <Name lang="en">Cups, medals and similar articles of an essentially symbolic nature which, having been awarded in a third country to persons having their normal place of residence in the customs territory of the Union</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 81 b; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 81(b) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C52</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 81  art. c alakohta, arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Pokaler, medaljer och liknande artiklar av huvudsakligen symbolisk art som skänkts av myndigheter eller personer etablerade i ett tredjeland för att delas ut i unionens tullområde</Name>
-      <Name lang="en">Cups, medals and similar articles of an essentially symbolic nature which are given free of charge by authorities or persons established in a third country to be presented in the customs territory of the Union</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 81 c; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 81(c) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C53</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 81 art. d alakohta, arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Belöningar, troféer och souvenirer av symbolisk art och av begränsat värde avsedda för kostnadsfri utdelning vid affärskonferenser eller liknande internationella arrangemang, till personer som har sin normala bostad i ett tredjeland</Name>
-      <Name lang="en">Awards, trophies and souvenirs of a symbolic nature and of limited value intended for distribution free of charge to persons normally resident in third countries at business conferences or similar international events</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 81 d; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 81(d) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C54</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 82 art. b alakohta, arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Varor som importeras till unionens tullområde av personer som kommer för att avlägga ett officiellt besök i unionens tullområde och avser att lämna dessa varor som gåvor till värdmyndigheterna</Name>
-      <Name lang="en">Goods imported into the customs territory of the Union by persons coming to pay an official visit in the customs territory of the Union and who intend to offer them on that occasion as gifts to the host authorities</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 82 b; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 82(b) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C55</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 82 art. c alakohta, arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Varor som skickas som gåva, som ett tecken på vänskap eller välvilja, av ett officiellt organ, en offentlig myndighet eller en grupp som ägnar sig åt verksamhet för det allmänna bästa och som har sitt säte i ett tredjeland, till ett officiellt organ, en o</Name>
-      <Name lang="en">Goods sent as gifts, in token of friendship or goodwill, by an official body, public authority or group, carrying on an activity in the public interest which is located in a third country, to an official body, public authority or group carrying on an</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 82 c; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 82(c) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C56</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 89 art., arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Varor för reklamändamål som inte har något egentligt kommersiellt värde och som skickas kostnadsfritt av leverantörer till deras kunder, och som bortsett från sin reklamfunktion inte kan användas på annat sätt</Name>
-      <Name lang="en">Articles for advertising purposes, of no intrinsic commercial value, sent free of charge by suppliers to their customers, which, apart from their advertising function, are not capable of being used otherwise</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 89; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 89 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C57</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 90 art. 1 kohdan b alakohta, arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Varor, som importeras endast för att demonstreras eller för att demonstrera maskiner och apparater, som tillverkas utanför unionens tullområde och som visas på en handelsmässa eller liknande</Name>
-      <Name lang="en">Goods imported solely in order to be demonstrated or in order to demonstrate machines and apparatus, manufactured outside the customs territory of the Union and displayed at a trade fair or similar event</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 90.1 b; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 90(1)(b) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C58</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 90 art. 1 kohdan c alakohta, arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Diverse material av ringa värde som färger, lacker, tapeter osv. som används för att bygga, utrusta och utsmycka tillfälliga montrar som innehas av företrädare från tredjeland på en handelsmässa eller liknande, och som förstörs genom användningen</Name>
-      <Name lang="en">Various materials of little value such as paints, varnishes, wallpaper, etc., used in the building, fitting-out and decoration of temporary stands occupied by representatives of third countries at a trade fair or similar event, which are destroyed by bein</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 90.1 c; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 90(1)(c) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C59</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 90 art. 1 kohdan d alakohta, arvonlisäveroton AVL 94.1. § 12 k.</Name>
-      <Name lang="sv">Trycksaker, kataloger, prospekt, prislistor, reklamplanscher, almanackor med eller utan illustrationer, oinramade fotografier och andra varor som delas ut kostnadsfritt för att göra reklam för varor som tillverkas utanför unionens tullområde och som ställ</Name>
-      <Name lang="en">Printed matter, catalogues, prospectuses, price lists, advertising posters, calendars, whether or not illustrated, unframed photographs and other articles supplied free of charge in order to advertise goods manufactured outside the customs territory of t</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 90.1 d; momsfri MomsL 94 § 1 mom. 12 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 90(1)(d) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C60</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 12 art. 1 kohta, 15 art. 1 kohdan a alakohta, arvonlisäveroton AVL 94.1. § 12 k. Tavaroilla on 12 kuukauden luovutusrajoitus vapaaseen liikkeeseen luovutuksesta (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 16 art.).</Name>
-      <Name lang="sv">Brudutstyrsel och bohag som importeras med anledning av giftermål och som övergår till fri omsättning under två månader före dagen för bröllopet (befrielse från tull mot lämplig säkerhet) (TfriF artikel 12.1, artikel 15.1 a)</Name>
-      <Name lang="en">Trousseaux and household effects imported on the occasion of a marriage and released for free circulation during the two months before the date of the wedding (relief from customs duty against appropriate security) (Article 12(1) and Article 15(1)(a) Duty</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 12.1 och 15.1 a; momsfri MomsL 94 § 1 mom. 12 p. Varorna omfattas av en överlåtelsebegränsning i 12 månader från övergången till fri omsättning (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 16).</Name>
+      <Name lang="en">Customs duty exemption. Articles 12(1) and 15(1)(a) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act. The goods are subject to a 12-month transfer restriction as regards release for free circulation (Article 16 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C61</Code>
       <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 12 art. 2 kohta, 15 art. 1 kohdan a alakohta, arvonlisäveroton AVL 94.1. § 12 k. Tavaroilla on 12 kuukauden luovutusrajoitus vapaaseen liikkeeseen luovutuksesta (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 16 art.).</Name>
-      <Name lang="sv">Gåvor som vanligen ges vid ett bröllop och som deklareras för övergång till fri omsättning inte tidigare än två månader före bröllopet (tullbefrielse under förutsättning att en lämplig garanti ställs)</Name>
-      <Name lang="en">Presents customarily given on the occasion of a marriage entered for free circulation in the last two months before the wedding (duty relief subject to the lodging of appropriate security)</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 12.2 och 15.1 a; momsfri MomsL 94 § 1 mom. 12 p. Varorna omfattas av en överlåtelsebegränsning i 12 månader från övergången till fri omsättning (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 16).</Name>
+      <Name lang="en">Customs duty exemption. Articles 12(2) and 15(1)(a) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act. The goods are subject to a 12-month transfer restriction as regards release for free circulation (Article 16 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -22120,8 +22161,8 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>F01</Code>
       <Name lang="fi">Palautustavarat, Tulliton. UTK 203 art., arvonlisävero ALV 1.1 § 2 k., myyty verottomana</Name>
-      <Name lang="sv">Befrielse från importtullar för återinförda varor (artikel 203 i kodexen)</Name>
-      <Name lang="en">Relief from import duties for returned goods (Article 203 of the Code)</Name>
+      <Name lang="sv">Återinförda varor, Tullfri. UTK art. 203, moms MomsL 1 § 1 mom. 2 p., har sålts skattefritt.</Name>
+      <Name lang="en">Returned goods, Customs duty exemption. Article 203 UCC, VAT section 1(1)(2) VAT Act, sold exempt from tax</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -22159,7 +22200,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>F07</Code>
-      <Name lang="fi">Jalostetut tuotteet, jotka palautuvat Euroopan unioniin sen jälkeen, kun ne on aikaisemmin jälleenviety unionin tullialueelta sisäisen jalostusmenettelyn jälkeen ja tuontitulli määritetään koodeksin 86 artiklan 3 kohdan mukaisesti (koodeksin 205 artiklan</Name>
+      <Name lang="fi">Jalostetut tuotteet, jotka palautuvat Euroopan unioniin sen jälkeen, kun ne on aikaisemmin jälleenviety unionin tullialueelta sisäisen jalostusmenettelyn jälkeen ja tuontitulli määritetään koodeksin 86 artiklan 3 kohdan mukaisesti (koodeksin 205 artiklan 2 kohta).</Name>
       <Name lang="sv">Förädlade produkter som återimporteras till Europeiska unionen efter att dessförinnan ha återexporterats efter ett förfarande för aktiv förädling där importtullen fastställs i enlighet med artikel 86.3 i kodexen (artikel 205.2 i kodexen)</Name>
       <Name lang="en">Processed products which return to the European Union after having been previously re-exported subsequent to an inward processing procedure where the import duty is determined in accordance with Article 86(3) of the Code (Article 205(2) of the Code)</Name>
       <StartDate>2017-01-01</StartDate>
@@ -25541,6 +25582,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Undantag från importförbud enligt artikel 11.1 och 11.2 i förordning (EU) nr 517/2014eringsplikten enligt artikel 1.2 i förordning (EU) nr 1191/2014, ändrad genom kommissionens genomförandeförordning (EU) 2017/1375</Name>
       <Name lang="en">Exemption from import prohibition according to articles 11.1 and 11.2 of Regulation (EU) N° 517/2014</Name>
       <StartDate>2022-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y997</Code>
+      <Name lang="fi">Muut kuin Krimiltä tai Sevastopolista peräisin olevat tai niille tarkoitetut tavarat (neuvoston asetuksen (EU) N:o 692/2014 2 artiklan a ja b kohdan 1 alakohta)</Name>
+      <Name lang="sv">Varor som inte har sitt ursprung i eller är avsedda för Krim eller Sevastopol (artiklarna 2 a och 2b.1 i rådets förordning (EU) nr 692/2014)</Name>
+      <Name lang="en">Goods not originating from or destined to Crimea or Sevastopol (Articles 2.a and 2b.1 of Council Regulation (EU) No 692/2014)</Name>
+      <StartDate>2022-12-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
@@ -29418,6 +29467,14 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>D0230</Code>
+      <Name lang="fi">Polkumyyntitullista vapautuminen soveltamalla tietyn käyttötarkoituksen menettelyä. Komission asetus (EY) N:o 88/97.</Name>
+      <Name lang="sv">Befrielse från antidumpningstullar genom tillämpning av förfarandet för slutanvändning. Kommissionens förordning (EG) nr 88/97.</Name>
+      <Name lang="en">Exemption from anti-dumping duty by applying the end-use procedure. Commission Regulation (EC) No 88/97.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>D097</Code>
       <Name lang="fi">Ilmoituksella käytetyt lisämenettelyt:</Name>
       <Name lang="sv">sv: Ilmoituksella käytetyt lisämenettelyt:</Name>
@@ -29764,7 +29821,7 @@ customs warehousing procedure</Description>
       <Code>K-15</Code>
       <Name lang="fi">Yksityishenkilö palauttaa etämyynnistä ostamansa tavarat DA 148 3</Name>
       <Name lang="sv">En privatperson återsänder varorna som hen köpt inom ramen för distansförsäljning, artikel 148.3 DA)</Name>
-      <Name lang="en">en: Yksityishenkilö palauttaa etämyynnistä ostamansa tavarat DA 148 3</Name>
+      <Name lang="en">Private person returns goods purchased through distance selling DA 148 3</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29780,7 +29837,7 @@ customs warehousing procedure</Description>
       <Code>V-12</Code>
       <Name lang="fi">Väärän ilmoittajan ilmoittaminen</Name>
       <Name lang="sv">Angivande av fel deklarant</Name>
-      <Name lang="en">en: Väärän ilmoittajan ilmoittaminen</Name>
+      <Name lang="en">Incorrect declarant / incorrect form of representation</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29788,7 +29845,7 @@ customs warehousing procedure</Description>
       <Code>V-14</Code>
       <Name lang="fi">Virheellisten tietojen ilmoittaminen</Name>
       <Name lang="sv">Angivande av felaktiga uppgifter</Name>
-      <Name lang="en">en: Virheellisten tietojen ilmoittaminen</Name>
+      <Name lang="en">Incorrect information declared</Name>
       <StartDate>2021-12-28</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29813,7 +29870,7 @@ customs warehousing procedure</Description>
       <Code>B-04</Code>
       <Name lang="fi">Nimike</Name>
       <Name lang="sv">Varukod</Name>
-      <Name lang="en">en: Nimike</Name>
+      <Name lang="en">Commodity code</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29821,7 +29878,7 @@ customs warehousing procedure</Description>
       <Code>B-07</Code>
       <Name lang="fi">Tullausarvo</Name>
       <Name lang="sv">Tullvärde</Name>
-      <Name lang="en">Statistical value</Name>
+      <Name lang="en">Customs value</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29829,7 +29886,7 @@ customs warehousing procedure</Description>
       <Code>B-08</Code>
       <Name lang="fi">Tullittomuus</Name>
       <Name lang="sv">Tullfrihet</Name>
-      <Name lang="en">en: Tullittomuus</Name>
+      <Name lang="en">Relief from customs duty</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29837,7 +29894,7 @@ customs warehousing procedure</Description>
       <Code>B-09</Code>
       <Name lang="fi">Varastosta luovuttamiseen liittyvä virhe</Name>
       <Name lang="sv">Fel vid utlämning från lagret</Name>
-      <Name lang="en">en: Varastosta luovuttamiseen liittyvä virhe</Name>
+      <Name lang="en">Error relating to release from storage</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29845,7 +29902,7 @@ customs warehousing procedure</Description>
       <Code>B-12</Code>
       <Name lang="fi">Väärä ilmoittaja / väärä edustusmuoto</Name>
       <Name lang="sv">Fel deklarant / fel typ av ombudskap</Name>
-      <Name lang="en">en: Väärä ilmoittaja / väärä edustusmuoto</Name>
+      <Name lang="en">Incorrect declarant / incorrect form of representation</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29869,7 +29926,7 @@ customs warehousing procedure</Description>
       <Code>F-10</Code>
       <Name lang="fi">Vialliset tavarat</Name>
       <Name lang="sv">Felaktiga varor</Name>
-      <Name lang="en">en: Vialliset tavarat</Name>
+      <Name lang="en">Flawed goods</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29877,7 +29934,7 @@ customs warehousing procedure</Description>
       <Code>I-11</Code>
       <Name lang="fi">Viranomaisen virhe</Name>
       <Name lang="sv">Myndighetens fel</Name>
-      <Name lang="en">en: Viranomaisen virhe</Name>
+      <Name lang="en">Error by the authority</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29901,7 +29958,7 @@ customs warehousing procedure</Description>
       <Code>T-04</Code>
       <Name lang="fi">Nimike</Name>
       <Name lang="sv">Varukod</Name>
-      <Name lang="en">en: Nimike</Name>
+      <Name lang="en">Commodity code</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29909,7 +29966,7 @@ customs warehousing procedure</Description>
       <Code>T-07</Code>
       <Name lang="fi">Tullausarvo</Name>
       <Name lang="sv">Tullvärde</Name>
-      <Name lang="en">en: Tullausarvo</Name>
+      <Name lang="en">Customs value</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29917,7 +29974,7 @@ customs warehousing procedure</Description>
       <Code>T-09</Code>
       <Name lang="fi">Varastosta luovuttamiseen liittyvä virhe</Name>
       <Name lang="sv">Fel vid utlämning från lagret</Name>
-      <Name lang="en">en: Varastosta luovuttamiseen liittyvä virhe</Name>
+      <Name lang="en">Error relating to release from storage</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29925,7 +29982,7 @@ customs warehousing procedure</Description>
       <Code>T-12</Code>
       <Name lang="fi">Väärä ilmoittaja / väärä edustusmuoto</Name>
       <Name lang="sv">Fel deklarant / fel typ av ombudskap</Name>
-      <Name lang="en">en: Väärä ilmoittaja / väärä edustusmuoto</Name>
+      <Name lang="en">Incorrect declarant / incorrect form of representation</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29957,7 +30014,7 @@ customs warehousing procedure</Description>
       <Code>X-04</Code>
       <Name lang="fi">Nimike</Name>
       <Name lang="sv">Varukod</Name>
-      <Name lang="en">en: Nimike</Name>
+      <Name lang="en">Commodity code</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29965,7 +30022,7 @@ customs warehousing procedure</Description>
       <Code>X-07</Code>
       <Name lang="fi">Tullausarvo</Name>
       <Name lang="sv">Tullvärde</Name>
-      <Name lang="en">en: Tullausarvo</Name>
+      <Name lang="en">Customs value</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29973,7 +30030,7 @@ customs warehousing procedure</Description>
       <Code>X-08</Code>
       <Name lang="fi">Tullittomuus</Name>
       <Name lang="sv">Tullfrihet</Name>
-      <Name lang="en">Duty free</Name>
+      <Name lang="en">Relief from customs duty</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29981,7 +30038,7 @@ customs warehousing procedure</Description>
       <Code>X-09</Code>
       <Name lang="fi">Varastosta luovuttamiseen liittyvä virhe</Name>
       <Name lang="sv">Fel vid utlämning från lagret</Name>
-      <Name lang="en">en: Varastosta luovuttamiseen liittyvä virhe</Name>
+      <Name lang="en">Error relating to release from storage</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29989,7 +30046,7 @@ customs warehousing procedure</Description>
       <Code>X-14</Code>
       <Name lang="fi">Muut</Name>
       <Name lang="sv">Andra</Name>
-      <Name lang="en">en: Muut</Name>
+      <Name lang="en">Other</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -39366,7 +39423,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>1A</Code>
       <Name lang="fi">Lisättävät yhteensä</Name>
-      <Name lang="sv">sv:Lisättävät yhteensä</Name>
+      <Name lang="sv">Att tillägga sammanlagt</Name>
       <Name lang="en">Total to be added</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -39374,7 +39431,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>1B</Code>
       <Name lang="fi">Vakuutuskustannukset (DV 17)</Name>
-      <Name lang="sv">sv:Vakuutuskustannukset (DV 17)</Name>
+      <Name lang="sv">Försäkring (DV 17)</Name>
       <Name lang="en">Insurance costs (DV 17)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -39382,40 +39439,40 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>1C</Code>
       <Name lang="fi">Käsittely- ja lastauskulut (DV 17)</Name>
-      <Name lang="sv">sv: Käsittely- ja lastauskulut (DV 17)</Name>
+      <Name lang="sv">Lastning och hantering (DV 17)</Name>
       <Name lang="en">Handling and loading charges (DV 17)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>1D</Code>
-      <Name lang="fi">Unionin ulkopuolella lisättyjen tavaroiden arvo</Name>
-      <Name lang="sv">sv: Unionin ulkopuolella lisättyjen tavaroiden arvo</Name>
-      <Name lang="en">Value of goods added outside the Union</Name>
+      <Name lang="fi">Unionin ulkopuolella lisättyjen tavaroiden arvo (ensisijaisesti ulkoinen jalostus)</Name>
+      <Name lang="sv">Förfarande för passiv förädling: Värdet på de varor som tillförts utanför unionen</Name>
+      <Name lang="en">Outward Processing: Value of goods added outside the Union</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>1E</Code>
-      <Name lang="fi">Rojaltit ja lisenssimaksut</Name>
-      <Name lang="sv">sv: Rojaltit ja lisenssimaksut</Name>
-      <Name lang="en">Royalties and license fees</Name>
+      <Name lang="fi">Tavaroihin liittyvät rojaltit ja lisenssimaksut (ensisijaisesti ulkoinen jalostus)</Name>
+      <Name lang="sv">Förfarande för passiv förädling: Royalties och licensavgifterRoyalties och licensavgifter</Name>
+      <Name lang="en">Outward Processing: Royalties and license fees</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2099-06-07</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>1F</Code>
-      <Name lang="fi">Jalostus/korjaus -käytetystä teknisestä suunnittelusta ja kehittelystä syntyneet kustannukset</Name>
-      <Name lang="sv">sv: Jalostus/korjaus - käytetystä teknisestä suunnittelusta ja kehittelystä syntyneet kustannukset</Name>
+      <Name lang="fi">Jalostuksessa/korjaus* käytetystä teknisestä suunnittelusta ja kehittelystä syntyneet kustannukset (ensisijaisesti ulkoinen jalostus)</Name>
+      <Name lang="sv">Förädling/reparation - kostnader för teknisk planering och utveckling</Name>
       <Name lang="en">Processing/repairs - costs incurred for technical design and development</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>1G</Code>
-      <Name lang="fi">Unionin ulkopuolella syntyneet työkustannukset</Name>
-      <Name lang="sv">sv: Unionin ulkopuolella syntyneet työkustannukset</Name>
-      <Name lang="en">Labour costs incurred outside the Union</Name>
+      <Name lang="fi">Unionin ulkopuolella syntyneet työkustannukset (ensisijaisesti ulkoinen jalostus)</Name>
+      <Name lang="sv">Förfarande för passiv förädling: Arbetskostnader som uppstått utanför unionen</Name>
+      <Name lang="en">Outward Processing: Labour costs incurred outside the Union</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -39429,32 +39486,32 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>1H</Code>
-      <Name lang="fi">Unionin ulkopuolella syntyneet vientiin liittyvät kuljetus- ja liitännäiskustannukset</Name>
-      <Name lang="sv">sv: Unionin ulkopuolella syntyneet vientiin liittyvät kuljetus- ja liitännäiskustannukset</Name>
-      <Name lang="en">en: Unionin ulkopuolella syntyneet vientiin liittyvät kuljetus- ja liitännäiskustannukset</Name>
+      <Name lang="fi">Unionin ulkopuolella syntyneet vientiin liittyvät kuljetus- ja liitännäiskustannukset (ensisijaisesti ulkoinen jalostus)</Name>
+      <Name lang="sv">Förfarande för passiv förädling: Frakt och andra kostnader</Name>
+      <Name lang="en">Outward Processing: Freight and other cost</Name>
       <StartDate>2020-10-14</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>1I</Code>
-      <Name lang="fi">Vientiin liittyvät vakuustuskustannukset</Name>
-      <Name lang="sv">sv: Vientiin liittyvät vakuustuskustannukset</Name>
-      <Name lang="en">Insurance costs related to export</Name>
+      <Name lang="fi">Vientiin liittyvät vakuustuskustannukset (ensisijaisesti ulkoinen jalostus)</Name>
+      <Name lang="sv">Förfarande för passiv förädling: Försäkringskostnader med anknytning till export till export</Name>
+      <Name lang="en">Outward Processing: Insurance costs related to export</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>1J</Code>
-      <Name lang="fi">Tuontiin liittyvät kuljetus-ja liitännäiskustannukset unioniin saapumispaikkaan asti</Name>
-      <Name lang="sv">sv: Tuontiin liittyvät kuljetus-ja liitännäiskustannukset unioniin saapumispaikkaan asti</Name>
-      <Name lang="en">Cost of transport and ancillary costs related to the importation up to the place of introduction in the Union</Name>
+      <Name lang="fi">Tuontiin liittyvät kuljetus-ja liitännäiskustannukset unioniin saapumispaikkaan asti (ensisijaisesti ulkoinen jalostus)</Name>
+      <Name lang="sv">Förfarande för passiv förädling: Transportkostnader och därmed sammanhängande kostnader med anknytning till import fram till den plats där varan förs in i unionen</Name>
+      <Name lang="en">Outward Processing: Cost of transport and ancillary costs related to the importation up to the place of introduction in the Union</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>1K</Code>
       <Name lang="fi">Tuontiin liittyvä vakuutuskustannus</Name>
-      <Name lang="sv">sv: Tuontiin liittyvä vakuutuskustannus</Name>
+      <Name lang="sv">Försäkringskostnad med anknytning till import</Name>
       <Name lang="en">Insurance cost related to import</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -39462,7 +39519,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>1L</Code>
       <Name lang="fi">Kuljetuskulut lopulliseen määränpäähän (H7)</Name>
-      <Name lang="sv">sv: Kuljetuskulut lopulliseen määränpäähän (H7)</Name>
+      <Name lang="sv">Transportkostnader till den slutliga destinationen (H7)</Name>
       <Name lang="en">Transport costs to the final destination (H7)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -39470,7 +39527,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>2A</Code>
       <Name lang="fi">Vähennettävät yhteensä</Name>
-      <Name lang="sv">sv:Vähennettävät yhteensä</Name>
+      <Name lang="sv">Att minska sammanlagt</Name>
       <Name lang="en">Total to be deducted</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -39478,7 +39535,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>2B</Code>
       <Name lang="fi">Muut tuonnin jälkeiset kustannukset (DV 21)</Name>
-      <Name lang="sv">sv: Muut tuonnin jälkeiset kustannukset (DV 21)</Name>
+      <Name lang="sv">Andra kostnader efter import (DV 21)</Name>
       <Name lang="en">Other post-importation costs (DV 21)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -39486,7 +39543,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>3A</Code>
       <Name lang="fi">Kuljetus-,lastaus-ja purkaus- ja vakuutus- ja muut maahantuontiin liittyvät kustannukset kuljetussopimuksen  mukaiseen ensimmäiseen Suomessa olevaan määräpaikkaan saakka</Name>
-      <Name lang="sv">sv: Kuljetus-,lastaus-ja purkaus- ja vakuutus- ja muut maahantuontiin liittyvät kustannukset kuljetussopimuksen  mukaiseen ensimmäiseen Suomessa olevaan määräpaikkaan saakka</Name>
+      <Name lang="sv">Transport-, lastnings-, lossnings- och försäkringskostnader samt andra kostnader med anknytning till import fram till den första destinationsort i Finland som finns angiven i transportavtalet</Name>
       <Name lang="en">The costs for transport, loading, unloading, insurance as well as other costs related to the importation to the first place of destination in Finland specified in the transport contract</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -39494,7 +39551,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>3B</Code>
       <Name lang="fi">Muut tavaran maahantuonnin johdosta tullauksen yhteydessä valtiolle tai yhteisölle kannettavat verot, tuontimaksut ja muut maksut lukuunottamatta arvonlisäveroa</Name>
-      <Name lang="sv">sv: Muut tavaran maahantuonnin johdosta tullauksen yhteydessä valtiolle tai yhteisölle kannettavat verot, tuontimaksut ja muut maksut lukuunottamatta arvonlisäveroa</Name>
+      <Name lang="sv">Andra skatter och avgifter som i samband med förtullning tas ut till staten eller unionen med anledning av import av varor, dock inte mervärdesskatt</Name>
       <Name lang="en">Customs duties, import charges and other charges, with the exception of value added tax, which are levied by the State or the Union due to importation of goods in connection with customs clearance</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -39502,7 +39559,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>3C</Code>
       <Name lang="fi">Suomen ulkopuolella maksettavat verot ja muut maksut</Name>
-      <Name lang="sv">sv: Suomen ulkopuolella maksettavat verot ja muut maksut</Name>
+      <Name lang="sv">Skatter och andra avgifter som ska betalas utanför Finlandt</Name>
       <Name lang="en">Any taxes and other charges payable outside Finland</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -39510,7 +39567,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>3D</Code>
       <Name lang="fi">Arvonlisäveron suorittamisvelvollisuuden syntyhetkellä tiedossa olevat em. Kuljetus ym kustannukset toiseen yhteisön alueella sijaitsevaan määräpaikkaan saakka</Name>
-      <Name lang="sv">sv: Arvonlisäveron suorittamisvelvollisuuden syntyhetkellä tiedossa olevat em. Kuljetus ym kustannukset toiseen yhteisön alueella sijaitsevaan määräpaikkaan saakka</Name>
+      <Name lang="sv">De transport- och andra kostnader fram till en annan destinationsort inom unionen som är kända vid tidpunkten för uppkomsten av skyldigheten att betala mervärdesskatt</Name>
       <Name lang="en">Transport costs and other  costs incurred up to the place of destination in the territory of the Union that are known at the time at which the liability to pay VAT arises</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -39532,33 +39589,17 @@ customs warehousing procedure</Description>
       <EndDate>2020-10-06</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>3G</Code>
-      <Name lang="fi">Arvonlisäveron suorittamisvelvollisuuden syntyhetkellä tiedossa olevat em. Kuljetus ym kustannukset toiseen yhteisön alueella sijaitsevaan määräpaikkaan saakka</Name>
-      <Name lang="sv">sv: Arvonlisäveron suorittamisvelvollisuuden syntyhetkellä tiedossa olevat em. Kuljetus ym kustannukset toiseen yhteisön alueella sijaitsevaan määräpaikkaan saakka</Name>
-      <Name lang="en">Transport costs and other costs incurred up to the place of destination in the territory of the Union that are known at the time at which the liability to pay VAT arises</Name>
-      <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>4A</Code>
-      <Name lang="fi">fi: Test code</Name>
-      <Name lang="sv">sv: Test code</Name>
-      <Name lang="en">Test code</Name>
-      <StartDate>2017-01-01</StartDate>
-      <EndDate>2017-01-02</EndDate>
-    </CodeItem>
-    <CodeItem>
       <Code>50</Code>
       <Name lang="fi">Tilastoarvo</Name>
-      <Name lang="sv">sv: Cif-price/statistical value</Name>
-      <Name lang="en">Cif-price/statistical value</Name>
+      <Name lang="sv">Statistiskt värde</Name>
+      <Name lang="en">Statistical value</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>60</Code>
       <Name lang="fi">Tupakan vähittäismyyntihinta</Name>
-      <Name lang="sv">sv: Tobacco retail price</Name>
+      <Name lang="sv">Detaljhandelspris för tobak</Name>
       <Name lang="en">Tobacco retail price</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -39566,7 +39607,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>70</Code>
       <Name lang="fi">Tullin arvioima arvo</Name>
-      <Name lang="sv">sv: Customs value declared by officer</Name>
+      <Name lang="sv">Värde beräknat av Tullen</Name>
       <Name lang="en">Value assessment by Customs</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -39574,7 +39615,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>80</Code>
       <Name lang="fi">Poikkeava alv-peruste</Name>
-      <Name lang="sv">sv: VAT base declared by trader</Name>
+      <Name lang="sv">Avvikande momsgrund</Name>
       <Name lang="en">Exceptional VAT basis</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -39582,7 +39623,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>90</Code>
       <Name lang="fi">Laskutushinta</Name>
-      <Name lang="sv">sv: Laskutushinta</Name>
+      <Name lang="sv">Transaktionsvärde</Name>
       <Name lang="en">Invoice price</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -39590,18 +39631,18 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>91</Code>
       <Name lang="fi">Laskutushinta (H7)</Name>
-      <Name lang="sv">sv: Invoice price (H7)</Name>
+      <Name lang="sv">Transaktionsvärde (H7)</Name>
       <Name lang="en">Intrisic value (H7)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>96</Code>
-      <Name lang="fi">fi: unit price (used like invoice price) - maybe-</Name>
-      <Name lang="sv">sv: unit price (used like invoice price) - maybe-</Name>
-      <Name lang="en">unit price (used like invoice price) - maybe-</Name>
+      <Name lang="fi">Yksikköhinta</Name>
+      <Name lang="sv">Unit pris</Name>
+      <Name lang="en">Unit price</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2017-01-02</EndDate>
+      <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>AB</Code>
@@ -39613,17 +39654,17 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>AD</Code>
-      <Name lang="fi">Päällykset</Name>
-      <Name lang="sv">Behållare och förpackningar</Name>
-      <Name lang="en">Packaging</Name>
+      <Name lang="fi">Päällys- ja pakkauskustannukset (DV 13 c)</Name>
+      <Name lang="sv">Behållare och förpackningar (DV 13 c)</Name>
+      <Name lang="en">Packaging (DV 13 c)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>AE</Code>
-      <Name lang="fi">Tuotuihin tavaroihin sisältyvät materiaalit, rakenneosat, osat ja vastaavat ainekset</Name>
-      <Name lang="sv">Material, komponenter, delar och liknande artiklar som ingår i de importerade varorna</Name>
-      <Name lang="en">Materials, components, parts and similar items incorporated in the imported goods</Name>
+      <Name lang="fi">Vietyihin tavaroihin sisältyvät materiaalit, rakenneosat, osat ja vastaavat ainekset (DV 14 a)</Name>
+      <Name lang="sv">Material, komponenter, delar och liknande artiklar som ingår i de importerade varorna (DV 14 a)</Name>
+      <Name lang="en">Exported material; Materials, components, parts and similar items incorporated in the imported goods (DV 14 a)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -40638,5 +40679,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-11-25T08:30:14.470</Generated>
+  <Generated>2022-12-05T06:05:04.177</Generated>
 </CodeLists>
