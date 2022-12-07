@@ -5078,10 +5078,18 @@
     </CodeItem>
     <CodeItem>
       <Code>U067</Code>
-      <Name lang="fi">EUR.1-todistus jossa on merkintä "Derogation-Decision No 1/2012 of the ESA-EU Customs Cooperation Committee of 29/11/2012" tai " Dérogation - Décision No 1/2012 du Comité de Coopération Douanière AfOA-UE du 29/11/2012"</Name>
-      <Name lang="sv">Varucertifikat EUR.1 med påskriften "Derogation-Decision No 1/2012 of the ESA-EU Customs Cooperation Committee of 29/11/2012" eller "Dérogation - Décision No 1/2012 du Comité de Coopération Douanière AfOA-UE du 29/11/2012"</Name>
-      <Name lang="en">Certificate EUR 1. bearing the endorsement "Derogation-Decision No 1/2012 of the ESA-EU Customs Cooperation Committee of 29/11/2012" or "Dérogation - Décision No 1/2012 du Comité de Coopération Douanière AfOA-UE du 29/11/2012"</Name>
+      <Name lang="fi">EUR.1-todistus jossa on merkintä “Derogation — Decision No 1/2017 of the ESA-EU Customs Cooperation Committee of 2 October 2017” tai “Derogation — Decision No 1/2017 of the ESA-EU Customs Cooperation Committee of 2 October 2017”</Name>
+      <Name lang="sv">Varucertifikat EUR.1 med påskriften "Derogation — Decision No 1/2017 of the ESA-EU Customs Cooperation Committee of 2 October 2017" eller "Dérogation — Décision no 1/2017 du comité de coopération douanière AfOA-UE du 2 octobre 2017"</Name>
+      <Name lang="en">Certificate EUR 1. bearing the endorsement "Derogation — Decision No 1/2017 of the ESA-EU Customs Cooperation Committee of 2 October 2017" or "Dérogation — Décision no 1/2017 du comité de coopération douanière AfOA-UE du 2 octobre 2017"</Name>
       <StartDate>2017-01-01</StartDate>
+      <EndDate>2022-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>U067</Code>
+      <Name lang="fi">EUR.1-todistus jossa on merkintä "Derogation — Decision No 1/2022 of the ESA-EU Customs Cooperation Committee of 19 October 2022" tai "Dérogation — Décision no 1/2022 du comité de coopération douanière AfOA-UE du 19 octobre 2022"</Name>
+      <Name lang="sv">Varucertifikat EUR.1 med påskriften "Derogation — Decision No 1/2022 of the ESA-EU Customs Cooperation Committee of 19 October 2022" eller "Dérogation — Décision no 1/2022 du comité de coopération douanière AfOA-UE du 19 octobre 2022"</Name>
+      <Name lang="en">Certificate EUR 1. bearing the endorsement "Derogation — Decision No 1/2022 of the ESA-EU Customs Cooperation Committee of 19 October 2022" or "Dérogation — Décision no 1/2022 du comité de coopération douanière AfOA-UE du 19 octobre 2022"</Name>
+      <StartDate>2023-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -40679,5 +40687,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-12-05T06:05:04.177</Generated>
+  <Generated>2022-12-06T06:05:04.037</Generated>
 </CodeLists>
