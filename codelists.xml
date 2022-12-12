@@ -4461,6 +4461,14 @@
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>D022</Code>
+      <Name lang="fi">Valmistajan kauppalasku kauppiaalle varustettuna asetuksen 2019/2131 liitteessä 3 täsmennetyllä valmistajan vakuutuksella ja kauppiaan kauppalasku tuojalle</Name>
+      <Name lang="sv">Handelsfaktura från tillverkaren till en handlare inklusive tillverkarens deklaration som nämns i bilaga 3 till förordning 2019/2131 och handelsfaktura från handlaren till importören</Name>
+      <Name lang="en">Commercial invoice from the manufacturer to the trader bearing a declaration of the manufacturer as specified in Annex 3 of Reg. 2019/2131 and commercial invoice from the trader to the importer</Name>
+      <StartDate>2019-03-23</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>E012</Code>
       <Name lang="fi">Vientiluvan "kulttuuriesineiden" (Asetus (EY) N:o 116/2009)</Name>
       <Name lang="sv">Exportlicens "Kulturföremål" (Förordning (EG) nr 116/2009)</Name>
@@ -14107,8 +14115,8 @@
     <CodeItem>
       <Code>FIVVX</Code>
       <Name lang="fi">Varaosat ja varusteet sellaisen elinkeinonharjoittajan käyttöön, joka maksua vastaan harjoittaa pääasiallisesti kansainvälistä lentoliikennettä  (AVL 94.1§9k)</Name>
-      <Name lang="sv">sv. Varaosat ja varusteet sellaisen elinkeinonharjoittajan käyttöön, joka maksua vastaan harjoittaa pääasiallisesti kansainvälistä lentoliikennettä  (AVL 94.1§9k)</Name>
-      <Name lang="en">en: Varaosat ja varusteet sellaisen elinkeinonharjoittajan käyttöön, joka maksua vastaan harjoittaa pääasiallisesti kansainvälistä lentoliikennettä  (AVL 94.1§9k)</Name>
+      <Name lang="sv">Reservdelar och utrustning för att användas av en näringsidkare som mot betalning bedriver huvudsakligen internationell flygtrafik (MomsL 94 § 1 mom. 9 p.)</Name>
+      <Name lang="en">Spare parts and equipment for use on aircraft by an entrepreneur operating for reward mainly on international routes (VAT Act, section 94(1)(9))</Name>
       <StartDate>2021-05-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -16977,8 +16985,8 @@
     <CodeItem>
       <Code>FITEJ</Code>
       <Name lang="fi">Tuonti EU-verorajan yli, ilmoitus jaksolta</Name>
-      <Name lang="sv">sv:Tuonti EU-verorajan yli, ilmoitus jaksolta</Name>
-      <Name lang="en">en: Tuonti EU-verorajan yli, ilmoitus jaksolta</Name>
+      <Name lang="sv">Import över EU-skattegränsen, deklaration för en period</Name>
+      <Name lang="en">Import across the EU tax border, periodic declaration</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -29823,14 +29831,6 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>B-12</Code>
-      <Name lang="fi">Väärä ilmoittaja / väärä edustusmuoto</Name>
-      <Name lang="sv">Fel deklarant / fel typ av ombudskap</Name>
-      <Name lang="en">Incorrect declarant / incorrect form of representation</Name>
-      <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
-    </CodeItem>
-    <CodeItem>
       <Code>B-14</Code>
       <Name lang="fi">Muut</Name>
       <Name lang="sv">Andra</Name>
@@ -29842,15 +29842,15 @@ customs warehousing procedure</Description>
       <Code>C-02</Code>
       <Name lang="fi">Kiintiö</Name>
       <Name lang="sv">Kvot</Name>
-      <Name lang="en">Quata</Name>
+      <Name lang="en">Quota</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>F-10</Code>
       <Name lang="fi">Vialliset tavarat</Name>
-      <Name lang="sv">Felaktiga varor</Name>
-      <Name lang="en">Flawed goods</Name>
+      <Name lang="sv">Defekta varor</Name>
+      <Name lang="en">Defective goods</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29899,14 +29899,6 @@ customs warehousing procedure</Description>
       <Name lang="fi">Varastosta luovuttamiseen liittyvä virhe</Name>
       <Name lang="sv">Fel vid utlämning från lagret</Name>
       <Name lang="en">Error relating to release from storage</Name>
-      <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>T-12</Code>
-      <Name lang="fi">Väärä ilmoittaja / väärä edustusmuoto</Name>
-      <Name lang="sv">Fel deklarant / fel typ av ombudskap</Name>
-      <Name lang="en">Incorrect declarant / incorrect form of representation</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -40603,5 +40595,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-12-08T06:05:04.160</Generated>
+  <Generated>2022-12-12T06:05:04.250</Generated>
 </CodeLists>
