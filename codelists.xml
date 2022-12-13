@@ -3017,7 +3017,7 @@
       <Code>8KTP</Code>
       <Name lang="fi">Korvaava tullauspäätös</Name>
       <Name lang="sv">Ersättande förtullningbeslut</Name>
-      <Name lang="en">en: Korvaava tullauspäätös</Name>
+      <Name lang="en">Replacement customs clearance decision</Name>
       <StartDate>2019-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -3040,24 +3040,24 @@
     <CodeItem>
       <Code>8RKV</Code>
       <Name lang="fi">Reklamaatiokirjeenvaihto</Name>
-      <Name lang="sv">sv: Reklamaatiokirjeenvaihto</Name>
-      <Name lang="en">en: Reklamaatiokirjeenvaihto</Name>
+      <Name lang="sv">Reklamationskorrespondens</Name>
+      <Name lang="en">Complaint correspondence</Name>
       <StartDate>2019-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>8SAA</Code>
       <Name lang="fi">Saate</Name>
-      <Name lang="sv">sv: Saate</Name>
-      <Name lang="en">en: Saate</Name>
+      <Name lang="sv">Följebrev</Name>
+      <Name lang="en">Cover note</Name>
       <StartDate>2019-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>8TIL</Code>
       <Name lang="fi">Tiliyhteystiedot</Name>
-      <Name lang="sv">sv: Tiliyhteystiedot</Name>
-      <Name lang="en">en: Tiliyhteystiedot</Name>
+      <Name lang="sv">Bankkontouppgifter</Name>
+      <Name lang="en">Bank account details</Name>
       <StartDate>2019-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -14142,8 +14142,8 @@
     <CodeItem>
       <Code>FIVVY</Code>
       <Name lang="fi">Varaosan tai varusteen arvonlisäveroton maahantuonti ammattimaisessa kansainvälisessä liikenteessä olevan vesialuksen käyttöön.</Name>
-      <Name lang="sv">sv: Varaosan tai varusteen arvonlisäveroton maahantuonti ammattimaisessa kansainvälisessä liikenteessä olevan vesialuksen käyttöön.</Name>
-      <Name lang="en">en: Varaosan tai varusteen arvonlisäveroton maahantuonti ammattimaisessa kansainvälisessä liikenteessä olevan vesialuksen käyttöön.</Name>
+      <Name lang="sv">Mervärdesskattefri import av reservdelar eller utrustning för att användas av fartyg i yrkesmässig internationell trafik.</Name>
+      <Name lang="en">VAT-exempt import of spare parts or equipment for use on a vessel in professional international traffic.</Name>
       <StartDate>2021-05-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -15631,8 +15631,8 @@
     <CodeItem>
       <Code>FIGLO</Code>
       <Name lang="fi">Sisäisen jalostuksen koonti (kuukausina)</Name>
-      <Name lang="sv">sv: Sisäisen jalostuksen koonti (kuukausina)</Name>
-      <Name lang="en">en: Globalisation related to inward processing</Name>
+      <Name lang="sv">Sammanslagning vid aktiv förädling (i månader)</Name>
+      <Name lang="en">Aggregation of inward processing (in months)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -15911,8 +15911,8 @@
     <CodeItem>
       <Code>FIMIT</Code>
       <Name lang="fi">Korvaava tullaus. Pyydetään mitätöintiä edeltävälle tullaukselle.</Name>
-      <Name lang="sv">sv: Korvaava tullaus. Pyydetään mitätöintiä edeltävälle tullaukselle.</Name>
-      <Name lang="en">en: Korvaava tullaus. Pyydetään mitätöintiä edeltävälle tullaukselle.</Name>
+      <Name lang="sv">Ersättande förtullning. Ogiltigförklaring av den föregående förtullningen begärs.</Name>
+      <Name lang="en">Replacement customs clearance. Invalidation of the previous customs clearance transaction is requested.</Name>
       <StartDate>2021-12-13</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -16804,8 +16804,8 @@
     <CodeItem>
       <Code>FISUR</Code>
       <Name lang="fi">Korvaava ilmoitus</Name>
-      <Name lang="sv">sv: Korvaava ilmoitus</Name>
-      <Name lang="en">en: Korvaava ilmoitus</Name>
+      <Name lang="sv">Ersättande deklaration</Name>
+      <Name lang="en">Replacement declaration</Name>
       <StartDate>2020-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -27877,7 +27877,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>D0070</Code>
-      <Name lang="fi">Myönnetty DA 147 artiklan mukaan pidennystä kauppalaskun esittämistä varten xx.xx.xxxx asti. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta, lähetä oikaisupyyntö asiakirjoineen ensisijaisesti vapaamuotoisella yhteydenotto-pyynnöllä.</Name>
+      <Name lang="fi">Myönnetty DA 147 artiklan mukaan pidennystä kauppalaskun esittämistä varten xx.xx.xxxx asti. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta, lähetä oikaisupyyntö asiakirjoineen ensisijaisesti vapaamuotoisella yhteydenottopyynnöllä muutospyyntösanomalla (sanoma-asiakkaat) tai Tulliselvityspalvelussa. </Name>
       <Name lang="sv">Tidsfristen för uppvisande av fakturan har enligt DF art 147 förlängts fram till xx.xx.xxxx. Om slutsumman i fakturan avviker från det som angetts vid förtullningen, skicka en begäran om omprövning i första hand med en fritt formulerad kontaktbegäran med tillhörande dokument.</Name>
       <Name lang="en">The time-limit for presenting the invoice has been extended in accordance with Article 147(1) DA to xx.xx.xxxx. If the invoice amount differs from the declared amount, a request for subsequent recovery with documents must primarily be sent as a free-form contact request.</Name>
       <StartDate>2022-03-22</StartDate>
@@ -27901,7 +27901,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>D0071</Code>
-      <Name lang="fi">Myönnetty DA:n 147 artiklan mukaan pidennystä kauppalaskun esittämistä varten xx.xx.xxxx asti. Kauppalasku lähetettävä vastaamalla lisäselvityspyyntöön. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta, on jälkikantopyyntö asiakirjoineen lähetettävä lisäselvityspyynnön sijaan ensisijaisesti vapaamuotoisella yhteydenottopyynnöllä.</Name>
+      <Name lang="fi">Myönnetty DA:n 147 artiklan mukaan pidennystä kauppalaskun esittämistä varten xx.xx.xxxx asti. Kauppalasku lähetettävä vastaamalla lisäselvityspyyntöön. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta, on jälkikantopyyntö asiakirjoineen lähetettävä lisäselvityspyynnön sijaan ensisijaisesti muutospyyntösanomalla (sanoma-asiakkaat) tai Tulliselvityspalvelussa oikaisuhakemuksen kautta.</Name>
       <Name lang="sv">Tidsfristen för uppvisande av faktura har enligt artikel 147 i DF förlängts fram till xx.xx.xxxx. Fakturan ska skickas till sova256@tulli.fi. Om slutsumman i fakturan avviker från det som angetts vid förtullningen, ska en begäran om efteruppbörd i första hand skickas med en fritt formulerad kontaktbegäran med tillhörande dokument.</Name>
       <Name lang="en">The time limit for presenting the invoice has been extended to xx.xx.xxxx in accordance with Article 147 DA. The invoice must be sent to sova256@tulli.fi. If the invoice amount differs from the declared amount, a request for subsequent recovery with documents must primarily be sent as a free-form contact request.</Name>
       <StartDate>2022-03-22</StartDate>
@@ -40595,5 +40595,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-12-12T06:05:04.250</Generated>
+  <Generated>2022-12-13T06:05:04.840</Generated>
 </CodeLists>
