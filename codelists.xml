@@ -19192,7 +19192,7 @@
       <Name lang="en">Release for free circulation of goods simultaneously redispatched</Name>
       <Description lang="en">Release for free circulation of goods simultaneously redispatched in the context of trade between parts of the customs territory of the Union in which the provisions of Directive 2006/112/EC or Directive 2008/118/EC are applicable and parts of that t...</Description>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2021-09-01</EndDate>
+      <EndDate>2019-01-01</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
         <Value>0</Value>
@@ -40595,5 +40595,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-12-13T06:05:04.840</Generated>
+  <Generated>2022-12-14T06:05:04.090</Generated>
 </CodeLists>
