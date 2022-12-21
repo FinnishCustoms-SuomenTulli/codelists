@@ -4549,6 +4549,14 @@
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>K027</Code>
+      <Name lang="fi">Tariffikiintiö - järjestysnumero 09.8253 loppuun käytetty tai hakemusta ei tehty</Name>
+      <Name lang="sv">Tullkvot - order nummer 09.8253 förbrukad eller ej ansökt</Name>
+      <Name lang="en">en: Tullkvot - order nummer 09.8253 förbrukad eller ej ansökt</Name>
+      <StartDate>2022-12-17</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>L001</Code>
       <Name lang="fi">Tuontitodistus AGRIM</Name>
       <Name lang="sv">Importlicens AGRIM</Name>
@@ -4634,6 +4642,14 @@
       <Name lang="sv">Importtillstånd enligt artikel 3i.3c i rådets förordning (EU) nr 833/2014</Name>
       <Name lang="en">Import authorisation by virtue of article 3i.3c of Council Regulation (EU) 833/2014</Name>
       <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>L143</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 12b artiklan 2 kohdan mukainen tuontilupa</Name>
+      <Name lang="sv">Importtillstånd enligt artikel 12b.2 i rådets förordning (EU) nr 833/2014</Name>
+      <Name lang="en">Import authorisation by virtue of article 12b.2 of Council Regulation (EU) 833/2014</Name>
+      <StartDate>2022-12-17</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -6149,6 +6165,14 @@
       <Name lang="sv">Järn- och stålprodukter som bearbetas i ett tredje land och som inte innehåller järn- och stålprodukter med ursprung i Ryssland enligt förteckningen i bilaga XVII till förordning (EU) nr 833/2014</Name>
       <Name lang="en">Iron and steel products processed in a third country, not incorporating iron and steel products originating in Russia as listed in Annex XVII of Regulation (EU) No 833/2014</Name>
       <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y861</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3i.3 ba artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3i.3ba)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3ba)</Name>
+      <StartDate>2022-12-17</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -24173,6 +24197,14 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>K027</Code>
+      <Name lang="fi">Tariffikiintiö - järjestysnumero 09.8253 loppuun käytetty tai hakemusta ei tehty</Name>
+      <Name lang="sv">Tullkvot - order nummer 09.8253 förbrukad eller ej ansökt</Name>
+      <Name lang="en">en: Tullkvot - order nummer 09.8253 förbrukad eller ej ansökt</Name>
+      <StartDate>2022-12-17</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>Y001</Code>
       <Name lang="fi">Tuotettu kokonaan Libanonissa ja kuljetettu suoraan tästä maasta yhteisöön</Name>
       <Name lang="sv">Helt införskaffad i Libanon och transporterad direkt från detta land till gemenskapen</Name>
@@ -24906,6 +24938,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Järn- och stålprodukter som bearbetas i ett tredje land och som inte innehåller järn- och stålprodukter med ursprung i Ryssland enligt förteckningen i bilaga XVII till förordning (EU) nr 833/2014</Name>
       <Name lang="en">Iron and steel products processed in a third country, not incorporating iron and steel products originating in Russia as listed in Annex XVII of Regulation (EU) No 833/2014</Name>
       <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y861</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3i.3 ba artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3i.3ba)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3ba)</Name>
+      <StartDate>2022-12-17</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -40611,5 +40651,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-12-16T06:05:03.810</Generated>
+  <Generated>2022-12-21T06:05:08.010</Generated>
 </CodeLists>
