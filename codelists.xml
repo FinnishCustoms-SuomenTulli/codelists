@@ -4637,6 +4637,14 @@
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>L139</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 g artiklan 7 kohdan mukainen tuontilupa</Name>
+      <Name lang="sv">Importtillstånd enligt artikel 3g.7 i rådets förordning (EU) nr 833/2014</Name>
+      <Name lang="en">Import authorisation by virtue of article 3g.7 of Council Regulation (EU) 833/2014</Name>
+      <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>L142</Code>
       <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 i artiklan 3 c kohdan mukainen tuontilupa</Name>
       <Name lang="sv">Importtillstånd enligt artikel 3i.3c i rådets förordning (EU) nr 833/2014</Name>
@@ -6165,6 +6173,22 @@
       <Name lang="sv">Järn- och stålprodukter som bearbetas i ett tredje land och som inte innehåller järn- och stålprodukter med ursprung i Ryssland enligt förteckningen i bilaga XVII till förordning (EU) nr 833/2014</Name>
       <Name lang="en">Iron and steel products processed in a third country, not incorporating iron and steel products originating in Russia as listed in Annex XVII of Regulation (EU) No 833/2014</Name>
       <StartDate>2022-10-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y854</Code>
+      <Name lang="fi">Komission täytäntöönpanoasetus (EU) 2020/1158 ei koske ilmoitettuja tavaroita.</Name>
+      <Name lang="sv">De deklarerade varorna omfattas inte av kommissionens genomförandeförordning (EU) 2020/1158.</Name>
+      <Name lang="en">The declared goods are not concerned by Commission Implementing Regulation (EU) 2020/1158.</Name>
+      <StartDate>2023-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y855</Code>
+      <Name lang="fi">Komission täytäntöönpanoasetuksen (EU) 2020/1158 1 artiklan 2 kohdan mukainen vapautus tuontirajoituksista (Tšernobylin onnettomuus).</Name>
+      <Name lang="sv">Undantag från importrestriktioner enligt artikel 1.2 i kommissionens genomförandeförordning (EU) 2020/1158 (Tjernobylolyckan).</Name>
+      <Name lang="en">Exemption from import restrictions by virtue of Article 1(2) of Commission Implementing Regulation (EU) 2020/1158 (Chernobyl accident).</Name>
+      <StartDate>2023-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -24941,6 +24965,22 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>Y854</Code>
+      <Name lang="fi">Komission täytäntöönpanoasetus (EU) 2020/1158 ei koske ilmoitettuja tavaroita.</Name>
+      <Name lang="sv">De deklarerade varorna omfattas inte av kommissionens genomförandeförordning (EU) 2020/1158.</Name>
+      <Name lang="en">The declared goods are not concerned by Commission Implementing Regulation (EU) 2020/1158.</Name>
+      <StartDate>2023-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y855</Code>
+      <Name lang="fi">Komission täytäntöönpanoasetuksen (EU) 2020/1158 1 artiklan 2 kohdan mukainen vapautus tuontirajoituksista (Tšernobylin onnettomuus).</Name>
+      <Name lang="sv">Undantag från importrestriktioner enligt artikel 1.2 i kommissionens genomförandeförordning (EU) 2020/1158 (Tjernobylolyckan).</Name>
+      <Name lang="en">Exemption from import restrictions by virtue of Article 1(2) of Commission Implementing Regulation (EU) 2020/1158 (Chernobyl accident).</Name>
+      <StartDate>2023-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>Y861</Code>
       <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3i.3 ba artiklassa)</Name>
       <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3i.3ba)</Name>
@@ -40651,5 +40691,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-12-21T06:05:08.010</Generated>
+  <Generated>2022-12-22T06:05:12.280</Generated>
 </CodeLists>
