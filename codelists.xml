@@ -18281,6 +18281,14 @@
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>CEN</Code>
+      <Name lang="fi">100 kappaletta</Name>
+      <Name lang="sv">100 stycken</Name>
+      <Name lang="en">100 pieces</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>CTM</Code>
       <Name lang="fi">karaattia</Name>
       <Name lang="sv">karat (1 karat enligt metersystemet = 2 *10-4 kg)</Name>
@@ -40699,5 +40707,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-12-26T06:05:10.220</Generated>
+  <Generated>2022-12-28T06:05:06.730</Generated>
 </CodeLists>
