@@ -5937,10 +5937,10 @@
     </CodeItem>
     <CodeItem>
       <Code>Y089</Code>
-      <Name lang="fi">Entinen Jugoslavian tasavalta Makedonia etuuskohtelua koskeva pyyntö</Name>
-      <Name lang="sv">Begäran om förmånsbehandling för f.d. jugoslaviska republiken Makedonien</Name>
-      <Name lang="en">Request for preferential treatment for the former Yugoslav Republic of Macedonia</Name>
-      <StartDate>2017-01-01</StartDate>
+      <Name lang="fi">Pohjois-Makedonia etuuskohtelua koskeva pyyntö</Name>
+      <Name lang="sv">Begäran om förmånsbehandling för Nordmakedonien</Name>
+      <Name lang="en">Request for preferential treatment for the North Macedonia</Name>
+      <StartDate>2018-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -13968,7 +13968,7 @@
       <Name lang="sv">Varor som importerats till förmån för offer för katastrofen i Ukraina</Name>
       <Name lang="en">Goods imported to help victims of the disaster in Ukraine</Name>
       <StartDate>2022-02-24</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
       </Filter>
@@ -17217,7 +17217,7 @@
       <Name lang="sv">Varor som importerats till förmån för offer för katastrofen i Ukraina</Name>
       <Name lang="en">Goods imported to help victims of the disaster in Ukraine</Name>
       <StartDate>2022-02-24</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
       </Filter>
@@ -23408,7 +23408,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kroatisk kuna</Name>
       <Name lang="en">Croatian kuna</Name>
       <StartDate>2022-11-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>HTG</Code>
@@ -23505,13 +23505,6 @@ customs warehousing procedure</Description>
       <Name lang="en">Iranian Rial</Name>
       <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>ISK</Code>
-      <Name lang="fi">Islannin kruunu</Name>
-      <Name lang="sv">Isländska kronor</Name>
-      <StartDate>2001-01-01</StartDate>
-      <EndDate>2015-09-08</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>ISK</Code>
@@ -23648,13 +23641,6 @@ customs warehousing procedure</Description>
       <Name lang="en">Liberian dollar</Name>
       <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>LTL</Code>
-      <Name lang="fi">Liettuan liti</Name>
-      <Name lang="sv">Litauiska litas</Name>
-      <StartDate>2001-01-01</StartDate>
-      <EndDate>2015-09-08</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>LYD</Code>
@@ -24049,13 +24035,6 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>SKK</Code>
-      <Name lang="fi">Slovakian koruna</Name>
-      <Name lang="sv">Slovakisk krona</Name>
-      <StartDate>2001-01-01</StartDate>
-      <EndDate>2015-09-08</EndDate>
-    </CodeItem>
-    <CodeItem>
       <Code>THB</Code>
       <Name lang="fi">Thaimaan baht</Name>
       <Name lang="sv">Thailändska baht</Name>
@@ -24086,13 +24065,6 @@ customs warehousing procedure</Description>
       <Name lang="en">Tunisian dinar</Name>
       <StartDate>2022-11-01</StartDate>
       <EndDate>2099-12-31</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>TRL</Code>
-      <Name lang="fi">Turkin liira</Name>
-      <Name lang="sv">Turkiska lire</Name>
-      <StartDate>2001-01-01</StartDate>
-      <EndDate>2015-09-08</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>TRY</Code>
@@ -24734,10 +24706,10 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>Y089</Code>
-      <Name lang="fi">Entinen Jugoslavian tasavalta Makedonia etuuskohtelua koskeva pyyntö</Name>
-      <Name lang="sv">Begäran om förmånsbehandling för f.d. jugoslaviska republiken Makedonien</Name>
-      <Name lang="en">Request for preferential treatment for the former Yugoslav Republic of Macedonia</Name>
-      <StartDate>2017-12-16</StartDate>
+      <Name lang="fi">Pohjois-Makedonia etuuskohtelua koskeva pyyntö</Name>
+      <Name lang="sv">Begäran om förmånsbehandling för Nordmakedonien</Name>
+      <Name lang="en">Request for preferential treatment for the North Macedonia</Name>
+      <StartDate>2018-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -40707,5 +40679,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2022-12-28T06:05:06.730</Generated>
+  <Generated>2023-01-05T06:05:07.930</Generated>
 </CodeLists>
