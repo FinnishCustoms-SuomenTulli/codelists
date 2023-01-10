@@ -2671,8 +2671,8 @@
     </CodeItem>
     <CodeItem>
       <Code>45SR</Code>
-      <Name lang="fi">Vakuutus muuttotavaroina maahan tuotujen tavaroiden tullittomuuden ja verottomuuden edellytyksistä.</Name>
-      <Name lang="sv">Försäkran om förutsättningarna för skattefrihet och tullfrihet av varor som förts in som flyttgods.</Name>
+      <Name lang="fi">Vakuutus muuttotavaroina maahan tuotujen tavaroiden tullittomuuden ja arvonlisäverottomuuden edellytyksistä.</Name>
+      <Name lang="sv">Försäkran om förutsättningarna för tullfrihet och mervärdesskattefrihet av varor som förts in som flyttgods.</Name>
       <Name lang="en">Declaration on the conditions for exemption from customs duties and taxes on goods imported as removal goods</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -21460,9 +21460,9 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>C07</Code>
-      <Name lang="fi">Arvoltaan vähäiset lähetykset, joiden todellinen arvo on enintään 150 euroa. Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 23 art., arvonlisäveroton AVL 94.1. § 24 k.</Name>
-      <Name lang="sv">Varuförsändelser av lågt värde (högst 150 euro) Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 23; momsfri MomsL 94 § 1 mom. 24 p.</Name>
-      <Name lang="en">Consignments of negligible value (the intrinsic value does not exceed 150 euros). Customs duty exemption. Article 23 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(24) VAT Act</Name>
+      <Name lang="fi">Arvoltaan vähäiset lähetykset, joiden todellinen arvo on enintään 150 euroa. Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 23 art.</Name>
+      <Name lang="sv">Varuförsändelser av lågt värde (högst 150 euro) Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 23</Name>
+      <Name lang="en">Consignments of negligible value (the intrinsic value does not exceed 150 euros). Customs duty exemption. Article 23 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29830,14 +29830,6 @@ customs warehousing procedure</Description>
       <Name lang="fi">Yksityishenkilö palauttaa etämyynnistä ostamansa tavarat DA 148 3</Name>
       <Name lang="sv">En privatperson återsänder varorna som hen köpt inom ramen för distansförsäljning, artikel 148.3 DA)</Name>
       <Name lang="en">Private person returns goods purchased through distance selling DA 148 3</Name>
-      <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>M</Code>
-      <Name lang="fi">Muu ilmoituksella havaittu virhe</Name>
-      <Name lang="sv">Andra fel som konstaterats av deklaranten</Name>
-      <Name lang="en">Other errors observed by declarant</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -40679,5 +40671,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-01-05T06:05:07.930</Generated>
+  <Generated>2023-01-10T06:05:04.523</Generated>
 </CodeLists>
