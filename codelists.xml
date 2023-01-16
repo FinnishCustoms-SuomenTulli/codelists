@@ -21420,9 +21420,9 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>C01</Code>
-      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 3 art., arvonlisäveroton AVL 94.1. § 12 k. Tavaroilla on 12 kuukauden luovutusrajoitus vapaaseen liikkeeseen luovutuksesta (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 8 art.).</Name>
-      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 3; momsfri MomsL 94 § 1 mom. 12 p. Varorna omfattas av en överlåtelsebegränsning i 12 månader från övergången till fri omsättning (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 8).</Name>
-      <Name lang="en">Customs duty exemption. Article 3 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act. The goods are subject to a 12-month transfer restriction as regards release for free circulation (Article 8 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
+      <Name lang="fi">Muuttotavaraa. Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 3 art., arvonlisäveroton AVL 94.1. § 12 k. Tavaroilla on 12 kuukauden luovutusrajoitus vapaaseen liikkeeseen luovutuksesta (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 8 art.).</Name>
+      <Name lang="sv">Flyttgods. Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 3; momsfri MomsL 94 § 1 mom. 12 p. Varorna omfattas av en överlåtelsebegränsning i 12 månader från övergången till fri omsättning (Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 8).</Name>
+      <Name lang="en">Removal goods. Customs duty exemption. Article 3 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act. The goods are subject to a 12-month transfer restriction as regards release for free circulation (Article 8 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -40671,5 +40671,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-01-13T06:05:07.233</Generated>
+  <Generated>2023-01-16T06:05:10.830</Generated>
 </CodeLists>
