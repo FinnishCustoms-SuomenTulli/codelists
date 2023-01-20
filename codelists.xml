@@ -3554,6 +3554,14 @@
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>C090</Code>
+      <Name lang="fi">Lasimaisen maissin todistus, jonka on myöntänyt Argentiinan Servicio Nacional de Sanidad y Calidad Agroalimentaria (Senasa)</Name>
+      <Name lang="sv">Intyg för flintmajs utfärdat av Argentinas Servicio Nacional de Sanidad y Calidad Agroalimentaria (Senasa)</Name>
+      <Name lang="en">Certificate issued by the Servicio Nacional de Sanidad y Calidad Agroalimentaria (Senasa) of Argentina for flint maize</Name>
+      <StartDate>2023-01-17</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>C100</Code>
       <Name lang="fi">Rekisteröidyn viejän numero</Name>
       <Name lang="sv">Nummer för registrerad exportör</Name>
@@ -4930,7 +4938,7 @@
       <Name lang="sv">Ursprungscertifikat, formulär A (GSP)</Name>
       <Name lang="en">Certificate of origin Form A</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N933</Code>
@@ -40671,5 +40679,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-01-17T06:05:04.020</Generated>
+  <Generated>2023-01-20T06:05:04.320</Generated>
 </CodeLists>
