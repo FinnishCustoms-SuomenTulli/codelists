@@ -6717,6 +6717,14 @@
       <Name lang="sv">Varor som inte har sitt ursprung i eller inte är avsedda för områdena i länet Donetsk, Cherson, Luhansk och Zaporizjzja</Name>
       <Name lang="en">Goods not originating from or not destined for the oblasts of Donetsk, Kherson, Luhansk and Zaporizhzhia</Name>
       <StartDate>2022-02-26</StartDate>
+      <EndDate>2022-10-06</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y984</Code>
+      <Name lang="fi">Tavarat, jotka eivät ole peräisin tai joita ei ole tarkoitettu Ukrainan alueille, jotka sijaitsevat Donetskin, Khersonin, Luhanskin ja Zaporizhzhian alueilla, jotka eivät ole hallituksen valvomia</Name>
+      <Name lang="sv">Varor som inte har sitt ursprung i eller inte är avsedda för de icke-regeringskontrollerade områdena i länen Donetsk, Kherson, Luhansk och Zaporizhzhia</Name>
+      <Name lang="en">Goods not originating from or not destined for the non-government controlled areas of Ukraine in the oblasts of Donetsk, Kherson, Luhansk and Zaporizhzhia</Name>
+      <StartDate>2022-10-07</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -25590,6 +25598,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Varor som inte har sitt ursprung i eller inte är avsedda för områdena i länet Donetsk, Cherson, Luhansk och Zaporizjzja</Name>
       <Name lang="en">Goods not originating from or not destined for the oblasts of Donetsk, Kherson, Luhansk and Zaporizhzhia</Name>
       <StartDate>2022-02-26</StartDate>
+      <EndDate>2022-10-06</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y984</Code>
+      <Name lang="fi">Tavarat, jotka eivät ole peräisin tai joita ei ole tarkoitettu Ukrainan alueille, jotka sijaitsevat Donetskin, Khersonin, Luhanskin ja Zaporizhzhian alueilla, jotka eivät ole hallituksen valvomia</Name>
+      <Name lang="sv">Varor som inte har sitt ursprung i eller inte är avsedda för de icke-regeringskontrollerade områdena i länen Donetsk, Kherson, Luhansk och Zaporizhzhia</Name>
+      <Name lang="en">Goods not originating from or not destined for the non-government controlled areas of Ukraine in the oblasts of Donetsk, Kherson, Luhansk and Zaporizhzhia</Name>
+      <StartDate>2022-10-07</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -40687,5 +40703,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-02-01T11:24:27.973</Generated>
+  <Generated>2023-02-02T06:05:03.280</Generated>
 </CodeLists>
