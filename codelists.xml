@@ -16185,6 +16185,30 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>FIPAN</Code>
+      <Name lang="fi">Panttaussitoumus/Tullilomake 207</Name>
+      <Name lang="sv">sv: Panttaussitoumus/Tullilomake 207</Name>
+      <Name lang="en">en: Panttaussitoumus/Tullilomake 207</Name>
+      <StartDate>2019-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>FIPDF</Code>
       <Name lang="fi">Ilmoittaja pyytää tulliselvityksen asiakirjat PDF-muotoisina</Name>
       <Name lang="sv">Deklaranten begär tullklarering dokument i PDF-format</Name>
@@ -38939,30 +38963,6 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>POI</Code>
-      <Name lang="fi">Poistumisvahvistettu luovutuspäätös</Name>
-      <Name lang="sv">Utförselbekräftat överlåtelsebeslut</Name>
-      <Name lang="en">Decision on release with certification of exit</Name>
-      <StartDate>2020-06-03</StartDate>
-      <EndDate>2099-12-31</EndDate>
-      <Filter>
-        <Name>Filter_CWAR</Name>
-      </Filter>
-      <Filter>
-        <Name>Filter_ENTRY</Name>
-      </Filter>
-      <Filter>
-        <Name>Filter_EXP</Name>
-        <Value>1</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_IMP</Name>
-      </Filter>
-      <Filter>
-        <Name>Filter_TRA</Name>
-      </Filter>
-    </CodeItem>
-    <CodeItem>
       <Code>RAU</Code>
       <Name lang="fi">Muutoshakemuksesta luopuminen</Name>
       <Name lang="sv">Avbokning av ändringsförfrågan</Name>
@@ -40703,5 +40703,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-02-02T06:05:03.280</Generated>
+  <Generated>2023-02-06T06:05:03.073</Generated>
 </CodeLists>
