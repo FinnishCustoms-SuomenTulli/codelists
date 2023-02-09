@@ -5976,6 +5976,14 @@
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>Y106</Code>
+      <Name lang="fi">Asetuksen N:o 1907/2006 liitteen XVII 2 sarakkeessa määriteltyjen REACH-rajoitusten noudattaminen</Name>
+      <Name lang="sv">Efterlevnad av de Reach-begränsningar som anges i kolumn 2 i bilaga XVII till förordning nr 1907/2006</Name>
+      <Name lang="en">Compliance with the REACH restrictions defined in Column 2 of Annex XVII of Regulation (EC) No 1907/2006</Name>
+      <StartDate>2023-02-10</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>Y107</Code>
       <Name lang="fi">Tavarat, joihin ei sovelleta kieltoa – "CD"-alaviitteessä mainitut ilma-alusten varaosat</Name>
       <Name lang="sv">Varor som inte omfattas av förbudet - reservdelar från flygplan som nämns i ”CD”-fotnoten</Name>
@@ -5989,6 +5997,22 @@
       <Name lang="sv">Varor som inte omfattas av förbudet - sportutrustning med kaliber .22 tum</Name>
       <Name lang="en">Goods exempted from the prohibition – sport equipment of calibre .22 inches</Name>
       <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y110</Code>
+      <Name lang="fi">Poikkeus REACH-rajoituksista asetuksen N:o 1907/2006 67.1 ja 67.2 artiklan nojalla</Name>
+      <Name lang="sv">Undantag från Reach-begränsningarna i enlighet med artiklarna 67.1 och 67.2 i förordning nr 1907/2006</Name>
+      <Name lang="en">Exemption from REACH restrictions by virtue of Article 67(1) and 67(2) of Regulation (EC) No 1907/2006</Name>
+      <StartDate>2023-02-10</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y113</Code>
+      <Name lang="fi">Tuote, johon ei sovelleta asetuksen (EY) N:o 1907/2006 säännöksiä</Name>
+      <Name lang="sv">Produkten omfattas inte av bestämmelserna i förordning (EG) nr 1907/2006</Name>
+      <Name lang="en">Product not subjected to the provisions of Regulation (EC) No 1907/2006</Name>
+      <StartDate>2023-02-10</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -24785,6 +24809,14 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>Y106</Code>
+      <Name lang="fi">Asetuksen N:o 1907/2006 liitteen XVII 2 sarakkeessa määriteltyjen REACH-rajoitusten noudattaminen</Name>
+      <Name lang="sv">Efterlevnad av de Reach-begränsningar som anges i kolumn 2 i bilaga XVII till förordning nr 1907/2006</Name>
+      <Name lang="en">Compliance with the REACH restrictions defined in Column 2 of Annex XVII of Regulation (EC) No 1907/2006</Name>
+      <StartDate>2023-02-10</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>Y107</Code>
       <Name lang="fi">Tavarat, joihin ei sovelleta kieltoa – "CD"-alaviitteessä mainitut ilma-alusten varaosat</Name>
       <Name lang="sv">Varor som inte omfattas av förbudet - reservdelar från flygplan som nämns i "CD"-fotnoten</Name>
@@ -24798,6 +24830,22 @@ customs warehousing procedure</Description>
       <Name lang="sv">Varor som inte omfattas av förbudet - sportutrustning med kaliber .22 tum</Name>
       <Name lang="en">Goods exempted from the prohibition – sport equipment of calibre .22 inches</Name>
       <StartDate>2018-02-28</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y110</Code>
+      <Name lang="fi">Poikkeus REACH-rajoituksista asetuksen N:o 1907/2006 67.1 ja 67.2 artiklan nojalla</Name>
+      <Name lang="sv">Undantag från Reach-begränsningarna i enlighet med artiklarna 67.1 och 67.2 i förordning nr 1907/2006</Name>
+      <Name lang="en">Exemption from REACH restrictions by virtue of Article 67(1) and 67(2) of Regulation (EC) No 1907/2006</Name>
+      <StartDate>2023-02-10</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y113</Code>
+      <Name lang="fi">Tuote, johon ei sovelleta asetuksen (EY) N:o 1907/2006 säännöksiä</Name>
+      <Name lang="sv">Produkten omfattas inte av bestämmelserna i förordning (EG) nr 1907/2006</Name>
+      <Name lang="en">Product not subjected to the provisions of Regulation (EC) No 1907/2006</Name>
+      <StartDate>2023-02-10</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -40711,5 +40759,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-02-08T06:05:04.177</Generated>
+  <Generated>2023-02-09T06:05:02.940</Generated>
 </CodeLists>
