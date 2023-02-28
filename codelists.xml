@@ -27439,7 +27439,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>D0020</Code>
-      <Name lang="fi">Ilmoitus on mitätöity ilmoittajan pyynnöstä. Tavarat on asetettu toiseen tullimenettelyyn. UTK 174 (1) (a)</Name>
+      <Name lang="fi">Ilmoitus on mitätöity ilmoittajan pyynnöstä. Tavarat on asetettu toiseen tullimenettelyyn (UTK 174 (1) (a)). Korvaavan ilmoituksen MRN________.</Name>
       <Name lang="sv">Deklarationen har ogiltigförklarats på deklarantens begäran. Varorna har hänförts till ett annat tullförfarande. UTK 174 (1) (a)</Name>
       <Name lang="en">The declaration has been invalidated at the declarant’s request. The goods have been placed under another customs procedure. UCC, Article 174(1)(a)</Name>
       <StartDate>2021-05-05</StartDate>
@@ -27519,7 +27519,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>D0025</Code>
-      <Name lang="fi">Ilmoitus on mitätöity ilmoittajan pyynnöstä. Samasta tavarasta on annettu useampi ilmoitus. DA 148 (4) (c)</Name>
+      <Name lang="fi">Ilmoitus on mitätöity ilmoittajan pyynnöstä. Samasta tavarasta on annettu useampi ilmoitus (DA 148 (4) (c)). Korvaavan ilmoituksen MRN________.</Name>
       <Name lang="sv">Deklarationen har ogiltigförklarats på deklarantens begäran. Flera deklarationer har ingetts för samma varor. DF 148 (4) (c)</Name>
       <Name lang="en">The declaration has been invalidated at the declarant’s request. More than one declaration have been lodged for the same goods. DA, Article 148(4)(c)</Name>
       <StartDate>2021-05-05</StartDate>
@@ -27687,7 +27687,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>D0038</Code>
-      <Name lang="fi">Lisäselvityksen määräaika on umpeutunut. Tullaus mitätöidään.</Name>
+      <Name lang="fi">Tulli on mitätöinyt ilmoituksen. Lisäselvityksen määräaika on umpeutunut.</Name>
       <Name lang="sv">Tidsfristen för tilläggsutredning har gått ut. Förtullningen ogiltigförklaras.</Name>
       <Name lang="en">The time limit for additional information has expired. The declaration will be invalidated.</Name>
       <StartDate>2021-05-06</StartDate>
@@ -28575,7 +28575,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>D0095</Code>
-      <Name lang="fi">Tavarat eivät täytä verottoman lahjalähetyksen määritelmää, jonka ehdot löytyy tullittomuusasetuksesta TTA 25 &amp; 26 art. Lähetykselle ei voida myöntää tullittomuutta eikä arvonlisäverottomuutta ALV AVL 94.1 § 14 k. mukaisesti. Tullaus on mitätöity viranomaisaloitteisesti. Tehkää uusi tullaus Henkilöasiakkaiden tuontitullauspalvelussa valitsemalla haluan tullata listalta "Ostamani tavaran".</Name>
+      <Name lang="fi">Tulli on mitätöinyt ilmoituksen. Tavarat eivät täytä verottoman lahjalähetyksen edellytyksiä (TtA 25 &amp; 26 art., AVL 94.1 § 14 k.). Tee uusi tullaus Henkilöasiakkaan tuontitullauspalvelussa valinnalla ”haluan tullata ostetun tavaran”.</Name>
       <Name lang="sv">Varorna uppfyller inte de villkor för en skattefri gåvoförsändelse som fastställs i art. 25 och 26 i tullfrihetsförordningen. Försändelsen kan inte beviljas tullfrihet och inte heller momsfrihet enligt 94 § 1 mom. 14 p. i mervärdesskattelagen. Förtullningen har ogiltigförklarats på myndighetsinitiativ. Gör en ny förtullning i importförtullningstjänsten för privatpersoner genom att i listan ”Jag vill förtulla” välja ”en vara jag köpt”.ra jag köpt”.</Name>
       <Name lang="en">The goods do not meet the definition of a tax-free gift consignment in accordance with articles 25 and 26 in the Duty Relief Regulation.  The consignment cannot be granted customs duty exemption or VAT exemption under section 94(1)(14) of the VAT Act. The declaration has been invalidated on the initiative of the customs authority. Submit a new declaration in the Import Declaration Service for private persons by selecting “goods I’ve purchased” under “I wish to declare”.</Name>
       <StartDate>2021-05-06</StartDate>
@@ -28791,7 +28791,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>D0118</Code>
-      <Name lang="fi">Tulli on mitätöinyt tullauksen viranomaisaloitteisesti, koska tulli-ilmoituksella ei ole tietoa rikkinäisen tavaran viennistä unionin ulkopuolelle, joten verottoman tullimenettelyn edellytykset eivät täyty. Tehkää uusi tullaus Henkilöasiakkaiden tuontitullauspalvelussa valitsemalla haluan tullata listalta "Ostamani tavaran”.  Ilmoita tullatessasi arvoksi tavaran todellinen arvo ja maksa maahantuontiverot. Voit hakea Tullilta oikaisua viallista tavaraa koskevaan alkuperäiseen tullaukseen tekemällä vapaamuotoisen oikaisuhakemuksen, lisäohjeet https://tulli.fi/henkiloasiakkaat/tullauspaatoksen-oikaisu</Name>
+      <Name lang="fi">Tulli on mitätöinyt ilmoituksen. Tullauksella ei ole ilmoitettu, että viallinen tai rikkinäinen tavara on viety EU:n ulkopuolelle, joten verottoman tullimenettelyn edellytykset eivät täyty. Tee uusi tullaus Henkilöasiakkaan tuontitullauspalvelussa valinnalla ”haluan tullata ostetun tavaran”. Ilmoita arvoksi tavaran todellinen arvo. Voit hakea Tullilta oikaisua alkuperäiseen tullaukseen tekemällä vapaamuotoisen oikaisuhakemuksen. Lue lisää oikaisuhakemuksen tekemisestä: https://tulli.fi/henkiloasiakkaat/tullauspaatoksen-oikaisu.</Name>
       <Name lang="sv">Tullen har ogiltigförklarat förtullningen på myndighetsinitiativ eftersom tulldeklarationen inte innehåller någon information om export av en trasig vara till ett område utanför unionen, och därmed uppfylls inte förutsättningarna för skattefritt tullförfarande. Gör en ny förtullning i Importförtullningstjänsten för privatpersoner genom att i listan ”Jag vill förtulla” välja ”en vara jag köpt”.  När du förtullar varan ange varans faktiska värde som värde och betala importskatterna. Du kan hos Tullen ansöka om omprövning av den ursprungliga förtullningen av den defekta varan genom att lämna in en fritt formulerad omprövningsansökan. Mer detaljerade anvisningar om detta hittar du här: https://tulli.fi/sv/privatpersoner/omprovning-av-fortullningsbeslut</Name>
       <Name lang="en">Customs has invalidated the clearance transaction on its own initiative, as there is no information in the customs declaration concerning export of a broken item outside the Union and therefore the requirements for a tax-exempt customs procedure are not fulfilled. Submit a new declaration in the Import Declaration Service for private persons by selecting “goods I’ve purchased” under ”I wish to declare”.  In the declaration, enter the actual value of the goods as the value and pay the import taxes. You can submit a free-form application to Customs asking for a revision of the original customs clearance involving the defective product. More guidance is available at https://tulli.fi/en/private-persons/appealing-against-a-customs-clearance-decision</Name>
       <StartDate>2021-01-01</StartDate>
@@ -29448,7 +29448,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>D0198</Code>
-      <Name lang="fi">Vastauksen määräaika on umpeutunut. Tullaus mitätöidään.</Name>
+      <Name lang="fi">Tulli on mitätöinyt ilmoituksen. Vastauksen määräaika on umpeutunut.</Name>
       <Name lang="sv">Tidsfristen för svar har löpt ut. Förtullningen ogiltigförklaras.</Name>
       <Name lang="en">The time limit for response has expired. The declaration will be invalidated.</Name>
       <StartDate>2019-01-01</StartDate>
@@ -29693,6 +29693,24 @@ customs warehousing procedure</Description>
       <Name lang="fi">Polkumyyntitullista vapautuminen soveltamalla tietyn käyttötarkoituksen menettelyä. Komission asetus (EY) N:o 88/97.</Name>
       <Name lang="sv">Befrielse från antidumpningstullar genom tillämpning av förfarandet för slutanvändning. Kommissionens förordning (EG) nr 88/97.</Name>
       <Name lang="en">Exemption from anti-dumping duty by applying the end-use procedure. Commission Regulation (EC) No 88/97.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0263</Code>
+      <Name lang="fi">Tulli on mitätöinyt tullauksen viranomaisaloitteisesti, koska annetun selvityksen perusteella tavarat eivät ole matkalle unohtuneita tavaroita. Voit tullata muuttotavarat esimerkiksi tullitoimipaikalla, tullilomakkeella 1143 tai ostamalla palvelun kuljetusyritykseltä. Lue lisää muuttotavaroiden tullauksesta: https://tulli.fi/henkiloasiakkaat/muuttajalle/nain-tullaat-muuttotavaran.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0264</Code>
+      <Name lang="fi">Tulli on mitätöinyt tullauksen viranomaisaloitteisesti. Annetun selvityksen perusteella tavarat eivät ole matkalle unohtuneita tavaroita vaan aiemmasta tilauksesta puuttumaan jäänyt tavara. Jos tilauksen kokonaisarvo on enintään 150 euroa, lähetä osoitteeseen nettituonti@tulli.fi seuraavat tiedot: tekemäsi tullauksen viitenumero (MRN), tavaroiden tilausvahvistus tai lasku, jälkitoimituksena tulleen lähetyksen saapumistunnus tai muu seurantatunnus sekä mahdollinen reklamaatiosi tai esimerkiksi sähköposti, jossa myyjä tai lähettäjä kertoo jälkitoimituksesta. Jos olet Ahvenanmaalla, käytä osoitetta spake.aland@tulli.fi. Jos tilauksen arvo on yli 150 euroa, tee uusi tullaus henkilöasiakkaan tuontitullauspalvelussa valinnalla ”haluan tullata ostamani tavaran” ja ilmoita tullauksella tavaran todellinen arvo. Tämän jälkeen voit hakea takaisin maahantuontiverot, jotka maksoit tavarasta jo ensimmäisellä tullauksella. Lue lisää tullauspäätöksen oikaisusta: https://tulli.fi/henkiloasiakkaat/tullauspaatoksen-oikaisu.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0265</Code>
+      <Name lang="fi">Tulli-ilmoitus mitätöidään, koska ilmoitettu tavara ei täytä luovutuksen edellytyksiä.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -29946,7 +29964,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>PresentationOfGoods</Code>
-      <Name lang="fi">Tulli on mitätöinyt ilmoituksen. Tavaroita ei ole esitetty Tullille 30 päivän kuluessa ilmoituksen antamisesta. UTK 171</Name>
+      <Name lang="fi">Tulli on mitätöinyt ilmoituksen. Tavaroita ei ole esitetty Tullille 30 päivän kuluessa ilmoituksen antamisesta (UTK 171).</Name>
       <Name lang="sv">Tullen har ogiltigförklarat deklarationen. Varornas ankomst har inte anmälts till Tullen inom 30 dagar från inlämnandet av deklarationen. UTK 171</Name>
       <Name lang="en">Customs has invalidated the declaration. The goods were not presented to Customs within 30 days of lodging of the declaration. UCC, Article 171</Name>
       <StartDate>2021-05-06</StartDate>
@@ -44083,5 +44101,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-02-27T06:05:03.760</Generated>
+  <Generated>2023-02-28T06:05:03.597</Generated>
 </CodeLists>
