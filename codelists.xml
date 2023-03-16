@@ -6137,7 +6137,7 @@
     </CodeItem>
     <CodeItem>
       <Code>Y807</Code>
-      <Name lang="fi">Neuvoston asetuksen (EY) N:o 765/2006 1 q artiklassa määriteltyjä kieltoja ei sovelleta (ks. sopimuspoikkeukset 1 artiklan 2 kohdassa).</Name>
+      <Name lang="fi">Neuvoston asetuksen (EY) N:o 765/2006 1 q artiklassa määriteltyjä kieltoja ei sovelleta (ks. sopimuspoikkeukset 1 q artiklan 2 kohdassa).</Name>
       <Name lang="sv">Förbuden i artikel 1q i rådets förordning (EG) nr No765/2006 är inte tillämpliga (se avtalsundantagen i artikel 1q.2).</Name>
       <Name lang="en">The prohibitions defined in article 1q of Council Regulation (EC) No765/2006apply (see contractual exemptions in article 1q.2)</Name>
       <StartDate>2022-03-03</StartDate>
@@ -25052,7 +25052,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>Y807</Code>
-      <Name lang="fi">Neuvoston asetuksen (EY) N:o 765/2006 1 q artiklassa määriteltyjä kieltoja ei sovelleta (ks. sopimuspoikkeukset 1 artiklan 2 kohdassa).</Name>
+      <Name lang="fi">Neuvoston asetuksen (EY) N:o 765/2006 1 q artiklassa määriteltyjä kieltoja ei sovelleta (ks. sopimuspoikkeukset 1 q artiklan 2 kohdassa).</Name>
       <Name lang="sv">Förbuden i artikel 1q i rådets förordning (EG) nr No765/2006 är inte tillämpliga (se avtalsundantagen i artikel 1q.2).</Name>
       <Name lang="en">The prohibitions defined in article 1q of Council Regulation (EC) No765/2006apply (see contractual exemptions in article 1q.2)</Name>
       <StartDate>2022-03-03</StartDate>
@@ -44214,5 +44214,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-03-03T06:05:03.917</Generated>
+  <Generated>2023-03-16T06:05:03.403</Generated>
 </CodeLists>
