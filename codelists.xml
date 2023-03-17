@@ -4051,7 +4051,7 @@
     </CodeItem>
     <CodeItem>
       <Code>C626</Code>
-      <Name lang="fi">BTI - Sitovaa tariffitietoa koskevat päätös (delegoidun asetuksen (EU) 2015/2446 liitteessä A oleva sarake 1a)</Name>
+      <Name lang="fi">BTI - Sitovaa tariffitietoa koskeva päätös (delegoidun asetuksen (EU) 2015/2446 liitteessä A oleva sarake 1a)</Name>
       <Name lang="sv">BTI - Beslut avseende bindande klassificeringsbesked (Kolumn 1a, bilaga A till delegerade förordning (EU) 2015/2446)</Name>
       <Name lang="en">BTI - Decision relating to Binding Tariff Information (Column 1a, Annex A of Delegated Regulation (EU) 2015/2446)</Name>
       <StartDate>2017-01-01</StartDate>
@@ -4546,7 +4546,7 @@
       <Name lang="sv">Tullkvot - order nummer 09.8250 förbrukad eller ej ansökt</Name>
       <Name lang="en">Tariff quota - order number 09.8250 exhausted or not requested</Name>
       <StartDate>2022-07-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2023-03-09</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>K022</Code>
@@ -4562,7 +4562,7 @@
       <Name lang="sv">Tullkvot - order nummer 09.8251 förbrukad eller ej ansökt</Name>
       <Name lang="en">Tariff quota - order number 09.8251 exhausted or not requested</Name>
       <StartDate>2022-07-10</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2023-03-09</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>K025</Code>
@@ -24352,7 +24352,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tullkvot - order nummer 09.8250 förbrukad eller ej ansökt</Name>
       <Name lang="en">Tariff quota - order number 09.8250 exhausted or not requested</Name>
       <StartDate>2022-07-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2023-03-09</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>K022</Code>
@@ -24368,7 +24368,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tullkvot - order nummer 09.8251 förbrukad eller ej ansökt</Name>
       <Name lang="en">Tariff quota - order number 09.8251 exhausted or not requested</Name>
       <StartDate>2022-07-10</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2023-03-09</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>K025</Code>
@@ -43370,6 +43370,14 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>1032</Code>
+      <Name lang="fi">Talouskumppanuussopimukset</Name>
+      <Name lang="sv">Ekonomiska partnerskapavtalen</Name>
+      <Name lang="en">Economic Partnership Agreements</Name>
+      <StartDate>2008-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>1051</Code>
       <Name lang="fi">MED (EG, MT, TR)</Name>
       <StartDate>2002-01-01</StartDate>
@@ -44214,5 +44222,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-03-16T06:05:03.403</Generated>
+  <Generated>2023-03-17T06:05:03.547</Generated>
 </CodeLists>
