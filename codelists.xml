@@ -43378,6 +43378,14 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>1034</Code>
+      <Name lang="fi">Itäisen ja eteläisen Afrikan maat</Name>
+      <Name lang="sv">Stater i östra och södra Afrika</Name>
+      <Name lang="en">Eastern and Southern Africa States</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>1051</Code>
       <Name lang="fi">MED (EG, MT, TR)</Name>
       <StartDate>2002-01-01</StartDate>
@@ -44222,5 +44230,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-03-17T06:05:03.547</Generated>
+  <Generated>2023-03-20T06:05:03.180</Generated>
 </CodeLists>
