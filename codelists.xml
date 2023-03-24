@@ -29723,7 +29723,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>D0219</Code>
-      <Name lang="fi">Polkumyyntitullista vapautuminen soveltamalla tietyn käyttötarkoituksen menettelyä. Luvanhaltijan on annettava päätöstilitys valvovalle tullille 30 päivän kuluessa sen kalenterikuukauden päättymisestä, jonka aikana tavarat on asetettu menettelyyn. Varattu vastuuvakuus voidaan vapauttaa, kun valvova tulli on käsitellyt päätöstilityksen ja todennut, että kalenterikuukauden aikana menettelyyn ei ole asetettu enempää kuin 299 kpl kutakin oleellista osaa. Komission asetus (EY) N:o 88/97.</Name>
+      <Name lang="fi">Polkumyyntitullista vapautuminen soveltamalla tietyn käyttötarkoituksen menettelyä. Luvanhaltijan on annettava päätöstilitys valvovalle tullille 30 päivän kuluessa sen kalenterikuukauden päättymisestä, jonka aikana tavarat on asetettu menettelyyn. Varattu vastuuvakuus voidaan vapauttaa, kun valvova tulli on käsitellyt päätöstilityksen ja vastaanottanut luvanhaltijalta vakuutuksen, että 12 kk laskentajakson aikana menettelyyn ei aseteta kutakin oleellista osaa keskimäärin enempää kuin 299 kpl kuukaudessa. Komission asetus (EY) N:o 88/97.</Name>
       <Name lang="sv">Befrielse från antidumpningstullar genom tillämpning av förfarandet för slutanvändning. Tillståndshavaren ska lämna en avräkningsnota till övervakningstullkontoret inom 30 dagar efter att den kalendermånad under vilken varorna hänförts till förfarande har löpt ut. Den reserverade ansvarsgarantin kan frisläppas då övervakningstullkontoret har handlagt avräkningsnotan och fastställt att inte mer än 299 st. av varje essentiell del har hänförts till förfarandet under en kalendermånad. Kommissionens förordning (EG) nr 88/97.</Name>
       <Name lang="en">Exemption from anti-dumping duty by applying the end-use procedure. The authorisation holder must submit a bill of discharge to the supervising customs office within 30 days of the end of the calendar month during which the goods were placed under the procedure. The reserved liability guarantee can be released when the supervising customs office has processed the bill of discharge and found that no more than 299 pieces of each essential part have been placed under the procedure during a calendar month. Commission Regulation (EC) No 88/97.</Name>
       <StartDate>2019-01-01</StartDate>
@@ -44230,5 +44230,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-03-22T06:05:03.093</Generated>
+  <Generated>2023-03-24T06:05:03.063</Generated>
 </CodeLists>
