@@ -16269,8 +16269,8 @@
     <CodeItem>
       <Code>FIPAN</Code>
       <Name lang="fi">Panttaussitoumus</Name>
-      <Name lang="sv">sv: Panttaussitoumus</Name>
-      <Name lang="en">en: Panttaussitoumus</Name>
+      <Name lang="sv">Pantsättningsförbindelse</Name>
+      <Name lang="en">Pledge agreement</Name>
       <StartDate>2019-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -29824,6 +29824,14 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>D0265</Code>
       <Name lang="fi">Tulli-ilmoitus mitätöidään, koska ilmoitettu tavara ei täytä luovutuksen edellytyksiä.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0266</Code>
+      <Name lang="fi">Tällä päätöksellä kannetaan end use -tullin ja erga omnes -tullin välinen erotus.</Name>
+      <Name lang="sv">sv: Tällä päätöksellä kannetaan end use -tullin ja erga omnes -tullin välinen erotus.</Name>
+      <Name lang="en">en: Tällä päätöksellä kannetaan end use -tullin ja erga omnes -tullin välinen erotus.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -44230,5 +44238,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-03-27T06:05:02.980</Generated>
+  <Generated>2023-03-30T06:05:02.963</Generated>
 </CodeLists>
