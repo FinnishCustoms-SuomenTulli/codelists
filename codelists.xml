@@ -22369,7 +22369,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Tavarat, jotka on tuotu unionin ja sellaisten maiden, joiden kanssa unioni on perustanut tulliliiton, välisessä kaupassa</Name>
       <Name lang="sv">Varor som införs i samband med handel mellan unionen och länder/områden med vilka denna har en tullunion on perustanut tulliliiton, välisessä kaupassa</Name>
       <Name lang="en">Goods introduced in the context of trade between the Union and the countries with which it has formed a customs union.</Name>
-      <StartDate>2020-06-23</StartDate>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -26124,7 +26124,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Tullien kantaminen Euroopan unionin tekemien tulliliittosopimusten mukaisesti</Name>
       <Name lang="sv">Tull i enlighet med avtal om tullunion som ingåtts av Europeiska unionen</Name>
       <Name lang="en">Customs duties under the provisions of customs union agreements concluded by the European Union</Name>
-      <StartDate>2020-06-23</StartDate>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -28256,74 +28256,26 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>D0070</Code>
-      <Name lang="fi">Myönnetty DA 147 (1) kohdan mukaan pidennystä kauppalaskun esittämistä varten xx.xx.xxxx asti. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta, on jälkikantopyyntö asiakirjoineen toimitettava kirjaamo@tulli.fi.</Name>
-      <Name lang="sv">Tidsfristen för uppvisande av faktura har enligt DF art 147 punkt 1 förlängts fram till xx.xx.xxxx. Om slutsumman i fakturan avviker från det som angetts vid förtullningen, ska en begäran om efteruppbörd med dokument skickas till kirjaamo@tulli.fi.</Name>
-      <Name lang="en">The time-limit for presenting the invoice has been extended in accordance with Article 147(1) DA to xx.xx.xxxx. If the invoice amount differs from the declared amount, a request for subsequent recovery, with documents, shall be sent to kirjaamo@tulli.fi.</Name>
-      <StartDate>2017-01-01</StartDate>
-      <EndDate>2021-05-05</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>D0070</Code>
-      <Name lang="fi">Myönnetty DA 147 artiklan mukaan pidennystä kauppalaskun esittämistä varten xx.xx.xxxx asti. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta, lähetä oikaisupyyntö asiakirjoineen ensisijaisesti vapaamuotoisella yhteydenotto-pyynnöllä tai lähettämällä jälkikantopyyntö asiakirjoineen kirjaamo@tulli.fi</Name>
-      <Name lang="sv">Tidsfristen för uppvisande av fakturan har enligt DF art 147 förlängts fram till xx.xx.xxxx. Om slutsumman i fakturan avviker från det som angetts vid förtullningen, skicka en begäran om omprövning i första hand med en fritt formulerad kontaktbegäran med tillhörande dokument eller skicka en begäran om efteruppbörd med tillhörande dokument till kirjaamo@tulli.fi.</Name>
-      <Name lang="en">The time limit for presenting the invoice has been extended to xx.xx.xxxx in accordance with Article 147 DA. If the invoice amount differs from the declared amount, send an amendment request with documents primarily as a free-form contact request, or send a request for subsequent recovery with documents to kirjaamo@tulli.fi.</Name>
-      <StartDate>2021-05-06</StartDate>
-      <EndDate>2022-03-21</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>D0070</Code>
-      <Name lang="fi">Myönnetty DA 147 artiklan mukaan pidennystä kauppalaskun esittämistä varten xx.xx.xxxx asti. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta, lähetä oikaisupyyntö asiakirjoineen ensisijaisesti vapaamuotoisella yhteydenottopyynnöllä muutospyyntösanomalla (sanoma-asiakkaat) tai Tulliselvityspalvelussa. </Name>
+      <Name lang="fi">Kauppalaskun esittämiselle on myönnetty pidennystä xx.xx.xxxx asti. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta, lähetä oikaisupyyntö asiakirjoineen ensisijaisesti muutospyyntösanomalla tai oikaisuhakemuksella Tulliselvityspalvelussa. (DA 147 art.)</Name>
       <Name lang="sv">Tidsfristen för uppvisande av fakturan har enligt DF art 147 förlängts fram till xx.xx.xxxx. Om slutsumman i fakturan avviker från det som angetts vid förtullningen, skicka en begäran om omprövning i första hand med en fritt formulerad kontaktbegäran med tillhörande dokument.</Name>
       <Name lang="en">The time-limit for presenting the invoice has been extended in accordance with Article 147(1) DA to xx.xx.xxxx. If the invoice amount differs from the declared amount, a request for subsequent recovery with documents must primarily be sent as a free-form contact request.</Name>
-      <StartDate>2022-03-22</StartDate>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>D0071</Code>
-      <Name lang="fi">Myönnetty  DA:n 147 artiklan  mukaan pidennystä kauppalaskun esittämistä varten xx.xx.xxxx asti. Kauppalasku on esitettävä sova256@tulli.fi. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta on jälkikantopyyntö asiakirjoineen toimitettava kirjaamo@tulli.fi.</Name>
-      <Name lang="sv">Tidsfristen för uppvisande av faktura har enligt  artikel 147 i DF förlängts fram till xx.xx.xxxx. Fakturan ska skickas till sova256@tulli.fi. Om slutsumman i fakturan avviker från det som angetts vid förtullningen, ska en begäran om efteruppbörd med dokument skickas till kirjaamo@tulli.fi.</Name>
-      <Name lang="en">The time-limit for presenting the invoice has been extended in accordance with Article 147 DA to xx.xx.xxxx. The invoice must be sent to sova256@tulli.fi. If the invoice amount differs from the declared amount, a request for subsequent recovery, with documents, shall be sent to kirjaamo@tulli.fi.</Name>
-      <StartDate>2017-01-01</StartDate>
-      <EndDate>2021-05-05</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>D0071</Code>
-      <Name lang="fi">Myönnetty DA:n 147 artiklan mukaan pidennystä kauppalaskun esittämistä varten xx.xx.xxxx asti. Kauppalasku on esitettävä sova256@tulli.fi. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta, on jälkikantopyyntö asiakirjoineen lähetettävä ensisijaisesti vapaamuotoisella yhteydenottopyynnöllä tai lähettämällä jälkikantopyyntö asiakirjoineen kirjaamo@tulli.fi   </Name>
-      <Name lang="sv">Tidsfristen för uppvisande av faktura har enligt  artikel 147 i DF förlängts fram till xx.xx.xxxx. Fakturan ska skickas till sova256@tulli.fi. Om slutsumman i fakturan avviker från det som angetts vid förtullningen, ska en begäran om efteruppbörd i första hand skickas med en fritt formulerad kontaktbegäran med tillhörande dokument eller så skickas en begäran om efteruppbörd med tillhörande dokument till kirjaamo@tulli.fi.</Name>
-      <Name lang="en">The time limit for presenting the invoice has been extended to xx.xx.xxxx in accordance with Article 147 DA. The invoice must be sent to sova256@tulli.fi. If the invoice amount differs from the declared amount, a request for subsequent recovery with documents must primarily be sent as a free-form contact request, or send a request for subsequent recovery with documents to kirjaamo@tulli.fi.</Name>
-      <StartDate>2021-05-06</StartDate>
-      <EndDate>2022-03-21</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>D0071</Code>
-      <Name lang="fi">Myönnetty DA:n 147 artiklan mukaan pidennystä kauppalaskun esittämistä varten xx.xx.xxxx asti. Kauppalasku lähetettävä vastaamalla lisäselvityspyyntöön. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta, on jälkikantopyyntö asiakirjoineen lähetettävä lisäselvityspyynnön sijaan ensisijaisesti muutospyyntösanomalla (sanoma-asiakkaat) tai Tulliselvityspalvelussa oikaisuhakemuksen kautta.</Name>
+      <Name lang="fi">Kauppalaskun esittämiselle on myönnetty pidennystä xx.xx.xxxx asti. Lähetä kauppalasku vastaamalla lisäselvityspyyntöön. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta, lähetä oikaisupyyntö asiakirjoineen ensisijaisesti muutospyyntösanomalla tai oikaisuhakemuksella Tulliselvityspalvelussa. (DA 147 art.)</Name>
       <Name lang="sv">Tidsfristen för uppvisande av faktura har enligt artikel 147 i DF förlängts fram till xx.xx.xxxx. Fakturan ska skickas till sova256@tulli.fi. Om slutsumman i fakturan avviker från det som angetts vid förtullningen, ska en begäran om efteruppbörd i första hand skickas med en fritt formulerad kontaktbegäran med tillhörande dokument.</Name>
       <Name lang="en">The time limit for presenting the invoice has been extended to xx.xx.xxxx in accordance with Article 147 DA. The invoice must be sent to sova256@tulli.fi. If the invoice amount differs from the declared amount, a request for subsequent recovery with documents must primarily be sent as a free-form contact request.</Name>
-      <StartDate>2022-03-22</StartDate>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>D0072</Code>
-      <Name lang="fi">Myönnetty DA 147 artiklan mukaan pidennystä XXX esittämistä varten xx.xx.xxxx asti. Rekisteröidyn asiakkaan vakuudesta varattu XX,XX euroa. Etuuskohteluun liittyvä asiakirja toimitettava vakuuden vapauttamista varten sova256@tulli.fi.</Name>
+      <Name lang="fi">Etuuskohteluun oikeuttavan asiakirjan esittämiselle on myönnetty pidennystä xx.xx.xxxx asti. Toimita asiakirja ensisijaisesti vastaamalla lisäselvityspyyntöön. Vakuutta on varattu XX,XX euroa. Varattu vakuus vapautetaan, kun hyväksyttävä etuuskohteluun oikeuttava asiakirja on toimitettu nähtäväksi. (DA 147 art.)</Name>
       <Name lang="sv">Tidsfristen för uppvisande av XXX har enligt  artikel 147 i DF förlängts fram till xx.xx.xxxx. Ur den registrerade kundens garanti har XX,XX euro reserverats. Dokumentet som hänför sig till förmånsbehandlingen ska skickas till sova256@tulli.fi för frisläppande av garantin.</Name>
       <Name lang="en">The time-limit for presenting the XXX has been extended in accordance with Article 147 DA to xx.xx.xxxx. XX.XX euros have been reserved from the registered customer’s guarantee. The document concerning the preferential treatment shall be submitted to sova256@tulli.fi for release of the guarantee.</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2021-05-05</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>D0072</Code>
-      <Name lang="fi">Myönnetty DA 147 artiklan mukaan pidennystä XXX esittämistä varten xx.xx.xxxx asti. Rekisteröidyn asiakkaan vakuudesta varattu XX,XX euroa. Etuuskohteluun liittyvä asiakirja toimitettava vakuuden vapauttamista varten sova256@tulli.fi.</Name>
-      <Name lang="sv">Tidsfristen för uppvisande av XXX har enligt  artikel 147 i DF förlängts fram till xx.xx.xxxx. Ur den registrerade kundens garanti har XX,XX euro reserverats. Dokumentet som hänför sig till förmånsbehandlingen ska skickas till sova256@tulli.fi för frisläppande av garantin.</Name>
-      <Name lang="en">The time-limit for presenting the XXX has been extended in accordance with Article 147 DA to xx.xx.xxxx. XX.XX euros have been reserved from the registered customer’s guarantee. The document concerning the preferential treatment shall be submitted to sova256@tulli.fi for release of the guarantee.</Name>
-      <StartDate>2021-05-06</StartDate>
-      <EndDate>2022-03-21</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>D0072</Code>
-      <Name lang="fi">Myönnetty DA 147 artiklan mukaan pidennystä XXX esittämistä varten xx.xx.xxxx asti. Rekisteröidyn asiakkaan vakuudesta varattu XX,XX euroa. Etuuskohteluun liittyvä asiakirja toimitettava vakuuden vapauttamista varten vastaamalla lisäselvityspyyntöön. </Name>
-      <Name lang="sv">Tidsfristen för uppvisande av XXX har enligt  artikel 147 i DF förlängts fram till xx.xx.xxxx. Ur den registrerade kundens garanti har XX,XX euro reserverats. Dokumentet som hänför sig till förmånsbehandlingen ska skickas till sova256@tulli.fi för frisläppande av garantin.</Name>
-      <Name lang="en">The time-limit for presenting the XXX has been extended in accordance with Article 147 DA to xx.xx.xxxx. XX.XX euros have been reserved from the registered customer’s guarantee. The document concerning the preferential treatment shall be submitted to sova256@tulli.fi for release of the guarantee.</Name>
-      <StartDate>2022-03-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -44238,5 +44190,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-03-30T06:05:02.963</Generated>
+  <Generated>2023-04-03T06:05:02.630</Generated>
 </CodeLists>
