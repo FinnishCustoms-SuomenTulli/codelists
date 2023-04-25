@@ -49077,24 +49077,24 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>D0070</Code>
       <Name lang="fi">Kauppalaskun esittämiselle on myönnetty pidennystä xx.xx.xxxx asti. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta, lähetä oikaisupyyntö asiakirjoineen ensisijaisesti muutospyyntösanomalla tai oikaisuhakemuksella Tulliselvityspalvelussa. (DA 147 art.)</Name>
-      <Name lang="sv">Tidsfristen för uppvisande av fakturan har enligt DF art 147 förlängts fram till xx.xx.xxxx. Om slutsumman i fakturan avviker från det som angetts vid förtullningen, skicka en begäran om omprövning i första hand med en fritt formulerad kontaktbegäran med tillhörande dokument.</Name>
-      <Name lang="en">The time-limit for presenting the invoice has been extended in accordance with Article 147(1) DA to xx.xx.xxxx. If the invoice amount differs from the declared amount, a request for subsequent recovery with documents must primarily be sent as a free-form contact request.</Name>
+      <Name lang="sv">Tidsfristen för uppvisande av faktura har förlängts till xx.xx.xxxx. Om fakturans slutsumma avviker från det belopp som angetts vid förtullningen, ska begäran om ändring inklusive bilagor i första hand skickas in med ett meddelande om begäran om ändring eller med en begäran om ändring i Tullklareringstjänsten. (art. 147 DF)</Name>
+      <Name lang="en">The time limit for presenting the invoice has been extended to xx Month xxxx. If the invoice amount differs from the declared amount, send an amendment request and its documents primarily with an amendment request message or using an amendment request in the Customs Clearance Service. (DA Art. 147)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>D0071</Code>
       <Name lang="fi">Kauppalaskun esittämiselle on myönnetty pidennystä xx.xx.xxxx asti. Lähetä kauppalasku vastaamalla lisäselvityspyyntöön. Jos kauppalaskun loppusumma poikkeaa tullauksella ilmoitetusta, lähetä oikaisupyyntö asiakirjoineen ensisijaisesti muutospyyntösanomalla tai oikaisuhakemuksella Tulliselvityspalvelussa. (DA 147 art.)</Name>
-      <Name lang="sv">Tidsfristen för uppvisande av faktura har enligt artikel 147 i DF förlängts fram till xx.xx.xxxx. Fakturan ska skickas till sova256@tulli.fi. Om slutsumman i fakturan avviker från det som angetts vid förtullningen, ska en begäran om efteruppbörd i första hand skickas med en fritt formulerad kontaktbegäran med tillhörande dokument.</Name>
-      <Name lang="en">The time limit for presenting the invoice has been extended to xx.xx.xxxx in accordance with Article 147 DA. The invoice must be sent to sova256@tulli.fi. If the invoice amount differs from the declared amount, a request for subsequent recovery with documents must primarily be sent as a free-form contact request.</Name>
+      <Name lang="sv">Tidsfristen för uppvisande av faktura har förlängts till xx.xx.xxxx. Skicka fakturan genom att svara på begäran om tilläggsutredning. Om fakturans slutsumma avviker från det belopp som angetts vid förtullningen, ska begäran om ändring inklusive bilagor i första hand skickas in med ett meddelande om begäran om ändring eller med en begäran om ändring i Tullklareringstjänsten. (art. 147 DF)</Name>
+      <Name lang="en">The time limit for presenting the invoice has been extended to xx Month xxxx. Send the invoice by replying to the request for additional information. If the invoice amount differs from the declared amount, send an amendment request and its documents primarily with an amendment request message or using an amendment request in the Customs Clearance Service. (DA Art. 147)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>D0072</Code>
       <Name lang="fi">Etuuskohteluun oikeuttavan asiakirjan esittämiselle on myönnetty pidennystä xx.xx.xxxx asti. Toimita asiakirja ensisijaisesti vastaamalla lisäselvityspyyntöön. Vakuutta on varattu XX,XX euroa. Varattu vakuus vapautetaan, kun hyväksyttävä etuuskohteluun oikeuttava asiakirja on toimitettu nähtäväksi. (DA 147 art.)</Name>
-      <Name lang="sv">Tidsfristen för uppvisande av XXX har enligt  artikel 147 i DF förlängts fram till xx.xx.xxxx. Ur den registrerade kundens garanti har XX,XX euro reserverats. Dokumentet som hänför sig till förmånsbehandlingen ska skickas till sova256@tulli.fi för frisläppande av garantin.</Name>
-      <Name lang="en">The time-limit for presenting the XXX has been extended in accordance with Article 147 DA to xx.xx.xxxx. XX.XX euros have been reserved from the registered customer’s guarantee. The document concerning the preferential treatment shall be submitted to sova256@tulli.fi for release of the guarantee.</Name>
+      <Name lang="sv">Tidsfristen för uppvisande av en handling som berättigar till förmånsbehandling har förlängts till xx.xx.xxxx. Skicka in handlingen i första hand genom att svara på begäran om tilläggsutredning. XX,XX euro i garanti har reserverats. Garantin som reserverats frisläpps när en godtagbar handling som berättigar till förmånsbehandling har skickats in för påseende. (art. 147 DF)</Name>
+      <Name lang="en">The time limit for presenting a document entitling to preferential treatment has been extended to xx Month xxxx. Provide the document primarily by replying to the request for additional information. A guarantee amount of XX,XX euros has been reserved. The reserved guarantee is released, when an acceptable document entitling to preferential treatment has been presented. (DA Art. 147)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -50941,15 +50941,15 @@ customs warehousing procedure</Description>
     <Name lang="en">Reason for contact - invalidation; import</Name>
     <Description lang="en">Reason for invalidation request</Description>
     <CodeItem>
-      <Code>A</Code>
+      <Code>A-12</Code>
       <Name lang="fi">Tavarat asetettu toiseen tullimenettelyyn</Name>
       <Name lang="sv">Varorna har hänförts till ett annat tullförfarande</Name>
       <Name lang="en">Goods placed under another customs procedure</Name>
-      <StartDate>2020-08-25</StartDate>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>D</Code>
+      <Code>D-12</Code>
       <Name lang="fi">Tuplailmoitus</Name>
       <Name lang="sv">Dubbeldeklaration</Name>
       <Name lang="en">Duplicate declaration</Name>
@@ -50957,7 +50957,7 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>E</Code>
+      <Code>E-12</Code>
       <Name lang="fi">Tavaroiden asettaminen tullimenettelyyn ei ole mahdollista erityisten olosuhteiden vuoksi</Name>
       <Name lang="sv">Varorna kan inte hänföras till ett tullförfarande på grund av särskilda omständigheter</Name>
       <Name lang="en">The placing of goods under a customs procedure is not possible due to special circumstances</Name>
@@ -50965,7 +50965,7 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>K</Code>
+      <Code>K-15</Code>
       <Name lang="fi">Yksityishenkilö palauttaa etämyynnistä ostamansa tavarat DA 148 3</Name>
       <Name lang="sv">En privatperson återsänder varorna som hen köpt inom ramen för distansförsäljning, artikel 148.3 DA)</Name>
       <Name lang="en">Private person returns goods purchased through distance selling DA 148 3</Name>
@@ -50973,15 +50973,15 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>N</Code>
+      <Code>N-12</Code>
       <Name lang="fi">Tavarat eivät saapuneet</Name>
       <Name lang="sv">Varorna anlände inte</Name>
       <Name lang="en">The goods did not arrive</Name>
-      <StartDate>2020-12-09</StartDate>
+      <StartDate>2021-12-28</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>U</Code>
+      <Code>U-12</Code>
       <Name lang="fi">Unionitavaran ilmoittaminen</Name>
       <Name lang="sv">Unionsvaror har deklarerats</Name>
       <Name lang="en">Union goods declared</Name>
@@ -50989,14 +50989,19 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>V</Code>
-      <Name lang="fi">Virheellisten tietojen ilmoittaminen</Name>
-      <Description lang="fi">Virheellisten tietojen ilmoittaminen, esim. väärä ilmoittaja</Description>
-      <Name lang="sv">Felaktiga uppgifter har angetts i deklarationen</Name>
-      <Description lang="sv">Felaktiga uppgifter har angetts i deklarationen,t.ex. fel deklarant</Description>
-      <Name lang="en">Erroneous declaration data</Name>
-      <Description lang="en">Erroneous declaration data, e.g. wrong declarant</Description>
+      <Code>V-12</Code>
+      <Name lang="fi">Väärän ilmoittajan ilmoittaminen</Name>
+      <Name lang="sv">Angivande av fel deklarant</Name>
+      <Name lang="en">Incorrect declarant / incorrect form of representation</Name>
       <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V-14</Code>
+      <Name lang="fi">Virheellisten tietojen ilmoittaminen</Name>
+      <Name lang="sv">Angivande av felaktiga uppgifter</Name>
+      <Name lang="en">Incorrect information declared</Name>
+      <StartDate>2021-12-28</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
@@ -65103,5 +65108,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-04-24T07:49:15.313</Generated>
+  <Generated>2023-04-25T09:26:35.600</Generated>
 </CodeLists>
