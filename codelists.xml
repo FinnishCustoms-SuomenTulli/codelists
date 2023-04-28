@@ -8666,6 +8666,14 @@
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>Y115</Code>
+      <Name lang="fi">Vapautus asetuksen (EY) N:o 1907/2006 (REACH) VII osastossa määritellystä lupavaatimuksesta mainitun asetuksen 2 artiklan 5 ja 8 kohdan nojalla</Name>
+      <Name lang="sv">Undantag från tillståndskravet enligt avdelning VII med stöd av artikel 2.5 och 2.8 i förordning (EG) nr 1907/2006 (Reach)</Name>
+      <Name lang="en">Exemption from Authorization (Title VII) Article 2 point 5 and 8 of Regulation (EC) No 1907/2006 (REACH)</Name>
+      <StartDate>2019-10-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>Y119</Code>
       <Name lang="fi">Etuuskohteluun oikeuttavaa alkuperäselvitystä koskeva poikkeus EU:n etuuskohtelukauppaa koskevien menettelyjen yhteydessä</Name>
       <Name lang="sv">Undantag från kravet på bevis på förmånsberättigande ursprung inom ramen för EU:s förmånsordningar på handelsområdet</Name>
@@ -45665,6 +45673,14 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>Y115</Code>
+      <Name lang="fi">Vapautus asetuksen (EY) N:o 1907/2006 (REACH) VII osastossa määritellystä lupavaatimuksesta mainitun asetuksen 2 artiklan 5 ja 8 kohdan nojalla</Name>
+      <Name lang="sv">Undantag från tillståndskravet enligt avdelning VII med stöd av artikel 2.5 och 2.8 i förordning (EG) nr 1907/2006 (Reach)</Name>
+      <Name lang="en">Exemption from Authorization (Title VII) Article 2 point 5 and 8 of Regulation (EC) No 1907/2006 (REACH)</Name>
+      <StartDate>2019-10-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>Y119</Code>
       <Name lang="fi">Etuuskohteluun oikeuttavaa alkuperäselvitystä koskeva poikkeus EU:n etuuskohtelukauppaa koskevien menettelyjen yhteydessä</Name>
       <Name lang="sv">Undantag från kravet på bevis på förmånsberättigande ursprung inom ramen för EU:s förmånsordningar på handelsområdet</Name>
@@ -65108,5 +65124,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-04-25T09:26:35.600</Generated>
+  <Generated>2023-04-28T07:28:21.200</Generated>
 </CodeLists>
