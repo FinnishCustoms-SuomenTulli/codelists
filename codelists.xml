@@ -9953,6 +9953,31 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>1781</Code>
+      <Name lang="fi">Postilähetyksen saapumistunnus</Name>
+      <Name lang="sv">Postförsändelsens ankomstnummer</Name>
+      <Name lang="en">Arrival ID of postal consignment</Name>
+      <StartDate>2023-09-02</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>1ZZZ</Code>
       <Name lang="fi">Muu edeltävä asiakirja</Name>
       <Name lang="sv">Annan tidigare dokument</Name>
@@ -24538,16 +24563,16 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>3HY</Code>
       <Name lang="fi">Tulliton TTA 61 artiklan 1 kohdan a alakohta, arvonlisäveroton AVL 94.1. § 15 a k. Tavaroita ei saa lainata, vuokrata eikä luovuttaa vastikkeellisesti tai vastikkeetta muihin kuin TTA 61 artiklan 1 kohdan a ja b alakohdassa säädettyihin tarkoituksiin ilmoittamatta asiasta etukäteenTullille (TTA 64 ja 65 art.).</Name>
-      <Name lang="sv">sv: Tulliton TTA 61 artiklan 1 kohdan a alakohta, arvonlisäveroton AVL 94.1. § 15 a k. Tavaroita ei saa lainata, vuokrata eikä luovuttaa vastikkeellisesti tai vastikkeetta muihin kuin TTA 61 artiklan 1 kohdan a ja b alakohdassa säädettyihin tarkoituksiin ilmoittamatta asiasta etukäteenTullille (TTA 64 ja 65 art.).</Name>
-      <Name lang="en">en: Tulliton TTA 61 artiklan 1 kohdan a alakohta, arvonlisäveroton AVL 94.1. § 15 a k. Tavaroita ei saa lainata, vuokrata eikä luovuttaa vastikkeellisesti tai vastikkeetta muihin kuin TTA 61 artiklan 1 kohdan a ja b alakohdassa säädettyihin tarkoituksiin ilmoittamatta asiasta etukäteenTullille (TTA 64 ja 65 art.).</Name>
+      <Name lang="sv">Tullfri enligt TfriF artikel 61.1 a, momsfri enligt MomsL 94 § 1 mom. 15 a punkten. Varorna får inte lånas ut, hyras ut eller överlåtas, vare sig mot ersättning eller kostnadsfritt, för andra ändamål än de som fastställs i punkt 1 a och 1 b i artikel 61 utan att detta först har anmälts till Tullen (art. 64 och 65 i TfriF).</Name>
+      <Name lang="en">Customs duty exemption under Article 61(1)(a) Duty Relief Regulation, VAT exemption under section 94(1)(15 a) VAT Act The goods may not be lent, hired out or transferred, whether for a consideration or free of charge, for purposes other than those provided for by Article 61(1)(a and b) Duty Relief Regulation, without prior notification to Customs (Articles 64 and 65 Duty Relief Regulation)</Name>
       <StartDate>2023-05-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>3KU</Code>
       <Name lang="fi">Tulliton Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta TTA 60 art, arvonlisäveroton AVL 94.1. § 15 a k.</Name>
-      <Name lang="sv">sv: Tulliton Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta TTA 60 art, arvonlisäveroton AVL 94.1. § 15 a k.</Name>
-      <Name lang="en">en: Tulliton Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta TTA 60 art, arvonlisäveroton AVL 94.1. § 15 a k.</Name>
+      <Name lang="sv">Tullfri enligt rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse (TfriF) artikel 60, momsfri enligt MomsL 94 § 1 mom. 15 a punkten.</Name>
+      <Name lang="en">Customs duty exemption under Article 60 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty (Duty Relief Regulation), VAT exemption under section 94(1)(15 a) VAT Act.</Name>
       <StartDate>2023-05-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -25341,6 +25366,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 60; momsfri MomsL 94 § 1 mom. 12 p.</Name>
       <Name lang="en">Customs duty exemption. Article 60 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
+      <EndDate>2023-04-30</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>C19</Code>
+      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 60 art, arvonlisävero AVL 1.1. § 2 k.</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 60; moms MomsL 1 § 1 mom. 2 p.</Name>
+      <Name lang="en">Customs duty exemption. Article 60 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty,  VAT section 1(1)(2) VAT Act</Name>
+      <StartDate>2023-05-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -25349,6 +25382,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 61.1 a; momsfri MomsL 94 § 1 mom. 12 p. Varorna får inte lånas ut, hyras ut eller överlåtas, vare sig mot ersättning eller kostnadsfritt, för andra ändamål än de som fastställs i punkt 1 a och 1 b i artikel 61 i TfriF utan att detta först har anmälts till Tullen (art. 64 och 65 i TfriF).</Name>
       <Name lang="en">Customs duty exemption. Article 61(1)(a) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT exemption under section 94(1)(12) VAT Act. The goods may not be lent, hired out or transferred, whether for a consideration or free of charge, for purposes other than those provided for by Article 61(1)(a and b) Duty Relief Regulation, without prior notification to Customs (Articles 64 and 65 Duty Relief Regulation)</Name>
       <StartDate>2017-01-01</StartDate>
+      <EndDate>2023-04-30</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>C20</Code>
+      <Name lang="fi">Tulliton. Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 61 art. 1 kohdan a alakohta, arvonlisävero AVL  1.1. § 2 k. Tavaroita ei saa lainata, vuokrata eikä luovuttaa vastikkeellisesti tai vastikkeetta muihin kuin Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 61 artiklan 1 kohdan a ja b alakohdassa säädettyihin tarkoituksiin ilmoittamatta etukäteen Tullille (Neuvoston asetus (EY) N:o 1186/2009 yhteisön tullittomuusjärjestelmän luomisesta 64 ja 65 art.).</Name>
+      <Name lang="sv">Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 61.1 a; moms MomsL 1 § 1 mom. 2 p. Varorna får inte lånas ut, hyras ut eller överlåtas, vare sig mot ersättning eller kostnadsfritt, för andra ändamål än de som fastställs i punkt 1 a och 1 b i artikel 61 i TfriF utan att detta först har anmälts till Tullen (art. 64 och 65 i TfriF).</Name>
+      <Name lang="en">Customs duty exemption. Article 61(1)(a) Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty, VAT section 1(1)(2) VAT Act. The goods may not be lent, hired out or transferred, whether for a consideration or free of charge, for purposes other than those provided for by Article 61(1)(a and b) Duty Relief Regulation, without prior notification to Customs (Articles 64 and 65 Duty Relief Regulation)</Name>
+      <StartDate>2023-05-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -65124,5 +65165,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-04-28T07:28:21.200</Generated>
+  <Generated>2023-05-02T08:36:28.993</Generated>
 </CodeLists>
