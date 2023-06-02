@@ -10013,6 +10013,7 @@
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_EXP</Name>
@@ -10795,6 +10796,7 @@
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_EXP</Name>
@@ -10820,6 +10822,7 @@
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_EXP</Name>
@@ -11269,6 +11272,7 @@
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_EXP</Name>
@@ -39449,6 +39453,14 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>D0270</Code>
+      <Name lang="fi">Asetus (EU) 952/2013 Unionin tullikoodeksista 86(6) artikla</Name>
+      <Name lang="sv">Förordning (EU) nr 952/2013 om fastställande av en tullkodex för unionen; artikel 86.6</Name>
+      <Name lang="en">Regulation (EU) No 952/2013 laying down the Union Customs Code, Article 86(6)</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>D097</Code>
       <Name lang="fi">Ilmoituksella käytetyt lisämenettelyt:</Name>
       <Name lang="sv">sv: Ilmoituksella käytetyt lisämenettelyt:</Name>
@@ -53951,5 +53963,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-05-25T06:05:03.280</Generated>
+  <Generated>2023-06-02T06:05:03.850</Generated>
 </CodeLists>
