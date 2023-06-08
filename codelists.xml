@@ -8730,6 +8730,14 @@
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>Y703</Code>
+      <Name lang="fi">Asetuksen (EU) 2023/1100 soveltamisalaan kuulumattomat tavarat</Name>
+      <Name lang="sv">Varor som inte berörs av förordning (EU) 2023/1100</Name>
+      <Name lang="en">Goods not concerned by Regulation (EU) 2023/1100</Name>
+      <StartDate>2023-06-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>Y800</Code>
       <Name lang="fi">Tavaroita ei ole lähetetty Bangladeshista</Name>
       <Name lang="sv">Varor som inte avsänts från Bangladesh</Name>
@@ -34552,6 +34560,14 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>Y703</Code>
+      <Name lang="fi">Asetuksen (EU) 2023/1100 soveltamisalaan kuulumattomat tavarat</Name>
+      <Name lang="sv">Varor som inte berörs av förordning (EU) 2023/1100</Name>
+      <Name lang="en">Goods not concerned by Regulation (EU) 2023/1100</Name>
+      <StartDate>2023-06-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>Y800</Code>
       <Name lang="fi">Tavaroita ei ole lähetetty Bangladeshista</Name>
       <Name lang="sv">Varor som inte avsänts från Bangladesh</Name>
@@ -54012,5 +54028,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-06-07T06:05:03.500</Generated>
+  <Generated>2023-06-08T06:05:02.780</Generated>
 </CodeLists>
