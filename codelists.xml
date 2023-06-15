@@ -23127,9 +23127,9 @@ när så är tillämpligt, punktskatter har betalats</Description>
     </CodeItem>
     <CodeItem>
       <Code>10</Code>
-      <Name lang="fi">lopullinen vienti</Name>
+      <Name lang="fi">Lopullinen vienti</Name>
       <Name lang="sv">Slutgiltig export</Name>
-      <Name lang="en">Permanent export.</Name>
+      <Name lang="en">Permanent export</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -23148,9 +23148,9 @@ när så är tillämpligt, punktskatter har betalats</Description>
     </CodeItem>
     <CodeItem>
       <Code>11</Code>
-      <Name lang="fi">fi: Export of compensating products from equivalent goods under inward processing procedure before entering import goods for the procedure.</Name>
-      <Name lang="sv">sv: Export of compensating products from equivalent goods under inward processing procedure before entering import goods for the procedure.</Name>
-      <Name lang="en">Export of compensating products from equivalent goods under inward processing procedure before entering import goods for the procedure.</Name>
+      <Name lang="fi">Sisäisessä jalostuksessa vastaavista tavaroista saatujen jalostettujen tuotteiden vienti ennen muiden kuin unionitavaroiden asettamista sisäiseen jalostukseen</Name>
+      <Name lang="sv">Export av sådana förädlade produkter som framställts av likvärdiga varor inom ramen för förfarandet för aktiv förädling innan icke-unionsvaror hänförs till förfarandet för aktiv förädling</Name>
+      <Name lang="en">Export of processed products obtained from equivalent goods under inward processing before placing non-Union goods under inward processing</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -23169,9 +23169,9 @@ när så är tillämpligt, punktskatter har betalats</Description>
     </CodeItem>
     <CodeItem>
       <Code>21</Code>
-      <Name lang="fi">fi: Temporary export under the outward processing procedure.</Name>
-      <Name lang="sv">sv: Temporary export under the outward processing procedure.</Name>
-      <Name lang="en">Temporary export under the outward processing procedure.</Name>
+      <Name lang="fi">Väliaikainen vienti sisäisessä jalostusmenettelyssä, jos se ei kuulu koodiin 22</Name>
+      <Name lang="sv">emporär export inom ramen för förfarandet för passiv förädling, om den inte omfattas av kod 22</Name>
+      <Name lang="en">Temporary export under the outward processing procedure, if not covered by code 22</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -23190,9 +23190,9 @@ när så är tillämpligt, punktskatter har betalats</Description>
     </CodeItem>
     <CodeItem>
       <Code>22</Code>
-      <Name lang="fi">fi: Temporary export other than that referred to under code 21.</Name>
-      <Name lang="sv">sv: Temporary export other than that referred to under code 21.</Name>
-      <Name lang="en">Temporary export other than that referred to under code 21.</Name>
+      <Name lang="fi">Muu väliaikainen vienti kuin koodeissa 21 ja 23 tarkoitettu vienti</Name>
+      <Name lang="sv">Annan temporär export än enligt koderna 21 och 23</Name>
+      <Name lang="en">Temporary export other than that referred to under code 21 and 23</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -23211,9 +23211,9 @@ när så är tillämpligt, punktskatter har betalats</Description>
     </CodeItem>
     <CodeItem>
       <Code>23</Code>
-      <Name lang="fi">fi: Temporary export for return in the unaltered state.</Name>
-      <Name lang="sv">sv: Temporary export for return in the unaltered state.</Name>
-      <Name lang="en">Temporary export for return in the unaltered state.</Name>
+      <Name lang="fi">Väliaikainen vienti myöhempää samassa tilassa palauttamista varten</Name>
+      <Name lang="sv">Temporär export för återinförande i oförändrat skick</Name>
+      <Name lang="en">Temporary export for return in the unaltered state</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -23233,8 +23233,8 @@ när så är tillämpligt, punktskatter har betalats</Description>
     <CodeItem>
       <Code>31</Code>
       <Name lang="fi">Jälleenvienti</Name>
-      <Name lang="sv">sv: Jälleenvienti</Name>
-      <Name lang="en">Re-export.</Name>
+      <Name lang="sv">Återexport</Name>
+      <Name lang="en">Re-export</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -23811,8 +23811,8 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>TIR</Code>
-      <Name lang="fi">fi:TIR carnet</Name>
-      <Name lang="sv">sv:TIR carnet</Name>
+      <Name lang="fi">TIR carnet</Name>
+      <Name lang="sv">TIR carnet</Name>
       <Name lang="en">TIR carnet</Name>
       <StartDate>2021-08-20</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -54028,5 +54028,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-06-08T06:05:02.780</Generated>
+  <Generated>2023-06-15T06:05:02.983</Generated>
 </CodeLists>
