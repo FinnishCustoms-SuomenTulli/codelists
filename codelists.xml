@@ -7319,6 +7319,14 @@
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>L144</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 i artiklan 3 e kohdan mukainen tuontilupa</Name>
+      <Name lang="sv">Importtillstånd enligt artikel 3i.3e i rådets förordning (EU) nr 833/2014</Name>
+      <Name lang="en">Import authorisation by virtue of article 3i paragraph 3e of Council Regulation (EU) 833/2014</Name>
+      <StartDate>2023-06-24</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>N002</Code>
       <Name lang="fi">Tuoreisiin hedelmiin ja vihanneksiin sovellettavia Euroopan unionin kaupan pitämisen vaatimuksia koskeva vaatimustenmukaisuustodistus</Name>
       <Name lang="sv">Intyg om överensstämmelse med Europeiska unionens handelsnormer för färsk frukt och färska grönsaker</Name>
@@ -10018,6 +10026,7 @@
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
@@ -10029,6 +10038,7 @@
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -10801,6 +10811,7 @@
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
@@ -10812,6 +10823,7 @@
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -10827,6 +10839,7 @@
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
@@ -10838,6 +10851,7 @@
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -11202,6 +11216,7 @@
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
@@ -11212,6 +11227,7 @@
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -11227,6 +11243,7 @@
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
@@ -11237,6 +11254,7 @@
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -11313,6 +11331,7 @@
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -11328,6 +11347,7 @@
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
@@ -11338,6 +11358,7 @@
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -11388,6 +11409,7 @@
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -11428,6 +11450,7 @@
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
@@ -11438,6 +11461,7 @@
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -23169,8 +23193,8 @@ när så är tillämpligt, punktskatter har betalats</Description>
     </CodeItem>
     <CodeItem>
       <Code>21</Code>
-      <Name lang="fi">Väliaikainen vienti sisäisessä jalostusmenettelyssä, jos se ei kuulu koodiin 22</Name>
-      <Name lang="sv">emporär export inom ramen för förfarandet för passiv förädling, om den inte omfattas av kod 22</Name>
+      <Name lang="fi">Väliaikainen vienti ulkoisessa jalostusmenettelyssä, jos se ei kuulu koodiin 22</Name>
+      <Name lang="sv">Temporär export inom ramen för förfarandet för passiv förädling, om den inte omfattas av kod 22</Name>
       <Name lang="en">Temporary export under the outward processing procedure, if not covered by code 22</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -23691,8 +23715,8 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>T</Code>
-      <Name lang="fi">fi:T transit procedure</Name>
-      <Description lang="fi">fi:Mixed consignments comprising both goods to be placed under external Union transit procedure and goods which are to be placed under the internal Union transit procedure.</Description>
+      <Name lang="fi">T-passitusmenettely</Name>
+      <Description lang="fi">Sekalähetykset, joissa on sekä unionin ulkoiseen passitusmenettelyyn asetettavia tavaroita että unionin sisäiseen passitusmenet­telyyn asetettavia tavaroita.</Description>
       <Name lang="sv">sv:T transit procedure</Name>
       <Description lang="sv">sv:Mixed consignments comprising both goods to be placed under external Union transit procedure and goods which are to be placed under the internal Union transit procedure.</Description>
       <Name lang="en">T transit procedure</Name>
@@ -23715,8 +23739,8 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>T1</Code>
-      <Name lang="fi">fi:T1 transit procedure</Name>
-      <Description lang="fi">fi:Goods not having the customs status of Union goods, which are placed under the common transit procedure.</Description>
+      <Name lang="fi">T1-passitusmenettely</Name>
+      <Description lang="fi">fiTavarat, joilla ei ole unionitavaran tullioikeudellista asemaa ja jotka asetetaan yhteiseen passitusmenettelyyn.</Description>
       <Name lang="sv">sv:T1 transit procedure</Name>
       <Description lang="sv">sv:Goods not having the customs status of Union goods, which are placed under the common transit procedure.</Description>
       <Name lang="en">T1 transit procedure</Name>
@@ -23739,8 +23763,8 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>T2</Code>
-      <Name lang="fi">fi:T2 transit procedure</Name>
-      <Description lang="fi">fi:Goods having the customs status of Union goods, which are placed under the common transit procedure</Description>
+      <Name lang="fi">T2-passitusmenettely</Name>
+      <Description lang="fi">Tavarat, joilla on unionitavaran tullioikeudellinen asema ja jotka asetetaan yhteiseen passitusmenettelyyn.</Description>
       <Name lang="sv">sv:T2 transit procedure</Name>
       <Description lang="sv">sv:Goods having the customs status of Union goods, which are placed under the common transit procedure</Description>
       <Name lang="en">T2 transit procedure</Name>
@@ -23763,8 +23787,8 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>T2F</Code>
-      <Name lang="fi">fi:T2F transit procedure</Name>
-      <Description lang="fi">fi:Goods required to move under the internal Union transit procedure, in accordance with Article 188 of Delegated Regulation (EU) 2015/2446</Description>
+      <Name lang="fi">T2F-passitusmenettely</Name>
+      <Description lang="fi">Delegoidun asetuksen (EU) 2015/2446 188 artiklan mukaisesti unionin sisäiseen passitusmenettelyyn asetetut tavarat</Description>
       <Name lang="sv">sv:T2F transit procedure</Name>
       <Description lang="sv">sv:Goods required to move under the internal Union transit procedure, in accordance with Article 188 of Delegated Regulation (EU) 2015/2446</Description>
       <Name lang="en">T2F transit procedure</Name>
@@ -23787,8 +23811,8 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>T2SM</Code>
-      <Name lang="fi">fi:T2SM transit procedure</Name>
-      <Description lang="fi">fi:Goods placed under the internal Union transit procedure, in application of Article 2 of Decision 4/92/EC of the EEC-San Marino Cooperation Committee of 22 December 1992</Description>
+      <Name lang="fi">T2SM-passitusmenettely</Name>
+      <Description lang="fi">Joulukuun 22 päivänä 1992 tehdyn ETY:n ja San Marinon yhteistyökomitean päätöksen N:o 4/92 2 artiklan mukaisesti unionin sisäiseen passitusmenettelyyn asetetut tavarat</Description>
       <Name lang="sv">sv:T2SM transit procedure</Name>
       <Description lang="sv">sv:Goods placed under the internal Union transit procedure, in application of Article 2 of Decision 4/92/EC of the EEC-San Marino Cooperation Committee of 22 December 1992</Description>
       <Name lang="en">T2SM transit procedure</Name>
@@ -35756,7 +35780,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>5</Code>
-      <Name lang="fi">Laskettu arvo</Name>
+      <Name lang="fi">Laskennallinen arvo</Name>
       <Name lang="sv">Metoden för beräknat värde</Name>
       <Name lang="en">Computed value method</Name>
       <StartDate>2020-08-24</StartDate>
@@ -54028,5 +54052,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-06-15T06:05:02.983</Generated>
+  <Generated>2023-06-28T06:05:03.193</Generated>
 </CodeLists>
