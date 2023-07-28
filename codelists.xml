@@ -20949,9 +20949,9 @@
     </CodeItem>
     <CodeItem>
       <Code>FITSH</Code>
-      <Name lang="fi">Ennakolta annetun tulli-ilmoituksen esittäminen</Name>
-      <Name lang="sv">Anmälan av varors ankomst för en på förhand ingiven tulldeklaration</Name>
-      <Name lang="en">Presentation of a pre-lodged customs declaration</Name>
+      <Name lang="fi">Ennakolta annetun tulli-ilmoituksen esittäminen tai tavaroiden esittäminen ilman väliaikaisen varaston tunnistetta.</Name>
+      <Name lang="sv">Anmälan av varors ankomst för en på förhand ingiven tulldeklaration eller utan identifieringsnummer för tillfälligt lager.</Name>
+      <Name lang="en">Presentation of a pre-lodged customs declaration or presentation of goods without an identifier of the temporary storage facility.</Name>
       <StartDate>2021-05-21</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -34293,7 +34293,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">Timmer och trävaror med ursprung i eller avsända från ett partnerland i ett frivilligt Flegtpartnerskapsavtal, som exporteras före partnerskapsavtalets ikraftträdande</Name>
       <Name lang="en">Timber and timber products originating in or dispatched from a country partner in a FLEGT Voluntary Partnership Agreement (VPA) exported prior to the entry into force of the VPA</Name>
       <StartDate>2017-03-08</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-04-19</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>Y065</Code>
@@ -34301,7 +34301,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">Varor som inte avsänts från Indien</Name>
       <Name lang="en">Goods not consigned from India</Name>
       <StartDate>2016-02-14</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2022-02-19</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>Y066</Code>
@@ -34645,6 +34645,22 @@ customs warehousing procedure</Description>
       <Name lang="sv">Andra varor än de som berörs av de förbud som definieras i artikel 3g.1 i förordning (EU) nr 833/2014</Name>
       <Name lang="en">Goods other than those concerned by the prohibitions defined in article 3g.1 of Regulation (EU) No 833/2014</Name>
       <StartDate>2022-03-16</StartDate>
+      <EndDate>2023-07-25</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y824</Code>
+      <Name lang="fi">Muut kuin ne, joita asetuksen (EU) N:o 833/2014 3g.1 d) kohdassa määritellyt kiellot koskevat</Name>
+      <Name lang="sv">Andra varor än de som berörs av de förbud som definieras i artikel 3g.1 d) i förordning (EU) nr 833/2014</Name>
+      <Name lang="en">Goods other than those concerned by the prohibitions defined in article 3g.1 (d) of Regulation (EU) No 833/2014</Name>
+      <StartDate>2023-07-26</StartDate>
+      <EndDate>2023-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y824</Code>
+      <Name lang="fi">Todisteet tuotteen jalostamiseen kolmannessa maassa käytettyjen raudan ja teräksen tuotantopanosten alkuperämaasta</Name>
+      <Name lang="sv">Bevis på ursprungslandet för de insatsvaror av järn och stål som används för bearbetning av produkten i ett tredjeland</Name>
+      <Name lang="en">Evidence of the country of origin of the iron and steel inputs used for processing of the product in a third country</Name>
+      <StartDate>2023-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -54060,5 +54076,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-07-12T06:05:03.587</Generated>
+  <Generated>2023-07-28T06:05:03.787</Generated>
 </CodeLists>
