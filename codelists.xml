@@ -34761,9 +34761,9 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>Y850</Code>
-      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3i.3 a artiklassa)</Name>
-      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3i.3a)</Name>
-      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3i.3 b artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3i.3b)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3b)</Name>
       <StartDate>2022-10-07</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -35029,7 +35029,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">De deklarerade varorna omfattas inte av kommissionens genomförandeförordning (EU) 2021/1533</Name>
       <Name lang="en">The declared goods are not concerned by Commission Implementing Regulation (EU) 2021/1533</Name>
       <StartDate>2021-10-06</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2023-08-02</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>Y929</Code>
@@ -35397,7 +35397,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">Varor som inte berörs av förordning (EU) 2020/568 u andra varor än de som beskrivs i PE -fotnoterna till åtgärden</Name>
       <Name lang="en">Goods not concerned by Regulation (EU) 2020/568 and other than those described in the PE footnotes linked to the measure</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2021-03-27</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>Y976</Code>
@@ -54076,5 +54076,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-07-28T06:05:03.787</Generated>
+  <Generated>2023-07-31T06:05:02.967</Generated>
 </CodeLists>
