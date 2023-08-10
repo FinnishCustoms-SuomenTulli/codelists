@@ -15052,33 +15052,6 @@
       </Filter>
     </CodeItem>
     <CodeItem>
-      <Code>T</Code>
-      <Name lang="fi">T1 ja T2-tavaroita sisältävä lähetys</Name>
-      <Description lang="fi">fi: Mixed consignments comprising both goods to be placed under external Union transit procedure and goods which are to be placed under the internal Union transit procedure.</Description>
-      <Name lang="sv">Sändning som innehåller T1 och T2-varor</Name>
-      <Description lang="sv">sv: Mixed consignments comprising both goods to be placed under external Union transit procedure and goods which are to be placed under the internal Union transit procedure.</Description>
-      <Name lang="en">Mixed T1 and T2 goods</Name>
-      <Description lang="en">Mixed consignments comprising both goods to be placed under external Union transit procedure and goods which are to be placed under the internal Union transit procedure.</Description>
-      <StartDate>2021-07-05</StartDate>
-      <EndDate>2099-12-31</EndDate>
-      <Filter>
-        <Name>Filter_CWAR</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_EXP</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_IMP</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_TRA</Name>
-        <Value>1</Value>
-      </Filter>
-    </CodeItem>
-    <CodeItem>
       <Code>T1</Code>
       <Name lang="fi">fi: Goods not having the customs status of Union goods, which are placed under the common transit procedure.</Name>
       <Name lang="sv">sv: Goods not having the customs status of Union goods, which are placed under the common transit procedure.</Name>
@@ -15093,33 +15066,6 @@
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
-      </Filter>
-      <Filter>
-        <Name>Filter_TRA</Name>
-        <Value>1</Value>
-      </Filter>
-    </CodeItem>
-    <CodeItem>
-      <Code>T1</Code>
-      <Name lang="fi">Yhteisön ulkoinen passitusmenettely T1</Name>
-      <Description lang="fi">fi: Goods not having the customs status of Union goods, which are placed under the common transit procedure.</Description>
-      <Name lang="sv">Förfarandet för extern gemenskapstransitering T1</Name>
-      <Description lang="sv">fi: Goods not having the customs status of Union goods, which are placed under the common transit procedure.</Description>
-      <Name lang="en">External Community transit T1</Name>
-      <Description lang="en">Goods not having the customs status of Union goods, which are placed under the common transit procedure.</Description>
-      <StartDate>2021-07-05</StartDate>
-      <EndDate>2099-12-31</EndDate>
-      <Filter>
-        <Name>Filter_CWAR</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_EXP</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_IMP</Name>
-        <Value>0</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -15148,33 +15094,6 @@
       </Filter>
     </CodeItem>
     <CodeItem>
-      <Code>T2</Code>
-      <Name lang="fi">Yhteisön sisäinen passitusmenettely T2</Name>
-      <Description lang="fi">fi: Goods having the customs status of Union goods, which are placed under the common transit procedure</Description>
-      <Name lang="sv">Förfarandet för intern gemenskapstransitering T2</Name>
-      <Description lang="sv">sv: Goods having the customs status of Union goods, which are placed under the common transit procedure</Description>
-      <Name lang="en">Internal Community transit T2</Name>
-      <Description lang="en">Goods having the customs status of Union goods, which are placed under the common transit procedure</Description>
-      <StartDate>2021-07-05</StartDate>
-      <EndDate>2099-12-31</EndDate>
-      <Filter>
-        <Name>Filter_CWAR</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_EXP</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_IMP</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_TRA</Name>
-        <Value>1</Value>
-      </Filter>
-    </CodeItem>
-    <CodeItem>
       <Code>T2F</Code>
       <Name lang="fi">fi: Goods required to move under the internal Union transit procedure, in accordance with Article 188 of Delegated Regulation (EU) 2015/2446</Name>
       <Name lang="sv">sv: Goods required to move under the internal Union transit procedure, in accordance with Article 188 of Delegated Regulation (EU) 2015/2446</Name>
@@ -15209,33 +15128,6 @@
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
-      </Filter>
-      <Filter>
-        <Name>Filter_TRA</Name>
-        <Value>1</Value>
-      </Filter>
-    </CodeItem>
-    <CodeItem>
-      <Code>T2F</Code>
-      <Name lang="fi">Yhteisön sisäinen passitus eri veroalueiden välillä</Name>
-      <Description lang="fi">fi: Goods required to move under the internal Union transit procedure, in accordance with Article 188 of Delegated Regulation (EU) 2015/2446</Description>
-      <Name lang="sv">Intern gemenskapstransitering mellan olika skatteområden</Name>
-      <Description lang="sv">sv: Goods required to move under the internal Union transit procedure, in accordance with Article 188 of Delegated Regulation (EU) 2015/2446</Description>
-      <Name lang="en">T2 between different fiscal territories</Name>
-      <Description lang="en">Goods required to move under the internal Union transit procedure, in accordance with Article 188 of Delegated Regulation (EU) 2015/2446</Description>
-      <StartDate>2021-07-05</StartDate>
-      <EndDate>2099-12-31</EndDate>
-      <Filter>
-        <Name>Filter_CWAR</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_EXP</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_IMP</Name>
-        <Value>0</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -15284,30 +15176,6 @@
       </Filter>
     </CodeItem>
     <CodeItem>
-      <Code>T2SM</Code>
-      <Name lang="fi">Joulukuun 22 päivänä 1992 tehdyn ETY:n ja San Marinon yhteistyökomitean päätöksen N:o 4/92 2 artiklan mukaisesti unionin sisäiseen passitusmenettelyyn asetetut tavarat</Name>
-      <Name lang="sv">Varor som hänförts till förfarandet för intern unionstransite­ring, i enlighet med artikel 2 i beslut nr 4/92 av Samarbets­kommittén EEG–San Marino av den 22 december 1992</Name>
-      <Name lang="en">Goods placed under the internal Union transit procedure, in application of Article 2 of Decision 4/92/EC of the EEC-San Marino Cooperation Committee of 22 December 1992</Name>
-      <StartDate>2021-07-05</StartDate>
-      <EndDate>2099-12-31</EndDate>
-      <Filter>
-        <Name>Filter_CWAR</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_EXP</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_IMP</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_TRA</Name>
-        <Value>1</Value>
-      </Filter>
-    </CodeItem>
-    <CodeItem>
       <Code>TIR</Code>
       <Name lang="fi">TIR-carnet</Name>
       <Name lang="sv">TIR-carnet</Name>
@@ -15322,30 +15190,6 @@
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
-      </Filter>
-      <Filter>
-        <Name>Filter_TRA</Name>
-        <Value>1</Value>
-      </Filter>
-    </CodeItem>
-    <CodeItem>
-      <Code>TIR</Code>
-      <Name lang="fi">TIR-carnet</Name>
-      <Name lang="sv">TIR-carnet</Name>
-      <Name lang="en">TIR carnet</Name>
-      <StartDate>2021-07-05</StartDate>
-      <EndDate>2099-12-31</EndDate>
-      <Filter>
-        <Name>Filter_CWAR</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_EXP</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_IMP</Name>
-        <Value>0</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -54076,5 +53920,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-07-31T06:05:02.967</Generated>
+  <Generated>2023-08-10T06:05:03.233</Generated>
 </CodeLists>
