@@ -24426,8 +24426,8 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>210</Code>
-      <Name lang="fi">Ulkoisessa jalostusmenettelyssä olleen tavaran palauttaminen muuna kuin jalostettuna tuotteena. Esim leikkuujäte</Name>
-      <Name lang="sv">Andra varor än förädlade produkter som återinförs efter förfarandet för passiv förädling, t.ex. Tillskärningsavfall.</Name>
+      <Name lang="fi">Ulkoisessa jalostusmenettelyssä olleen tavaran palauttaminen muuna kuin jalostettuna tuotteena. Esim leikkuujäte tai korjaamaton tavara</Name>
+      <Name lang="sv">Andra varor än förädlade produkter som återinförs efter förfarandet för passiv förädling, t.ex. Tillskärningsavfall eller oreparerad vara</Name>
       <Name lang="en">Outward Processing Procedure: Goods other than processed products returning after outward processing procedure e.g. cuttings.</Name>
       <StartDate>2019-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -53920,5 +53920,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-08-10T06:05:03.233</Generated>
+  <Generated>2023-08-22T06:05:04.587</Generated>
 </CodeLists>
