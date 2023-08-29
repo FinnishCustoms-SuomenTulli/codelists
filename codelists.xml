@@ -24241,8 +24241,8 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>A</Code>
       <Name lang="fi">Asiakkaan varasto, jolla ei ole tullistatusta</Name>
-      <Name lang="sv">sv: Asiakkaan varasto, jolla ei ole tullistatusta</Name>
-      <Name lang="en">en: Asiakkaan varasto, jolla ei ole tullistatusta</Name>
+      <Name lang="sv">Kundens lager utan tullstatus</Name>
+      <Name lang="en">Customer’s warehouse without customs status</Name>
       <StartDate>2019-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -53920,5 +53920,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-08-22T06:05:04.587</Generated>
+  <Generated>2023-08-29T06:05:03.440</Generated>
 </CodeLists>
