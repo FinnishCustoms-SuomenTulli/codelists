@@ -17125,7 +17125,7 @@
     <CodeItem>
       <Code>FIPTL</Code>
       <Name lang="fi">Puuttuvan tiedon lupa</Name>
-      <Name lang="sv">Tillstånd för saknad information</Name>
+      <Name lang="sv">Tillstånd till uppgift som saknas</Name>
       <Name lang="en">Authorisation for missing information</Name>
       <StartDate>2021-04-15</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -17203,7 +17203,7 @@
     <CodeItem>
       <Code>FIPTP</Code>
       <Name lang="fi">Puuttuvan tiedon pyyntö</Name>
-      <Name lang="sv">Begäran om saknad information</Name>
+      <Name lang="sv">Begäran om uppgift som saknas</Name>
       <Name lang="en">Request for missing information</Name>
       <StartDate>2021-04-15</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -53920,5 +53920,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-08-29T06:05:03.440</Generated>
+  <Generated>2023-08-31T06:05:02.983</Generated>
 </CodeLists>
