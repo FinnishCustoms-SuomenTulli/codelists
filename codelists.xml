@@ -5912,12 +5912,14 @@
       <EndDate>2023-06-14</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
+        <Value>1</Value>
       </Filter>
     </CodeItem>
     <CodeItem>
@@ -26319,6 +26321,30 @@
       <Filter>
         <Name>Filter_IMP</Name>
         <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>FIEML</Code>
+      <Name lang="fi">Tavaroiden esittäminen Tullille maantieliikenteessä</Name>
+      <Name lang="sv">sv: Tavaroiden esittäminen Tullille maantieliikenteessä</Name>
+      <Name lang="en">en: Tavaroiden esittäminen Tullille maantieliikenteessä</Name>
+      <StartDate>2023-08-24</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -71214,6 +71240,84 @@ customs warehousing procedure</Description>
     </CodeItem>
   </CodeList>
   <CodeList>
+    <Identification>NCL121_IMP</Identification>
+    <Name lang="fi">Toimijan luonne</Name>
+    <Name lang="sv">Aktörens natur</Name>
+    <Name lang="en">Trader nature</Name>
+    <CodeItem>
+      <Code>C</Code>
+      <Name lang="fi">Yksityishenkilö/EU</Name>
+      <Name lang="sv">Enskild medborgare/EU</Name>
+      <Name lang="en">Private citizen/EU</Name>
+      <StartDate>2001-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>E</Code>
+      <Name lang="fi">Yritys/EU</Name>
+      <Name lang="sv">Företag/EU</Name>
+      <Name lang="en">Company/EU</Name>
+      <StartDate>2001-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>F</Code>
+      <Name lang="fi">Yritys/ei-EU</Name>
+      <Name lang="sv">Företag/icke- EU</Name>
+      <Name lang="en">Company/Non-EU</Name>
+      <StartDate>2001-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>H</Code>
+      <Name lang="fi">Yksityishenkilö/Suomi</Name>
+      <Name lang="sv">Enskild medborgare/Finland</Name>
+      <Name lang="en">Private citizen/Finland</Name>
+      <StartDate>2001-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>K</Code>
+      <Name lang="fi">Kunta</Name>
+      <Name lang="sv">Kommun</Name>
+      <Name lang="en">Municipality</Name>
+      <StartDate>2001-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>P</Code>
+      <Name lang="fi">Yksityishenkilö/ei-EU</Name>
+      <Name lang="sv">Enskild medborgare/icke- EU</Name>
+      <Name lang="en">Private citizen/Non-EU</Name>
+      <StartDate>2001-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>T</Code>
+      <Name lang="fi">Yhdistys/ei voittoa tavoitteleva</Name>
+      <Name lang="sv">Förening/Utan vinstsyfte</Name>
+      <Name lang="en">Association/Non-profit</Name>
+      <StartDate>2001-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V</Code>
+      <Name lang="fi">Valtio</Name>
+      <Name lang="sv">Land</Name>
+      <Name lang="en">Country</Name>
+      <StartDate>2001-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y</Code>
+      <Name lang="fi">Yritys/Suomi</Name>
+      <Name lang="sv">Företag/Finland</Name>
+      <Name lang="en">Company/Finland</Name>
+      <StartDate>2001-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+  </CodeList>
+  <CodeList>
     <Identification>NCL123</Identification>
     <Name lang="fi">Arvonoikaisu</Name>
     <Description lang="fi">Tullausarvoa lisäävät: 1 ja A. Tullausarvoa vähentävät: 2 ja B. ALV lisäävät: 3</Description>
@@ -72550,5 +72654,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-09-06T06:05:05.307</Generated>
+  <Generated>2023-09-07T06:05:03.867</Generated>
 </CodeLists>
