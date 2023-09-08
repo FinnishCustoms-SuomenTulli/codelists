@@ -14625,12 +14625,14 @@
       <EndDate>2023-06-14</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
+        <Value>1</Value>
       </Filter>
     </CodeItem>
     <CodeItem>
@@ -30565,7 +30567,7 @@
     <CodeItem>
       <Code>60</Code>
       <Name lang="fi">Liiketoimet, joihin ei liity omistussuhteen muutosta, kuten esim. tavaroiden korjaus; vuokraus, laina, käyttöleasing tai muu väliaikainen käyttö, alle 24 kk kestävä</Name>
-      <Name lang="sv">Transaktioner som inte omfattar överföring av äganderätten, t.ex. reparation av varor; uthyrning, operational leasing eller annan tillfällig användning om tiden understiger 24 månader</Name>
+      <Name lang="sv">Transaktioner som inte omfattar överföring av äganderätten, t.ex. reparation av varor; uthyrning, operationell leasing eller annan tillfällig användning om tiden understiger 24 månader</Name>
       <Name lang="en">Transactions not involving transfer of ownership, e.g. repair of goods; hire, loan, operational leasing or other temporary uses, for less than 24 months</Name>
       <StartDate>2022-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -72654,5 +72656,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-09-07T06:05:03.867</Generated>
+  <Generated>2023-09-08T06:05:04.203</Generated>
 </CodeLists>
