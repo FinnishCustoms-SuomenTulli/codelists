@@ -39152,6 +39152,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Svalbard ja Jan</Name>
       <Name lang="en">Svalbard ja Jan</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2023-09-19</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SJ</Code>
+      <Name lang="fi">Huippuvuoret (Svalbard ja Jan Mayen)</Name>
+      <Name lang="sv">Svalbard och Jan Mayen</Name>
+      <Description lang="sv">Svalbard ja Jan</Description>
+      <Name lang="en">Svalbard and Jan Mayen Islands</Name>
+      <Description lang="en">Svalbard ja Jan</Description>
+      <StartDate>2023-09-20</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -72653,5 +72663,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-09-15T06:05:04.210</Generated>
+  <Generated>2023-09-20T06:05:04.207</Generated>
 </CodeLists>
