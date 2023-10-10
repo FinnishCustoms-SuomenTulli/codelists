@@ -38528,6 +38528,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Sydkorea</Name>
       <Name lang="en">South Korea</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2023-10-09</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KR</Code>
+      <Name lang="fi">Korean tasavalta</Name>
+      <Description lang="fi">Korean tasavalta (Etelä-Korea)</Description>
+      <Name lang="sv">Sydkorea</Name>
+      <Name lang="en">Korea, Republic of</Name>
+      <Description lang="en">South Korea</Description>
+      <StartDate>2023-10-10</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -71630,9 +71640,9 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>AE</Code>
-      <Name lang="fi">Vietyihin tavaroihin sisältyvät materiaalit, rakenneosat, osat ja vastaavat ainekset (DV 14 a)</Name>
-      <Name lang="sv">Material, komponenter, delar och liknande artiklar som ingår i de importerade varorna (DV 14 a)</Name>
-      <Name lang="en">Exported material; Materials, components, parts and similar items incorporated in the imported goods (DV 14 a)</Name>
+      <Name lang="fi">Tuotuihin tavaroihin sisältyvät materiaalit, rakenneosat, osat ja vastaavat ainekset</Name>
+      <Name lang="sv">Material, komponenter, delar och liknande artiklar som ingår i de importerade varorna</Name>
+      <Name lang="en">Materials, components, parts and similar items incorporated in the imported goods</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -72708,5 +72718,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-10-06T06:05:03.373</Generated>
+  <Generated>2023-10-10T06:05:04.803</Generated>
 </CodeLists>
