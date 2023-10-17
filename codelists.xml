@@ -30072,6 +30072,14 @@
       <Name lang="sv">Nordmakedonien</Name>
       <Name lang="en">North Macedonia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MK</Code>
+      <Name lang="fi">Pohjois-Makedonia</Name>
+      <Name lang="sv">Nordmakedonien</Name>
+      <Name lang="en">North Macedonia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37761,6 +37769,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Bolivia</Name>
       <Name lang="en">Bolivia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BO</Code>
+      <Name lang="fi">Bolivian monikansainen valtio</Name>
+      <Description lang="fi">Bolivia</Description>
+      <Name lang="sv">Bolivia</Name>
+      <Name lang="en">Bolivia, Plurinational State of</Name>
+      <Description lang="en">Bolivia</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38485,6 +38503,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kirgizistan</Name>
       <Name lang="en">Kyrgyzstan</Name>
       <StartDate>2021-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KG</Code>
+      <Name lang="fi">Kirgisia</Name>
+      <Name lang="sv">Kirgizistan</Name>
+      <Name lang="en">Kyrgyz, Republic</Name>
+      <Description lang="en">Kyrgyzstan</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38690,6 +38717,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Moldavien</Name>
       <Name lang="en">Moldova</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MD</Code>
+      <Name lang="fi">Moldovan tasavalta</Name>
+      <Name lang="sv">Moldavien</Name>
+      <Name lang="en">Moldova, Republic of</Name>
+      <Description lang="en">Moldova</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38730,6 +38766,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Nordmakedonien</Name>
       <Name lang="en">North Macedonia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MK</Code>
+      <Name lang="fi">Pohjois-Makedonia</Name>
+      <Name lang="sv">Nordmakedonien</Name>
+      <Name lang="en">North Macedonia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39296,6 +39340,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Syrien</Name>
       <Name lang="en">Syria</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SY</Code>
+      <Name lang="fi">Syyrian arabitasavalta</Name>
+      <Description lang="fi">Syyria</Description>
+      <Name lang="sv">Syrien</Name>
+      <Name lang="en">Syrian Arab Republic</Name>
+      <Description lang="en">Syria</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39450,6 +39504,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tanzania</Name>
       <Name lang="en">Tanzania</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TZ</Code>
+      <Name lang="fi">Tansanian yhdistynyt tasavalta</Name>
+      <Name lang="sv">Tanzania</Name>
+      <Name lang="en">Tanzania, United Republic of</Name>
+      <Description lang="en">Tanzania</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39522,6 +39585,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Venezuela</Name>
       <Name lang="en">Venezuela</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VE</Code>
+      <Name lang="fi">Venezuela</Name>
+      <Name lang="sv">Venezuela</Name>
+      <Name lang="en">Venezuela</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -72726,5 +72797,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-10-13T06:05:10.290</Generated>
+  <Generated>2023-10-17T06:05:04.053</Generated>
 </CodeLists>
