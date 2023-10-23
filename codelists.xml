@@ -38116,6 +38116,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Europeiska gemenskapen</Name>
       <Name lang="en">European Community</Name>
       <StartDate>2005-06-01</StartDate>
+      <EndDate>2023-10-20</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>EU</Code>
+      <Name lang="fi">Euroopan Unioni</Name>
+      <Name lang="sv">Europeiska gemenskapen</Name>
+      <Name lang="en">European Community</Name>
+      <StartDate>2023-10-21</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38214,6 +38222,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Guernsey</Name>
       <Name lang="en">Guernsey</Name>
       <StartDate>2015-10-15</StartDate>
+      <EndDate>2023-10-20</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GG</Code>
+      <Name lang="fi">Guernsey</Name>
+      <Name lang="sv">Guernsey</Name>
+      <Name lang="en">Guernsey</Name>
+      <StartDate>2023-10-21</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38398,6 +38414,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Isle of Man</Name>
       <Name lang="en">Isle of Man</Name>
       <StartDate>2015-10-15</StartDate>
+      <EndDate>2023-10-20</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>IM</Code>
+      <Name lang="fi">Isle of Man .{en}.</Name>
+      <Description lang="fi">Mansaari</Description>
+      <Name lang="sv">Isle of Man .{en}.</Name>
+      <Description lang="sv">Isle of Man</Description>
+      <Name lang="en">Isle of Man</Name>
+      <StartDate>2023-10-21</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38454,6 +38480,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Jersey</Name>
       <Name lang="en">Jersey</Name>
       <StartDate>2015-10-15</StartDate>
+      <EndDate>2023-10-20</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>JE</Code>
+      <Name lang="fi">Jersey</Name>
+      <Name lang="sv">Jersey</Name>
+      <Name lang="en">Jersey</Name>
+      <StartDate>2023-10-21</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38742,6 +38776,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Saint Martin</Name>
       <Name lang="en">Saint Martin</Name>
       <StartDate>2015-10-15</StartDate>
+      <EndDate>2023-10-20</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MF</Code>
+      <Name lang="fi">Saint-Martin (Ranskan alue)</Name>
+      <Name lang="sv">Saint Martin</Name>
+      <Name lang="en">Saint Martin (French part)</Name>
+      <Description lang="en">Saint Martin</Description>
+      <StartDate>2023-10-21</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -72797,5 +72840,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-10-17T06:05:04.053</Generated>
+  <Generated>2023-10-23T06:05:03.387</Generated>
 </CodeLists>
