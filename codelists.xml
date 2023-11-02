@@ -34452,6 +34452,108 @@ customs warehousing procedure</Description>
     </CodeItem>
   </CodeList>
   <CodeList>
+    <Identification>CL146</Identification>
+    <Name lang="fi">Vakuus ei voimassa</Name>
+    <Name lang="sv">Land där garantin inte gäller</Name>
+    <Name lang="en">Guarantee not valid in</Name>
+    <CodeItem>
+      <Code>AD</Code>
+      <Name lang="fi">Andorra</Name>
+      <Name lang="sv">Andorra</Name>
+      <Name lang="en">Andorra</Name>
+      <StartDate>2021-09-10</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CH</Code>
+      <Name lang="fi">Sveitsi</Name>
+      <Name lang="sv">Schweiz</Name>
+      <Name lang="en">Switzerland</Name>
+      <StartDate>2021-09-10</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CT</Code>
+      <Name lang="fi">fi:All contracting parties to the Convention on common transit procedure, except 'EU', plus Andorra and San Marino.</Name>
+      <Name lang="sv">sv:All contracting parties to the Convention on common transit procedure, except 'EU', plus Andorra and San Marino.</Name>
+      <Name lang="en">All contracting parties to the Convention on common transit procedure, except 'EU', plus Andorra and San Marino.</Name>
+      <StartDate>2021-09-10</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>EU</Code>
+      <Name lang="fi">Euroopan unionin tullialue</Name>
+      <Name lang="sv">Europeiska unionens tullområde</Name>
+      <Name lang="en">The customs territory of the European Union.</Name>
+      <StartDate>2021-09-10</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GB</Code>
+      <Name lang="fi">Yhdistynyt kuningaskunta</Name>
+      <Name lang="sv">Förenade kungariket</Name>
+      <Name lang="en">United Kingdom</Name>
+      <StartDate>2021-09-10</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>IS</Code>
+      <Name lang="fi">Islanti</Name>
+      <Name lang="sv">Island</Name>
+      <Name lang="en">Iceland</Name>
+      <StartDate>2021-09-10</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MK</Code>
+      <Name lang="fi">Pohjois-Makedonia</Name>
+      <Name lang="sv">Nordmakedonien</Name>
+      <Name lang="en">North Macedonia</Name>
+      <StartDate>2021-09-10</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NO</Code>
+      <Name lang="fi">Norja</Name>
+      <Name lang="sv">Norge</Name>
+      <Name lang="en">Norway</Name>
+      <StartDate>2021-09-10</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>RS</Code>
+      <Name lang="fi">Serbia</Name>
+      <Name lang="sv">Serbien</Name>
+      <Name lang="en">Serbia</Name>
+      <StartDate>2021-09-10</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SM</Code>
+      <Name lang="fi">San Marino</Name>
+      <Name lang="sv">San Marino</Name>
+      <Name lang="en">San Marino</Name>
+      <StartDate>2021-09-10</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TR</Code>
+      <Name lang="fi">Turkki</Name>
+      <Name lang="sv">Turkiet</Name>
+      <Name lang="en">Turkey</Name>
+      <StartDate>2021-09-10</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>UA</Code>
+      <Name lang="fi">Ukraina</Name>
+      <Name lang="sv">Ukraina</Name>
+      <Name lang="en">Ukraine</Name>
+      <StartDate>2021-10-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+  </CodeList>
+  <CodeList>
     <Identification>CL165</Identification>
     <Name lang="fi">Kansallisuus</Name>
     <Name lang="sv">Nationalitet</Name>
@@ -72914,5 +73016,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-11-01T06:05:03.347</Generated>
+  <Generated>2023-11-02T06:05:03.857</Generated>
 </CodeLists>
