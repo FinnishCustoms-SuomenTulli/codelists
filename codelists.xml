@@ -47958,6 +47958,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Varor som inte omfattas av bestämmelserna i förordning (EU) nr 1332/2013 (EUT L 335)</Name>
       <Name lang="en">Goods not covered by the provisions of Regulation (EU) 1332/2013 (OJ L 335)</Name>
       <StartDate>2023-06-14</StartDate>
+      <EndDate>2023-11-09</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y935</Code>
+      <Name lang="fi">Tavarat, jotka eivät kuulu asetuksen (EU) N:o 1332/2013 (EUVL L 335) soveltamisalaan</Name>
+      <Name lang="sv">Varor som inte omfattas av bestämmelserna i förordning (EU) nr 1332/2013 (EUT L 335)</Name>
+      <Name lang="en">Goods not covered by the provisions of Regulation (EU) 1332/2013 (OJ L 335)</Name>
+      <StartDate>2023-11-10</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -73024,5 +73041,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-11-08T06:05:03.953</Generated>
+  <Generated>2023-11-13T06:05:04.790</Generated>
 </CodeLists>
