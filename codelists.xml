@@ -13693,6 +13693,25 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>Y151</Code>
+      <Name lang="fi">EU:sta peräisin olevat tavarat, jotka tulevat syrjäisimmiltä alueilta asiaa koskevan EU:n lainsäädännön mukaisesti</Name>
+      <Name lang="sv">Varor med ursprung i EU som kommer från de yttersta randområdena, i enlighet med relevant EU-lagstiftning</Name>
+      <Name lang="en">Goods with EU origin coming from outermost regions, according to the relevant EU legislation</Name>
+      <StartDate>2023-11-13</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>Y223</Code>
       <Name lang="fi">Asetuksen (EU) 2019/67 2 artiklan nojalla myönnetty vapautus suojatoimenpiteestä</Name>
       <Name lang="sv">Undantag från skyddsåtgärden i enlighet med artikel 2 i förordning (EU) 2019/67</Name>
@@ -25812,34 +25831,6 @@
       </Filter>
     </CodeItem>
     <CodeItem>
-      <Code>00700</Code>
-      <Name lang="fi">IP / Sisäisen jalostuksen päättäminen / Delegoidun asetuksen (EU) 2015/2446 241(1) artiklan ensimmäinen alakohta</Name>
-      <Name lang="sv">IP / Avslutande av förfarandet för aktiv förädling / Artikel 241(1) första stycket i delegerad förordning (EU) 2015/2446</Name>
-      <Name lang="en">IP / Discharge of inward processing / Article 241(1) first sub-paragraph of Delegated Regulation (EU) 2015/2446</Name>
-      <StartDate>2021-04-15</StartDate>
-      <EndDate>2099-12-31</EndDate>
-      <Filter>
-        <Name>Filter_CWAR</Name>
-        <Value>1</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_ENTRY</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_EXP</Name>
-        <Value>1</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_IMP</Name>
-        <Value>1</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_TRA</Name>
-        <Value>0</Value>
-      </Filter>
-    </CodeItem>
-    <CodeItem>
       <Code>00800</Code>
       <Name lang="fi">IP CPM / Sisäisen jalostuksen päättäminen (kauppapoliittiset erityistoimenpiteet) / Delegoidun asetuksen (EU) 2015/2446 241(1) artiklan toinen alakohta</Name>
       <Name lang="sv">IP CPM / Avslutande av förfarandet för aktiv förädling (särskilda handelspolitiska åtgärder) / Artikel 241(1) andra stycket i delegerad förordning (EU) 2015/2446</Name>
@@ -25871,7 +25862,7 @@
       <Name lang="sv">IP CPM / Avslutande av förfarandet för aktiv förädling (särskilda handelspolitiska åtgärder) / Artikel 241(1) andra stycket i delegerad förordning (EU) 2015/2446</Name>
       <Name lang="en">IP CPM / Discharge of inward processing (specific commercial policy measures) / Article 241(1) second sub-paragraph of Delegated Regulation (EU) 2015/2446</Name>
       <StartDate>2021-04-15</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2023-11-01</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
         <Value>1</Value>
@@ -25917,34 +25908,6 @@
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
-      </Filter>
-    </CodeItem>
-    <CodeItem>
-      <Code>00900</Code>
-      <Name lang="fi">TA / Väliaikaisen maahantuonnin päättäminen / Delegoidun asetuksen (EU) 2015/2446 238 artikla</Name>
-      <Name lang="sv">TA / Avslutande av förfarandet för tillfällig införsel / Artikel 238 i delegerad förordning (EU) 2015/2446</Name>
-      <Name lang="en">TA / Discharge of temporary admission / Article 238 of Delegated Regulation (EU) 2015/2446</Name>
-      <StartDate>2021-04-15</StartDate>
-      <EndDate>2099-12-31</EndDate>
-      <Filter>
-        <Name>Filter_CWAR</Name>
-        <Value>1</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_ENTRY</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_EXP</Name>
-        <Value>1</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_IMP</Name>
-        <Value>1</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_TRA</Name>
-        <Value>0</Value>
       </Filter>
     </CodeItem>
     <CodeItem>
@@ -45083,6 +45046,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Varor som inte har sitt ursprung i eller försänds från Turkiet</Name>
       <Name lang="en">Goods not originating in or dispatched from Turkey</Name>
       <StartDate>2023-06-14</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y151</Code>
+      <Name lang="fi">EU:sta peräisin olevat tavarat, jotka tulevat syrjäisimmiltä alueilta asiaa koskevan EU:n lainsäädännön mukaisesti</Name>
+      <Name lang="sv">Varor med ursprung i EU som kommer från de yttersta randområdena, i enlighet med relevant EU-lagstiftning</Name>
+      <Name lang="en">Goods with EU origin coming from outermost regions, according to the relevant EU legislation</Name>
+      <StartDate>2023-11-13</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -73041,5 +73021,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-11-13T06:05:04.790</Generated>
+  <Generated>2023-11-14T06:05:03.870</Generated>
 </CodeLists>
