@@ -32403,7 +32403,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>619</Code>
-      <Name lang="fi">Ilma-alusten varaosat ja varusteet huolto- ja valmistustodistus esitettäessä. Tulliton., Neuvoston asetus (EU) 2018/581, Komission täytäntöönpanoasetus (EU) 2018/1517 , arvonlisäveroton  AVL 94.1. § 9 k.)</Name>
+      <Name lang="fi">Ilma-alusten varaosat ja varusteet huolto- ja valmistustodistus esitettäessä. Tulliton., Neuvoston asetus (EU) 2018/581, Komission täytäntöönpanoasetus (EU) 2018/1517 , arvonlisäveroton  AVL 94.1. § 9 k.</Name>
       <Name lang="sv">Reservdelar eller utrustning till luftfartyg mot uppvisande av intyg om auktoriserat underhåll/tillverkning. Tullfri, Rådets förordning (EU) 2018/581, kommissionens genomförandeförordning (EU) 2018/1517, momsfri MomsL 94.1 § 9 punkten.</Name>
       <Name lang="en">Spare parts and equipment for aircraft on presentation of an authorised release certificate. Customs duty exemption under Council Regulation (EU) 2018/581, Commission Implementing Regulation (EU) 2018/1517, VAT exemption under section 94(1)(9) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
@@ -32419,8 +32419,8 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>621</Code>
-      <Name lang="fi">Vesialuksen arvonlisäveroton maahantuonti, AVL 94.1 § 9 k., AVL 58.1 §</Name>
-      <Name lang="sv">Mervärdesskattefri import av fartyg, MomsL 94 § 1 mom. 9 p., MomsL 58 § 1 mom.)</Name>
+      <Name lang="fi">Vesialuksen sekä ammattimaisessa kansainvälisessä liikenteessä olevan vesialuksen varaosien arvonlisäveroton maahantuonti, AVL 94.1 § 9 k., AVL 58.1 §</Name>
+      <Name lang="sv">Mervärdesskattefri import av fartyg och av reservdelar till fartyg i yrkesmässig internationell trafik, MomsL 94 § 1 mom. 9 p., MomsL 58 § 1 mom.</Name>
       <Name lang="en">VAT-exempt import of vessels, section 94(1)(9) VAT Act, section 58(1) VAT Act</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -73021,5 +73021,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-11-14T06:05:03.870</Generated>
+  <Generated>2023-11-15T06:05:04.980</Generated>
 </CodeLists>
