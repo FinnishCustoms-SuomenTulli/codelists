@@ -54210,7 +54210,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>D0278</Code>
       <Name lang="fi">Varattu vakuutta XXX eur. Lähetä tositteet vakituisen asuinpaikan siirtymisestä Suomeen 6 kuukauden kuluessa ensisijaisesti vapaamuotoisella yhteydenotolla. Todisteeksi käy esimerkiksi DVV:stä saatu asuinpaikkatodistus. Jos et lähetä tositteita määräajan kuluessa, tulli-ilmoitus oikaistaan normaaliksi tuonniksi ja joudut maksamaan lähetyksestä tullimaksut ja arvonlisäveron.</Name>
-      <Name lang="sv">sv: Varattu vakuutta XXX eur. Lähetä tositteet vakituisen asuinpaikan siirtymisestä Suomeen 6 kuukauden kuluessa ensisijaisesti vapaamuotoisella yhteydenotolla. Todisteeksi käy esimerkiksi DVV:stä saatu asuinpaikkatodistus. Jos et lähetä tositteita määräajan kuluessa, tulli-ilmoitus oikaistaan normaaliksi tuonniksi ja joudut maksamaan lähetyksestä tullimaksut ja arvonlisäveron.</Name>
+      <Name lang="sv">XXX euro i garanti har reserverats. Skicka intyg över överföringen av din stadigvarande hemvist till Finland inom 6 månader i första hand med en fritt formulerad kontakt. Som intyg godkänns t.ex. ett hemvistintyg som fås från Myndigheten för digitalisering och befolkningsdata. Om du inte skickar något intyg inom den angivna tidsfristen, ändras tulldeklarationen till normal import och du blir tvungen att betala tullavgifter och mervärdesskatt för försändelsen.</Name>
       <Name lang="en">en: Varattu vakuutta XXX eur. Lähetä tositteet vakituisen asuinpaikan siirtymisestä Suomeen 6 kuukauden kuluessa ensisijaisesti vapaamuotoisella yhteydenotolla. Todisteeksi käy esimerkiksi DVV:stä saatu asuinpaikkatodistus. Jos et lähetä tositteita määräajan kuluessa, tulli-ilmoitus oikaistaan normaaliksi tuonniksi ja joudut maksamaan lähetyksestä tullimaksut ja arvonlisäveron.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -54218,7 +54218,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>D0279</Code>
       <Name lang="fi">Varattu vakuutta XXX eur. Lähetä tositteet vakituisen asuinpaikan siirtymisestä Suomeen 6 kuukauden kuluessa ensisijaisesti sähköpostilla ___@tulli.fi. Todisteeksi käy esimerkiksi DVV:stä saatu asuinpaikkatodistus. Jos et lähetä tositteita määräajan kuluessa, tulli-ilmoitus oikaistaan normaaliksi tuonniksi ja joudut maksamaan lähetyksestä tullimaksut ja arvonlisäveron.</Name>
-      <Name lang="sv">sv: Varattu vakuutta XXX eur. Lähetä tositteet vakituisen asuinpaikan siirtymisestä Suomeen 6 kuukauden kuluessa ensisijaisesti sähköpostilla ___@tulli.fi. Todisteeksi käy esimerkiksi DVV:stä saatu asuinpaikkatodistus. Jos et lähetä tositteita määräajan kuluessa, tulli-ilmoitus oikaistaan normaaliksi tuonniksi ja joudut maksamaan lähetyksestä tullimaksut ja arvonlisäveron.</Name>
+      <Name lang="sv">XXX euro i garanti har reserverats. Skicka intyg över överföringen av din stadigvarande hemvist till Finland inom 6 månader i första hand per e-post till ___@tulli.fi. Som intyg godkänns t.ex. ett hemvistintyg som fås från Myndigheten för digitalisering och befolkningsdata. Om du inte skickar något intyg inom den angivna tidsfristen, ändras tulldeklarationen till normal import och du blir tvungen att betala tullavgifter och mervärdesskatt för försändelsen.</Name>
       <Name lang="en">en: Varattu vakuutta XXX eur. Lähetä tositteet vakituisen asuinpaikan siirtymisestä Suomeen 6 kuukauden kuluessa ensisijaisesti sähköpostilla ___@tulli.fi. Todisteeksi käy esimerkiksi DVV:stä saatu asuinpaikkatodistus. Jos et lähetä tositteita määräajan kuluessa, tulli-ilmoitus oikaistaan normaaliksi tuonniksi ja joudut maksamaan lähetyksestä tullimaksut ja arvonlisäveron.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -73148,5 +73148,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-11-20T06:05:04.667</Generated>
+  <Generated>2023-11-21T06:05:05.473</Generated>
 </CodeLists>
