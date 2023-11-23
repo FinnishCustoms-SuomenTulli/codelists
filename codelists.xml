@@ -54211,7 +54211,7 @@ customs warehousing procedure</Description>
       <Code>D0278</Code>
       <Name lang="fi">Varattu vakuutta XXX eur. Lähetä tositteet vakituisen asuinpaikan siirtymisestä Suomeen 6 kuukauden kuluessa ensisijaisesti vapaamuotoisella yhteydenotolla. Todisteeksi käy esimerkiksi DVV:stä saatu asuinpaikkatodistus. Jos et lähetä tositteita määräajan kuluessa, tulli-ilmoitus oikaistaan normaaliksi tuonniksi ja joudut maksamaan lähetyksestä tullimaksut ja arvonlisäveron.</Name>
       <Name lang="sv">XXX euro i garanti har reserverats. Skicka intyg över överföringen av din stadigvarande hemvist till Finland inom 6 månader i första hand med en fritt formulerad kontakt. Som intyg godkänns t.ex. ett hemvistintyg som fås från Myndigheten för digitalisering och befolkningsdata. Om du inte skickar något intyg inom den angivna tidsfristen, ändras tulldeklarationen till normal import och du blir tvungen att betala tullavgifter och mervärdesskatt för försändelsen.</Name>
-      <Name lang="en">en: Varattu vakuutta XXX eur. Lähetä tositteet vakituisen asuinpaikan siirtymisestä Suomeen 6 kuukauden kuluessa ensisijaisesti vapaamuotoisella yhteydenotolla. Todisteeksi käy esimerkiksi DVV:stä saatu asuinpaikkatodistus. Jos et lähetä tositteita määräajan kuluessa, tulli-ilmoitus oikaistaan normaaliksi tuonniksi ja joudut maksamaan lähetyksestä tullimaksut ja arvonlisäveron.</Name>
+      <Name lang="en">A guarantee amount of XXX euros has been reserved. Send proof of the transfer of the normal place of residence to Finland within 6 months, primarily with free-form contact. A residence certificate issued by the Digital and Population Data Services Agency, for example, can be accepted as proof. If you do not send any proof within the specified time limit, the customs declaration will be changed to normal import and you will have to pay customs duty and VAT on the consignment.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -54219,7 +54219,7 @@ customs warehousing procedure</Description>
       <Code>D0279</Code>
       <Name lang="fi">Varattu vakuutta XXX eur. Lähetä tositteet vakituisen asuinpaikan siirtymisestä Suomeen 6 kuukauden kuluessa ensisijaisesti sähköpostilla ___@tulli.fi. Todisteeksi käy esimerkiksi DVV:stä saatu asuinpaikkatodistus. Jos et lähetä tositteita määräajan kuluessa, tulli-ilmoitus oikaistaan normaaliksi tuonniksi ja joudut maksamaan lähetyksestä tullimaksut ja arvonlisäveron.</Name>
       <Name lang="sv">XXX euro i garanti har reserverats. Skicka intyg över överföringen av din stadigvarande hemvist till Finland inom 6 månader i första hand per e-post till ___@tulli.fi. Som intyg godkänns t.ex. ett hemvistintyg som fås från Myndigheten för digitalisering och befolkningsdata. Om du inte skickar något intyg inom den angivna tidsfristen, ändras tulldeklarationen till normal import och du blir tvungen att betala tullavgifter och mervärdesskatt för försändelsen.</Name>
-      <Name lang="en">en: Varattu vakuutta XXX eur. Lähetä tositteet vakituisen asuinpaikan siirtymisestä Suomeen 6 kuukauden kuluessa ensisijaisesti sähköpostilla ___@tulli.fi. Todisteeksi käy esimerkiksi DVV:stä saatu asuinpaikkatodistus. Jos et lähetä tositteita määräajan kuluessa, tulli-ilmoitus oikaistaan normaaliksi tuonniksi ja joudut maksamaan lähetyksestä tullimaksut ja arvonlisäveron.</Name>
+      <Name lang="en">A guarantee amount of XXX euros has been reserved. Send proof of the transfer of the normal place of residence to Finland within 6 months, primarily by email to ___@tulli.fi. A residence certificate issued by the Digital and Population Data Services Agency, for example, can be accepted as proof. If you do not send any proof within the specified time limit, the customs declaration will be changed to normal import and you will have to pay customs duty and VAT on the consignment.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -73148,5 +73148,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-11-21T06:05:05.473</Generated>
+  <Generated>2023-11-23T06:05:05.207</Generated>
 </CodeLists>
