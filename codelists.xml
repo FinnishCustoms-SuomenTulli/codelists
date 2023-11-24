@@ -54425,18 +54425,34 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>DP900</Code>
-      <Name lang="fi">TESTIkoodi AUT, sisältöä muokataan</Name>
-      <Name lang="sv">TESTkod AUT, innehåll vill ändras</Name>
-      <Name lang="en">TEST code AUT, description under modification</Name>
+      <Name lang="fi">Purkauslupa.</Name>
+      <Name lang="sv">Lossningstillstånd.</Name>
+      <Name lang="en">Unloading permission.</Name>
       <StartDate>2023-03-07</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>DP901</Code>
-      <Name lang="fi">TESTIkoodi OPT, sisältöä muokataan</Name>
-      <Name lang="sv">TESTkod OPT, innehåll vill ändras</Name>
-      <Name lang="en">TEST code OPT, description under modification</Name>
+      <Name lang="fi">Testikoodi</Name>
+      <Name lang="sv">Test kod</Name>
+      <Name lang="en">Test code</Name>
       <StartDate>2023-03-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DP902</Code>
+      <Name lang="fi">Menettely päätetty.</Name>
+      <Name lang="sv">Förfarandet har avslutats.</Name>
+      <Name lang="en">Discharged.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DP903</Code>
+      <Name lang="fi">Passitus luovutettu pois menettelystä</Name>
+      <Name lang="sv">Transiteringen har frigjorts från förfarandet</Name>
+      <Name lang="en">Released from Transit</Name>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -73148,5 +73164,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-11-23T06:05:05.207</Generated>
+  <Generated>2023-11-24T06:05:04.030</Generated>
 </CodeLists>
