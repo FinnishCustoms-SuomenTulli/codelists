@@ -54204,6 +54204,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Tulli-ilmoitus mitätöidään, koska tullaus on tehty käyttäen virheellistä edeltävän asiakirjan viitettä. Korvaava tullaus oikein tiedoin jää voimaan.</Name>
       <Name lang="sv">sv: Tulli-ilmoitus mitätöidään, koska tullaus on tehty käyttäen virheellistä edeltävän asiakirjan viitettä. Korvaava tullaus oikein tiedoin jää voimaan.</Name>
       <Name lang="en">en: Tulli-ilmoitus mitätöidään, koska tullaus on tehty käyttäen virheellistä edeltävän asiakirjan viitettä. Korvaava tullaus oikein tiedoin jää voimaan.</Name>
+    </CodeItem>
     <CodeItem>
       <Code>D0277</Code>
       <Name lang="fi">Samansisältöinen päätös on vahvistettu kaikille tullivelallisille. Koko velan määrästä yhteisvastuulliset tullivelalliset: {0}</Name>
