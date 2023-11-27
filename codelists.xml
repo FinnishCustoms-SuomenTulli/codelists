@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CodeLists>
   <CodeList>
     <Identification>CL008</Identification>
@@ -1625,6 +1625,14 @@
       <Name lang="en">Serbia</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2019-01-30</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>RS</Code>
+      <Name lang="fi">Serbia</Name>
+      <Name lang="sv">Serbien</Name>
+      <Name lang="en">Serbia</Name>
+      <StartDate>2023-11-24</StartDate>
+      <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>RU</Code>
@@ -36519,10 +36527,34 @@ customs warehousing procedure</Description>
     <Name lang="en">Previous document (transit)</Name>
     <CodeItem>
       <Code>1ZZZ</Code>
-      <Name lang="fi">Muu asiakirja</Name>
-      <Name lang="sv">Annan dokument</Name>
-      <Name lang="en">Other document</Name>
-      <StartDate>2020-12-01</StartDate>
+      <Name lang="fi">Muu edeltävä asiakirja</Name>
+      <Name lang="sv">Annan tidigare dokument</Name>
+      <Name lang="en">Other previous document</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>337</Code>
+      <Name lang="fi">Väliaikaisen varastoinnin ilmoitus</Name>
+      <Name lang="sv">Deklaration för tillfällig lagring</Name>
+      <Name lang="en">Temporary storage declaration</Name>
+      <StartDate>2020-06-11</StartDate>
+      <EndDate>2023-09-01</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>355</Code>
+      <Name lang="fi">Saapumisen yleisilmoitus</Name>
+      <Name lang="sv">Summarisk införseldeklaration</Name>
+      <Name lang="en">Entry summary declaration</Name>
+      <StartDate>2020-06-11</StartDate>
+      <EndDate>2023-09-01</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>9000</Code>
+      <Name lang="fi">Ei edeltävää menettelyä</Name>
+      <Name lang="sv">Inget föregående förfarande</Name>
+      <Name lang="en">No previous procedure</Name>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -36530,23 +36562,23 @@ customs warehousing procedure</Description>
       <Name lang="fi">SDE - Yksinkertaistetun ilmoituksen käyttöä koskevat lupa (delegoidun asetuksen (EU) 2015/2446 liitteessä A oleva sarake 7a)</Name>
       <Name lang="sv">SDE - Tillstånd till att använda förenklad deklaration (Kolumn 7a, bilaga A till delegerade förordning (EU) 2015/2446)</Name>
       <Name lang="en">SDE - Authorisation to use simplified declaration (Column 7a, Annex A of Delegated Regulation (EU) 2015/2446)</Name>
-      <StartDate>2021-05-07</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C605</Code>
-      <Name lang="fi">INF 3 - tiedotuslomake</Name>
-      <Name lang="sv">Informationsformulär INF3</Name>
-      <Name lang="en">Information sheet INF3</Name>
-      <StartDate>2007-01-01</StartDate>
+      <Name lang="fi">INF 3 tiedotuslomake</Name>
+      <Name lang="sv">INF 3 -informationsformulär</Name>
+      <Name lang="en">INF 3 Information sheet</Name>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>C612</Code>
-      <Name lang="fi">Yhteisön sisäistä passitusta koskeva ilmoitus, T2F</Name>
-      <Name lang="sv">Deklaration för intern gemenskapstransitering T2F</Name>
-      <Name lang="en">Internal Community transit declaration, T2F</Name>
-      <StartDate>2007-01-01</StartDate>
+      <Name lang="fi">T2F, Yhteisön sisäistä passitusta koskeva ilmoitus</Name>
+      <Name lang="sv">T2F, Deklaration för intern gemenskapstransitering</Name>
+      <Name lang="en">T2F, Internal Community  transit declaration</Name>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -36554,71 +36586,39 @@ customs warehousing procedure</Description>
       <Name lang="fi">T2LF-asiakirja</Name>
       <Name lang="sv">T2LF-dokument</Name>
       <Name lang="en">T2LF document</Name>
-      <StartDate>2007-01-01</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>C651</Code>
-      <Name lang="fi">Asetuksen (EY) N:o 684/2009 3 artiklan 1 kohdassa tarkoitettu sähköinen hallinnollinen asiakirja (e-AD)</Name>
-      <Name lang="sv">Elektroniskt administrativt dokument (e-AD), enligt artikel 3.1 i förordning (EG) nr 684/2009</Name>
-      <Name lang="en">Electronic administrative document (e-AD), as referred to in Article 3(1) of Reg. (EC) No 684/2009</Name>
-      <StartDate>2016-09-09</StartDate>
-      <EndDate>2022-11-09</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>C651</Code>
-      <Name lang="fi">Asetuksen (EY) N:o 684/2009 3 artiklan 1 kohdassa tarkoitettu sähköinen hallinnollinen asiakirja (e-AD)</Name>
-      <Name lang="sv">Elektroniskt administrativt dokument (e-AD), enligt artikel 3.1 i förordning (EG) nr 684/2009</Name>
-      <Name lang="en">Electronic administrative document (e-AD), as referred to in Article 3(1) of Reg. (EC) No 684/2009</Name>
-      <StartDate>2022-11-10</StartDate>
-      <EndDate>2099-12-31</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>C658</Code>
-      <Name lang="fi">Asetuksen (EY) N:o 684/2009 8 artiklan 1 kohdassa tarkoitettu valmisteveron alaisten tuotteiden väliaikaisesti verottomien siirtojen saateasiakirjan korvaava asiakirja (FAD)</Name>
-      <Name lang="sv">Följedokument för reservrutin för flyttning av punktskattepliktiga varor under punktskatteuppskov, enligt artikel 8.1 i förordning (EG) nr 684/2009</Name>
-      <Name lang="en">Fallback Accompanying Document for movements of excise goods under suspension of excise duty (FAD), as referred to in Article 8(1) Reg. (EC) No 684/2009</Name>
-      <StartDate>2016-03-02</StartDate>
-      <EndDate>2022-11-09</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>C658</Code>
-      <Name lang="fi">Asetuksen (EY) N:o 684/2009 8 artiklan 1 kohdassa tarkoitettu valmisteveron alaisten tuotteiden väliaikaisesti verottomien siirtojen saateasiakirjan korvaava asiakirja (FAD)</Name>
-      <Name lang="sv">Följedokument för reservrutin för flyttning av punktskattepliktiga varor under punktskatteuppskov, enligt artikel 8.1 i förordning (EG) nr 684/2009</Name>
-      <Name lang="en">Fallback Accompanying Document for movements of excise goods under suspension of excise duty (FAD), as referred to in Article 8(1) Reg. (EC) No 684/2009</Name>
-      <StartDate>2022-11-10</StartDate>
-      <EndDate>2099-12-31</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>C710</Code>
-      <Name lang="fi">Tiedotuslomake</Name>
-      <Name lang="sv">Informationsformulär</Name>
-      <Name lang="en">Information sheet</Name>
-      <StartDate>2019-06-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <Code>N000</Code>
+      <Name lang="fi">Ei edeltävää menettelyä</Name>
+      <Name lang="sv">Inget föregående förfarande</Name>
+      <Name lang="en">No previous procedure</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2023-07-10</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N235</Code>
       <Name lang="fi">Konttiluettelo</Name>
-      <Name lang="sv">Containerförteckning</Name>
+      <Name lang="sv">Containerlista</Name>
       <Name lang="en">Container list</Name>
-      <StartDate>2007-01-01</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N270</Code>
-      <Name lang="fi">Tavaraluettelo</Name>
-      <Name lang="sv">Godslista</Name>
+      <Name lang="fi">Saapumisilmoitus</Name>
+      <Name lang="sv">Leveranssedel</Name>
       <Name lang="en">Delivery note</Name>
-      <StartDate>2021-08-31</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N271</Code>
       <Name lang="fi">Pakkausluettelo</Name>
-      <Name lang="sv">Packsedel</Name>
+      <Name lang="sv">Fraktmanifest</Name>
       <Name lang="en">Packing list</Name>
-      <StartDate>2007-01-01</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -36626,15 +36626,15 @@ customs warehousing procedure</Description>
       <Name lang="fi">Proformalasku</Name>
       <Name lang="sv">Proformafaktura</Name>
       <Name lang="en">Proforma invoice</Name>
-      <StartDate>2007-01-01</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N337</Code>
-      <Name lang="fi">Väliaikaisen varastoinnin yleisilmoitus</Name>
-      <Name lang="sv">Summarisk deklaration för tillfällig lagring</Name>
-      <Name lang="en">Summary declaration for temporary storage</Name>
-      <StartDate>2011-01-18</StartDate>
+      <Name lang="fi">Väliaikaisen varastoinnin ilmoitus</Name>
+      <Name lang="sv">deklaration för tillfällig lagring</Name>
+      <Name lang="en">Temporary storage declaration</Name>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -36642,23 +36642,23 @@ customs warehousing procedure</Description>
       <Name lang="fi">Saapumisen yleisilmoitus</Name>
       <Name lang="sv">Summarisk införseldeklaration</Name>
       <Name lang="en">Entry summary declaration</Name>
-      <StartDate>2011-01-18</StartDate>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N380</Code>
       <Name lang="fi">Kauppalasku</Name>
-      <Name lang="sv">Handelsfaktura</Name>
+      <Name lang="sv">Faktura (import, export)</Name>
       <Name lang="en">Commercial invoice</Name>
-      <StartDate>2007-01-01</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N703</Code>
       <Name lang="fi">Alarahtikirja</Name>
-      <Name lang="sv">Underfraktsedel</Name>
+      <Name lang="sv">Speditörsfraktsedel</Name>
       <Name lang="en">House waybill</Name>
-      <StartDate>2007-01-01</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -36666,23 +36666,23 @@ customs warehousing procedure</Description>
       <Name lang="fi">Pääkonossementti</Name>
       <Name lang="sv">Huvudkonossement</Name>
       <Name lang="en">Master bill of lading</Name>
-      <StartDate>2007-01-01</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N705</Code>
-      <Name lang="fi">Konossementti</Name>
+      <Name lang="fi">konossementti</Name>
       <Name lang="sv">Konossement</Name>
       <Name lang="en">Bill of lading</Name>
-      <StartDate>2007-01-01</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N714</Code>
-      <Name lang="fi">Alakonossementti</Name>
-      <Name lang="sv">Underkonossement</Name>
+      <Name lang="fi">Paikalliskonossementti</Name>
+      <Name lang="sv">Speditörskonossement</Name>
       <Name lang="en">House bill of lading</Name>
-      <StartDate>2007-01-01</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -36690,15 +36690,15 @@ customs warehousing procedure</Description>
       <Name lang="fi">CIM-rahtikirja</Name>
       <Name lang="sv">CIM-fraktsedel</Name>
       <Name lang="en">Consignment note CIM</Name>
-      <StartDate>2007-01-01</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N722</Code>
       <Name lang="fi">SMGS-luettelo</Name>
-      <Name lang="sv">SMGS-följesedel</Name>
-      <Name lang="en">Road list - SMGS</Name>
-      <StartDate>2007-01-01</StartDate>
+      <Name lang="sv">Följesedel SMGS</Name>
+      <Name lang="en">Road list SMGS</Name>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -36706,87 +36706,87 @@ customs warehousing procedure</Description>
       <Name lang="fi">Maantiekuljetusrahtikirja</Name>
       <Name lang="sv">Vägtransportfraktsedel</Name>
       <Name lang="en">Road consignment note</Name>
-      <StartDate>2017-01-01</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N740</Code>
-      <Name lang="fi">Lentorahtikirja</Name>
+      <Name lang="fi">Lentomanifesti (lentorahtikirjat)</Name>
       <Name lang="sv">Flygfraktsedel</Name>
       <Name lang="en">Air waybill</Name>
-      <StartDate>2017-01-01</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N741</Code>
       <Name lang="fi">Päälentorahtikirja</Name>
-      <Name lang="sv">Huvudflygfraktsedel</Name>
-      <Name lang="en">Master airwaybill</Name>
-      <StartDate>2017-01-01</StartDate>
+      <Name lang="sv">Huvudflygfraktsedel (MAWB)</Name>
+      <Name lang="en">Master air waybill</Name>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N750</Code>
-      <Name lang="fi">Liikkuminen postitse (pakettiposti mukaan luettuna)</Name>
-      <Name lang="sv">Post (inklusive paketpost)</Name>
-      <Name lang="en">Movement by post including parcel post</Name>
-      <StartDate>2017-01-01</StartDate>
+      <Name lang="fi">Osoitekortti (postipaketit)</Name>
+      <Name lang="sv">Leveransavi (postpaket)</Name>
+      <Name lang="en">Despatch note  (post parcels)</Name>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N760</Code>
-      <Name lang="fi">Multimodaalisten/yhdistettyjen kuljetusten asiakirja</Name>
-      <Name lang="sv">Dokument för multimodal/kombinerad transport</Name>
+      <Name lang="fi">Yhdistetyn kuljetuksen kuljetusasiakirja</Name>
+      <Name lang="sv">Dokument för kombitransport(allmä</Name>
       <Name lang="en">Multimodal/combined transport document</Name>
-      <StartDate>2017-01-01</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N785</Code>
-      <Name lang="fi">Rahtiasiakirja</Name>
-      <Name lang="sv">Fraktmanifest</Name>
+      <Name lang="fi">Rahtimanifesti</Name>
+      <Name lang="sv">Fraktsmanifest</Name>
       <Name lang="en">Cargo manifest</Name>
-      <StartDate>2017-01-01</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N787</Code>
       <Name lang="fi">Lähetysluettelo</Name>
-      <Name lang="sv">Bordereau</Name>
+      <Name lang="sv">Följesedel</Name>
       <Name lang="en">Bordereau (cargo load list)</Name>
-      <StartDate>2017-01-01</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N820</Code>
-      <Name lang="fi">Passitusilmoitus "T"</Name>
-      <Name lang="sv">Transitdeklaration "T"</Name>
-      <Name lang="en">Transit declaration "T"</Name>
-      <StartDate>2007-01-01</StartDate>
+      <Name lang="fi">Unionin/yhteistä passitusta koskeva ilmoitus - sekalähetykset (T)</Name>
+      <Name lang="sv">Deklaration för unionstransitering/gemensam transitering - blandade sändningar (T)</Name>
+      <Name lang="en">Union/common transit declaration - Mixed consignments (T)</Name>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N821</Code>
-      <Name lang="fi">Yhteisön ulkoista passitusta koskeva ilmoitus / yhteinen passitusmenettely, T1</Name>
-      <Name lang="sv">Deklaration för extern gemenskapstransitering/gemensam transitering T1</Name>
-      <Name lang="en">External Community transit declaration / common transit, T1</Name>
-      <StartDate>2007-01-01</StartDate>
+      <Name lang="fi">Ulkoinen passitus, sähköinen T1 tai TIR</Name>
+      <Name lang="sv">Deklaration för extern unionstransitering/gemensam transitering (T1)</Name>
+      <Name lang="en">External Union/common transit declaration (T1)</Name>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N822</Code>
-      <Name lang="fi">Yhteisön sisäistä passitusta koskeva ilmoitus T2</Name>
-      <Name lang="sv">Deklaration för intern gemenskapstransitering T2</Name>
+      <Name lang="fi">Yhteisön sisäinen passitusmenettely T2</Name>
+      <Name lang="sv">Förfarandet för intern gemenskapstransitering T2</Name>
       <Name lang="en">Internal Community transit declaration T2</Name>
-      <StartDate>2007-01-01</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N825</Code>
-      <Name lang="fi">T2L-asiakirja</Name>
+      <Name lang="fi">T2L-ilmoituslomake</Name>
       <Name lang="sv">T2L-dokument</Name>
-      <Name lang="en">T2L document</Name>
-      <StartDate>2007-01-01</StartDate>
+      <Name lang="en">Despatch note model T2L</Name>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -36794,23 +36794,23 @@ customs warehousing procedure</Description>
       <Name lang="fi">Tavaran vienti-ilmoitus</Name>
       <Name lang="sv">Exportdeklaration</Name>
       <Name lang="en">Goods declaration for exportation</Name>
-      <StartDate>2007-01-01</StartDate>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N952</Code>
       <Name lang="fi">TIR-carnet</Name>
-      <Name lang="sv">TIR Carnet</Name>
-      <Name lang="en">TIR Carnet</Name>
-      <StartDate>2007-01-01</StartDate>
+      <Name lang="sv">TIR-carnet</Name>
+      <Name lang="en">TIR-carnet</Name>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>N955</Code>
-      <Name lang="fi">ATA-carnet</Name>
-      <Name lang="sv">ATA-carnet</Name>
+      <Name lang="fi">ATA carnet</Name>
+      <Name lang="sv">ATA carnet</Name>
       <Name lang="en">ATA carnet</Name>
-      <StartDate>2017-01-01</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -36818,7 +36818,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Ilmoittajan kirjanpitoon merkitty viite/päivämäärä (EIDR)</Name>
       <Name lang="sv">Referens/datum för införing i deklarantens register</Name>
       <Name lang="en">Reference/date of entry in the declarant’s records</Name>
-      <StartDate>2021-08-31</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -36826,15 +36826,15 @@ customs warehousing procedure</Description>
       <Name lang="fi">Rahtimanifesti — yksinkertaistettu menettely</Name>
       <Name lang="sv">Fraktmanifest — förenklat förfarande</Name>
       <Name lang="en">Cargo manifest — simplified procedure</Name>
-      <StartDate>2021-08-31</StartDate>
+      <StartDate>2021-02-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>NMRN</Code>
       <Name lang="fi">Ilmoituksen/tiedonannon MRN</Name>
       <Name lang="sv">Deklaration/anmälan MRN</Name>
-      <Name lang="en">Declaration/notification MRN</Name>
-      <StartDate>2021-08-31</StartDate>
+      <Name lang="en">Declaration/Notification MRN</Name>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
@@ -54202,8 +54202,10 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>D0273</Code>
       <Name lang="fi">Tulli-ilmoitus mitätöidään, koska tullaus on tehty käyttäen virheellistä edeltävän asiakirjan viitettä. Korvaava tullaus oikein tiedoin jää voimaan.</Name>
-      <Name lang="sv">sv: Tulli-ilmoitus mitätöidään, koska tullaus on tehty käyttäen virheellistä edeltävän asiakirjan viitettä. Korvaava tullaus oikein tiedoin jää voimaan.</Name>
-      <Name lang="en">en: Tulli-ilmoitus mitätöidään, koska tullaus on tehty käyttäen virheellistä edeltävän asiakirjan viitettä. Korvaava tullaus oikein tiedoin jää voimaan.</Name>
+      <Name lang="sv">Tulli-ilmoitus mitätöidään, koska tullaus on tehty käyttäen virheellistä edeltävän asiakirjan viitettä. Korvaava tullaus oikein tiedoin jää voimaan.</Name>
+      <Name lang="en">Tulli-ilmoitus mitätöidään, koska tullaus on tehty käyttäen virheellistä edeltävän asiakirjan viitettä. Korvaava tullaus oikein tiedoin jää voimaan.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>D0277</Code>
@@ -72651,7 +72653,8 @@ customs warehousing procedure</Description>
       <Name lang="en">Not as declared</Name>
       <StartDate>2021-02-12</StartDate>
       <EndDate>2099-12-31</EndDate>
-    </CodeItem>    <CodeItem>
+    </CodeItem>
+    <CodeItem>
       <Code>1</Code>
       <Name lang="fi">Kunnossa</Name>
       <Name lang="sv">Som deklarerats</Name>
@@ -73170,5 +73173,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-11-24T06:05:04.030</Generated>
+  <Generated>2023-11-27T06:05:04.830</Generated>
 </CodeLists>
