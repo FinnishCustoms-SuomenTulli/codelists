@@ -29526,6 +29526,14 @@
       <Name lang="sv">Andorra</Name>
       <Name lang="en">Andorra</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AD</Code>
+      <Name lang="fi">Andorra</Name>
+      <Name lang="sv">Andorra</Name>
+      <Name lang="en">Andorra</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29534,6 +29542,14 @@
       <Name lang="sv">Österrike</Name>
       <Name lang="en">Austria</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AT</Code>
+      <Name lang="fi">Itävalta</Name>
+      <Name lang="sv">Österrike</Name>
+      <Name lang="en">Austria</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29542,6 +29558,14 @@
       <Name lang="sv">Belgien</Name>
       <Name lang="en">Belgium</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BE</Code>
+      <Name lang="fi">Belgia</Name>
+      <Name lang="sv">Belgien</Name>
+      <Name lang="en">Belgium</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29550,6 +29574,14 @@
       <Name lang="sv">Bulgarien</Name>
       <Name lang="en">Bulgaria</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BG</Code>
+      <Name lang="fi">Bulgaria</Name>
+      <Name lang="sv">Bulgarien</Name>
+      <Name lang="en">Bulgaria</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29558,6 +29590,14 @@
       <Name lang="sv">Schweiz</Name>
       <Name lang="en">Switzerland</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CH</Code>
+      <Name lang="fi">Sveitsi</Name>
+      <Name lang="sv">Schweiz</Name>
+      <Name lang="en">Switzerland</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29566,6 +29606,14 @@
       <Name lang="sv">Cypern</Name>
       <Name lang="en">Cyprus</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CY</Code>
+      <Name lang="fi">Kypros</Name>
+      <Name lang="sv">Cypern</Name>
+      <Name lang="en">Cyprus</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29583,6 +29631,15 @@
       <Name lang="sv">Tjeckien</Name>
       <Name lang="en">Czechia</Name>
       <StartDate>2020-12-31</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CZ</Code>
+      <Name lang="fi">Tšekki</Name>
+      <Description lang="fi">Tsekki</Description>
+      <Name lang="sv">Tjeckien</Name>
+      <Name lang="en">Czechia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29591,6 +29648,14 @@
       <Name lang="sv">Tyskland</Name>
       <Name lang="en">Germany</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DE</Code>
+      <Name lang="fi">Saksa</Name>
+      <Name lang="sv">Tyskland</Name>
+      <Name lang="en">Germany</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29599,6 +29664,14 @@
       <Name lang="sv">Danmark</Name>
       <Name lang="en">Denmark</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DK</Code>
+      <Name lang="fi">Tanska</Name>
+      <Name lang="sv">Danmark</Name>
+      <Name lang="en">Denmark</Name>
+      <StartDate>2022-10-06</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29607,6 +29680,14 @@
       <Name lang="sv">Estland</Name>
       <Name lang="en">Estonia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>EE</Code>
+      <Name lang="fi">Viro</Name>
+      <Name lang="sv">Estland</Name>
+      <Name lang="en">Estonia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29615,6 +29696,14 @@
       <Name lang="sv">Spanien</Name>
       <Name lang="en">Spain</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ES</Code>
+      <Name lang="fi">Espanja</Name>
+      <Name lang="sv">Spanien</Name>
+      <Name lang="en">Spain</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29623,6 +29712,14 @@
       <Name lang="sv">Finland</Name>
       <Name lang="en">Finland</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>FI</Code>
+      <Name lang="fi">Suomi</Name>
+      <Name lang="sv">Finland</Name>
+      <Name lang="en">Finland</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29632,6 +29729,15 @@
       <Name lang="sv">Frankrike</Name>
       <Name lang="en">France</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>FR</Code>
+      <Name lang="fi">Ranska</Name>
+      <Description lang="fi">Ranska - ml. Monaco ja Ranskan merentakaiset departementit (Guadeloupe, Martinique, Ranskan Guyana ja Réunion)</Description>
+      <Name lang="sv">Frankrike</Name>
+      <Name lang="en">France</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29640,6 +29746,15 @@
       <Name lang="sv">Storbritannien</Name>
       <Name lang="en">United Kingdom</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-12-08</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GB</Code>
+      <Name lang="fi">Iso-Britannia</Name>
+      <Name lang="sv">Förenade kungariket</Name>
+      <Description lang="sv">Storbritannien</Description>
+      <Name lang="en">United Kingdom</Name>
+      <StartDate>2022-12-09</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29648,6 +29763,14 @@
       <Name lang="sv">Grekland</Name>
       <Name lang="en">Greece</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GR</Code>
+      <Name lang="fi">Kreikka</Name>
+      <Name lang="sv">Grekland</Name>
+      <Name lang="en">Greece</Name>
+      <StartDate>2022-10-06</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29656,6 +29779,14 @@
       <Name lang="sv">Kroatien</Name>
       <Name lang="en">Croatia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>HR</Code>
+      <Name lang="fi">Kroatia</Name>
+      <Name lang="sv">Kroatien</Name>
+      <Name lang="en">Croatia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29664,6 +29795,14 @@
       <Name lang="sv">Ungern</Name>
       <Name lang="en">Hungary</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>HU</Code>
+      <Name lang="fi">Unkari</Name>
+      <Name lang="sv">Ungern</Name>
+      <Name lang="en">Hungary</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29672,6 +29811,14 @@
       <Name lang="sv">Irland</Name>
       <Name lang="en">Ireland</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>IE</Code>
+      <Name lang="fi">Irlanti</Name>
+      <Name lang="sv">Irland</Name>
+      <Name lang="en">Ireland</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29680,6 +29827,14 @@
       <Name lang="sv">Island</Name>
       <Name lang="en">Iceland</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>IS</Code>
+      <Name lang="fi">Islanti</Name>
+      <Name lang="sv">Island</Name>
+      <Name lang="en">Iceland</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29688,6 +29843,14 @@
       <Name lang="sv">Italien</Name>
       <Name lang="en">Italy</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>IT</Code>
+      <Name lang="fi">Italia</Name>
+      <Name lang="sv">Italien</Name>
+      <Name lang="en">Italy</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29696,6 +29859,14 @@
       <Name lang="sv">Litauen</Name>
       <Name lang="en">Lithuania</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>LT</Code>
+      <Name lang="fi">Liettua</Name>
+      <Name lang="sv">Litauen</Name>
+      <Name lang="en">Lithuania</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29720,6 +29891,14 @@
       <Name lang="sv">Lettland</Name>
       <Name lang="en">Latvia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>LV</Code>
+      <Name lang="fi">Latvia</Name>
+      <Name lang="sv">Lettland</Name>
+      <Name lang="en">Latvia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29744,6 +29923,14 @@
       <Name lang="sv">Malta</Name>
       <Name lang="en">Malta</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MT</Code>
+      <Name lang="fi">Malta</Name>
+      <Name lang="sv">Malta</Name>
+      <Name lang="en">Malta</Name>
+      <StartDate>2022-10-06</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29752,6 +29939,14 @@
       <Name lang="sv">Nederländerna</Name>
       <Name lang="en">Netherlands</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NL</Code>
+      <Name lang="fi">Alankomaat</Name>
+      <Name lang="sv">Nederländerna</Name>
+      <Name lang="en">Netherlands</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29760,6 +29955,14 @@
       <Name lang="sv">Norge</Name>
       <Name lang="en">Norway</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NO</Code>
+      <Name lang="fi">Norja</Name>
+      <Name lang="sv">Norge</Name>
+      <Name lang="en">Norway</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29768,6 +29971,14 @@
       <Name lang="sv">Polen</Name>
       <Name lang="en">Poland</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PL</Code>
+      <Name lang="fi">Puola</Name>
+      <Name lang="sv">Polen</Name>
+      <Name lang="en">Poland</Name>
+      <StartDate>2022-10-06</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29776,6 +29987,14 @@
       <Name lang="sv">Portugal</Name>
       <Name lang="en">Portugal</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PT</Code>
+      <Name lang="fi">Portugali</Name>
+      <Name lang="sv">Portugal</Name>
+      <Name lang="en">Portugal</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29784,6 +30003,14 @@
       <Name lang="sv">Rumänien</Name>
       <Name lang="en">Romania</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>RO</Code>
+      <Name lang="fi">Romania</Name>
+      <Name lang="sv">Rumänien</Name>
+      <Name lang="en">Romania</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29792,6 +30019,14 @@
       <Name lang="sv">Serbien</Name>
       <Name lang="en">Serbia</Name>
       <StartDate>2007-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>RS</Code>
+      <Name lang="fi">Serbia</Name>
+      <Name lang="sv">Serbien</Name>
+      <Name lang="en">Serbia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29800,6 +30035,14 @@
       <Name lang="sv">Sverige</Name>
       <Name lang="en">Sweden</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SE</Code>
+      <Name lang="fi">Ruotsi</Name>
+      <Name lang="sv">Sverige</Name>
+      <Name lang="en">Sweden</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29808,6 +30051,14 @@
       <Name lang="sv">Slovenien</Name>
       <Name lang="en">Slovenia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SI</Code>
+      <Name lang="fi">Slovenia</Name>
+      <Name lang="sv">Slovenien</Name>
+      <Name lang="en">Slovenia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29816,6 +30067,14 @@
       <Name lang="sv">Slovakien</Name>
       <Name lang="en">Slovakia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SK</Code>
+      <Name lang="fi">Slovakia</Name>
+      <Name lang="sv">Slovakien</Name>
+      <Name lang="en">Slovakia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29824,6 +30083,14 @@
       <Name lang="sv">San Marino</Name>
       <Name lang="en">San Marino</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SM</Code>
+      <Name lang="fi">San Marino</Name>
+      <Name lang="sv">San Marino</Name>
+      <Name lang="en">San Marino</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -29856,6 +30123,16 @@
       <Name lang="sv">Nordirland</Name>
       <Name lang="en">Northern Ireland</Name>
       <StartDate>2021-01-01</StartDate>
+      <EndDate>2022-12-14</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>XI</Code>
+      <Name lang="fi">Pohjois-Irlanti</Name>
+      <Name lang="sv">Förenade kungariket (Nordirland)</Name>
+      <Description lang="sv">Nordirland</Description>
+      <Name lang="en">United Kingdom (Northern Ireland)</Name>
+      <Description lang="en">Northern Ireland</Description>
+      <StartDate>2022-12-15</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
@@ -30717,6 +30994,7 @@ the defective goods</Description>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
+        <Value>0</Value>
       </Filter>
       <Filter>
         <Name>Filter_EXP</Name>
@@ -37337,6 +37615,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Andorra</Name>
       <Name lang="en">Andorra</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AD</Code>
+      <Name lang="fi">Andorra</Name>
+      <Name lang="sv">Andorra</Name>
+      <Name lang="en">Andorra</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37345,6 +37631,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Arabemiraten</Name>
       <Name lang="en">Arab Emirates</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AE</Code>
+      <Name lang="fi">Yhdistyneet arabiemiirikunnat</Name>
+      <Name lang="sv">Förenade Arabemiraten</Name>
+      <Description lang="sv">Arabemiraten</Description>
+      <Name lang="en">United Arab Emirates</Name>
+      <Description lang="en">Arab Emirates</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37353,6 +37649,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Afghanistan</Name>
       <Name lang="en">Afghanistan</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AF</Code>
+      <Name lang="fi">Afganistan</Name>
+      <Name lang="sv">Afghanistan</Name>
+      <Name lang="en">Afghanistan</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37361,6 +37665,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Antigua och Barbuda</Name>
       <Name lang="en">Antigua and Barbuda</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AG</Code>
+      <Name lang="fi">Antigua ja Barbuda</Name>
+      <Name lang="sv">Antigua och Barbuda</Name>
+      <Name lang="en">Antigua and Barbuda</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37369,6 +37681,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Anguilla</Name>
       <Name lang="en">Anguilla</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AI</Code>
+      <Name lang="fi">Anguilla</Name>
+      <Name lang="sv">Anguilla</Name>
+      <Name lang="en">Anguilla</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37377,6 +37697,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Albanien</Name>
       <Name lang="en">Albania</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AL</Code>
+      <Name lang="fi">Albania</Name>
+      <Name lang="sv">Albanien</Name>
+      <Name lang="en">Albania</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37385,6 +37713,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Armenien</Name>
       <Name lang="en">Armenia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AM</Code>
+      <Name lang="fi">Armenia</Name>
+      <Name lang="sv">Armenien</Name>
+      <Name lang="en">Armenia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37393,6 +37729,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Angola</Name>
       <Name lang="en">Angola</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AO</Code>
+      <Name lang="fi">Angola</Name>
+      <Name lang="sv">Angola</Name>
+      <Name lang="en">Angola</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37401,6 +37745,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Antarktis</Name>
       <Name lang="en">Antarctica</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AQ</Code>
+      <Name lang="fi">Etelämanner</Name>
+      <Name lang="sv">Antarktis</Name>
+      <Name lang="en">Antarctica</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37409,6 +37761,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Argentina</Name>
       <Name lang="en">Argentina</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2023-03-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AR</Code>
+      <Name lang="fi">Argentiina</Name>
+      <Name lang="sv">Argentina</Name>
+      <Name lang="en">Argentina</Name>
+      <StartDate>2023-03-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37417,6 +37777,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Amerikanska Samoa</Name>
       <Name lang="en">American Samoa</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AS</Code>
+      <Name lang="fi">Amerikan Samoa</Name>
+      <Name lang="sv">Amerikanska Samoa</Name>
+      <Name lang="en">American Samoa</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37425,6 +37793,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Österrike</Name>
       <Name lang="en">Austria</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AT</Code>
+      <Name lang="fi">Itävalta</Name>
+      <Name lang="sv">Österrike</Name>
+      <Name lang="en">Austria</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37433,6 +37809,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Australien</Name>
       <Name lang="en">Australia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AU</Code>
+      <Name lang="fi">Australia</Name>
+      <Name lang="sv">Australien</Name>
+      <Name lang="en">Australia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37441,6 +37825,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Aruba</Name>
       <Name lang="en">Aruba</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AW</Code>
+      <Name lang="fi">Aruba</Name>
+      <Name lang="sv">Aruba</Name>
+      <Name lang="en">Aruba</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37449,6 +37841,24 @@ customs warehousing procedure</Description>
       <Name lang="sv">Åland</Name>
       <Name lang="en">Åland</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AX</Code>
+      <Name lang="fi">Ahvenanmaa</Name>
+      <Name lang="sv">Åland</Name>
+      <Name lang="en">ÅLAND ISLANDS</Name>
+      <Description lang="en">Åland</Description>
+      <StartDate>2022-09-30</StartDate>
+      <EndDate>2023-11-27</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AX</Code>
+      <Name lang="fi">Ahvenanmaa</Name>
+      <Name lang="sv">Åland</Name>
+      <Name lang="en">ÅLAND ISLANDS</Name>
+      <Description lang="en">Åland</Description>
+      <StartDate>2023-11-28</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37457,6 +37867,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Azerbajdzjan</Name>
       <Name lang="en">Azerbaijan</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>AZ</Code>
+      <Name lang="fi">Azerbaidžan</Name>
+      <Name lang="sv">Azerbajdzjan</Name>
+      <Name lang="en">Azerbaijan</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37465,6 +37883,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Bosnien och Hercegovina</Name>
       <Name lang="en">Bosnia and Herzegovina</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BA</Code>
+      <Name lang="fi">Bosnia ja Hertsegovina</Name>
+      <Name lang="sv">Bosnien och Hercegovina</Name>
+      <Name lang="en">Bosnia and Herzegovina</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37473,6 +37899,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Barbados</Name>
       <Name lang="en">Barbados</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BB</Code>
+      <Name lang="fi">Barbados</Name>
+      <Name lang="sv">Barbados</Name>
+      <Name lang="en">Barbados</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37481,6 +37915,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Bangladesh</Name>
       <Name lang="en">Bangladesh</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BD</Code>
+      <Name lang="fi">Bangladesh</Name>
+      <Name lang="sv">Bangladesh</Name>
+      <Name lang="en">Bangladesh</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37489,6 +37931,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Belgien</Name>
       <Name lang="en">Belgium</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BE</Code>
+      <Name lang="fi">Belgia</Name>
+      <Name lang="sv">Belgien</Name>
+      <Name lang="en">Belgium</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37497,6 +37947,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Burkina Faso</Name>
       <Name lang="en">Burkina Faso</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BF</Code>
+      <Name lang="fi">Burkina Faso</Name>
+      <Name lang="sv">Burkina Faso</Name>
+      <Name lang="en">Burkina Faso</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37505,6 +37963,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Bulgarien</Name>
       <Name lang="en">Bulgaria</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BG</Code>
+      <Name lang="fi">Bulgaria</Name>
+      <Name lang="sv">Bulgarien</Name>
+      <Name lang="en">Bulgaria</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37513,6 +37979,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Bahrain</Name>
       <Name lang="en">Bahrain</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BH</Code>
+      <Name lang="fi">Bahrain</Name>
+      <Name lang="sv">Bahrain</Name>
+      <Name lang="en">Bahrain</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37521,6 +37995,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Burundi</Name>
       <Name lang="en">Burundi</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BI</Code>
+      <Name lang="fi">Burundi</Name>
+      <Name lang="sv">Burundi</Name>
+      <Name lang="en">Burundi</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37529,6 +38011,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Benin</Name>
       <Name lang="en">Benin</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BJ</Code>
+      <Name lang="fi">Benin</Name>
+      <Name lang="sv">Benin</Name>
+      <Name lang="en">Benin</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37537,6 +38027,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Saint Barthélemy</Name>
       <Name lang="en">Saint Barthélemy</Name>
       <StartDate>2012-12-19</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BL</Code>
+      <Name lang="fi">Saint-Barthélemy</Name>
+      <Description lang="fi">Saint Barthélemy</Description>
+      <Name lang="sv">Saint-Barthélemy</Name>
+      <Description lang="sv">Saint Barthélemy</Description>
+      <Name lang="en">Saint Barthélemy</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37545,6 +38045,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Bermuda</Name>
       <Name lang="en">Bermuda</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BM</Code>
+      <Name lang="fi">Bermuda</Name>
+      <Name lang="sv">Bermuda</Name>
+      <Name lang="en">Bermuda</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37553,6 +38061,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Brunei</Name>
       <Name lang="en">Brunei</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BN</Code>
+      <Name lang="fi">Brunei Darussalamin valtio</Name>
+      <Name lang="sv">Brunei</Name>
+      <Name lang="en">Brunei Darussalam</Name>
+      <Description lang="en">Brunei</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37579,6 +38096,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Bonaire, Sint Eustatius och Saba</Name>
       <Name lang="en">Bonaire, Sint Eustatius and Saba</Name>
       <StartDate>2012-03-07</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BQ</Code>
+      <Name lang="fi">Bonaire, Sint Eustatius ja Saba</Name>
+      <Name lang="sv">Bonaire, Sint Eustatius och Saba</Name>
+      <Name lang="en">Bonaire, Sint Eustatius and Saba</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37587,6 +38112,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Brasilien</Name>
       <Name lang="en">Brazil</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BR</Code>
+      <Name lang="fi">Brasilia</Name>
+      <Name lang="sv">Brasilien</Name>
+      <Name lang="en">Brazil</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37595,6 +38128,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Bahamas</Name>
       <Name lang="en">Bahamas</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BS</Code>
+      <Name lang="fi">Bahama</Name>
+      <Name lang="sv">Bahamas</Name>
+      <Name lang="en">Bahamas</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37603,6 +38144,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Bhutan</Name>
       <Name lang="en">Bhutan</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BT</Code>
+      <Name lang="fi">Bhutan</Name>
+      <Name lang="sv">Bhutan</Name>
+      <Name lang="en">Bhutan</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37611,6 +38160,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Bouvetön</Name>
       <Name lang="en">Bouvet Island</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BV</Code>
+      <Name lang="fi">Bouvet’n saari</Name>
+      <Description lang="fi">Bouvet'n saari</Description>
+      <Name lang="sv">Bouvetön</Name>
+      <Name lang="en">Bouvet Island</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37619,6 +38177,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Botswana</Name>
       <Name lang="en">Botswana</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BW</Code>
+      <Name lang="fi">Botswana</Name>
+      <Name lang="sv">Botswana</Name>
+      <Name lang="en">Botswana</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37627,6 +38193,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Belarus</Name>
       <Name lang="en">Belarus</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BY</Code>
+      <Name lang="fi">Valko-Venäjä</Name>
+      <Name lang="sv">Vitryssland</Name>
+      <Description lang="sv">Belarus</Description>
+      <Name lang="en">Belarus</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37635,6 +38210,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Belize</Name>
       <Name lang="en">Belize</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>BZ</Code>
+      <Name lang="fi">Belize</Name>
+      <Name lang="sv">Belize</Name>
+      <Name lang="en">Belize</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37643,6 +38226,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Canada</Name>
       <Name lang="en">Canada</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CA</Code>
+      <Name lang="fi">Kanada</Name>
+      <Name lang="sv">Kanada</Name>
+      <Description lang="sv">Canada</Description>
+      <Name lang="en">Canada</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37651,6 +38243,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kokosöarna</Name>
       <Name lang="en">Cocos Islands</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CC</Code>
+      <Name lang="fi">Kookossaaret (tai Keelingsaaret)</Name>
+      <Name lang="sv">Kokosöarna (eller Keelingöarna)</Name>
+      <Description lang="sv">Kokosöarna</Description>
+      <Name lang="en">Cocos Islands (or Keeling Islands)</Name>
+      <Description lang="en">Cocos Islands</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37659,6 +38261,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kongo demokratiska republiken</Name>
       <Name lang="en">Democratic Republic of Congo</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CD</Code>
+      <Name lang="fi">Kongon demokraattinen tasavalta</Name>
+      <Name lang="sv">Demokratiska republiken Kongo</Name>
+      <Description lang="sv">Kongo demokratiska republiken</Description>
+      <Name lang="en">Congo, Democratic Republic of</Name>
+      <Description lang="en">Democratic Republic of Congo</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37667,6 +38279,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Centralafrikanska republiken</Name>
       <Name lang="en">Central African Republic</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CF</Code>
+      <Name lang="fi">Keski-Afrikan tasavalta</Name>
+      <Name lang="sv">Centralafrikanska republiken</Name>
+      <Name lang="en">Central African Republic</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37675,6 +38295,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kongo</Name>
       <Name lang="en">Congo</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CG</Code>
+      <Name lang="fi">Kongo</Name>
+      <Name lang="sv">Kongo</Name>
+      <Name lang="en">Congo</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37683,6 +38311,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Schweiz</Name>
       <Name lang="en">Switzerland</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CH</Code>
+      <Name lang="fi">Sveitsi</Name>
+      <Name lang="sv">Schweiz</Name>
+      <Name lang="en">Switzerland</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37691,6 +38327,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Elfenbenskusten</Name>
       <Name lang="en">Ivory Coast</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CI</Code>
+      <Name lang="fi">Norsunluurannikko</Name>
+      <Name lang="sv">Elfenbenskusten</Name>
+      <Name lang="en">Côte d'Ivoire</Name>
+      <Description lang="en">Ivory Coast</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37699,6 +38344,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Cooköarna</Name>
       <Name lang="en">Cook Islands</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CK</Code>
+      <Name lang="fi">Cookinsaaret</Name>
+      <Name lang="sv">Cooköarna</Name>
+      <Name lang="en">Cook Islands</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37707,6 +38360,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Chile</Name>
       <Name lang="en">Chile</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CL</Code>
+      <Name lang="fi">Chile</Name>
+      <Name lang="sv">Chile</Name>
+      <Name lang="en">Chile</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37715,6 +38376,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kamerun</Name>
       <Name lang="en">Cameroon</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CM</Code>
+      <Name lang="fi">Kamerun</Name>
+      <Name lang="sv">Kamerun</Name>
+      <Name lang="en">Cameroon</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37723,6 +38392,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kina</Name>
       <Name lang="en">China</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CN</Code>
+      <Name lang="fi">Kiina</Name>
+      <Name lang="sv">Kina</Name>
+      <Name lang="en">China</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37731,6 +38408,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Colombia</Name>
       <Name lang="en">Colombia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CO</Code>
+      <Name lang="fi">Kolumbia</Name>
+      <Name lang="sv">Colombia</Name>
+      <Name lang="en">Colombia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37739,6 +38424,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Costa Rica</Name>
       <Name lang="en">Costa Rica</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CR</Code>
+      <Name lang="fi">Costa Rica</Name>
+      <Name lang="sv">Costa Rica</Name>
+      <Name lang="en">Costa Rica</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37747,6 +38440,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kuba</Name>
       <Name lang="en">Cuba</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CU</Code>
+      <Name lang="fi">Kuuba</Name>
+      <Name lang="sv">Kuba</Name>
+      <Name lang="en">Cuba</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37755,6 +38456,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kap Verde</Name>
       <Name lang="en">Cape Verde</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CV</Code>
+      <Name lang="fi">Kap Verde</Name>
+      <Name lang="sv">Kap Verde</Name>
+      <Name lang="en">Cape Verde</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37763,6 +38472,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Curaçao</Name>
       <Name lang="en">Curaçao</Name>
       <StartDate>2012-03-07</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CW</Code>
+      <Name lang="fi">Curaçao</Name>
+      <Name lang="sv">Curaçao</Name>
+      <Name lang="en">Curaçao</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37771,6 +38488,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Julön</Name>
       <Name lang="en">Christmas Island</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CX</Code>
+      <Name lang="fi">Joulusaari</Name>
+      <Name lang="sv">Julön</Name>
+      <Name lang="en">Christmas Island</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37779,6 +38504,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Cypern</Name>
       <Name lang="en">Cyprus</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CY</Code>
+      <Name lang="fi">Kypros</Name>
+      <Name lang="sv">Cypern</Name>
+      <Name lang="en">Cyprus</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37796,6 +38529,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tjeckien</Name>
       <Name lang="en">Czechia</Name>
       <StartDate>2020-12-31</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>CZ</Code>
+      <Name lang="fi">Tšekki</Name>
+      <Description lang="fi">Tsekki</Description>
+      <Name lang="sv">Tjeckien</Name>
+      <Name lang="en">Czechia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37804,6 +38546,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tyskland</Name>
       <Name lang="en">Germany</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DE</Code>
+      <Name lang="fi">Saksa</Name>
+      <Name lang="sv">Tyskland</Name>
+      <Name lang="en">Germany</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37812,6 +38562,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Djibouti</Name>
       <Name lang="en">Djibouti</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DJ</Code>
+      <Name lang="fi">Djibouti</Name>
+      <Name lang="sv">Djibouti</Name>
+      <Name lang="en">Djibouti</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37820,6 +38578,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Danmark</Name>
       <Name lang="en">Denmark</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DK</Code>
+      <Name lang="fi">Tanska</Name>
+      <Name lang="sv">Danmark</Name>
+      <Name lang="en">Denmark</Name>
+      <StartDate>2022-10-06</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37828,6 +38594,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Dominica</Name>
       <Name lang="en">Dominika</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DM</Code>
+      <Name lang="fi">Dominica</Name>
+      <Name lang="sv">Dominica</Name>
+      <Name lang="en">Dominica</Name>
+      <Description lang="en">Dominika</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37836,6 +38611,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Dominikanska republiken</Name>
       <Name lang="en">Dominican Republic</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DO</Code>
+      <Name lang="fi">Dominikaaninen tasavalta</Name>
+      <Name lang="sv">Dominikanska republiken</Name>
+      <Name lang="en">Dominican Republic</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37844,6 +38627,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Algeriet</Name>
       <Name lang="en">Algeria</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>DZ</Code>
+      <Name lang="fi">Algeria</Name>
+      <Name lang="sv">Algeriet</Name>
+      <Name lang="en">Algeria</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37852,6 +38643,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Ecuador</Name>
       <Name lang="en">Ecuador</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>EC</Code>
+      <Name lang="fi">Ecuador</Name>
+      <Name lang="sv">Ecuador</Name>
+      <Name lang="en">Ecuador</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37860,6 +38659,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Estland</Name>
       <Name lang="en">Estonia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>EE</Code>
+      <Name lang="fi">Viro</Name>
+      <Name lang="sv">Estland</Name>
+      <Name lang="en">Estonia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37868,6 +38675,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Egypten</Name>
       <Name lang="en">Egypt</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>EG</Code>
+      <Name lang="fi">Egypti</Name>
+      <Name lang="sv">Egypten</Name>
+      <Name lang="en">Egypt</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37876,6 +38691,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Västsahara</Name>
       <Name lang="en">Western Sahara</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>EH</Code>
+      <Name lang="fi">Länsi-Sahara</Name>
+      <Name lang="sv">Västsahara</Name>
+      <Name lang="en">Western Sahara</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37884,6 +38707,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Eritrea</Name>
       <Name lang="en">Eritrea</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ER</Code>
+      <Name lang="fi">Eritrea</Name>
+      <Name lang="sv">Eritrea</Name>
+      <Name lang="en">Eritrea</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37892,6 +38723,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Spanien</Name>
       <Name lang="en">Spain</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ES</Code>
+      <Name lang="fi">Espanja</Name>
+      <Name lang="sv">Spanien</Name>
+      <Name lang="en">Spain</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37900,6 +38739,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Etiopien</Name>
       <Name lang="en">Ethiopia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ET</Code>
+      <Name lang="fi">Etiopia</Name>
+      <Name lang="sv">Etiopien</Name>
+      <Name lang="en">Ethiopia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37924,6 +38771,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Finland</Name>
       <Name lang="en">Finland</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>FI</Code>
+      <Name lang="fi">Suomi</Name>
+      <Name lang="sv">Finland</Name>
+      <Name lang="en">Finland</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37933,6 +38788,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Fiji</Name>
       <Name lang="en">Fiji</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>FJ</Code>
+      <Name lang="fi">Fidži</Name>
+      <Description lang="fi">Fidzi</Description>
+      <Name lang="sv">Fiji</Name>
+      <Name lang="en">Fiji</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37941,6 +38805,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Falklandsöarna</Name>
       <Name lang="en">Falkland Islands</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>FK</Code>
+      <Name lang="fi">Falklandinsaaret</Name>
+      <Name lang="sv">Falklandsöarna</Name>
+      <Name lang="en">Falkland Islands</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37949,6 +38821,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Mikronesien</Name>
       <Name lang="en">Micronesia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>FM</Code>
+      <Name lang="fi">Mikronesian liittovaltio</Name>
+      <Description lang="fi">Mikronesia</Description>
+      <Name lang="sv">Mikronesien</Name>
+      <Name lang="en">Micronesia, Federated States of</Name>
+      <Description lang="en">Micronesia</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37957,6 +38839,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Färöarna</Name>
       <Name lang="en">Faroe Islands</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>FO</Code>
+      <Name lang="fi">Färsaaret</Name>
+      <Name lang="sv">Färöarna</Name>
+      <Name lang="en">Faroe Islands</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37966,6 +38856,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Frankrike</Name>
       <Name lang="en">France</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>FR</Code>
+      <Name lang="fi">Ranska</Name>
+      <Description lang="fi">Ranska - ml. Monaco ja Ranskan merentakaiset departementit (Guadeloupe, Martinique, Ranskan Guyana ja Réunion)</Description>
+      <Name lang="sv">Frankrike</Name>
+      <Name lang="en">France</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37974,6 +38873,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Gabon</Name>
       <Name lang="en">Gabon</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GA</Code>
+      <Name lang="fi">Gabon</Name>
+      <Name lang="sv">Gabon</Name>
+      <Name lang="en">Gabon</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37982,6 +38889,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Storbritannien</Name>
       <Name lang="en">United Kingdom</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-12-08</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GB</Code>
+      <Name lang="fi">Iso-Britannia</Name>
+      <Name lang="sv">Förenade kungariket</Name>
+      <Description lang="sv">Storbritannien</Description>
+      <Name lang="en">United Kingdom</Name>
+      <StartDate>2022-12-09</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37990,6 +38906,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Grenada</Name>
       <Name lang="en">Grenada</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GD</Code>
+      <Name lang="fi">Grenada</Name>
+      <Name lang="sv">Grenada</Name>
+      <Name lang="en">Grenada</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -37998,6 +38922,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Georgien</Name>
       <Name lang="en">Georgia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GE</Code>
+      <Name lang="fi">Georgia</Name>
+      <Name lang="sv">Georgien</Name>
+      <Name lang="en">Georgia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38006,6 +38938,26 @@ customs warehousing procedure</Description>
       <Name lang="sv">Fransk Guiana</Name>
       <Name lang="en">French  Guiana</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-11-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GF</Code>
+      <Name lang="fi">Ranskan Guayana</Name>
+      <Name lang="sv">Franska Guyana</Name>
+      <Description lang="sv">Fransk Guiana</Description>
+      <Name lang="en">French Guyana</Name>
+      <Description lang="en">French  Guiana</Description>
+      <StartDate>2022-11-30</StartDate>
+      <EndDate>2023-11-27</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GF</Code>
+      <Name lang="fi">Ranskan Guayana</Name>
+      <Name lang="sv">Franska Guyana</Name>
+      <Description lang="sv">Fransk Guiana</Description>
+      <Name lang="en">French Guyana</Name>
+      <Description lang="en">French  Guiana</Description>
+      <StartDate>2023-11-28</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38030,6 +38982,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Ghana</Name>
       <Name lang="en">Ghana</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GH</Code>
+      <Name lang="fi">Ghana</Name>
+      <Name lang="sv">Ghana</Name>
+      <Name lang="en">Ghana</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38038,6 +38998,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Gibraltar</Name>
       <Name lang="en">Gibraltar</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GI</Code>
+      <Name lang="fi">Gibraltar</Name>
+      <Name lang="sv">Gibraltar</Name>
+      <Name lang="en">Gibraltar</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38046,6 +39014,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Grönland</Name>
       <Name lang="en">Greenland</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GL</Code>
+      <Name lang="fi">Grönlanti</Name>
+      <Name lang="sv">Grönland</Name>
+      <Name lang="en">Greenland</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38054,6 +39030,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Gambia</Name>
       <Name lang="en">Gambia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GM</Code>
+      <Name lang="fi">Gambia</Name>
+      <Name lang="sv">Gambia</Name>
+      <Name lang="en">Gambia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38062,6 +39046,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Guinea</Name>
       <Name lang="en">Guinea</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GN</Code>
+      <Name lang="fi">Guinea</Name>
+      <Name lang="sv">Guinea</Name>
+      <Name lang="en">Guinea</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38070,6 +39062,22 @@ customs warehousing procedure</Description>
       <Name lang="sv">Guadeloupe</Name>
       <Name lang="en">Guadeloupe</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-11-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GP</Code>
+      <Name lang="fi">Guadeloupe</Name>
+      <Name lang="sv">Guadeloupe</Name>
+      <Name lang="en">Guadeloupe</Name>
+      <StartDate>2022-11-30</StartDate>
+      <EndDate>2023-11-27</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GP</Code>
+      <Name lang="fi">Guadeloupe</Name>
+      <Name lang="sv">Guadeloupe</Name>
+      <Name lang="en">Guadeloupe</Name>
+      <StartDate>2023-11-28</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38078,6 +39086,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Ekvatorialguinea</Name>
       <Name lang="en">Equatorial Guinea</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GQ</Code>
+      <Name lang="fi">Päiväntasaajan Guinea</Name>
+      <Name lang="sv">Ekvatorialguinea</Name>
+      <Name lang="en">Equatorial Guinea</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38086,6 +39102,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Grekland</Name>
       <Name lang="en">Greece</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GR</Code>
+      <Name lang="fi">Kreikka</Name>
+      <Name lang="sv">Grekland</Name>
+      <Name lang="en">Greece</Name>
+      <StartDate>2022-10-06</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38094,6 +39118,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Sydgeorgien och sydliga Sandwich</Name>
       <Name lang="en">South Georgia and South Sandwich Islands</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GS</Code>
+      <Name lang="fi">Etelä-Georgia ja Eteläiset Sandwichsaaret</Name>
+      <Name lang="sv">Sydgeorgien och Sydsandwichöarna</Name>
+      <Description lang="sv">Sydgeorgien och sydliga Sandwich</Description>
+      <Name lang="en">South Georgia and South Sandwich</Name>
+      <Description lang="en">South Georgia and South Sandwich Islands</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38102,6 +39136,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Guatemala</Name>
       <Name lang="en">Guatemala</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GT</Code>
+      <Name lang="fi">Guatemala</Name>
+      <Name lang="sv">Guatemala</Name>
+      <Name lang="en">Guatemala</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38110,6 +39152,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Guam</Name>
       <Name lang="en">Guam</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GU</Code>
+      <Name lang="fi">Guam</Name>
+      <Name lang="sv">Guam</Name>
+      <Name lang="en">Guam</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38118,6 +39168,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Guinea-Bissau</Name>
       <Name lang="en">Guinea-Bissau</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GW</Code>
+      <Name lang="fi">Guinea-Bissau</Name>
+      <Name lang="sv">Guinea-Bissau</Name>
+      <Name lang="en">Guinea-Bissau</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38126,6 +39184,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Guyana</Name>
       <Name lang="en">Guyana</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>GY</Code>
+      <Name lang="fi">Guyana</Name>
+      <Name lang="sv">Guyana</Name>
+      <Name lang="en">Guyana</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38134,6 +39200,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Hongkong</Name>
       <Name lang="en">Hong Kong</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>HK</Code>
+      <Name lang="fi">Hongkong</Name>
+      <Name lang="sv">Hongkong</Name>
+      <Name lang="en">Hong Kong</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38142,6 +39216,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Heard- och McDonaldöarna</Name>
       <Name lang="en">Heard Island and McDonald Islands</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>HM</Code>
+      <Name lang="fi">Heard ja McDonaldinsaaret</Name>
+      <Name lang="sv">Heardön och McDonaldöarna</Name>
+      <Description lang="sv">Heard- och McDonaldöarna</Description>
+      <Name lang="en">Heard Island and McDonald Islands</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38150,6 +39233,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Honduras</Name>
       <Name lang="en">Honduras</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>HN</Code>
+      <Name lang="fi">Honduras</Name>
+      <Name lang="sv">Honduras</Name>
+      <Name lang="en">Honduras</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38158,6 +39249,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kroatien</Name>
       <Name lang="en">Croatia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>HR</Code>
+      <Name lang="fi">Kroatia</Name>
+      <Name lang="sv">Kroatien</Name>
+      <Name lang="en">Croatia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38166,6 +39265,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Haiti</Name>
       <Name lang="en">Haiti</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>HT</Code>
+      <Name lang="fi">Haiti</Name>
+      <Name lang="sv">Haiti</Name>
+      <Name lang="en">Haiti</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38174,6 +39281,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Ungern</Name>
       <Name lang="en">Hungary</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>HU</Code>
+      <Name lang="fi">Unkari</Name>
+      <Name lang="sv">Ungern</Name>
+      <Name lang="en">Hungary</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38182,6 +39297,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Indonesien</Name>
       <Name lang="en">Indonesia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ID</Code>
+      <Name lang="fi">Indonesia</Name>
+      <Name lang="sv">Indonesien</Name>
+      <Name lang="en">Indonesia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38190,6 +39313,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Irland</Name>
       <Name lang="en">Ireland</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>IE</Code>
+      <Name lang="fi">Irlanti</Name>
+      <Name lang="sv">Irland</Name>
+      <Name lang="en">Ireland</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38198,6 +39329,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Israel</Name>
       <Name lang="en">Israel</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>IL</Code>
+      <Name lang="fi">Israel</Name>
+      <Name lang="sv">Israel</Name>
+      <Name lang="en">Israel</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38216,6 +39355,16 @@ customs warehousing procedure</Description>
       <Description lang="sv">Isle of Man</Description>
       <Name lang="en">Isle of Man</Name>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2023-11-27</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>IM</Code>
+      <Name lang="fi">Isle of Man .{en}.</Name>
+      <Description lang="fi">Mansaari</Description>
+      <Name lang="sv">Isle of Man .{en}.</Name>
+      <Description lang="sv">Isle of Man</Description>
+      <Name lang="en">Isle of Man</Name>
+      <StartDate>2023-11-28</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38224,6 +39373,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Indien</Name>
       <Name lang="en">India</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>IN</Code>
+      <Name lang="fi">Intia</Name>
+      <Name lang="sv">Indien</Name>
+      <Name lang="en">India</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38232,6 +39389,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Britt. Indiska Oceanien</Name>
       <Name lang="en">British Indian Ocean Territory</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>IO</Code>
+      <Name lang="fi">Brittiläinen Intian valtameren alue</Name>
+      <Name lang="sv">Brittiska territoriet i Indiska Oc</Name>
+      <Description lang="sv">Britt. Indiska Oceanien</Description>
+      <Name lang="en">British Indian Ocean Territory</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38240,6 +39406,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Irak</Name>
       <Name lang="en">Iraq</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>IQ</Code>
+      <Name lang="fi">Irak</Name>
+      <Name lang="sv">Irak</Name>
+      <Name lang="en">Iraq</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38248,6 +39422,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Iran</Name>
       <Name lang="en">Iran</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>IR</Code>
+      <Name lang="fi">Iranin islamilainen tasavalta</Name>
+      <Name lang="sv">Iran</Name>
+      <Name lang="en">Iran, Islamic Republic of</Name>
+      <Description lang="en">Iran</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38256,6 +39439,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Island</Name>
       <Name lang="en">Iceland</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>IS</Code>
+      <Name lang="fi">Islanti</Name>
+      <Name lang="sv">Island</Name>
+      <Name lang="en">Iceland</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38264,6 +39455,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Italien</Name>
       <Name lang="en">Italy</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>IT</Code>
+      <Name lang="fi">Italia</Name>
+      <Name lang="sv">Italien</Name>
+      <Name lang="en">Italy</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38288,6 +39487,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Jamaica</Name>
       <Name lang="en">Jamaica</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>JM</Code>
+      <Name lang="fi">Jamaika</Name>
+      <Name lang="sv">Jamaica</Name>
+      <Name lang="en">Jamaica</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38296,6 +39503,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Jordanien</Name>
       <Name lang="en">Jordan</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>JO</Code>
+      <Name lang="fi">Jordania</Name>
+      <Name lang="sv">Jordanien</Name>
+      <Name lang="en">Jordan</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38304,6 +39519,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Japan</Name>
       <Name lang="en">Japan</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>JP</Code>
+      <Name lang="fi">Japani</Name>
+      <Name lang="sv">Japan</Name>
+      <Name lang="en">Japan</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38312,6 +39535,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kenya</Name>
       <Name lang="en">Kenya</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2023-03-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KE</Code>
+      <Name lang="fi">Kenia</Name>
+      <Name lang="sv">Kenya</Name>
+      <Name lang="en">Kenya</Name>
+      <StartDate>2023-03-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38347,6 +39578,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Cambodja</Name>
       <Name lang="en">Cambodia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KH</Code>
+      <Name lang="fi">Kambodža</Name>
+      <Description lang="fi">Kambodza</Description>
+      <Name lang="sv">Kambodja</Name>
+      <Description lang="sv">Cambodja</Description>
+      <Name lang="en">Cambodia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38355,6 +39596,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kiribati</Name>
       <Name lang="en">Kiribati</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KI</Code>
+      <Name lang="fi">Kiribati</Name>
+      <Name lang="sv">Kiribati</Name>
+      <Name lang="en">Kiribati</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38363,6 +39612,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Komorerna</Name>
       <Name lang="en">Comoros</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KM</Code>
+      <Name lang="fi">Komorit</Name>
+      <Name lang="sv">Komorerna</Name>
+      <Name lang="en">Comoros</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38371,6 +39628,17 @@ customs warehousing procedure</Description>
       <Name lang="sv">St.Kitts ochNevis</Name>
       <Name lang="en">St.Kitts and Nevis</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KN</Code>
+      <Name lang="fi">St Kitts ja Nevis</Name>
+      <Description lang="fi">St. Kitts ja Nevis</Description>
+      <Name lang="sv">Saint Kitts och Nevis</Name>
+      <Description lang="sv">St.Kitts ochNevis</Description>
+      <Name lang="en">St Kitts and Nevis</Name>
+      <Description lang="en">St.Kitts and Nevis</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38380,6 +39648,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Nordkorea</Name>
       <Name lang="en">North Korea</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KP</Code>
+      <Name lang="fi">Korean demokraattinen kansantasavalta</Name>
+      <Description lang="fi">Korean demokraattinen kansantasavalta (Pohjois-Korea)</Description>
+      <Name lang="sv">Nordkorea</Name>
+      <Name lang="en">Korea, Democratic People’s Republ</Name>
+      <Description lang="en">North Korea</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38407,6 +39685,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kuwait</Name>
       <Name lang="en">Kuwait</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KW</Code>
+      <Name lang="fi">Kuwait</Name>
+      <Name lang="sv">Kuwait</Name>
+      <Name lang="en">Kuwait</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38415,6 +39701,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Caymanöarna</Name>
       <Name lang="en">Cayman Islands</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KY</Code>
+      <Name lang="fi">Caymansaaret</Name>
+      <Name lang="sv">Caymanöarna</Name>
+      <Name lang="en">Cayman Islands</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38423,6 +39717,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kazakstan</Name>
       <Name lang="en">Kazakhstan</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KZ</Code>
+      <Name lang="fi">Kazakstan</Name>
+      <Name lang="sv">Kazakstan</Name>
+      <Name lang="en">Kazakhstan</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38431,6 +39733,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Laos</Name>
       <Name lang="en">Laos</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2023-03-10</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>LA</Code>
+      <Name lang="fi">Laosin demokraattinen kansantasavalta</Name>
+      <Name lang="sv">Laos</Name>
+      <Name lang="en">Lao People’s Democratic Republic</Name>
+      <Description lang="en">Laos</Description>
+      <StartDate>2023-03-11</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38439,6 +39750,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Libanon</Name>
       <Name lang="en">Lebanon</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>LB</Code>
+      <Name lang="fi">Libanon</Name>
+      <Name lang="sv">Libanon</Name>
+      <Name lang="en">Lebanon</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38447,6 +39766,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">St. Lucia</Name>
       <Name lang="en">St. Lucia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>LC</Code>
+      <Name lang="fi">Saint Lucia</Name>
+      <Name lang="sv">Saint Lucia</Name>
+      <Description lang="sv">St. Lucia</Description>
+      <Name lang="en">St Lucia</Name>
+      <Description lang="en">St. Lucia</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38455,6 +39784,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Liechtenstein</Name>
       <Name lang="en">Liechtenstein</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>LI</Code>
+      <Name lang="fi">Liechtenstein</Name>
+      <Name lang="sv">Liechtenstein</Name>
+      <Name lang="en">Liechtenstein</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38463,6 +39800,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Sri Lanka</Name>
       <Name lang="en">Sri Lanka</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>LK</Code>
+      <Name lang="fi">Sri Lanka</Name>
+      <Name lang="sv">Sri Lanka</Name>
+      <Name lang="en">Sri Lanka</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38471,6 +39816,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Liberia</Name>
       <Name lang="en">Liberia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>LR</Code>
+      <Name lang="fi">Liberia</Name>
+      <Name lang="sv">Liberia</Name>
+      <Name lang="en">Liberia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38479,6 +39832,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Lesotho</Name>
       <Name lang="en">Lesotho</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>LS</Code>
+      <Name lang="fi">Lesotho</Name>
+      <Name lang="sv">Lesotho</Name>
+      <Name lang="en">Lesotho</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38487,6 +39848,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Litauen</Name>
       <Name lang="en">Lithuania</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>LT</Code>
+      <Name lang="fi">Liettua</Name>
+      <Name lang="sv">Litauen</Name>
+      <Name lang="en">Lithuania</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38511,6 +39880,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Lettland</Name>
       <Name lang="en">Latvia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>LV</Code>
+      <Name lang="fi">Latvia</Name>
+      <Name lang="sv">Lettland</Name>
+      <Name lang="en">Latvia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38519,6 +39896,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Libyen</Name>
       <Name lang="en">Libya</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>LY</Code>
+      <Name lang="fi">Libya</Name>
+      <Name lang="sv">Libyen</Name>
+      <Name lang="en">Libya</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38527,6 +39912,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Marocko</Name>
       <Name lang="en">Morocco</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MA</Code>
+      <Name lang="fi">Marokko</Name>
+      <Name lang="sv">Marocko</Name>
+      <Name lang="en">Morocco</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38535,6 +39928,22 @@ customs warehousing procedure</Description>
       <Name lang="sv">Monaco</Name>
       <Name lang="en">Monaco</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MC</Code>
+      <Name lang="fi">Monaco</Name>
+      <Name lang="sv">Monaco</Name>
+      <Name lang="en">Monaco</Name>
+      <StartDate>2022-09-30</StartDate>
+      <EndDate>2023-11-27</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MC</Code>
+      <Name lang="fi">Monaco</Name>
+      <Name lang="sv">Monaco</Name>
+      <Name lang="en">Monaco</Name>
+      <StartDate>2023-11-28</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38560,6 +39969,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Montenegro</Name>
       <Name lang="en">Montenegro</Name>
       <StartDate>2007-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ME</Code>
+      <Name lang="fi">Montenegro</Name>
+      <Name lang="sv">Montenegro</Name>
+      <Name lang="en">Montenegro</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38585,6 +40002,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Madagaskar</Name>
       <Name lang="en">Madagascar</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MG</Code>
+      <Name lang="fi">Madagaskar</Name>
+      <Name lang="sv">Madagaskar</Name>
+      <Name lang="en">Madagascar</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38593,6 +40018,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Marshallöarna</Name>
       <Name lang="en">Marshall Islands</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MH</Code>
+      <Name lang="fi">Marshallinsaaret</Name>
+      <Name lang="sv">Marshallöarna</Name>
+      <Name lang="en">Marshall Islands</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38617,6 +40050,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Mali</Name>
       <Name lang="en">Mali</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ML</Code>
+      <Name lang="fi">Mali</Name>
+      <Name lang="sv">Mali</Name>
+      <Name lang="en">Mali</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38625,6 +40066,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Myanmar</Name>
       <Name lang="en">Myanmar</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-12-08</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MM</Code>
+      <Name lang="fi">Myanmar</Name>
+      <Name lang="sv">Myanmar</Name>
+      <Name lang="en">Myanmar</Name>
+      <StartDate>2022-12-09</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38633,6 +40082,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Mongoliet</Name>
       <Name lang="en">Mongolia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MN</Code>
+      <Name lang="fi">Mongolia</Name>
+      <Name lang="sv">Mongoliet</Name>
+      <Name lang="en">Mongolia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38641,6 +40098,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Macao</Name>
       <Name lang="en">Macau</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MO</Code>
+      <Name lang="fi">Macao</Name>
+      <Name lang="sv">Macao</Name>
+      <Name lang="en">Macao</Name>
+      <Description lang="en">Macau</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38649,6 +40115,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Nordmarianerna</Name>
       <Name lang="en">Northern Mariana Islands</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MP</Code>
+      <Name lang="fi">Pohjois-Mariaanit</Name>
+      <Name lang="sv">Nordmarianerna</Name>
+      <Name lang="en">Northern Mariana Islands</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38657,6 +40131,22 @@ customs warehousing procedure</Description>
       <Name lang="sv">Martinique</Name>
       <Name lang="en">Martinique</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MQ</Code>
+      <Name lang="fi">Martinique</Name>
+      <Name lang="sv">Martinique</Name>
+      <Name lang="en">Martinique</Name>
+      <StartDate>2022-09-30</StartDate>
+      <EndDate>2023-11-27</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MQ</Code>
+      <Name lang="fi">Martinique</Name>
+      <Name lang="sv">Martinique</Name>
+      <Name lang="en">Martinique</Name>
+      <StartDate>2023-11-28</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38665,6 +40155,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Mauretanien</Name>
       <Name lang="en">Mauritania</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MR</Code>
+      <Name lang="fi">Mauritania</Name>
+      <Name lang="sv">Mauretanien</Name>
+      <Name lang="en">Mauritania</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38673,6 +40171,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Montserrat</Name>
       <Name lang="en">Montserrat</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MS</Code>
+      <Name lang="fi">Montserrat</Name>
+      <Name lang="sv">Montserrat</Name>
+      <Name lang="en">Montserrat</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38681,6 +40187,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Malta</Name>
       <Name lang="en">Malta</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MT</Code>
+      <Name lang="fi">Malta</Name>
+      <Name lang="sv">Malta</Name>
+      <Name lang="en">Malta</Name>
+      <StartDate>2022-10-06</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38689,6 +40203,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Mauritius</Name>
       <Name lang="en">Mauritius</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MU</Code>
+      <Name lang="fi">Mauritius</Name>
+      <Name lang="sv">Mauritius</Name>
+      <Name lang="en">Mauritius</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38697,6 +40219,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Maldiverna</Name>
       <Name lang="en">Maldives</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MV</Code>
+      <Name lang="fi">Malediivit</Name>
+      <Name lang="sv">Maldiverna</Name>
+      <Name lang="en">Maldives</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38705,6 +40235,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Malawi</Name>
       <Name lang="en">Malawi</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MW</Code>
+      <Name lang="fi">Malawi</Name>
+      <Name lang="sv">Malawi</Name>
+      <Name lang="en">Malawi</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38713,6 +40251,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Mexiko</Name>
       <Name lang="en">Mexico</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MX</Code>
+      <Name lang="fi">Meksiko</Name>
+      <Name lang="sv">Mexiko</Name>
+      <Name lang="en">Mexico</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38721,6 +40267,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Malaysia</Name>
       <Name lang="en">Malaysia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MY</Code>
+      <Name lang="fi">Malesia</Name>
+      <Name lang="sv">Malaysia</Name>
+      <Name lang="en">Malaysia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38729,6 +40283,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Mocambique</Name>
       <Name lang="en">Mozambique</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>MZ</Code>
+      <Name lang="fi">Mosambik</Name>
+      <Name lang="sv">Moçambique</Name>
+      <Description lang="sv">Mocambique</Description>
+      <Name lang="en">Mozambique</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38737,6 +40300,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Namibia</Name>
       <Name lang="en">Namibia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NA</Code>
+      <Name lang="fi">Namibia</Name>
+      <Name lang="sv">Namibia</Name>
+      <Name lang="en">Namibia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38745,6 +40316,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Nya Kaledonien</Name>
       <Name lang="en">New Caledonia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NC</Code>
+      <Name lang="fi">Uusi-Kaledonia</Name>
+      <Name lang="sv">Nya Kaledonien</Name>
+      <Name lang="en">New Caledonia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38753,6 +40332,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Niger</Name>
       <Name lang="en">Niger</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-12-08</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NE</Code>
+      <Name lang="fi">Niger</Name>
+      <Name lang="sv">Niger</Name>
+      <Name lang="en">Niger</Name>
+      <StartDate>2022-12-09</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38762,6 +40349,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Norfolkön</Name>
       <Name lang="en">Norfolk Island</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NF</Code>
+      <Name lang="fi">Norfolkinsaari</Name>
+      <Description lang="fi">oli: Norfolkinsaaret</Description>
+      <Name lang="sv">Norfolkön</Name>
+      <Name lang="en">Norfolk Island</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38770,6 +40366,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Nigeria</Name>
       <Name lang="en">Nigeria</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NG</Code>
+      <Name lang="fi">Nigeria</Name>
+      <Name lang="sv">Nigeria</Name>
+      <Name lang="en">Nigeria</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38778,6 +40382,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Nicaragua</Name>
       <Name lang="en">Nicaragua</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NI</Code>
+      <Name lang="fi">Nicaragua</Name>
+      <Name lang="sv">Nicaragua</Name>
+      <Name lang="en">Nicaragua</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38786,6 +40398,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Nederländerna</Name>
       <Name lang="en">Netherlands</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NL</Code>
+      <Name lang="fi">Alankomaat</Name>
+      <Name lang="sv">Nederländerna</Name>
+      <Name lang="en">Netherlands</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38794,6 +40414,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Norge</Name>
       <Name lang="en">Norway</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NO</Code>
+      <Name lang="fi">Norja</Name>
+      <Name lang="sv">Norge</Name>
+      <Name lang="en">Norway</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38802,6 +40430,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Nepal</Name>
       <Name lang="en">Nepal</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NP</Code>
+      <Name lang="fi">Nepal</Name>
+      <Name lang="sv">Nepal</Name>
+      <Name lang="en">Nepal</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38810,6 +40446,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Nauru</Name>
       <Name lang="en">Nauru</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NR</Code>
+      <Name lang="fi">Nauru</Name>
+      <Name lang="sv">Nauru</Name>
+      <Name lang="en">Nauru</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38818,6 +40462,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Niue</Name>
       <Name lang="en">Niue Island</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NU</Code>
+      <Name lang="fi">Niue</Name>
+      <Name lang="sv">Niue</Name>
+      <Name lang="en">Niue</Name>
+      <Description lang="en">Niue Island</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38826,6 +40479,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Nya Zeeland</Name>
       <Name lang="en">New Zealand</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NZ</Code>
+      <Name lang="fi">Uusi-Seelanti</Name>
+      <Name lang="sv">Nya Zeeland</Name>
+      <Name lang="en">New Zealand</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38834,6 +40495,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Oman</Name>
       <Name lang="en">Oman</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>OM</Code>
+      <Name lang="fi">Oman</Name>
+      <Name lang="sv">Oman</Name>
+      <Name lang="en">Oman</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38842,6 +40511,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Panama</Name>
       <Name lang="en">Panama</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PA</Code>
+      <Name lang="fi">Panama</Name>
+      <Name lang="sv">Panama</Name>
+      <Name lang="en">Panama</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38850,6 +40527,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Peru</Name>
       <Name lang="en">Peru</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PE</Code>
+      <Name lang="fi">Peru</Name>
+      <Name lang="sv">Peru</Name>
+      <Name lang="en">Peru</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38858,6 +40543,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Franska Polynesien</Name>
       <Name lang="en">French Polynesia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PF</Code>
+      <Name lang="fi">Ranskan Polynesia</Name>
+      <Name lang="sv">Franska Polynesien</Name>
+      <Name lang="en">French Polynesia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38867,6 +40560,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Papua Nya Guinea</Name>
       <Name lang="en">Papua New Guinea</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PG</Code>
+      <Name lang="fi">Papua-Uusi-Guinea</Name>
+      <Description lang="fi">Papua-Uusi-Guinea - Uuden Guinean itäinen osa: Bismarckin saaristo (ml. Uusi-Britannia, Uusi-Irlanti, Lavongai (New Hanover) ja Amiraliteettisaaret); Pohjoiset Salomonsaaret (Bougainville ja Buka); Trobriand-, Woodlark- ja Entrecasteauxsaaret sekä Louisia</Description>
+      <Name lang="sv">Papua Nya Guinea</Name>
+      <Name lang="en">Papua New Guinea</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38875,6 +40577,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Filippinerna</Name>
       <Name lang="en">Philippines</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PH</Code>
+      <Name lang="fi">Filippiinit</Name>
+      <Name lang="sv">Filippinerna</Name>
+      <Name lang="en">Philippines</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38883,6 +40593,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Pakistan</Name>
       <Name lang="en">Pakistan</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PK</Code>
+      <Name lang="fi">Pakistan</Name>
+      <Name lang="sv">Pakistan</Name>
+      <Name lang="en">Pakistan</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38891,6 +40609,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Polen</Name>
       <Name lang="en">Poland</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-10-05</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PL</Code>
+      <Name lang="fi">Puola</Name>
+      <Name lang="sv">Polen</Name>
+      <Name lang="en">Poland</Name>
+      <StartDate>2022-10-06</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38899,6 +40625,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">St. Pierre och Miquelon</Name>
       <Name lang="en">St.Pierre and Miquelon</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PM</Code>
+      <Name lang="fi">Saint-Pierre ja Miquelon</Name>
+      <Name lang="sv">S:t Pierre och Miquelon</Name>
+      <Description lang="sv">St. Pierre och Miquelon</Description>
+      <Name lang="en">St Pierre and Miquelon</Name>
+      <Description lang="en">St.Pierre and Miquelon</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38907,6 +40643,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Pitcairn</Name>
       <Name lang="en">Pitcairn</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PN</Code>
+      <Name lang="fi">Pitcairn</Name>
+      <Name lang="sv">Pitcairn</Name>
+      <Name lang="en">Pitcairn</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38915,6 +40659,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Puerto Rico</Name>
       <Name lang="en">Puerto Rico</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-11-03</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PR</Code>
+      <Name lang="fi">Puerto Rico</Name>
+      <Name lang="sv">Puerto Rico</Name>
+      <Name lang="en">Puerto Rico</Name>
+      <StartDate>2022-11-04</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38923,6 +40675,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Det ockuperade palestinska territoriet</Name>
       <Name lang="en">Occupied Palestinian Territory</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PS</Code>
+      <Name lang="fi">Miehitetyt palestiinalaisalueet</Name>
+      <Name lang="sv">Det ockuperade palestinska territor</Name>
+      <Description lang="sv">Det ockuperade palestinska territoriet</Description>
+      <Name lang="en">Occupied Palestinian Territory</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38931,6 +40692,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Portugal</Name>
       <Name lang="en">Portugal</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PT</Code>
+      <Name lang="fi">Portugali</Name>
+      <Name lang="sv">Portugal</Name>
+      <Name lang="en">Portugal</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38939,6 +40708,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Palau</Name>
       <Name lang="en">Palau</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PW</Code>
+      <Name lang="fi">Palau</Name>
+      <Name lang="sv">Palau</Name>
+      <Name lang="en">Palau</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38947,6 +40724,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Paraguay</Name>
       <Name lang="en">Paraguay</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>PY</Code>
+      <Name lang="fi">Paraguay</Name>
+      <Name lang="sv">Paraguay</Name>
+      <Name lang="en">Paraguay</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38955,6 +40740,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Qatar</Name>
       <Name lang="en">Qatar</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QA</Code>
+      <Name lang="fi">Qatar</Name>
+      <Name lang="sv">Qatar</Name>
+      <Name lang="en">Qatar</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38964,6 +40757,17 @@ customs warehousing procedure</Description>
       <Name lang="sv">Reunion</Name>
       <Name lang="en">Reunion</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-11-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>RE</Code>
+      <Name lang="fi">Reunion</Name>
+      <Description lang="fi">Reunion on Ranskalle kuuluva saari Intian valtameressä.</Description>
+      <Name lang="sv">Réunion</Name>
+      <Description lang="sv">Reunion</Description>
+      <Name lang="en">Réunion</Name>
+      <Description lang="en">Reunion</Description>
+      <StartDate>2022-11-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38972,6 +40776,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Rumänien</Name>
       <Name lang="en">Romania</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>RO</Code>
+      <Name lang="fi">Romania</Name>
+      <Name lang="sv">Rumänien</Name>
+      <Name lang="en">Romania</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38980,6 +40792,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Serbien</Name>
       <Name lang="en">Serbia</Name>
       <StartDate>2007-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>RS</Code>
+      <Name lang="fi">Serbia</Name>
+      <Name lang="sv">Serbien</Name>
+      <Name lang="en">Serbia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38988,6 +40808,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Rysska federationen</Name>
       <Name lang="en">Russian federation</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>RU</Code>
+      <Name lang="fi">Venäjän federaatio</Name>
+      <Name lang="sv">Ryssland</Name>
+      <Description lang="sv">Rysska federationen</Description>
+      <Name lang="en">Russian Federation</Name>
+      <Description lang="en">Russian federation</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -38996,6 +40826,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Rwanda</Name>
       <Name lang="en">Rwanda</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>RW</Code>
+      <Name lang="fi">Ruanda</Name>
+      <Name lang="sv">Rwanda</Name>
+      <Name lang="en">Rwanda</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39004,6 +40842,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Saudiarabien</Name>
       <Name lang="en">Saudi Arabia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SA</Code>
+      <Name lang="fi">Saudi- Arabia</Name>
+      <Description lang="fi">Saudi-Arabia</Description>
+      <Name lang="sv">Saudiarabien</Name>
+      <Name lang="en">Saudi Arabia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39012,6 +40859,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Salomonöarna</Name>
       <Name lang="en">Solomon Islands</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SB</Code>
+      <Name lang="fi">Salomonsaaret</Name>
+      <Name lang="sv">Salomonöarna</Name>
+      <Name lang="en">Solomon Islands</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39021,6 +40876,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Seychellerna</Name>
       <Name lang="en">Seychelles</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SC</Code>
+      <Name lang="fi">Seychellit</Name>
+      <Description lang="fi">Seychellit - Mahé, Praslin-, La Digue-, Frégate ja Silhouettesaaret, Amirantit (ml. Desroches-, Alphonse-, Plate- ja Coëtivysaaret), Farquharsaaret (ml. Providence), Aldabra- ja Cosmeldosaaret</Description>
+      <Name lang="sv">Seychellerna</Name>
+      <Name lang="en">Seychelles</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39029,6 +40893,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Sudan</Name>
       <Name lang="en">Sudan</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SD</Code>
+      <Name lang="fi">Sudan</Name>
+      <Name lang="sv">Sudan</Name>
+      <Name lang="en">Sudan</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39037,6 +40909,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Sverige</Name>
       <Name lang="en">Sweden</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SE</Code>
+      <Name lang="fi">Ruotsi</Name>
+      <Name lang="sv">Sverige</Name>
+      <Name lang="en">Sweden</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39045,6 +40925,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Singapore</Name>
       <Name lang="en">Singapore</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SG</Code>
+      <Name lang="fi">Singapore</Name>
+      <Name lang="sv">Singapore</Name>
+      <Name lang="en">Singapore</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39053,6 +40941,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">St. Helena</Name>
       <Name lang="en">St. Helena</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SH</Code>
+      <Name lang="fi">Saint Helena, Ascension ja Trist</Name>
+      <Name lang="sv">Sankt Helena inkl. Ascension</Name>
+      <Description lang="sv">St. Helena</Description>
+      <Name lang="en">Saint Helena, Ascension and Tristan</Name>
+      <Description lang="en">St. Helena</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39061,6 +40959,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Slovenien</Name>
       <Name lang="en">Slovenia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SI</Code>
+      <Name lang="fi">Slovenia</Name>
+      <Name lang="sv">Slovenien</Name>
+      <Name lang="en">Slovenia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39087,6 +40993,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Slovakien</Name>
       <Name lang="en">Slovakia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SK</Code>
+      <Name lang="fi">Slovakia</Name>
+      <Name lang="sv">Slovakien</Name>
+      <Name lang="en">Slovakia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39095,6 +41009,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Sierra Leone</Name>
       <Name lang="en">Sierra Leone</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SL</Code>
+      <Name lang="fi">Sierra Leone</Name>
+      <Name lang="sv">Sierra Leone</Name>
+      <Name lang="en">Sierra Leone</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39103,6 +41025,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">San Marino</Name>
       <Name lang="en">San Marino</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SM</Code>
+      <Name lang="fi">San Marino</Name>
+      <Name lang="sv">San Marino</Name>
+      <Name lang="en">San Marino</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39111,6 +41041,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Senegal</Name>
       <Name lang="en">Senegal</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SN</Code>
+      <Name lang="fi">Senegal</Name>
+      <Name lang="sv">Senegal</Name>
+      <Name lang="en">Senegal</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39119,6 +41057,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Somalia</Name>
       <Name lang="en">Somalia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SO</Code>
+      <Name lang="fi">Somalia</Name>
+      <Name lang="sv">Somalia</Name>
+      <Name lang="en">Somalia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39135,6 +41081,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Suriname</Name>
       <Name lang="en">Suriname</Name>
       <StartDate>2020-12-31</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SR</Code>
+      <Name lang="fi">Suriname</Name>
+      <Name lang="sv">Surinam</Name>
+      <Description lang="sv">Suriname</Description>
+      <Name lang="en">Suriname</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39143,6 +41098,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Syd Sudan</Name>
       <Name lang="en">South Sudan</Name>
       <StartDate>2012-03-07</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SS</Code>
+      <Name lang="fi">Etelä-Sudan</Name>
+      <Name lang="sv">Sydsudan</Name>
+      <Description lang="sv">Syd Sudan</Description>
+      <Name lang="en">South Sudan</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39151,6 +41115,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Sao Tome och Principe</Name>
       <Name lang="en">Sao Tome and Principe</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ST</Code>
+      <Name lang="fi">São Tomé ja Príncipe</Name>
+      <Description lang="fi">Sao Tome ja Principe</Description>
+      <Name lang="sv">São Tomé och Príncipe</Name>
+      <Description lang="sv">Sao Tome och Principe</Description>
+      <Name lang="en">Sao Tome and Principe</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39159,6 +41133,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">El Salvador</Name>
       <Name lang="en">El Salvador</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SV</Code>
+      <Name lang="fi">El Salvador</Name>
+      <Name lang="sv">El Salvador</Name>
+      <Name lang="en">El Salvador</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39167,6 +41149,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Sint-Maarten (Nederländernas del)</Name>
       <Name lang="en">Sint Maarten (Dutch part)</Name>
       <StartDate>2012-03-07</StartDate>
+      <EndDate>2023-03-10</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SX</Code>
+      <Name lang="fi">Sint Maarten (Alankomaiden osa)</Name>
+      <Name lang="sv">Sint-Maarten (nederländska delen)</Name>
+      <Description lang="sv">Sint-Maarten (Nederländernas del)</Description>
+      <Name lang="en">Sint Maarten (Dutch part)</Name>
+      <StartDate>2023-03-11</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39201,6 +41192,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Eswatini</Name>
       <Name lang="en">Eswatini</Name>
       <StartDate>2020-12-31</StartDate>
+      <EndDate>2022-12-08</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SZ</Code>
+      <Name lang="fi">Eswatini</Name>
+      <Name lang="sv">Swaziland</Name>
+      <Description lang="sv">Eswatini</Description>
+      <Name lang="en">Swaziland</Name>
+      <Description lang="en">Eswatini</Description>
+      <StartDate>2022-12-09</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39209,6 +41210,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Turks och Caicos</Name>
       <Name lang="en">Turks and Caicos</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TC</Code>
+      <Name lang="fi">Turks- ja Caicossaaret</Name>
+      <Name lang="sv">Turks- och Caicosöarna</Name>
+      <Description lang="sv">Turks och Caicos</Description>
+      <Name lang="en">Turks and Caicos Islands</Name>
+      <Description lang="en">Turks and Caicos</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39218,6 +41229,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tchad</Name>
       <Name lang="en">Chad</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TD</Code>
+      <Name lang="fi">Tšad</Name>
+      <Description lang="fi">Tsad</Description>
+      <Name lang="sv">Tchad</Name>
+      <Name lang="en">Chad</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39226,6 +41246,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">De södra franska territorierna</Name>
       <Name lang="en">French Southern Territories</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TF</Code>
+      <Name lang="fi">Ranskan eteläiset alueet</Name>
+      <Name lang="sv">De franska territorierna i södra I</Name>
+      <Description lang="sv">De södra franska territorierna</Description>
+      <Name lang="en">French Southern Territories</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39234,6 +41263,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Togo</Name>
       <Name lang="en">Togo</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TG</Code>
+      <Name lang="fi">Togo</Name>
+      <Name lang="sv">Togo</Name>
+      <Name lang="en">Togo</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39242,6 +41279,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Thailand</Name>
       <Name lang="en">Thailand</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TH</Code>
+      <Name lang="fi">Thaimaa</Name>
+      <Name lang="sv">Thailand</Name>
+      <Name lang="en">Thailand</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39250,6 +41295,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tadzjikistan</Name>
       <Name lang="en">Tajikistan</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TJ</Code>
+      <Name lang="fi">Tadžikistan</Name>
+      <Description lang="fi">Tadzikistan</Description>
+      <Name lang="sv">Tadzjikistan</Name>
+      <Name lang="en">Tajikistan</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39258,6 +41312,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tokelau</Name>
       <Name lang="en">Tokelau</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TK</Code>
+      <Name lang="fi">Tokelau</Name>
+      <Name lang="sv">Tokelauöarna</Name>
+      <Description lang="sv">Tokelau</Description>
+      <Name lang="en">Tokelau</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39266,6 +41329,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Timor-Leste</Name>
       <Name lang="en">Timor-Leste</Name>
       <StartDate>2004-01-01</StartDate>
+      <EndDate>2023-03-10</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TL</Code>
+      <Name lang="fi">Timor-Leste</Name>
+      <Name lang="sv">Östtimor</Name>
+      <Description lang="sv">Timor-Leste</Description>
+      <Name lang="en">Timor-Leste</Name>
+      <StartDate>2023-03-11</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39275,6 +41347,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Turkmenistan</Name>
       <Name lang="en">Turkmenistan</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TM</Code>
+      <Name lang="fi">Turkmenistan</Name>
+      <Description lang="fi">Turkmenistan (Käytettin nimeä Turkmenia  29.4.2019 asti)</Description>
+      <Name lang="sv">Turkmenistan</Name>
+      <Name lang="en">Turkmenistan</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39283,6 +41364,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tunisien</Name>
       <Name lang="en">Tunisia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TN</Code>
+      <Name lang="fi">Tunisia</Name>
+      <Name lang="sv">Tunisien</Name>
+      <Name lang="en">Tunisia</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39291,6 +41380,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tonga</Name>
       <Name lang="en">Tonga</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TO</Code>
+      <Name lang="fi">Tonga</Name>
+      <Name lang="sv">Tonga</Name>
+      <Name lang="en">Tonga</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39315,6 +41412,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Trinidad och Tobago</Name>
       <Name lang="en">Trinidad and Tobago</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TT</Code>
+      <Name lang="fi">Trinidad ja Tobago</Name>
+      <Name lang="sv">Trinidad och Tobago</Name>
+      <Name lang="en">Trinidad and Tobago</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39323,6 +41428,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Tuvalu</Name>
       <Name lang="en">Tuvalu</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TV</Code>
+      <Name lang="fi">Tuvalu</Name>
+      <Name lang="sv">Tuvalu</Name>
+      <Name lang="en">Tuvalu</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39331,6 +41444,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Taiwan</Name>
       <Name lang="en">Taiwan</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>TW</Code>
+      <Name lang="fi">Taiwan</Name>
+      <Name lang="sv">Taiwan</Name>
+      <Name lang="en">Taiwan</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39356,6 +41477,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Ukraina</Name>
       <Name lang="en">Ukraine</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-30</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>UA</Code>
+      <Name lang="fi">Ukraina</Name>
+      <Name lang="sv">Ukraina</Name>
+      <Name lang="en">Ukraine</Name>
+      <StartDate>2022-10-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39364,6 +41493,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Uganda</Name>
       <Name lang="en">Uganda</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>UG</Code>
+      <Name lang="fi">Uganda</Name>
+      <Name lang="sv">Uganda</Name>
+      <Name lang="en">Uganda</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39372,6 +41509,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Avlägset belägna öar (USA)</Name>
       <Name lang="en">Minor outlying islands (USA)</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>UM</Code>
+      <Name lang="fi">Amerikan yhdysvaltojen Tyynenmeren erillissaaret</Name>
+      <Name lang="sv">Förenta staternas mindre öar</Name>
+      <Description lang="sv">Avlägset belägna öar (USA)</Description>
+      <Name lang="en">United States Minor Outlying Island</Name>
+      <Description lang="en">Minor outlying islands (USA)</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39380,6 +41527,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">USA</Name>
       <Name lang="en">United States of America</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>US</Code>
+      <Name lang="fi">Yhdysvallat</Name>
+      <Name lang="sv">Förenta staterna</Name>
+      <Description lang="sv">USA</Description>
+      <Name lang="en">United States</Name>
+      <Description lang="en">United States of America</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39388,6 +41545,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Uruguay</Name>
       <Name lang="en">Uruguay</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>UY</Code>
+      <Name lang="fi">Uruguay</Name>
+      <Name lang="sv">Uruguay</Name>
+      <Name lang="en">Uruguay</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39396,6 +41561,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Uzbekistan</Name>
       <Name lang="en">Uzbekistan</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>UZ</Code>
+      <Name lang="fi">Uzbekistan</Name>
+      <Name lang="sv">Uzbekistan</Name>
+      <Name lang="en">Uzbekistan</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39404,6 +41577,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Vatikanstaten</Name>
       <Name lang="en">Vatican City State</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2023-03-10</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VA</Code>
+      <Name lang="fi">Vatikaanivaltio</Name>
+      <Name lang="sv">Heliga stolen (Vatikanstaten)</Name>
+      <Description lang="sv">Vatikanstaten</Description>
+      <Name lang="en">Vatican City</Name>
+      <Description lang="en">Vatican City State</Description>
+      <StartDate>2023-03-11</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39412,6 +41595,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">St. Vincent och Grenadinerna</Name>
       <Name lang="en">St.Vincent, North Grenadines</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VC</Code>
+      <Name lang="fi">Saint Vincent ja Grenadiinit</Name>
+      <Name lang="sv">Saint Vincent och Grenadinerna</Name>
+      <Description lang="sv">St. Vincent och Grenadinerna</Description>
+      <Name lang="en">St Vincent</Name>
+      <Description lang="en">St.Vincent, North Grenadines</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39436,6 +41629,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Wallis och Futuna</Name>
       <Name lang="en">Wallis and Futuna</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>WF</Code>
+      <Name lang="fi">Wallis ja Futuna</Name>
+      <Name lang="sv">Wallis och Futuna</Name>
+      <Name lang="en">Wallis and Futuna Islands</Name>
+      <Description lang="en">Wallis and Futuna</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39444,6 +41646,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Brittiska Jungfruöarna</Name>
       <Name lang="en">British Virgin Islands</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VG</Code>
+      <Name lang="fi">Brittiläiset Neitsytsaaret</Name>
+      <Name lang="sv">Brittiska Jungfruöarna</Name>
+      <Name lang="en">British Virgin Islands</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39452,6 +41662,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Jungfruöarna (USA)</Name>
       <Name lang="en">Virgin Islands (USA)</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2023-03-10</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VI</Code>
+      <Name lang="fi">Yhdysvaltojen Neitsytsaaret</Name>
+      <Name lang="sv">Amerikanska Jungfruöarna</Name>
+      <Description lang="sv">Jungfruöarna (USA)</Description>
+      <Name lang="en">US Virgin Islands</Name>
+      <Description lang="en">Virgin Islands (USA)</Description>
+      <StartDate>2023-03-11</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39460,6 +41680,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Vietnam</Name>
       <Name lang="en">Viet Nam</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VN</Code>
+      <Name lang="fi">Vietnam</Name>
+      <Name lang="sv">Vietnam</Name>
+      <Name lang="en">Vietnam</Name>
+      <Description lang="en">Viet Nam</Description>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39468,6 +41697,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Samoa</Name>
       <Name lang="en">Samoa</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>WS</Code>
+      <Name lang="fi">Samoa</Name>
+      <Name lang="sv">Samoa</Name>
+      <Name lang="en">Samoa</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39476,6 +41713,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Vanuatu</Name>
       <Name lang="en">Vanuatu</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VU</Code>
+      <Name lang="fi">Vanuatu</Name>
+      <Name lang="sv">Vanuatu</Name>
+      <Name lang="en">Vanuatu</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39484,6 +41729,16 @@ customs warehousing procedure</Description>
       <Name lang="sv">Nordirland</Name>
       <Name lang="en">Northern Ireland</Name>
       <StartDate>2021-01-01</StartDate>
+      <EndDate>2022-12-14</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>XI</Code>
+      <Name lang="fi">Pohjois-Irlanti</Name>
+      <Name lang="sv">Förenade kungariket (Nordirland)</Name>
+      <Description lang="sv">Nordirland</Description>
+      <Name lang="en">United Kingdom (Northern Ireland)</Name>
+      <Description lang="en">Northern Ireland</Description>
+      <StartDate>2022-12-15</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39492,6 +41747,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Kosovo</Name>
       <Name lang="en">Kosovo</Name>
       <StartDate>2005-05-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>XK</Code>
+      <Name lang="fi">Kosovo</Name>
+      <Name lang="sv">Kosovo</Name>
+      <Name lang="en">Kosovo</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39500,6 +41763,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Serbia</Name>
       <Name lang="en">Serbia</Name>
       <StartDate>2005-05-01</StartDate>
+      <EndDate>2022-10-12</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>XS</Code>
+      <Name lang="fi">Serbia</Name>
+      <Name lang="sv">Serbien</Name>
+      <Description lang="sv">Serbia</Description>
+      <Name lang="en">Serbia</Name>
+      <StartDate>2022-10-13</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39508,6 +41780,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Jemen</Name>
       <Name lang="en">Yemen</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>YE</Code>
+      <Name lang="fi">Jemen</Name>
+      <Name lang="sv">Jemen</Name>
+      <Name lang="en">Yemen</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39516,6 +41796,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Mayotte</Name>
       <Name lang="en">Mayotte</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>YT</Code>
+      <Name lang="fi">Mayotte</Name>
+      <Name lang="sv">Mayotte</Name>
+      <Name lang="en">Mayotte</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39524,6 +41812,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Sydafrika</Name>
       <Name lang="en">South Africa</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2023-02-27</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ZA</Code>
+      <Name lang="fi">Etelä-Afrikka</Name>
+      <Name lang="sv">Sydafrika</Name>
+      <Name lang="en">South Africa</Name>
+      <StartDate>2023-02-28</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39532,6 +41828,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Zambia</Name>
       <Name lang="en">Zambia</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2023-02-27</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ZM</Code>
+      <Name lang="fi">Sambia</Name>
+      <Name lang="sv">Zambia</Name>
+      <Name lang="en">Zambia</Name>
+      <StartDate>2023-02-28</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -39540,6 +41844,14 @@ customs warehousing procedure</Description>
       <Name lang="sv">Zimbabwe</Name>
       <Name lang="en">Zimbabwe</Name>
       <StartDate>2001-01-01</StartDate>
+      <EndDate>2022-09-29</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>ZW</Code>
+      <Name lang="fi">Zimbabwe</Name>
+      <Name lang="sv">Zimbabwe</Name>
+      <Name lang="en">Zimbabwe</Name>
+      <StartDate>2022-09-30</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
@@ -47795,6 +50107,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Varor som inte omfattas av bestämmelserna i förordning (EU) nr 1332/2013 (EUT L 335)</Name>
       <Name lang="en">Goods not covered by the provisions of Regulation (EU) 1332/2013 (OJ L 335)</Name>
       <StartDate>2023-06-14</StartDate>
+      <EndDate>2023-11-24</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y935</Code>
+      <Name lang="fi">Tavarat, jotka eivät kuulu asetuksen (EU) N:o 1332/2013 (EUVL L 335) soveltamisalaan</Name>
+      <Name lang="sv">Varor som inte omfattas av bestämmelserna i förordning (EU) nr 1332/2013 (EUT L 335)</Name>
+      <Name lang="en">Goods not covered by the provisions of Regulation (EU) 1332/2013 (OJ L 335)</Name>
+      <StartDate>2023-11-25</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -73173,5 +75502,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-11-27T06:05:04.830</Generated>
+  <Generated>2023-11-28T06:05:04.700</Generated>
 </CodeLists>
