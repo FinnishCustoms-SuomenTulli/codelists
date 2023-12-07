@@ -13995,6 +13995,25 @@
       <Name lang="sv">Elektroniskt administrativt dokument (e-AD), enligt artikel 3.1 i förordning (EG) nr 684/2009</Name>
       <Name lang="en">Electronic administrative document (e-AD), as referred to in Article 3(1) of Reg. (EC) No 684/2009</Name>
       <StartDate>2017-01-01</StartDate>
+      <EndDate>2023-02-12</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>C651</Code>
+      <Name lang="fi">Asetuksen (EU) 2022/1636 3 artiklan tarkoitettu sähköinen hallinnollinen asiakirja (e-AD)</Name>
+      <Name lang="sv">Elektroniskt administrativt dokument (e-AD), enligt artikel 3. i förordning (EU) 2022/1636</Name>
+      <Name lang="en">Electronic administrative document (e-AD), as referred to in Article 3 of Reg. (EU) 2022/1636</Name>
+      <StartDate>2023-02-13</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -83899,5 +83918,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-12-05T06:05:10.923</Generated>
+  <Generated>2023-12-06T06:05:04.260</Generated>
 </CodeLists>
