@@ -14128,6 +14128,25 @@
       <Name lang="sv">Följedokument för reservrutin för flyttning av punktskattepliktiga varor under punktskatteuppskov, enligt artikel 8.1 i förordning (EG) nr 684/2009</Name>
       <Name lang="en">Fallback Accompanying Document for movements of excise goods under suspension of excise duty (FAD), as referred to in Article 8(1) Reg. (EC) No 684/2009</Name>
       <StartDate>2017-01-01</StartDate>
+      <EndDate>2023-02-12</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>C658</Code>
+      <Name lang="fi">Asetuksen (EU) 2022/1636 9 artiklan 1 kohdassa tarkoitettu valmisteveron alaisten tuotteiden väliaikaisesti verottomien siirtojen korvaava asiakirja</Name>
+      <Name lang="sv">Ersättningsdokumentför flyttning av punktskattepliktiga varor under punktskatteuppskov, enligt artikel 9.1 i förordning (EU) 2022/1636</Name>
+      <Name lang="en">Fallback Document for movements of excise goods under suspension of excise duty, as referred to in Article 9(1) of Commission Delegated Regulation (EU) 2022/1636</Name>
+      <StartDate>2023-02-13</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64671,7 +64690,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>D0231</Code>
-      <Name lang="fi"> Polkumyyntitullista vapautuminen soveltamalla tietyn käyttötarkoituksen menettelyä.</Name>
+      <Name lang="fi">Polkumyyntitullista vapautuminen soveltamalla tietyn käyttötarkoituksen menettelyä.</Name>
       <Name lang="sv">Befrielse från antidumpningstullar genom tillämpning av förfarandet för slutanvändning.</Name>
       <Name lang="en">Exemption from anti-dumping duty by applying the end-use procedure.</Name>
       <StartDate>2017-01-01</StartDate>
@@ -83960,5 +83979,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-12-19T06:05:05.087</Generated>
+  <Generated>2023-12-20T06:05:05.953</Generated>
 </CodeLists>
