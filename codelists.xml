@@ -55399,6 +55399,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Varor med ursprung i EU som kommer från de yttersta randområdena, i enlighet med relevant EU-lagstiftning</Name>
       <Name lang="en">Goods with EU origin coming from outermost regions, according to the relevant EU legislation</Name>
       <StartDate>2023-11-13</StartDate>
+      <EndDate>2023-12-20</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y151</Code>
+      <Name lang="fi">EU:sta peräisin olevat tavarat, jotka tulevat syrjäisimmiltä alueilta asiaa koskevan EU:n lainsäädännön mukaisesti</Name>
+      <Name lang="sv">Varor med ursprung i EU som kommer från de yttersta randområdena, i enlighet med relevant EU-lagstiftning</Name>
+      <Name lang="en">Goods with EU origin coming from outermost regions, according to the relevant EU legislation</Name>
+      <StartDate>2023-12-21</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -59906,6 +59923,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Varor som inte har sitt ursprung i eller är avsedda för Krim eller Sevastopol (artiklarna 2 a och 2b.1 i rådets förordning (EU) nr 692/2014)</Name>
       <Name lang="en">Goods not originating from or destined to Crimea or Sevastopol (Articles 2.a and 2b.1 of Council Regulation (EU) No 692/2014)</Name>
       <StartDate>2023-06-14</StartDate>
+      <EndDate>2023-12-20</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y997</Code>
+      <Name lang="fi">Muut kuin Krimiltä tai Sevastopolista peräisin olevat tai niille tarkoitetut tavarat (neuvoston asetuksen (EU) N:o 692/2014 2 artikla ja 2b artiklan 1 kohta)</Name>
+      <Name lang="sv">Varor som inte har sitt ursprung i eller är avsedda för Krim eller Sevastopol (artiklarna 2 och 2b.1 i rådets förordning (EU) nr 692/2014)</Name>
+      <Name lang="en">Goods not originating from or destined to Crimea or Sevastopol (Articles 2 and 2b.1 of Council Regulation (EU) No 692/2014)</Name>
+      <StartDate>2023-12-21</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -83979,5 +84013,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-12-20T06:05:05.953</Generated>
+  <Generated>2023-12-21T06:05:04.407</Generated>
 </CodeLists>
