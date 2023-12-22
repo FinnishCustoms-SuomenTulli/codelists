@@ -15110,6 +15110,44 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>K030</Code>
+      <Name lang="fi">Tariffikiintiö - järjestysnumero 09.8260 hakemus tehty, ei loppuun käytetty</Name>
+      <Name lang="sv">Tullkvot - ordernummer 09.8260 ansökt och ej förbrukad</Name>
+      <Name lang="en">Tariff quota - order number 09.8260 requested and not exhausted</Name>
+      <StartDate>2023-12-19</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>K031</Code>
+      <Name lang="fi">Tariffikiintiö - järjestysnumero 09.8261 hakemus tehty, ei loppuun käytetty</Name>
+      <Name lang="sv">Tullkvot - ordernummer 09.8261 ansökt och ej förbrukad</Name>
+      <Name lang="en">Tariff quota - order number 09.8261 requested and not exhausted</Name>
+      <StartDate>2023-12-19</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>L001</Code>
       <Name lang="fi">Tuontitodistus AGRIM</Name>
       <Name lang="sv">Importlicens AGRIM</Name>
@@ -15362,6 +15400,44 @@
       <Name lang="sv">Importtillstånd enligt artikel 3i.3e i rådets förordning (EU) nr 833/2014</Name>
       <Name lang="en">Import authorisation by virtue of article 3i paragraph 3e of Council Regulation (EU) 833/2014</Name>
       <StartDate>2023-06-24</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>L146</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 p artiklan 7 kohdan mukainen tuontilupa</Name>
+      <Name lang="sv">Importtillstånd enligt artikel 3p.7 i rådets förordning (EU) nr 833/2014</Name>
+      <Name lang="en">Import authorisation by virtue of article 3p paragraph 7 of Council Regulation (EU) 833/2014</Name>
+      <StartDate>2023-12-19</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>L147</Code>
+      <Name lang="fi">Todisteet niiden timanttien [tai timantteja sisältävien tuotteiden] alkuperämaasta, joita käytetään tuotteen jalostuksessa kolmannessa maassa (neuvoston asetuksen (EU) N:o 833/2014 3 p artiklan 10 kohta)</Name>
+      <Name lang="sv">Bevis på ursprungsland för de diamanter [eller produkter som innehåller diamanter] som används som insatsvaror vid bearbetningen av produkten i ett tredjeland (artikel 3p.10 i rådets förordning (EU) nr 833/2014)</Name>
+      <Name lang="en">Evidence of the country of origin of the diamonds [or products incorporating diamonds] used as inputs for the processing of the product in a third country (Article 3p paragraph 10 of Council Regulation (EU) No 833/2014)</Name>
+      <StartDate>2024-03-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -19260,6 +19336,25 @@
       <Name lang="sv">Järn- och stålprodukter som bearbetas i ett tredje land och som inte innehåller järn- och stålprodukter med ursprung i Ryssland enligt förteckningen i bilaga XVII till förordning (EU) nr 833/2014</Name>
       <Name lang="en">Iron and steel products processed in a third country, not incorporating iron and steel products originating in Russia as listed in Annex XVII of Regulation (EU) No 833/2014</Name>
       <StartDate>2022-10-07</StartDate>
+      <EndDate>2023-12-18</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y853</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3i.3 cb artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3i.3cb)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3cb)</Name>
+      <StartDate>2023-12-19</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -19374,6 +19469,63 @@
       <Name lang="sv">Ursprungsintyget visar att den tillverkning som ger ursprungsstatus inte har ägt rum på en ort inom de territorier som sedan juni 1967 står under israelisk förvaltning.</Name>
       <Name lang="en">The proof of origin indicates that the production conferring originating status has not taken place in a location within the territories brought under Israeli administration since June 1967.</Name>
       <StartDate>2023-05-16</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y874</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso poikkeukset 3i.3aa artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3aa)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3i.3aa)</Name>
+      <StartDate>2023-12-19</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y875</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso poikkeukset 3i.3ab artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3ab)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3i.3ab)</Name>
+      <StartDate>2023-12-19</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y877</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso poikkeukset 3i.3ac artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3ac)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3i.3ac)</Name>
+      <StartDate>2023-12-19</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -52283,6 +52435,40 @@ customs warehousing procedure</Description>
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>K030</Code>
+      <Name lang="fi">Tariffikiintiö - järjestysnumero 09.8260 hakemus tehty, ei loppuun käytetty</Name>
+      <Name lang="sv">Tullkvot - ordernummer 09.8260 ansökt och ej förbrukad</Name>
+      <Name lang="en">Tariff quota - order number 09.8260 requested and not exhausted</Name>
+      <StartDate>2023-12-19</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>K031</Code>
+      <Name lang="fi">Tariffikiintiö - järjestysnumero 09.8261 hakemus tehty, ei loppuun käytetty</Name>
+      <Name lang="sv">Tullkvot - ordernummer 09.8261 ansökt och ej förbrukad</Name>
+      <Name lang="en">Tariff quota - order number 09.8261 requested and not exhausted</Name>
+      <StartDate>2023-12-19</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>Y001</Code>
       <Name lang="fi">Tuotettu kokonaan Libanonissa ja kuljetettu suoraan tästä maasta yhteisöön</Name>
       <Name lang="sv">Helt införskaffad i Libanon och transporterad direkt från detta land till gemenskapen</Name>
@@ -56691,6 +56877,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Järn- och stålprodukter som bearbetas i ett tredje land och som inte innehåller järn- och stålprodukter med ursprung i Ryssland enligt förteckningen i bilaga XVII till förordning (EU) nr 833/2014</Name>
       <Name lang="en">Iron and steel products processed in a third country, not incorporating iron and steel products originating in Russia as listed in Annex XVII of Regulation (EU) No 833/2014</Name>
       <StartDate>2023-06-14</StartDate>
+      <EndDate>2023-12-18</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y853</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3i.3 cb artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3i.3cb)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3cb)</Name>
+      <StartDate>2023-12-19</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -56946,6 +57149,57 @@ customs warehousing procedure</Description>
       <Name lang="sv">Ursprungsintyget visar att den tillverkning som ger ursprungsstatus inte har ägt rum på en ort inom de territorier som sedan juni 1967 står under israelisk förvaltning.</Name>
       <Name lang="en">The proof of origin indicates that the production conferring originating status has not taken place in a location within the territories brought under Israeli administration since June 1967.</Name>
       <StartDate>2023-09-07</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y874</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso poikkeukset 3i.3aa artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3aa)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3i.3aa)</Name>
+      <StartDate>2023-12-19</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y875</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso poikkeukset 3i.3ab artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3ab)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3i.3ab)</Name>
+      <StartDate>2023-12-19</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y877</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso poikkeukset 3i.3ac artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3ac)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3i.3ac)</Name>
+      <StartDate>2023-12-19</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -84013,5 +84267,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-12-21T06:05:04.407</Generated>
+  <Generated>2023-12-22T06:05:05.287</Generated>
 </CodeLists>
