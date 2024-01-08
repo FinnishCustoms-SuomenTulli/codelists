@@ -1182,6 +1182,15 @@
       <Name lang="sv">Europeiska gemenskapen</Name>
       <Name lang="en">European Community</Name>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>EU</Code>
+      <Name lang="fi">Euroopan Unioni</Name>
+      <Name lang="sv">Europeiska gemenskapen</Name>
+      <Name lang="en">European Union</Name>
+      <Description lang="en">European Community</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -1988,6 +1997,14 @@
       <Name lang="en">Kyrgyz, Republic</Name>
       <Description lang="en">Kyrgyzstan</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KG</Code>
+      <Name lang="fi">Kirgisia</Name>
+      <Name lang="sv">Kirgizistan</Name>
+      <Name lang="en">Kyrgyzstan</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -2077,6 +2094,16 @@
       <Name lang="en">Korea, Democratic People’s Republ</Name>
       <Description lang="en">North Korea</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KP</Code>
+      <Name lang="fi">Korean demokraattinen kansantasavalta</Name>
+      <Description lang="fi">Korean demokraattinen kansantasavalta (Pohjois-Korea)</Description>
+      <Name lang="sv">Nordkorea</Name>
+      <Name lang="en">Korea, Democratic People’s Republic of</Name>
+      <Description lang="en">North Korea</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -3220,6 +3247,17 @@
       <Name lang="en">Stores and provisions intra-Comm</Name>
       <Description lang="en">Supplies to vessels, intra trade</Description>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QR</Code>
+      <Name lang="fi">Alusten elintarvike- ja polttoainevarastot EU:n sisäisessä kaupassa</Name>
+      <Description lang="fi">Toimitukset aluksiin sisäkaupassa</Description>
+      <Name lang="sv">Bunkring och underhåll vid handel inom EU</Name>
+      <Description lang="sv">Leverans till fartyg, intra handeln</Description>
+      <Name lang="en">Stores and provisions within the framework of intra-Union trade</Name>
+      <Description lang="en">Supplies to vessels, intra trade</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -3238,6 +3276,16 @@
       <Description lang="sv">Bungring och underhåll vid handel med tredje land</Description>
       <Name lang="en">Stores and provisions 3rd countries</Name>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QS</Code>
+      <Name lang="fi">Toimitukset aluksiin ulkokaupassa</Name>
+      <Name lang="sv">Bunkring och underhåll vid handel med tredjeland</Name>
+      <Description lang="sv">Bungring och underhåll vid handel med tredje land</Description>
+      <Name lang="en">Stores and provisions within the framework of extra-Union trade</Name>
+      <Description lang="en">Stores and provisions 3rd countries</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -3266,6 +3314,15 @@
       <Name lang="en">Countries not specified</Name>
       <Description lang="en">Countries and territories not specified</Description>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QU</Code>
+      <Name lang="fi">Määrittelemättömät maat ja alueet</Name>
+      <Name lang="sv">Ej specificerade länder och områden</Name>
+      <Description lang="sv">Ej specifierare länder och områden</Description>
+      <Name lang="en">Countries and territories not specified</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -3284,6 +3341,16 @@
       <Name lang="en">Countries not spec intra-Comm</Name>
       <Description lang="en">Offshore installations, intra trade</Description>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QV</Code>
+      <Name lang="fi">Merellä olevat laitokset sisäkaupassa</Name>
+      <Name lang="sv">Ej specificerade länder och områden vid handel inom EU</Name>
+      <Description lang="sv">Offshoreanläggningar, intra handeln</Description>
+      <Name lang="en">Countries and territories not specified within the framework of intra-Union trade</Name>
+      <Description lang="en">Offshore installations, intra trade</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -3301,6 +3368,16 @@
       <Description lang="sv">Ej specifierare länder/områden vid handel med tredje land</Description>
       <Name lang="en">Countries not spec 3rd countries</Name>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QW</Code>
+      <Name lang="fi">Merellä olevat laitokset ulkokaupassa</Name>
+      <Name lang="sv">Ej specificerade länder och områden vid handel med tredjeland</Name>
+      <Description lang="sv">Ej specifierare länder/områden vid handel med tredje land</Description>
+      <Name lang="en">Countries and territories not specified within the framework of extra-Union trade</Name>
+      <Description lang="en">Countries not spec 3rd countries</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -3327,6 +3404,16 @@
       <Description lang="sv">Länder och områden som av handels- eller försvarsskäl</Description>
       <Name lang="en">Countries not spec com/mil reasons</Name>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QX</Code>
+      <Name lang="fi">Maat ja alueet, joita ei täsmennetä kaupallisista tai sotilaallisista syistä</Name>
+      <Name lang="sv">Länder och områden som av handels eller försvarsskäl ej specificerats</Name>
+      <Description lang="sv">Länder och områden som av handels- eller försvarsskäl</Description>
+      <Name lang="en">Countries and territories not specified for commercial or military reasons</Name>
+      <Description lang="en">Countries not spec com/mil reasons</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -3344,6 +3431,16 @@
       <Description lang="sv">QX vid handel inom gememskapen</Description>
       <Name lang="en">Countries n/s com/mil intra-Comm</Name>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QY</Code>
+      <Name lang="fi">Määrittelemätön maa, sisäkauppa</Name>
+      <Name lang="sv">Länder och områden som av handels eller försvarsskäl ej specificerats vid handel inom EU</Name>
+      <Description lang="sv">QX vid handel inom gememskapen</Description>
+      <Name lang="en">Countries and territories not specified for commercial or military reasons in the framework of intra-Union trade</Name>
+      <Description lang="en">Countries n/s com/mil intra-Comm</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -3362,6 +3459,16 @@
       <Name lang="en">Countries n/s com/mil 3rd countries</Name>
       <Description lang="en">Countries n/s com/mil</Description>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QZ</Code>
+      <Name lang="fi">Määrittelemätön maa, ulkokauppa</Name>
+      <Name lang="sv">Länder och områden som av handels eller försvarsskäl ej specificerats vid handel med tredjeland</Name>
+      <Description lang="sv">QX vid handel med tredje land</Description>
+      <Name lang="en">Countries and territories not specified for commercial or military reasons in the framework of extra-Union</Name>
+      <Description lang="en">Countries n/s com/mil</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -3816,6 +3923,15 @@
       <Name lang="en">Swaziland</Name>
       <Description lang="en">Eswatini</Description>
       <StartDate>2022-12-09</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SZ</Code>
+      <Name lang="fi">Eswatini</Name>
+      <Name lang="sv">Swaziland</Name>
+      <Description lang="sv">Eswatini</Description>
+      <Name lang="en">Eswatini</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -4201,6 +4317,16 @@
       <Name lang="en">Vatican City</Name>
       <Description lang="en">Vatican City State</Description>
       <StartDate>2023-03-11</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VA</Code>
+      <Name lang="fi">Vatikaanivaltio</Name>
+      <Name lang="sv">Heliga stolen (Vatikanstaten)</Name>
+      <Description lang="sv">Vatikanstaten</Description>
+      <Name lang="en">Holy See (the)</Name>
+      <Description lang="en">Vatican City State</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -4219,6 +4345,16 @@
       <Name lang="en">St Vincent</Name>
       <Description lang="en">St.Vincent, North Grenadines</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VC</Code>
+      <Name lang="fi">Saint Vincent ja Grenadiinit</Name>
+      <Name lang="sv">Saint Vincent och Grenadinerna</Name>
+      <Description lang="sv">St. Vincent och Grenadinerna</Description>
+      <Name lang="en">Saint Vincent and the Grenadines</Name>
+      <Description lang="en">St.Vincent, North Grenadines</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -4235,6 +4371,15 @@
       <Name lang="sv">Venezuela</Name>
       <Name lang="en">Venezuela</Name>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VE</Code>
+      <Name lang="fi">Venezuela</Name>
+      <Name lang="sv">Venezuela</Name>
+      <Name lang="en">Venezuela (Bolivarian Republic of)</Name>
+      <Description lang="en">Venezuela</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -4252,6 +4397,14 @@
       <Name lang="en">Wallis and Futuna Islands</Name>
       <Description lang="en">Wallis and Futuna</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>WF</Code>
+      <Name lang="fi">Wallis ja Futuna</Name>
+      <Name lang="sv">Wallis och Futuna</Name>
+      <Name lang="en">Wallis and Futuna</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -4268,6 +4421,15 @@
       <Name lang="sv">Brittiska Jungfruöarna</Name>
       <Name lang="en">British Virgin Islands</Name>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VG</Code>
+      <Name lang="fi">Brittiläiset Neitsytsaaret</Name>
+      <Name lang="sv">Brittiska Jungfruöarna</Name>
+      <Name lang="en">Virgin Islands (British)</Name>
+      <Description lang="en">British Virgin Islands</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -4286,6 +4448,16 @@
       <Name lang="en">US Virgin Islands</Name>
       <Description lang="en">Virgin Islands (USA)</Description>
       <StartDate>2023-03-11</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VI</Code>
+      <Name lang="fi">Yhdysvaltojen Neitsytsaaret</Name>
+      <Name lang="sv">Amerikanska Jungfruöarna</Name>
+      <Description lang="sv">Jungfruöarna (USA)</Description>
+      <Name lang="en">Virgin Islands, United States</Name>
+      <Description lang="en">Virgin Islands (USA)</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -4303,6 +4475,14 @@
       <Name lang="en">Vietnam</Name>
       <Description lang="en">Viet Nam</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VN</Code>
+      <Name lang="fi">Vietnam</Name>
+      <Name lang="sv">Vietnam</Name>
+      <Name lang="en">Viet Nam</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -5660,6 +5840,15 @@
       <Name lang="sv">Europeiska gemenskapen</Name>
       <Name lang="en">European Community</Name>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>EU</Code>
+      <Name lang="fi">Euroopan Unioni</Name>
+      <Name lang="sv">Europeiska gemenskapen</Name>
+      <Name lang="en">European Union</Name>
+      <Description lang="en">European Community</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -6466,6 +6655,14 @@
       <Name lang="en">Kyrgyz, Republic</Name>
       <Description lang="en">Kyrgyzstan</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KG</Code>
+      <Name lang="fi">Kirgisia</Name>
+      <Name lang="sv">Kirgizistan</Name>
+      <Name lang="en">Kyrgyzstan</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -6555,6 +6752,16 @@
       <Name lang="en">Korea, Democratic People’s Republ</Name>
       <Description lang="en">North Korea</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KP</Code>
+      <Name lang="fi">Korean demokraattinen kansantasavalta</Name>
+      <Description lang="fi">Korean demokraattinen kansantasavalta (Pohjois-Korea)</Description>
+      <Name lang="sv">Nordkorea</Name>
+      <Name lang="en">Korea, Democratic People’s Republic of</Name>
+      <Description lang="en">North Korea</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -7698,6 +7905,17 @@
       <Name lang="en">Stores and provisions intra-Comm</Name>
       <Description lang="en">Supplies to vessels, intra trade</Description>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QR</Code>
+      <Name lang="fi">Alusten elintarvike- ja polttoainevarastot EU:n sisäisessä kaupassa</Name>
+      <Description lang="fi">Toimitukset aluksiin sisäkaupassa</Description>
+      <Name lang="sv">Bunkring och underhåll vid handel inom EU</Name>
+      <Description lang="sv">Leverans till fartyg, intra handeln</Description>
+      <Name lang="en">Stores and provisions within the framework of intra-Union trade</Name>
+      <Description lang="en">Supplies to vessels, intra trade</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -7716,6 +7934,16 @@
       <Description lang="sv">Bungring och underhåll vid handel med tredje land</Description>
       <Name lang="en">Stores and provisions 3rd countries</Name>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QS</Code>
+      <Name lang="fi">Toimitukset aluksiin ulkokaupassa</Name>
+      <Name lang="sv">Bunkring och underhåll vid handel med tredjeland</Name>
+      <Description lang="sv">Bungring och underhåll vid handel med tredje land</Description>
+      <Name lang="en">Stores and provisions within the framework of extra-Union trade</Name>
+      <Description lang="en">Stores and provisions 3rd countries</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -7744,6 +7972,15 @@
       <Name lang="en">Countries not specified</Name>
       <Description lang="en">Countries and territories not specified</Description>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QU</Code>
+      <Name lang="fi">Määrittelemättömät maat ja alueet</Name>
+      <Name lang="sv">Ej specificerade länder och områden</Name>
+      <Description lang="sv">Ej specifierare länder och områden</Description>
+      <Name lang="en">Countries and territories not specified</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -7762,6 +7999,16 @@
       <Name lang="en">Countries not spec intra-Comm</Name>
       <Description lang="en">Offshore installations, intra trade</Description>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QV</Code>
+      <Name lang="fi">Merellä olevat laitokset sisäkaupassa</Name>
+      <Name lang="sv">Ej specificerade länder och områden vid handel inom EU</Name>
+      <Description lang="sv">Offshoreanläggningar, intra handeln</Description>
+      <Name lang="en">Countries and territories not specified within the framework of intra-Union trade</Name>
+      <Description lang="en">Offshore installations, intra trade</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -7779,6 +8026,16 @@
       <Description lang="sv">Ej specifierare länder/områden vid handel med tredje land</Description>
       <Name lang="en">Countries not spec 3rd countries</Name>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QW</Code>
+      <Name lang="fi">Merellä olevat laitokset ulkokaupassa</Name>
+      <Name lang="sv">Ej specificerade länder och områden vid handel med tredjeland</Name>
+      <Description lang="sv">Ej specifierare länder/områden vid handel med tredje land</Description>
+      <Name lang="en">Countries and territories not specified within the framework of extra-Union trade</Name>
+      <Description lang="en">Countries not spec 3rd countries</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -7805,6 +8062,16 @@
       <Description lang="sv">Länder och områden som av handels- eller försvarsskäl</Description>
       <Name lang="en">Countries not spec com/mil reasons</Name>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QX</Code>
+      <Name lang="fi">Maat ja alueet, joita ei täsmennetä kaupallisista tai sotilaallisista syistä</Name>
+      <Name lang="sv">Länder och områden som av handels eller försvarsskäl ej specificerats</Name>
+      <Description lang="sv">Länder och områden som av handels- eller försvarsskäl</Description>
+      <Name lang="en">Countries and territories not specified for commercial or military reasons</Name>
+      <Description lang="en">Countries not spec com/mil reasons</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -7822,6 +8089,16 @@
       <Description lang="sv">QX vid handel inom gememskapen</Description>
       <Name lang="en">Countries n/s com/mil intra-Comm</Name>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QY</Code>
+      <Name lang="fi">Määrittelemätön maa, sisäkauppa</Name>
+      <Name lang="sv">Länder och områden som av handels eller försvarsskäl ej specificerats vid handel inom EU</Name>
+      <Description lang="sv">QX vid handel inom gememskapen</Description>
+      <Name lang="en">Countries and territories not specified for commercial or military reasons in the framework of intra-Union trade</Name>
+      <Description lang="en">Countries n/s com/mil intra-Comm</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -7840,6 +8117,16 @@
       <Name lang="en">Countries n/s com/mil 3rd countries</Name>
       <Description lang="en">Countries n/s com/mil</Description>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QZ</Code>
+      <Name lang="fi">Määrittelemätön maa, ulkokauppa</Name>
+      <Name lang="sv">Länder och områden som av handels eller försvarsskäl ej specificerats vid handel med tredjeland</Name>
+      <Description lang="sv">QX vid handel med tredje land</Description>
+      <Name lang="en">Countries and territories not specified for commercial or military reasons in the framework of extra-Union</Name>
+      <Description lang="en">Countries n/s com/mil</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -8276,6 +8563,15 @@
       <Name lang="en">Swaziland</Name>
       <Description lang="en">Eswatini</Description>
       <StartDate>2022-12-09</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SZ</Code>
+      <Name lang="fi">Eswatini</Name>
+      <Name lang="sv">Swaziland</Name>
+      <Description lang="sv">Eswatini</Description>
+      <Name lang="en">Eswatini</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -8661,6 +8957,16 @@
       <Name lang="en">Vatican City</Name>
       <Description lang="en">Vatican City State</Description>
       <StartDate>2023-03-11</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VA</Code>
+      <Name lang="fi">Vatikaanivaltio</Name>
+      <Name lang="sv">Heliga stolen (Vatikanstaten)</Name>
+      <Description lang="sv">Vatikanstaten</Description>
+      <Name lang="en">Holy See (the)</Name>
+      <Description lang="en">Vatican City State</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -8679,6 +8985,16 @@
       <Name lang="en">St Vincent</Name>
       <Description lang="en">St.Vincent, North Grenadines</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VC</Code>
+      <Name lang="fi">Saint Vincent ja Grenadiinit</Name>
+      <Name lang="sv">Saint Vincent och Grenadinerna</Name>
+      <Description lang="sv">St. Vincent och Grenadinerna</Description>
+      <Name lang="en">Saint Vincent and the Grenadines</Name>
+      <Description lang="en">St.Vincent, North Grenadines</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -8695,6 +9011,15 @@
       <Name lang="sv">Venezuela</Name>
       <Name lang="en">Venezuela</Name>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VE</Code>
+      <Name lang="fi">Venezuela</Name>
+      <Name lang="sv">Venezuela</Name>
+      <Name lang="en">Venezuela (Bolivarian Republic of)</Name>
+      <Description lang="en">Venezuela</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -8712,6 +9037,14 @@
       <Name lang="en">Wallis and Futuna Islands</Name>
       <Description lang="en">Wallis and Futuna</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>WF</Code>
+      <Name lang="fi">Wallis ja Futuna</Name>
+      <Name lang="sv">Wallis och Futuna</Name>
+      <Name lang="en">Wallis and Futuna</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -8728,6 +9061,15 @@
       <Name lang="sv">Brittiska Jungfruöarna</Name>
       <Name lang="en">British Virgin Islands</Name>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VG</Code>
+      <Name lang="fi">Brittiläiset Neitsytsaaret</Name>
+      <Name lang="sv">Brittiska Jungfruöarna</Name>
+      <Name lang="en">Virgin Islands (British)</Name>
+      <Description lang="en">British Virgin Islands</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -8746,6 +9088,16 @@
       <Name lang="en">US Virgin Islands</Name>
       <Description lang="en">Virgin Islands (USA)</Description>
       <StartDate>2023-03-11</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VI</Code>
+      <Name lang="fi">Yhdysvaltojen Neitsytsaaret</Name>
+      <Name lang="sv">Amerikanska Jungfruöarna</Name>
+      <Description lang="sv">Jungfruöarna (USA)</Description>
+      <Name lang="en">Virgin Islands, United States</Name>
+      <Description lang="en">Virgin Islands (USA)</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -8763,6 +9115,14 @@
       <Name lang="en">Vietnam</Name>
       <Description lang="en">Viet Nam</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VN</Code>
+      <Name lang="fi">Vietnam</Name>
+      <Name lang="sv">Vietnam</Name>
+      <Name lang="en">Viet Nam</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -11654,6 +12014,25 @@
       <Name lang="sv">Äkthetsintyg: "Certificate of authenticity B "Basmati Rice" for export to the European Community"</Name>
       <Name lang="en">Certificate of authenticity B "Basmati Rice" for export to the European Community</Name>
       <StartDate>2017-01-01</StartDate>
+      <EndDate>2023-12-27</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>A022</Code>
+      <Name lang="fi">Aitoustodistuksen jäljennös: Certificate of authenticity Basmati Rice for export to the European Union</Name>
+      <Name lang="sv">Kopia av äkthetsintyg: Certificate of authenticity Basmati Rice for export to the European Union</Name>
+      <Name lang="en">Copy of a certificate of authenticity Basmati Rice for export to the European Union</Name>
+      <StartDate>2023-12-28</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -11711,6 +12090,25 @@
       <Name lang="sv">Likvärdigt intyg nämnd i förordning (EG) nr 1295/2008 (EUT L 340)</Name>
       <Name lang="en">Attestation of equivalence as mentioned in Regulation (EC) No 1295/2008 (OJ L 340)</Name>
       <StartDate>2017-01-01</StartDate>
+      <EndDate>2023-12-27</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>C001</Code>
+      <Name lang="fi">Asetuksen (EU) 2023/2834 mukainen vastaavuustodistus</Name>
+      <Name lang="sv">Likvärdigt intyg nämnd i förordning (EU) 2023/2834</Name>
+      <Name lang="en">Attestation of equivalence as mentioned in Regulation (EU) 2023/2834</Name>
+      <StartDate>2023-12-28</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -12589,6 +12987,25 @@
       <Name lang="sv">Intyg för flintmajs utfärdat av Argentinas Servicio Nacional de Sanidad y Calidad Agroalimentaria (Senasa)</Name>
       <Name lang="en">Certificate issued by the Servicio Nacional de Sanidad y Calidad Agroalimentaria (Senasa) of Argentina for flint maize</Name>
       <StartDate>2023-01-17</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>C091</Code>
+      <Name lang="fi">Vastaavuustodistuksen ote, asetuksen (EU) 2023/2834</Name>
+      <Name lang="sv">Utdrag av intyg om likvärdighet, förordning (EU) 2023/2834</Name>
+      <Name lang="en">Extract of attestation of equivalence, Regulation (EU) 2023/2834</Name>
+      <StartDate>2023-12-28</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -14318,6 +14735,25 @@
       <Name lang="sv">Intyg utfärdat av den amerikanska våtmalningsindustrini enlighet med förordning (EG) nr 1375/2007 innan den 7.3.2017</Name>
       <Name lang="en">Certificate issued by the USA wet milling industry in accordance with Regulation (EC) No 1375/2007 before 7.3.2017</Name>
       <StartDate>2017-01-01</StartDate>
+      <EndDate>2023-12-27</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>C668</Code>
+      <Name lang="fi">Amerikan kosteapuristeteollisuuden antama todistus</Name>
+      <Name lang="sv">Intyg utfärdat av den amerikanska våtmalningsindustrin</Name>
+      <Name lang="en">Certificate issued by the USA wet milling industry</Name>
+      <StartDate>2023-12-28</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -14644,7 +15080,7 @@
       <Name lang="sv">Intyg utfärdat av den amerikanska våtmalningsindustrin i enlighet med Kommissionens genomförandeförordning (EU) 2017/337</Name>
       <Name lang="en">Certificate issued by the USA wet milling industry in accordance with Commission Implementing Regulation (EU) 2017/337</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2023-12-27</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
         <Value>1</Value>
@@ -18894,6 +19330,25 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>Y704</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 p artiklan 1 - 4 kohdassa määriteltyjä kieltoja ei sovelleta (ks. poikkeukset 3 p artiklan 6 kohdassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3p punkt 1 - 4 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantagen i artikel 3p punkt 6)</Name>
+      <Name lang="en">The prohibitions defined in article 3p paragraph 1 to 4 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3p paragraph 6)</Name>
+      <StartDate>2023-12-19</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>Y800</Code>
       <Name lang="fi">Tavaroita ei ole lähetetty Bangladeshista</Name>
       <Name lang="sv">Varor som inte avsänts från Bangladesh</Name>
@@ -19483,6 +19938,44 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>Y872</Code>
+      <Name lang="fi">Muut kuin ne, joita asetuksen (EU) N:o 833/2014 3 p artiklan 1 kohdassa määritellyt kiellot koskevat</Name>
+      <Name lang="sv">Andra varor än de som berörs av de förbud som definieras i artikel 3p.1 i förordning (EU) nr 833/2014</Name>
+      <Name lang="en">Goods other than those concerned by the prohibitions defined in article 3p paragraph 1 of Regulation (EU) No 833/2014</Name>
+      <StartDate>2023-12-19</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y873</Code>
+      <Name lang="fi">Tavarat, joita ei kuljeteta Venäjän alueen kautta</Name>
+      <Name lang="sv">Varor som inte transiteras via Rysslands territorium</Name>
+      <Name lang="en">Goods not transited via the territory of Russia</Name>
+      <StartDate>2023-12-19</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>Y874</Code>
       <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso poikkeukset 3i.3aa artiklassa)</Name>
       <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3aa)</Name>
@@ -19525,6 +20018,25 @@
       <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso poikkeukset 3i.3ac artiklassa)</Name>
       <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3ac)</Name>
       <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3i.3ac)</Name>
+      <StartDate>2023-12-19</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y878</Code>
+      <Name lang="fi">Tuote tuodaan kumppanimaasta asetuksen (EU) N:o 833/2014 liitteessä XXXVI luetellusta raudan ja teräksen tuontia varten</Name>
+      <Name lang="sv">Produkten importeras från ett partnerland för import av järn och stål enligt förteckningen i bilaga XXXVI till förordning (EU) nr 833/2014</Name>
+      <Name lang="en">The product is imported from a partner country for importation of iron and steel as listed in Annex XXXVI to Regulation (EU) No 833/2014</Name>
       <StartDate>2023-12-19</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -23474,6 +23986,7 @@
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_EXP</Name>
@@ -23528,6 +24041,7 @@
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_EXP</Name>
@@ -23607,6 +24121,7 @@
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_EXP</Name>
@@ -41522,6 +42037,14 @@ customs warehousing procedure</Description>
       <Name lang="en">Kyrgyz, Republic</Name>
       <Description lang="en">Kyrgyzstan</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KG</Code>
+      <Name lang="fi">Kirgisia</Name>
+      <Name lang="sv">Kirgizistan</Name>
+      <Name lang="en">Kyrgyzstan</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -41611,6 +42134,16 @@ customs warehousing procedure</Description>
       <Name lang="en">Korea, Democratic People’s Republ</Name>
       <Description lang="en">North Korea</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KP</Code>
+      <Name lang="fi">Korean demokraattinen kansantasavalta</Name>
+      <Description lang="fi">Korean demokraattinen kansantasavalta (Pohjois-Korea)</Description>
+      <Name lang="sv">Nordkorea</Name>
+      <Name lang="en">Korea, Democratic People’s Republic of</Name>
+      <Description lang="en">North Korea</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -42688,6 +43221,15 @@ customs warehousing procedure</Description>
       <Name lang="en">Countries not specified</Name>
       <Description lang="en">Countries and territories not specified</Description>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QU</Code>
+      <Name lang="fi">Määrittelemättömät maat ja alueet</Name>
+      <Name lang="sv">Ej specificerade länder och områden</Name>
+      <Description lang="sv">Ej specifierare länder och områden</Description>
+      <Name lang="en">Countries and territories not specified</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -43104,6 +43646,15 @@ customs warehousing procedure</Description>
       <Name lang="en">Swaziland</Name>
       <Description lang="en">Eswatini</Description>
       <StartDate>2022-12-09</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SZ</Code>
+      <Name lang="fi">Eswatini</Name>
+      <Name lang="sv">Swaziland</Name>
+      <Description lang="sv">Eswatini</Description>
+      <Name lang="en">Eswatini</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -43489,6 +44040,16 @@ customs warehousing procedure</Description>
       <Name lang="en">Vatican City</Name>
       <Description lang="en">Vatican City State</Description>
       <StartDate>2023-03-11</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VA</Code>
+      <Name lang="fi">Vatikaanivaltio</Name>
+      <Name lang="sv">Heliga stolen (Vatikanstaten)</Name>
+      <Description lang="sv">Vatikanstaten</Description>
+      <Name lang="en">Holy See (the)</Name>
+      <Description lang="en">Vatican City State</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -43507,6 +44068,16 @@ customs warehousing procedure</Description>
       <Name lang="en">St Vincent</Name>
       <Description lang="en">St.Vincent, North Grenadines</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VC</Code>
+      <Name lang="fi">Saint Vincent ja Grenadiinit</Name>
+      <Name lang="sv">Saint Vincent och Grenadinerna</Name>
+      <Description lang="sv">St. Vincent och Grenadinerna</Description>
+      <Name lang="en">Saint Vincent and the Grenadines</Name>
+      <Description lang="en">St.Vincent, North Grenadines</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -43523,6 +44094,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Venezuela</Name>
       <Name lang="en">Venezuela</Name>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VE</Code>
+      <Name lang="fi">Venezuela</Name>
+      <Name lang="sv">Venezuela</Name>
+      <Name lang="en">Venezuela (Bolivarian Republic of)</Name>
+      <Description lang="en">Venezuela</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -43540,6 +44120,14 @@ customs warehousing procedure</Description>
       <Name lang="en">Wallis and Futuna Islands</Name>
       <Description lang="en">Wallis and Futuna</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>WF</Code>
+      <Name lang="fi">Wallis ja Futuna</Name>
+      <Name lang="sv">Wallis och Futuna</Name>
+      <Name lang="en">Wallis and Futuna</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -43556,6 +44144,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Brittiska Jungfruöarna</Name>
       <Name lang="en">British Virgin Islands</Name>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VG</Code>
+      <Name lang="fi">Brittiläiset Neitsytsaaret</Name>
+      <Name lang="sv">Brittiska Jungfruöarna</Name>
+      <Name lang="en">Virgin Islands (British)</Name>
+      <Description lang="en">British Virgin Islands</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -43574,6 +44171,16 @@ customs warehousing procedure</Description>
       <Name lang="en">US Virgin Islands</Name>
       <Description lang="en">Virgin Islands (USA)</Description>
       <StartDate>2023-03-11</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VI</Code>
+      <Name lang="fi">Yhdysvaltojen Neitsytsaaret</Name>
+      <Name lang="sv">Amerikanska Jungfruöarna</Name>
+      <Description lang="sv">Jungfruöarna (USA)</Description>
+      <Name lang="en">Virgin Islands, United States</Name>
+      <Description lang="en">Virgin Islands (USA)</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -43591,6 +44198,14 @@ customs warehousing procedure</Description>
       <Name lang="en">Vietnam</Name>
       <Description lang="en">Viet Nam</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VN</Code>
+      <Name lang="fi">Vietnam</Name>
+      <Name lang="sv">Vietnam</Name>
+      <Name lang="en">Viet Nam</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -47127,6 +47742,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Europeiska gemenskapen</Name>
       <Name lang="en">European Community</Name>
       <StartDate>2023-10-21</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>EU</Code>
+      <Name lang="fi">Euroopan Unioni</Name>
+      <Name lang="sv">Europeiska gemenskapen</Name>
+      <Name lang="en">European Union</Name>
+      <Description lang="en">European Community</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -47933,6 +48557,14 @@ customs warehousing procedure</Description>
       <Name lang="en">Kyrgyz, Republic</Name>
       <Description lang="en">Kyrgyzstan</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KG</Code>
+      <Name lang="fi">Kirgisia</Name>
+      <Name lang="sv">Kirgizistan</Name>
+      <Name lang="en">Kyrgyzstan</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -48022,6 +48654,16 @@ customs warehousing procedure</Description>
       <Name lang="en">Korea, Democratic People’s Republ</Name>
       <Description lang="en">North Korea</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>KP</Code>
+      <Name lang="fi">Korean demokraattinen kansantasavalta</Name>
+      <Description lang="fi">Korean demokraattinen kansantasavalta (Pohjois-Korea)</Description>
+      <Name lang="sv">Nordkorea</Name>
+      <Name lang="en">Korea, Democratic People’s Republic of</Name>
+      <Description lang="en">North Korea</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -49566,6 +50208,15 @@ customs warehousing procedure</Description>
       <Name lang="en">Swaziland</Name>
       <Description lang="en">Eswatini</Description>
       <StartDate>2022-12-09</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>SZ</Code>
+      <Name lang="fi">Eswatini</Name>
+      <Name lang="sv">Swaziland</Name>
+      <Description lang="sv">Eswatini</Description>
+      <Name lang="en">Eswatini</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -49951,6 +50602,16 @@ customs warehousing procedure</Description>
       <Name lang="en">Vatican City</Name>
       <Description lang="en">Vatican City State</Description>
       <StartDate>2023-03-11</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VA</Code>
+      <Name lang="fi">Vatikaanivaltio</Name>
+      <Name lang="sv">Heliga stolen (Vatikanstaten)</Name>
+      <Description lang="sv">Vatikanstaten</Description>
+      <Name lang="en">Holy See (the)</Name>
+      <Description lang="en">Vatican City State</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -49969,6 +50630,16 @@ customs warehousing procedure</Description>
       <Name lang="en">St Vincent</Name>
       <Description lang="en">St.Vincent, North Grenadines</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VC</Code>
+      <Name lang="fi">Saint Vincent ja Grenadiinit</Name>
+      <Name lang="sv">Saint Vincent och Grenadinerna</Name>
+      <Description lang="sv">St. Vincent och Grenadinerna</Description>
+      <Name lang="en">Saint Vincent and the Grenadines</Name>
+      <Description lang="en">St.Vincent, North Grenadines</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -49985,6 +50656,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Venezuela</Name>
       <Name lang="en">Venezuela</Name>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VE</Code>
+      <Name lang="fi">Venezuela</Name>
+      <Name lang="sv">Venezuela</Name>
+      <Name lang="en">Venezuela (Bolivarian Republic of)</Name>
+      <Description lang="en">Venezuela</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -50002,6 +50682,14 @@ customs warehousing procedure</Description>
       <Name lang="en">Wallis and Futuna Islands</Name>
       <Description lang="en">Wallis and Futuna</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>WF</Code>
+      <Name lang="fi">Wallis ja Futuna</Name>
+      <Name lang="sv">Wallis och Futuna</Name>
+      <Name lang="en">Wallis and Futuna</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -50018,6 +50706,15 @@ customs warehousing procedure</Description>
       <Name lang="sv">Brittiska Jungfruöarna</Name>
       <Name lang="en">British Virgin Islands</Name>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VG</Code>
+      <Name lang="fi">Brittiläiset Neitsytsaaret</Name>
+      <Name lang="sv">Brittiska Jungfruöarna</Name>
+      <Name lang="en">Virgin Islands (British)</Name>
+      <Description lang="en">British Virgin Islands</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -50036,6 +50733,16 @@ customs warehousing procedure</Description>
       <Name lang="en">US Virgin Islands</Name>
       <Description lang="en">Virgin Islands (USA)</Description>
       <StartDate>2023-03-11</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VI</Code>
+      <Name lang="fi">Yhdysvaltojen Neitsytsaaret</Name>
+      <Name lang="sv">Amerikanska Jungfruöarna</Name>
+      <Description lang="sv">Jungfruöarna (USA)</Description>
+      <Name lang="en">Virgin Islands, United States</Name>
+      <Description lang="en">Virgin Islands (USA)</Description>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -50053,6 +50760,14 @@ customs warehousing procedure</Description>
       <Name lang="en">Vietnam</Name>
       <Description lang="en">Viet Nam</Description>
       <StartDate>2022-09-30</StartDate>
+      <EndDate>2024-01-21</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>VN</Code>
+      <Name lang="fi">Vietnam</Name>
+      <Name lang="sv">Vietnam</Name>
+      <Name lang="en">Viet Nam</Name>
+      <StartDate>2024-01-22</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -55682,6 +56397,23 @@ customs warehousing procedure</Description>
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>Y704</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 p artiklan 1 - 4 kohdassa määriteltyjä kieltoja ei sovelleta (ks. poikkeukset 3 p artiklan 6 kohdassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3p punkt 1 - 4 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantagen i artikel 3p punkt 6)</Name>
+      <Name lang="en">The prohibitions defined in article 3p paragraph 1 to 4 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3p paragraph 6)</Name>
+      <StartDate>2023-12-29</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>Y800</Code>
       <Name lang="fi">Tavaroita ei ole lähetetty Bangladeshista</Name>
       <Name lang="sv">Varor som inte avsänts från Bangladesh</Name>
@@ -57161,11 +57893,62 @@ customs warehousing procedure</Description>
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>Y872</Code>
+      <Name lang="fi">Muut kuin ne, joita asetuksen (EU) N:o 833/2014 3 p artiklan 1 kohdassa määritellyt kiellot koskevat</Name>
+      <Name lang="sv">Andra varor än de som berörs av de förbud som definieras i artikel 3p.1 i förordning (EU) nr 833/2014</Name>
+      <Name lang="en">Goods other than those concerned by the prohibitions defined in article 3p paragraph 1 of Regulation (EU) No 833/2014</Name>
+      <StartDate>2023-12-29</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y873</Code>
+      <Name lang="fi">Tavarat, joita ei kuljeteta Venäjän alueen kautta</Name>
+      <Name lang="sv">Varor som inte transiteras via Rysslands territorium</Name>
+      <Name lang="en">Goods not transited via the territory of Russia</Name>
+      <StartDate>2023-12-29</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>Y874</Code>
       <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso poikkeukset 3i.3aa artiklassa)</Name>
       <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3aa)</Name>
       <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3i.3aa)</Name>
       <StartDate>2023-12-19</StartDate>
+      <EndDate>2023-12-28</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y874</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso poikkeukset 3i.3aa artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3aa)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3i.3aa)</Name>
+      <StartDate>2023-12-29</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -57183,6 +57966,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3ab)</Name>
       <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3i.3ab)</Name>
       <StartDate>2023-12-19</StartDate>
+      <EndDate>2023-12-28</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y875</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso poikkeukset 3i.3ab artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3ab)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3i.3ab)</Name>
+      <StartDate>2023-12-29</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -57200,6 +58000,57 @@ customs warehousing procedure</Description>
       <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3ac)</Name>
       <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3i.3ac)</Name>
       <StartDate>2023-12-19</StartDate>
+      <EndDate>2023-12-28</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y877</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso poikkeukset 3i.3ac artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3ac)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3i.3ac)</Name>
+      <StartDate>2023-12-29</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y878</Code>
+      <Name lang="fi">Tuote tuodaan kumppanimaasta asetuksen (EU) N:o 833/2014 liitteessä XXXVI luetellusta raudan ja teräksen tuontia varten</Name>
+      <Name lang="sv">Produkten importeras från ett partnerland för import av järn och stål enligt förteckningen i bilaga XXXVI till förordning (EU) nr 833/2014</Name>
+      <Name lang="en">The product is imported from a partner country for importation of iron and steel as listed in Annex XXXVI to Regulation (EU) No 833/2014</Name>
+      <StartDate>2023-12-19</StartDate>
+      <EndDate>2023-12-27</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y878</Code>
+      <Name lang="fi">Tuote tuodaan kumppanimaasta asetuksen (EU) N:o 833/2014 liitteessä XXXVI luetellusta raudan ja teräksen tuontia varten</Name>
+      <Name lang="sv">Produkten importeras från ett partnerland för import av järn och stål enligt förteckningen i bilaga XXXVI till förordning (EU) nr 833/2014</Name>
+      <Name lang="en">The product is imported from a partner country for importation of iron and steel as listed in Annex XXXVI to Regulation (EU) No 833/2014</Name>
+      <StartDate>2023-12-28</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -84267,5 +85118,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2023-12-22T06:05:05.287</Generated>
+  <Generated>2024-01-08T06:05:04.587</Generated>
 </CodeLists>
