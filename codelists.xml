@@ -20052,6 +20052,25 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>Y898</Code>
+      <Name lang="fi">Tuotteet, jotka eivät kuulu asetuksen (EU) 2023/2833 soveltamisalaan (Thunnus thynnus)</Name>
+      <Name lang="sv">Varor som inte berörs av förordning (EU) 2023/2833 (Thunnus thynnus)</Name>
+      <Name lang="en">Goods not concerned by Regulation (EU) 2023/2833 (Thunnus thynnus)</Name>
+      <StartDate>2024-01-09</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>Y900</Code>
       <Name lang="fi">Ilmoitetut tavarat eivät kuulu Washingtonin yleissopimukseen (CITES)</Name>
       <Name lang="sv">Deklarerade varor återfinns inte i Washington-konventionen (CITES)</Name>
@@ -36608,7 +36627,6 @@ the transitional period following the accession of new Member States</Descriptio
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
-        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -57915,6 +57933,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Varor som inte transiteras via Rysslands territorium</Name>
       <Name lang="en">Goods not transited via the territory of Russia</Name>
       <StartDate>2023-12-29</StartDate>
+      <EndDate>2024-01-08</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y873</Code>
+      <Name lang="fi">Tavarat, joita ei kuljeteta Venäjän alueen kautta</Name>
+      <Name lang="sv">Varor som inte transiteras via Rysslands territorium</Name>
+      <Name lang="en">Goods not transited via the territory of Russia</Name>
+      <StartDate>2024-01-09</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -58051,6 +58086,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Produkten importeras från ett partnerland för import av järn och stål enligt förteckningen i bilaga XXXVI till förordning (EU) nr 833/2014</Name>
       <Name lang="en">The product is imported from a partner country for importation of iron and steel as listed in Annex XXXVI to Regulation (EU) No 833/2014</Name>
       <StartDate>2023-12-28</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y898</Code>
+      <Name lang="fi">Tuotteet, jotka eivät kuulu asetuksen (EU) 2023/2833 soveltamisalaan (Thunnus thynnus)</Name>
+      <Name lang="sv">Varor som inte berörs av förordning (EU) 2023/2833 (Thunnus thynnus)</Name>
+      <Name lang="en">Goods not concerned by Regulation (EU) 2023/2833 (Thunnus thynnus)</Name>
+      <StartDate>2024-01-09</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -58460,6 +58512,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">De deklarerade varorna berörs inte av förordning (EG) nr 1984/2003 (och/eller förordning (EU) nr 640/2010).</Name>
       <Name lang="en">The declared goods are not concerned by Regulation (EC) No. 1984/2003 (and/or Reg. (EU) No. 640/2010).</Name>
       <StartDate>2023-06-14</StartDate>
+      <EndDate>2024-01-08</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y909</Code>
+      <Name lang="fi">Tuotteet, jotka eivät kuulu asetuksen (EY) N:o 1984/2003 soveltamisalaan</Name>
+      <Name lang="sv">Varor som inte berörs av förordning (EG) nr 1984/2003</Name>
+      <Name lang="en">Goods not concerned by Regulation (EC) No. 1984/2003</Name>
+      <StartDate>2024-01-09</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -85118,5 +85187,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-01-08T06:05:04.587</Generated>
+  <Generated>2024-01-09T06:05:03.090</Generated>
 </CodeLists>
