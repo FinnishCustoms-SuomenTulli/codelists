@@ -12390,9 +12390,9 @@
     </CodeItem>
     <CodeItem>
       <Code>C041</Code>
-      <Name lang="fi">Tonnikalan ICCAT-jälleenvientitodistus (asetus (EU) N:o 640/2010, L 194)</Name>
-      <Name lang="sv">Intyg ICCAT om återexport av tonfisk (förordning (EU) nr 640/2010, L 194)</Name>
-      <Name lang="en">ICCAT bluefin tuna re-export certificate (Reg 640/2010, L 194)</Name>
+      <Name lang="fi">Tonnikalaa koskeva ICCAT:n jälleenvientitodistus [asetus (EU) 2023/2833]</Name>
+      <Name lang="sv">Iccats intyg om återexport av blåfenad tonfisk (BFTRC) [förordning (EU) 2023/2833]</Name>
+      <Name lang="en">ICCAT bluefin tuna re-export certificate (BFTRC) [Reg. (EU) 2023/2833]</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -12466,8 +12466,8 @@
     </CodeItem>
     <CodeItem>
       <Code>C047</Code>
-      <Name lang="fi">Tonnikalaa koskevan ICCAT-saalisasiakirjan</Name>
-      <Name lang="sv">Fångstdokument Icaat för blåfenad tonfisk</Name>
+      <Name lang="fi">Tonnikalaa koskeva ICCAT-saalisasiakirja (BCD)</Name>
+      <Name lang="sv">Iccats fångstdokument för blåfenad tonfisk (BCD)</Name>
       <Name lang="en">ICCAT Bluefin tuna catch document (BCD)</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -20228,6 +20228,25 @@
       <Name lang="sv">De deklarerade varorna berörs inte av förordning (EG) nr 1984/2003 (och/eller förordning (EU) nr 640/2010).</Name>
       <Name lang="en">The declared goods are not concerned by Regulation (EC) No. 1984/2003 (and/or Reg. (EU) No. 640/2010).</Name>
       <StartDate>2017-01-01</StartDate>
+      <EndDate>2024-01-08</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y909</Code>
+      <Name lang="fi">Tuotteet, jotka eivät kuulu asetuksen (EY) N:o 1984/2003 soveltamisalaan</Name>
+      <Name lang="sv">Varor som inte berörs av förordning (EG) nr 1984/2003</Name>
+      <Name lang="en">Goods not concerned by Regulation (EC) No. 1984/2003</Name>
+      <StartDate>2024-01-09</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -63349,7 +63368,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">Begäran om ogiltigförklaring</Name>
       <Name lang="en">Invalidation request</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2024-01-08</EndDate>
       <Filter>
         <Name>Filter_TRA</Name>
       </Filter>
@@ -85187,5 +85206,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-01-09T06:05:03.090</Generated>
+  <Generated>2024-01-10T06:05:04.453</Generated>
 </CodeLists>
