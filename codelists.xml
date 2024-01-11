@@ -13020,6 +13020,25 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>C092</Code>
+      <Name lang="fi">ICCAT transfer declaration</Name>
+      <Name lang="sv">ICCAT transfer declaration</Name>
+      <Name lang="en">ICCAT transfer declaration</Name>
+      <StartDate>2024-01-09</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>C100</Code>
       <Name lang="fi">Rekisteröidyn viejän numero</Name>
       <Name lang="sv">Nummer för registrerad exportör</Name>
@@ -85206,5 +85225,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-01-10T06:05:04.453</Generated>
+  <Generated>2024-01-11T06:05:04.553</Generated>
 </CodeLists>
