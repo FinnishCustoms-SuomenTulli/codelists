@@ -44824,6 +44824,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Elektroniskt administrativt dokument (e-AD), enligt artikel 3.1 i förordning (EG) nr 684/2009</Name>
       <Name lang="en">Electronic administrative document (e-AD), as referred to in Article 3(1) of Reg. (EC) No 684/2009</Name>
       <StartDate>2023-12-19</StartDate>
+      <EndDate>2024-01-14</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>C651</Code>
+      <Name lang="fi">Asetuksen (EY) N:o 684/2009 3 artiklan 1 kohdassa tarkoitettu sähköinen hallinnollinen asiakirja (e-AD)</Name>
+      <Name lang="sv">Elektroniskt administrativt dokument (e-AD), enligt artikel 3.1 i förordning (EG) nr 684/2009</Name>
+      <Name lang="en">Electronic administrative document (e-AD), as referred to in Article 3(1) of Reg. (EC) No 684/2009</Name>
+      <StartDate>2024-01-15</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -44909,6 +44926,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Ersättningsdokumentför flyttning av punktskattepliktiga varor under punktskatteuppskov, enligt artikel 9.1 i förordning (EU) 2022/1636</Name>
       <Name lang="en">Fallback Document for movements of excise goods under suspension of excise duty, as referred to in Article 9(1) of Commission Delegated Regulation (EU) 2022/1636</Name>
       <StartDate>2023-12-19</StartDate>
+      <EndDate>2024-01-14</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>C658</Code>
+      <Name lang="fi">Asetuksen (EU) 2022/1636 9 artiklan 1 kohdassa tarkoitettu valmisteveron alaisten tuotteiden väliaikaisesti verottomien siirtojen korvaava asiakirja</Name>
+      <Name lang="sv">Ersättningsdokumentför flyttning av punktskattepliktiga varor under punktskatteuppskov, enligt artikel 9.1 i förordning (EU) 2022/1636</Name>
+      <Name lang="en">Fallback Document for movements of excise goods under suspension of excise duty, as referred to in Article 9(1) of Commission Delegated Regulation (EU) 2022/1636</Name>
+      <StartDate>2024-01-15</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -85225,5 +85259,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-01-11T06:05:04.553</Generated>
+  <Generated>2024-01-15T06:05:04.613</Generated>
 </CodeLists>
