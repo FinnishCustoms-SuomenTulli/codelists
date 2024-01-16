@@ -13021,8 +13021,8 @@
     </CodeItem>
     <CodeItem>
       <Code>C092</Code>
-      <Name lang="fi">ICCAT transfer declaration</Name>
-      <Name lang="sv">ICCAT transfer declaration</Name>
+      <Name lang="fi">ICCAT:n siirtoilmoitus</Name>
+      <Name lang="sv">Iccats överföringsdeklaration</Name>
       <Name lang="en">ICCAT transfer declaration</Name>
       <StartDate>2024-01-09</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -85259,5 +85259,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-01-15T06:05:04.613</Generated>
+  <Generated>2024-01-16T06:05:04.940</Generated>
 </CodeLists>
