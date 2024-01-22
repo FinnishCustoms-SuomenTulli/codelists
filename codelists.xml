@@ -9564,6 +9564,14 @@
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>GE</Code>
+      <Name lang="fi">Georgia</Name>
+      <Name lang="sv">Georgien</Name>
+      <Name lang="en">Georgia</Name>
+      <StartDate>2022-09-30</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>GG</Code>
       <Name lang="fi">Guernsey</Name>
       <Name lang="sv">Guernsey</Name>
@@ -85293,5 +85301,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-01-18T06:05:04.483</Generated>
+  <Generated>2024-01-22T06:05:03.640</Generated>
 </CodeLists>
