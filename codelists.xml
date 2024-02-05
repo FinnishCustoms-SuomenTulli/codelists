@@ -19376,6 +19376,25 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>Y705</Code>
+      <Name lang="fi">Timantit, joiden paino on vähemmän kuin 0,5 karaattia tai vähemmän kuin 0,1 grammaa</Name>
+      <Name lang="sv">Diamanter med en vikt av mindre än 1.0 karat</Name>
+      <Name lang="en">Diamonds with a weight less than 1.0 carats</Name>
+      <StartDate>2024-03-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>Y800</Code>
       <Name lang="fi">Tavaroita ei ole lähetetty Bangladeshista</Name>
       <Name lang="sv">Varor som inte avsänts från Bangladesh</Name>
@@ -56546,6 +56565,40 @@ customs warehousing procedure</Description>
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>Y705</Code>
+      <Name lang="fi">Timantit, joissa on vähemmän kuin 1,0 karaattia</Name>
+      <Name lang="sv">Diamanter med en vikt av mindre än 1.0 karat</Name>
+      <Name lang="en">Diamonds with a weight less than 1.0 carats</Name>
+      <StartDate>2024-03-01</StartDate>
+      <EndDate>2024-08-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y705</Code>
+      <Name lang="fi">Timantit, joiden paino on vähemmän kuin 0,5 tai vähemmän kuin 0,1 grammaa</Name>
+      <Name lang="sv">Diamanter med en vikt av mindre än 0.5 karat eller 0.1 gram</Name>
+      <Name lang="en">Diamonds with a weight less than 0.5 carats or 0.1 grams</Name>
+      <StartDate>2024-09-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>Y800</Code>
       <Name lang="fi">Tavaroita ei ole lähetetty Bangladeshista</Name>
       <Name lang="sv">Varor som inte avsänts från Bangladesh</Name>
@@ -85301,5 +85354,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-01-24T06:05:04.463</Generated>
+  <Generated>2024-02-05T06:05:05.153</Generated>
 </CodeLists>
