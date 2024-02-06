@@ -1118,7 +1118,7 @@
       <Name lang="sv">Grekland</Name>
       <Name lang="en">Greece</Name>
       <StartDate>2008-08-01</StartDate>
-      <EndDate>2024-01-23</EndDate>
+      <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>ER</Code>
@@ -85354,5 +85354,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-02-05T06:05:05.153</Generated>
+  <Generated>2024-02-06T06:05:03.703</Generated>
 </CodeLists>
