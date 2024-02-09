@@ -19148,6 +19148,44 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>Y111</Code>
+      <Name lang="fi">Kieltoa koskevien poikkeusten, sellaisina kuin ne on määritelty asetuksen (EU) 2019/1021 liitteessä I, noudattaminen.</Name>
+      <Name lang="sv">Efterlevnad av undantagen från förbudet, enligt definitionen i bilaga I till förordning (EU) 2019/1021.</Name>
+      <Name lang="en">Compliance with the exemptions to the prohibition, as defined in Annex I of Regulation (EU) 2019/1021.</Name>
+      <StartDate>2024-02-15</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y112</Code>
+      <Name lang="fi">Poikkeus rajoituksesta asetuksen (EU) 2019/1021 4 artiklan 1 kohdan a alakohdan nojalla.</Name>
+      <Name lang="sv">Undantag från begränsningen enligt artikel 4.1 a i förordning (EU) 2019/1021.</Name>
+      <Name lang="en">Exemption from the restriction by virtue of Article 4.1(a) of Regulation (EU) 2019/1021.</Name>
+      <StartDate>2024-02-15</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>Y113</Code>
       <Name lang="fi">Aine/seos, johon ei sovelleta asetuksen (EY) N:o 1907/2006 säännöksiä ( Liite XVII )</Name>
       <Name lang="sv">Ämne/blandning omfattas inte av bestämmelserna i förordning (EG) nr 1907/2006 ( Bilaga XVII )</Name>
@@ -56055,6 +56093,40 @@ customs warehousing procedure</Description>
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>Y111</Code>
+      <Name lang="fi">Kieltoa koskevien poikkeusten, sellaisina kuin ne on määritelty asetuksen (EU) 2019/1021 liitteessä I, noudattaminen.</Name>
+      <Name lang="sv">Efterlevnad av undantagen från förbudet, enligt definitionen i bilaga I till förordning (EU) 2019/1021.</Name>
+      <Name lang="en">Compliance with the exemptions to the prohibition, as defined in Annex I of Regulation (EU) 2019/1021.</Name>
+      <StartDate>2024-02-15</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y112</Code>
+      <Name lang="fi">Poikkeus rajoituksesta asetuksen (EU) 2019/1021 4 artiklan 1 kohdan a alakohdan nojalla.</Name>
+      <Name lang="sv">Undantag från begränsningen enligt artikel 4.1 a i förordning (EU) 2019/1021.</Name>
+      <Name lang="en">Exemption from the restriction by virtue of Article 4.1(a) of Regulation (EU) 2019/1021.</Name>
+      <StartDate>2024-02-15</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>Y113</Code>
       <Name lang="fi">Aine/seos, johon ei sovelleta asetuksen (EY) N:o 1907/2006 säännöksiä ( Liite XVII )</Name>
       <Name lang="sv">Ämne/blandning omfattas inte av bestämmelserna i förordning (EG) nr 1907/2006 ( Bilaga XVII )</Name>
@@ -85354,5 +85426,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-02-07T06:05:07.210</Generated>
+  <Generated>2024-02-09T06:05:04.447</Generated>
 </CodeLists>
