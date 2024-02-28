@@ -15098,11 +15098,49 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>8JAL</Code>
+      <Name lang="fi">Manuaalinen jälkikantopäätös</Name>
+      <Name lang="sv">Manuellt beslut om efteruppbörd</Name>
+      <Name lang="en">Manual decision on subsequent recovery</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>8KTP</Code>
       <Name lang="fi">Korvaava tullauspäätös</Name>
       <Name lang="sv">Ersättande förtullningbeslut</Name>
       <Name lang="en">Replacement customs clearance decision</Name>
       <StartDate>2019-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>8LAK</Code>
+      <Name lang="fi">Manuaalinen päätös tullivelan lakkaamisesta</Name>
+      <Name lang="sv">Manuellt beslut om att tullskulden upphört</Name>
+      <Name lang="en">Manual decision on extinguishment of customs debt</Name>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -15141,6 +15179,44 @@
       <Name lang="sv">Manuellt omprövningsbeslut</Name>
       <Name lang="en">Manual amendment decision</Name>
       <StartDate>2019-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>8PAL</Code>
+      <Name lang="fi">Manuaalinen muutospäätös tullivelan vähentämiseksi</Name>
+      <Name lang="sv">Manuellt ändringsbeslut för nedsättning av tullskuld</Name>
+      <Name lang="en">Manual amendment decision on reducing the customs debt</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>8RAU</Code>
+      <Name lang="fi">Manuaalinen muutoshakemuksesta luopuminen</Name>
+      <Name lang="sv">Manuellt avbokning av ändringsförfrågan</Name>
+      <Name lang="en">Manual cancellation of change request</Name>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -15212,6 +15288,63 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>8TKJ</Code>
+      <Name lang="fi">Manuaalinen kirjaamattajättämispäätös</Name>
+      <Name lang="sv">Manuellt Beslut om att inte bokföra tull</Name>
+      <Name lang="en">Manual Decision not to enter duty in the accounts</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>8TPK</Code>
+      <Name lang="fi">Manuaalinen täytäntöönpanon keskeytys</Name>
+      <Name lang="sv">Manuellt beslut om avbrytande av verkställighet</Name>
+      <Name lang="en">Manual decision on suspension of decision implementation</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>8TUT</Code>
+      <Name lang="fi">Manuaalinen tutkimattajättämispäätös</Name>
+      <Name lang="sv">Manuellt beslut om avvisning av ärende</Name>
+      <Name lang="en">Manual decision on inadmissibility</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>8VAL</Code>
       <Name lang="fi">Valtakirja</Name>
       <Name lang="sv">Fullmakt</Name>
@@ -15236,6 +15369,25 @@
       <Name lang="sv">Bemötande</Name>
       <Name lang="en">Rejoinder</Name>
       <StartDate>2019-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>8VER</Code>
+      <Name lang="fi">Manuaalinen verottamattajättämispäätös</Name>
+      <Name lang="sv">Manuellt beslut om icke-beskattning</Name>
+      <Name lang="en">Manual decision on non-taxation</Name>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -92082,5 +92234,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-02-23T06:05:04.317</Generated>
+  <Generated>2024-02-28T06:05:04.177</Generated>
 </CodeLists>
