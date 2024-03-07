@@ -18867,6 +18867,25 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>D021</Code>
+      <Name lang="fi">Sitoumusten mukainen kauppalasku, joka on annettu ennen 04.03.2024</Name>
+      <Name lang="sv">Handelsfaktura inom ramarna för ett åtagande, utfärdad före den 04.03.2024</Name>
+      <Name lang="en">Commercial invoice within the framework of undertakings, issued before 04.03.2024</Name>
+      <StartDate>2024-03-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>D022</Code>
       <Name lang="fi">Valmistajan kauppalasku kauppiaalle varustettuna asetuksen 2019/2131 liitteessä 3 täsmennetyllä valmistajan vakuutuksella ja kauppiaan kauppalasku tuojalle</Name>
       <Name lang="sv">Handelsfaktura från tillverkaren till en handlare inklusive tillverkarens deklaration som nämns i bilaga 3 till förordning 2019/2131 och handelsfaktura från handlaren till importören</Name>
@@ -62218,6 +62237,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Varor med ursprung i EU som återinförs från Liechtenstein, i enlighet med gällande EU-lagstiftning.</Name>
       <Name lang="en">Goods with EU origin returning from Lichtenstein, according to the relevant EU legislation</Name>
       <StartDate>2023-06-14</StartDate>
+      <EndDate>2024-03-01</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y077</Code>
+      <Name lang="fi">EU-alkuperää olevat tavarat, jotka palaavat Liechtensteinista, asiaa koskevan EU:n lainsäädännön mukaisesti</Name>
+      <Name lang="sv">Varor med ursprung i EU som återinförs från Liechtenstein, i enlighet med gällande EU-lagstiftning.</Name>
+      <Name lang="en">Goods with EU origin returning from Lichtenstein, according to the relevant EU legislation</Name>
+      <StartDate>2024-03-02</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -62456,6 +62492,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Goods imported in framework of "autonoma handelsåtgärder"</Name>
       <Name lang="en">Goods imported in the framework of 'Autonomous trade measures'</Name>
       <StartDate>2023-06-14</StartDate>
+      <EndDate>2024-03-01</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y085</Code>
+      <Name lang="fi">'Autonomous trade measures' puitteissa tuodut tavarat</Name>
+      <Name lang="sv">Goods imported in framework of "autonoma handelsåtgärder"</Name>
+      <Name lang="en">Goods imported in the framework of 'Autonomous trade measures'</Name>
+      <StartDate>2024-03-02</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -89142,7 +89195,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>IEP37</Code>
-      <Name lang="fi">fi: Proof of Union Status</Name>
+      <Name lang="fi">Unioniaseman todiste</Name>
       <Name lang="sv">sv: Proof of Union Status</Name>
       <Name lang="en">Proof of Union Status</Name>
       <StartDate>2023-08-16</StartDate>
@@ -92234,5 +92287,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-02-28T06:05:04.177</Generated>
+  <Generated>2024-03-07T06:05:03.933</Generated>
 </CodeLists>
