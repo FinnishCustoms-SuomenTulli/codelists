@@ -62346,7 +62346,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Goods labelled according to the provisions of Article 12 of Regulation (EU) 2024/573</Name>
       <Name lang="sv">Goods labelled according to the provisions of Article 12 of Regulation (EU) 2024/573</Name>
       <Name lang="en">Goods labelled according to the provisions of Article 12 of Regulation (EU) 2024/573</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -63892,8 +63892,8 @@ customs warehousing procedure</Description>
       <Code>Y120</Code>
       <Name lang="fi">Undertakings importing less than 10 tonnes of CO2 equivalent of hydrofluorocarbons, per year, contained in equipment or products are exempted from the provisions of Article 19 of Regulation (EU) 2024/573 (Article 19.6 of Regulation (EU) 2024/573)</Name>
       <Name lang="sv">Undertakings importing less than 10 tonnes of CO2 equivalent of hydrofluorocarbons, per year, contained in equipment or products are exempted from the provisions of Article 19 of Regulation (EU) 2024/573 (Article 19.6 of Regulation (EU) 2024/573)</Name>
-      <Name lang="en">Undertakings importing less than 10 tonnes of CO2 equivalent of hydrofluorocarbons, per year, contained in equipment or products are exempted from the provisions of Article 19 of Regulation (EU) 2024/573 (Article 19.6 of Regulation (EU) 2024/573)</Name>
-      <StartDate>2024-03-13</StartDate>
+      <Name lang="en">Undertaking importing less than 10 tonnes of CO² equivalent of hydrofluorocarbons, per year, contained in equipment or products, exempted from the provisions of Article 19 of Regulation (EU) 2024/573 (Article 19.6 of Regulation (EU) 2024/573)</Name>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -63926,8 +63926,8 @@ customs warehousing procedure</Description>
       <Code>Y121</Code>
       <Name lang="fi">Tonnes of CO2 equivalent of bulk gases and of gases contained in products or equipment, and parts thereof</Name>
       <Name lang="sv">Tonnes of CO2 equivalent of bulk gases and of gases contained in products or equipment, and parts thereof</Name>
-      <Name lang="en">Tonnes of CO2 equivalent of bulk gases and of gases contained in products or equipment, and parts thereof</Name>
-      <StartDate>2024-03-13</StartDate>
+      <Name lang="en">Tonnes of CO² equivalent of bulk gases and of gases contained in products or equipment, and parts thereof</Name>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64012,7 +64012,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Undertaking registered in the F-Gas Portal according to Article 20 of Regulation (EU) 2024/573</Name>
       <Name lang="sv">Undertaking registered in the F-Gas Portal according to Article 20 of Regulation (EU) 2024/573</Name>
       <Name lang="en">Undertaking registered in the F-Gas Portal according to Article 20 of Regulation (EU) 2024/573</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64115,6 +64115,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Import som omfattas av artikel 15.1 i förordning (EU) nr 517/2014 avseende minskning av mängden fluorkolväten som släpps ut på EU-marknaden</Name>
       <Name lang="en">Import falling under Article 15.1 of Regulation (EU) N° 517/2014 on the reduction of the quantity of hydrofluorocarbons placed on the EU market</Name>
       <StartDate>2023-06-14</StartDate>
+      <EndDate>2024-03-13</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y125</Code>
+      <Name lang="fi">Tuonti, joka kuuluu EU:n markkinoille saatettujen fluorihiilivetyjen määrän vähentämistä koskevan asetuksen (EU) N:o 517/2014 15 artiklan 1 kohdan soveltamisalaan</Name>
+      <Name lang="sv">Import som omfattas av artikel 15.1 i förordning (EU) nr 517/2014 avseende minskning av mängden fluorkolväten som släpps ut på EU-marknaden</Name>
+      <Name lang="en">Import falling under Article 16.1 of Regulation (EU) N° 2024/573 on the reduction of the quantity of hydrofluorocarbons placed on the EU market</Name>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64233,7 +64250,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Exemption from import prohibition, granted for repair or servicing of existing equipment, according to the second paragraph of Article 11.1 of Regulation (EU) 2024/573</Name>
       <Name lang="sv">Exemption from import prohibition, granted for repair or servicing of existing equipment, according to the second paragraph of Article 11.1 of Regulation (EU) 2024/573</Name>
       <Name lang="en">Exemption from import prohibition, granted for repair or servicing of existing equipment, according to the second paragraph of Article 11.1 of Regulation (EU) 2024/573</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64267,7 +64284,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Exemption from import/export prohibition on containers, non-refillable or without refilling provisions, for fluorinated greenhouse gases, empty or fully or partially filled, for laboratory or analytical uses according to Article 11.3 of Regulation (EU)...</Name>
       <Name lang="sv">Exemption from import/export prohibition on containers, non-refillable or without refilling provisions, for fluorinated greenhouse gases, empty or fully or partially filled, for laboratory or analytical uses according to Article 11.3 of Regulation (EU)...</Name>
       <Name lang="en">Exemption from import/export prohibition on containers, non-refillable or without refilling provisions, for fluorinated greenhouse gases, empty or fully or partially filled, for laboratory or analytical uses according to Article 11.3 of Regulation (EU)...</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64286,23 +64303,6 @@ customs warehousing procedure</Description>
       <Name lang="en">Goods other than those concerned by article 11.3 Regulation 2024/573</Name>
       <StartDate>2024-03-11</StartDate>
       <EndDate>2024-03-12</EndDate>
-      <Filter>
-        <Name>Filter_CWAR</Name>
-      </Filter>
-      <Filter>
-        <Name>Filter_ENTRY</Name>
-      </Filter>
-      <Filter>
-        <Name>Filter_IMP</Name>
-      </Filter>
-    </CodeItem>
-    <CodeItem>
-      <Code>Y155</Code>
-      <Name lang="fi">Goods other than those concerned by article 11.3 Regulation 2024/573</Name>
-      <Name lang="sv">Goods other than those concerned by article 11.3 Regulation 2024/573</Name>
-      <Name lang="en">Goods other than those concerned by article 11.3 Regulation 2024/573</Name>
-      <StartDate>2024-03-13</StartDate>
-      <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
       </Filter>
@@ -64335,7 +64335,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Goods other than those falling under the provisions of Regulation (EU) 2024/573</Name>
       <Name lang="sv">Goods other than those falling under the provisions of Regulation (EU) 2024/573</Name>
       <Name lang="en">Goods other than those falling under the provisions of Regulation (EU) 2024/573</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64368,8 +64368,8 @@ customs warehousing procedure</Description>
       <Code>Y162</Code>
       <Name lang="fi">Exemption from the presentation of a valid licence to the customs authorities for the import or exports of products and equipment that are personal effects (Article 22(1), second subparagraph of Regulation 2024/573)</Name>
       <Name lang="sv">Exemption from the presentation of a valid licence to the customs authorities for the import or exports of products and equipment that are personal effects (Article 22(1), second subparagraph of Regulation 2024/573)</Name>
-      <Name lang="en">Exemption from the presentation of a valid licence to the customs authorities for the import or exports of products and equipment that are personal effects (Article 22(1), second subparagraph of Regulation 2024/573)</Name>
-      <StartDate>2024-03-13</StartDate>
+      <Name lang="en">Exemption from the presentation of a valid licence to the customs authorities for the import or exports of products and equipment that are personal effects (Article 22(1), second subparagraph of Regulation (UE) 2024/573)</Name>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64403,7 +64403,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Net mass of fluorinated greenhouse gases charged in products and equipment</Name>
       <Name lang="sv">Net mass of fluorinated greenhouse gases charged in products and equipment</Name>
       <Name lang="en">Net mass of fluorinated greenhouse gases charged in products and equipment</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64556,7 +64556,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Containers other than those falling under the import/export prohibitions defined Regulation (EU) 2024/590</Name>
       <Name lang="sv">Containers other than those falling under the import/export prohibitions defined Regulation (EU) 2024/590</Name>
       <Name lang="en">Containers other than those falling under the import/export prohibitions defined Regulation (EU) 2024/590</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64589,8 +64589,8 @@ customs warehousing procedure</Description>
       <Code>Y785</Code>
       <Name lang="fi">Refillable container for ozone-depleting substances (article 15.1 of Regulation (EU) 2024/590)</Name>
       <Name lang="sv">Refillable container for ozone-depleting substances (article 15.1 of Regulation (EU) 2024/590)</Name>
-      <Name lang="en">Refillable container for ozone-depleting substances (article 15.1 of Regulation (EU) 2024/590)</Name>
-      <StartDate>2024-03-13</StartDate>
+      <Name lang="en">Refillable container for ozone-depleting substances (article 15.1 of Regulation (EU) 2024/590) accompanied by a declaration of conformity including evidence of binding arrangements for the return of the containers for the purpose of refilling (Article ...</Name>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64624,7 +64624,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Exemption from prohibition for ozone-depleting substances to be used as feedstock (Articles 6 and 13.1(a) (import) and article 14.1(b) (export) of regulation (EU) 2024/590)</Name>
       <Name lang="sv">Exemption from prohibition for ozone-depleting substances to be used as feedstock (Articles 6 and 13.1(a) (import) and article 14.1(b) (export) of regulation (EU) 2024/590)</Name>
       <Name lang="en">Exemption from prohibition for ozone-depleting substances to be used as feedstock (Articles 6 and 13.1(a) (import) and article 14.1(b) (export) of regulation (EU) 2024/590)</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64658,7 +64658,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Exemption from prohibition for ozone-depleting substances to be used as process agents (Articles 7 and 13.1(b) (import) and article 14.1(c) (export) of regulation (EU) 2024/590)</Name>
       <Name lang="sv">Exemption from prohibition for ozone-depleting substances to be used as process agents (Articles 7 and 13.1(b) (import) and article 14.1(c) (export) of regulation (EU) 2024/590)</Name>
       <Name lang="en">Exemption from prohibition for ozone-depleting substances to be used as process agents (Articles 7 and 13.1(b) (import) and article 14.1(c) (export) of regulation (EU) 2024/590)</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64692,7 +64692,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Exemption from prohibition for recovered, recycled or reclaimed halons to be used for critical uses, (see articles 9 and 13.1(g) (import) and 14.1(e) (export) of regulation (EU) 2024/590), with presentation of the required certificate (article 17.7 of ...</Name>
       <Name lang="sv">Exemption from prohibition for recovered, recycled or reclaimed halons to be used for critical uses, (see articles 9 and 13.1(g) (import) and 14.1(e) (export) of regulation (EU) 2024/590), with presentation of the required certificate (article 17.7 of ...</Name>
       <Name lang="en">Exemption from prohibition for recovered, recycled or reclaimed halons to be used for critical uses, (see articles 9 and 13.1(g) (import) and 14.1(e) (export) of regulation (EU) 2024/590), with presentation of the required certificate (article 17.7 of ...</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64725,8 +64725,8 @@ customs warehousing procedure</Description>
       <Code>Y789</Code>
       <Name lang="fi">Exemption from prohibition for products and equipment containing halons or whose functioning relies upon halons (see articles 13.1(h) (import) and 14.1(f) (exports) of regulation (EU) 2024/590)</Name>
       <Name lang="sv">Exemption from prohibition for products and equipment containing halons or whose functioning relies upon halons (see articles 13.1(h) (import) and 14.1(f) (exports) of regulation (EU) 2024/590)</Name>
-      <Name lang="en">Exemption from prohibition for products and equipment containing halons or whose functioning relies upon halons (see articles 13.1(h) (import) and 14.1(f) (exports) of regulation (EU) 2024/590)</Name>
-      <StartDate>2024-03-13</StartDate>
+      <Name lang="en">Exemption from prohibition for products and equipment containing halons or whose functioning relies upon halons (see articles 13.1(h) (import) and 14.1(f) (exports) of Regulation (EU) 2024/590)</Name>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64760,7 +64760,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Exemption from prohibition for ozone-depleting substances destined to destruction or reclamation (see articles 12, 13.1(d), 13.1(e) (import) of regulation (EU) 2024/590), and for products and equipment (see articles 12, 13.1(i) (import))</Name>
       <Name lang="sv">Exemption from prohibition for ozone-depleting substances destined to destruction or reclamation (see articles 12, 13.1(d), 13.1(e) (import) of regulation (EU) 2024/590), and for products and equipment (see articles 12, 13.1(i) (import))</Name>
       <Name lang="en">Exemption from prohibition for ozone-depleting substances destined to destruction or reclamation (see articles 12, 13.1(d), 13.1(e) (import) of regulation (EU) 2024/590), and for products and equipment (see articles 12, 13.1(i) (import))</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64794,7 +64794,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Exemption from prohibition for ozone-depleting substances to be used for essential laboratory and analytical uses (articles 8, 13.1(c) (import) and article 14.1(a) (export) of regulation (EU) 2024/590), and for products and equipment (articles 11.1 and...</Name>
       <Name lang="sv">Exemption from prohibition for ozone-depleting substances to be used for essential laboratory and analytical uses (articles 8, 13.1(c) (import) and article 14.1(a) (export) of regulation (EU) 2024/590), and for products and equipment (articles 11.1 and...</Name>
       <Name lang="en">Exemption from prohibition for ozone-depleting substances to be used for essential laboratory and analytical uses (articles 8, 13.1(c) (import) and article 14.1(a) (export) of regulation (EU) 2024/590), and for products and equipment (articles 11.1 and...</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64828,7 +64828,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Substances, products, equipment, other than those falling within the scope of Regulation (EU) 2024/590</Name>
       <Name lang="sv">Substances, products, equipment, other than those falling within the scope of Regulation (EU) 2024/590</Name>
       <Name lang="en">Substances, products, equipment, other than those falling within the scope of Regulation (EU) 2024/590</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64862,7 +64862,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Products and equipment containing ozone-depleting substances or whose functioning relies upon those substances, imported/exported as personal effects. (Article 5(2) Regulation (EU) 2024/590)</Name>
       <Name lang="sv">Products and equipment containing ozone-depleting substances or whose functioning relies upon those substances, imported/exported as personal effects. (Article 5(2) Regulation (EU) 2024/590)</Name>
       <Name lang="en">Products and equipment containing ozone-depleting substances or whose functioning relies upon those substances, imported/exported as personal effects (Article 5(2) Regulation (EU) 2024/590)</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64896,7 +64896,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Exemption from export prohibition for virgin or reclaimed hydrochlorofluorocarbons (article 14.1(d) of regulation (EU) 2024/590</Name>
       <Name lang="sv">Exemption from export prohibition for virgin or reclaimed hydrochlorofluorocarbons (article 14.1(d) of regulation (EU) 2024/590</Name>
       <Name lang="en">Exemption from export prohibition for virgin or reclaimed hydrochlorofluorocarbons (article 14.1(d) of regulation (EU) 2024/590</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64930,7 +64930,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Goods imported in respect with the provisions of article 15.4 of regulation 2024/590, on the production of trifluoromethane, as a by-product</Name>
       <Name lang="sv">Goods imported in respect with the provisions of article 15.4 of regulation 2024/590, on the production of trifluoromethane, as a by-product</Name>
       <Name lang="en">Goods imported in respect with the provisions of article 15.4 of regulation 2024/590, on the production of trifluoromethane, as a by-product</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64964,7 +64964,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Containers labelled according to Article 15.5 of regulation (EU) 2024/590 and containing the ozone-depleting substances for uses referred to in Articles 6, 7, 8 and 12 of Regulation (EU) 2024/590</Name>
       <Name lang="sv">Containers labelled according to Article 15.5 of regulation (EU) 2024/590 and containing the ozone-depleting substances for uses referred to in Articles 6, 7, 8 and 12 of Regulation (EU) 2024/590</Name>
       <Name lang="en">Containers labelled according to Article 15.5 of regulation (EU) 2024/590 and containing the ozone-depleting substances for uses referred to in Articles 6, 7, 8 and 12 of Regulation (EU) 2024/590</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -64998,7 +64998,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Licensing system registration identification number as defined in Article 17.3 (a)</Name>
       <Name lang="sv">Licensing system registration identification number as defined in Article 17.3 (a)</Name>
       <Name lang="en">Licensing system registration identification number as defined in Article 17.3 (a)</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -65032,7 +65032,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Declaration of net mass of ozone -depleting substance(s), when included in products and equipment</Name>
       <Name lang="sv">Declaration of net mass of ozone -depleting substance(s), when included in products and equipment</Name>
       <Name lang="en">Declaration of net mass of ozone -depleting substance(s), when included in products and equipment</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -65066,7 +65066,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Net mass of the ODS multiplied by the ODP of the ozone-depleting substance(s), also when included in products and equipment</Name>
       <Name lang="sv">Net mass of the ODS multiplied by the ODP of the ozone-depleting substance(s), also when included in products and equipment</Name>
       <Name lang="en">Net mass of the ODS multiplied by the ODP of the ozone-depleting substance(s), also when included in products and equipment</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -68910,7 +68910,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Exemption from the reduction of the quantity of hydrofluorocarbons placed on the market by virtue of Article 16.2 (a), (b), (d), (e) of Regulation (EU) 2024/573</Name>
       <Name lang="sv">Exemption from the reduction of the quantity of hydrofluorocarbons placed on the market by virtue of Article 16.2 (a), (b), (d), (e) of Regulation (EU) 2024/573</Name>
       <Name lang="en">Exemption from the reduction of the quantity of hydrofluorocarbons placed on the market by virtue of Article 16.2 (a), (b), (d), (e) of Regulation (EU) 2024/573</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -69029,7 +69029,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Goods other than those falling under the import prohibitions defined in article 4.6 of Regulation (EU) 2024/573</Name>
       <Name lang="sv">Goods other than those falling under the import prohibitions defined in article 4.6 of Regulation (EU) 2024/573</Name>
       <Name lang="en">Goods other than those falling under the import prohibitions defined in article 4.6 of Regulation (EU) 2024/573</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -69505,7 +69505,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Exemption from the reduction of the quantity of hydrofluorocarbons placed on the market by virtue of Article 16.2 (c) of Regulation (EU) 2024/573</Name>
       <Name lang="sv">Exemption from the reduction of the quantity of hydrofluorocarbons placed on the market by virtue of Article 16.2 (c) of Regulation (EU) 2024/573</Name>
       <Name lang="en">Exemption from the reduction of the quantity of hydrofluorocarbons placed on the market by virtue of Article 16.2 (c) of Regulation (EU) 2024/573</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -69777,7 +69777,7 @@ customs warehousing procedure</Description>
       <Name lang="fi">Exemption from import prohibition according to Article 11.1 and 11.2 of Regulation (EU) 2024/573</Name>
       <Name lang="sv">Exemption from import prohibition according to Article 11.1 and 11.2 of Regulation (EU) 2024/573</Name>
       <Name lang="en">Exemption from import prohibition according to Article 11.1 and 11.2 of Regulation (EU) 2024/573</Name>
-      <StartDate>2024-03-13</StartDate>
+      <StartDate>2024-03-14</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -93944,5 +93944,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-03-13T06:05:09.933</Generated>
+  <Generated>2024-03-14T06:06:24.353</Generated>
 </CodeLists>
