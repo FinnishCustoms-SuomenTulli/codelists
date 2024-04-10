@@ -4890,6 +4890,17 @@
       <Name lang="en">Countries and territories not specified within the framework of intra-Union trade</Name>
       <Description lang="en">Offshore installations, intra trade</Description>
       <StartDate>2024-01-22</StartDate>
+      <EndDate>2024-04-08</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QV</Code>
+      <Name lang="fi">Määrittelemättömät maat ja alueet EU:n sisäisessä kaupassa</Name>
+      <Description lang="fi">Merellä olevat laitokset sisäkaupassa</Description>
+      <Name lang="sv">Ej specificerade länder och områden vid handel inom EU</Name>
+      <Description lang="sv">Offshoreanläggningar, intra handeln</Description>
+      <Name lang="en">Countries and territories not specified within the framework of intra-Union trade</Name>
+      <Description lang="en">Offshore installations, intra trade</Description>
+      <StartDate>2024-04-09</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -4917,6 +4928,17 @@
       <Name lang="en">Countries and territories not specified within the framework of extra-Union trade</Name>
       <Description lang="en">Countries not spec 3rd countries</Description>
       <StartDate>2024-01-22</StartDate>
+      <EndDate>2024-04-08</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QW</Code>
+      <Name lang="fi">Määrittelemättömät maat ja alueet EU:n ulkopuolisessa kaupassa</Name>
+      <Description lang="fi">Merellä olevat laitokset ulkokaupassa</Description>
+      <Name lang="sv">Ej specificerade länder och områden vid handel med tredjeland</Name>
+      <Description lang="sv">Ej specifierare länder/områden vid handel med tredje land</Description>
+      <Name lang="en">Countries and territories not specified within the framework of extra-Union trade</Name>
+      <Description lang="en">Countries not spec 3rd countries</Description>
+      <StartDate>2024-04-09</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -11117,6 +11139,17 @@
       <Name lang="en">Countries and territories not specified within the framework of intra-Union trade</Name>
       <Description lang="en">Offshore installations, intra trade</Description>
       <StartDate>2024-01-22</StartDate>
+      <EndDate>2024-04-08</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QV</Code>
+      <Name lang="fi">Määrittelemättömät maat ja alueet EU:n sisäisessä kaupassa</Name>
+      <Description lang="fi">Merellä olevat laitokset sisäkaupassa</Description>
+      <Name lang="sv">Ej specificerade länder och områden vid handel inom EU</Name>
+      <Description lang="sv">Offshoreanläggningar, intra handeln</Description>
+      <Name lang="en">Countries and territories not specified within the framework of intra-Union trade</Name>
+      <Description lang="en">Offshore installations, intra trade</Description>
+      <StartDate>2024-04-09</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -11144,6 +11177,17 @@
       <Name lang="en">Countries and territories not specified within the framework of extra-Union trade</Name>
       <Description lang="en">Countries not spec 3rd countries</Description>
       <StartDate>2024-01-22</StartDate>
+      <EndDate>2024-04-08</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>QW</Code>
+      <Name lang="fi">Määrittelemättömät maat ja alueet EU:n ulkopuolisessa kaupassa</Name>
+      <Description lang="fi">Merellä olevat laitokset ulkokaupassa</Description>
+      <Name lang="sv">Ej specificerade länder och områden vid handel med tredjeland</Name>
+      <Description lang="sv">Ej specifierare länder/områden vid handel med tredje land</Description>
+      <Name lang="en">Countries and territories not specified within the framework of extra-Union trade</Name>
+      <Description lang="en">Countries not spec 3rd countries</Description>
+      <StartDate>2024-04-09</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -95446,5 +95490,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-03-27T06:05:06.780</Generated>
+  <Generated>2024-04-10T06:05:04.043</Generated>
 </CodeLists>
