@@ -21358,6 +21358,25 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>U120</Code>
+      <Name lang="fi">Alkuperävakuutus (EU:n ja Uuden-Seelannin välisen talouskumppanuussopimuksen 3.16 artiklan 2 kohdan a alakohta ja 3.18 artiklan 4 kohdan a alakohta)</Name>
+      <Name lang="sv">Ursprungsförsäkran (artiklarna 3.16.2 a och 3.18.4 a i Frihandelsavtal mellan Europeiska Unionen och Nya Zeeland)</Name>
+      <Name lang="en">Statement on Origin (Article 3.16(2)(a) and 3.18(4)(a) of the Free Trade Agreement between the European Union and New Zealand)</Name>
+      <StartDate>2024-05-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>U161</Code>
       <Name lang="fi">Asetuksen (EU) 2015/2447 75 artiklan mukainen kenen tahansa viejän yleisessä tullietuusjärjestelmässä kauppalaskuun tai muuhun kaupalliseen asiakirjaan laatima kauppalaskuilmoitus tai alkuperäilmoitus alkuperätuotteista, joiden arvo on yhteensä enintään 6</Name>
       <Description lang="fi">Asetuksen (EU) 2015/2447 75 artiklan mukainen kenen tahansa viejän yleisessä tullietuusjärjestelmässä kauppalaskuun tai muuhun kaupalliseen asiakirjaan laatima kauppalaskuilmoitus tai alkuperäilmoitus alkuperätuotteista, joiden arvo on yht. enint. 6000eur</Description>
@@ -95490,5 +95509,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-04-10T06:05:04.043</Generated>
+  <Generated>2024-04-11T06:05:05.793</Generated>
 </CodeLists>
