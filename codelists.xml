@@ -75634,6 +75634,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Ämnen, produkter och utrustning som inte omfattas av förordning (EU) 2024/590</Name>
       <Name lang="en">Substances, products, equipment, other than those falling within the scope of Regulation (EU) 2024/590</Name>
       <StartDate>2024-03-27</StartDate>
+      <EndDate>2024-04-19</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y792</Code>
+      <Name lang="fi">Aineet, tuotteet ja laitteet, jotka eivät kuulu asetuksen (EU) 2024/590 soveltamisalaan</Name>
+      <Name lang="sv">Ämnen, produkter och utrustning som inte omfattas av förordning (EU) 2024/590</Name>
+      <Name lang="en">Substances, products, equipment, other than those falling within the scope of Regulation (EU) 2024/590</Name>
+      <StartDate>2024-04-20</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -108315,5 +108332,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-04-17T06:05:15.047</Generated>
+  <Generated>2024-04-22T06:05:04.743</Generated>
 </CodeLists>
