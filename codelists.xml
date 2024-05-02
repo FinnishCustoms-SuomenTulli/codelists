@@ -16246,8 +16246,8 @@
     </CodeItem>
     <CodeItem>
       <Code>C045</Code>
-      <Name lang="fi">fi: Evidence joined to the declaration of conformity, confirming binding arrangement for the return of the containers for the purpose of refilling (article 11.4 of Regulation (EU) 2024/573)</Name>
-      <Name lang="sv">sv: Evidence joined to the declaration of conformity, confirming binding arrangement for the return of the containers for the purpose of refilling (article 11.4 of Regulation (EU) 2024/573)</Name>
+      <Name lang="fi">Vaatimustenmukaisuusvakuutukseen liitetyt todisteet käytössä olevista sitovista järjestelyistä kyseisten säiliöiden palauttamiseksi uudelleentäyttöä varten (asetuksen (EU) 2024/573 11 artiklan 4 kohta)</Name>
+      <Name lang="sv">Bevis som bifogas försäkran om överensstämmelse, som bekräftar att det finns bindande arrangemang för återlämning av behållarna för påfyllning (artikel 11.4 i förordning (EU) 2024/573)</Name>
       <Name lang="en">Evidence joined to the declaration of conformity, confirming binding arrangement for the return of the containers for the purpose of refilling (article 11.4 of Regulation (EU) 2024/573)</Name>
       <StartDate>2024-03-11</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -16843,6 +16843,44 @@
       <Name lang="sv">Iccats överföringsdeklaration</Name>
       <Name lang="en">ICCAT transfer declaration</Name>
       <StartDate>2024-01-09</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>C094</Code>
+      <Name lang="fi">Kelpoisuustodistus tariffikiintiöille, joiden järjestysnumero on 09.4456</Name>
+      <Name lang="sv">Intyg om berättigande för tullkvoter med löpnummer 09.4456</Name>
+      <Name lang="en">Certificate of eligibility for tariff quotas with order number 09.4456</Name>
+      <StartDate>2024-05-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>C095</Code>
+      <Name lang="fi">Kelpoisuustodistus tariffikiintiöille, joiden järjestysnumerot ovat 09.4518, 09.4519 ja 09.4520</Name>
+      <Name lang="sv">Intyg om berättigande för tullkvoter med löpnummer 09.4518, 09.4519 och 09.4520</Name>
+      <Name lang="en">Certificate of eligibility for tariff quotas with order numbers 09.4518, 09.4519 and 09.4520</Name>
+      <StartDate>2024-05-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -18932,8 +18970,8 @@
     </CodeItem>
     <CodeItem>
       <Code>C701</Code>
-      <Name lang="fi">fi:Refillable container for ozone-depleting substances (article 15.1 of Regulation (EU) 2024/590), accompanied by a declaration of conformity including evidence of binding arrangements for the return of the containers for the purpose of refilling (Article</Name>
-      <Name lang="sv">sv: Refillable container for ozone-depleting substances (article 15.1 of Regulation (EU) 2024/590), accompanied by a declaration of conformity including evidence of binding arrangements for the return of the containers for the purpose of refilling (Articl</Name>
+      <Name lang="fi">Otsonikerrosta heikentävien aineiden uudelleentäytettävä säiliö (asetuksen (EU) 2024/590 15 artiklan 1 kohta), jonka mukana on vaatimustenmukaisuusvakuutus sekä todisteet siitä, että käytössä on järjestelyt säiliön palauttamiseksi uudelleentäyttöä vart...</Name>
+      <Name lang="sv">Påfyllningsbara behållare för ozonnedbrytande ämnen (artikel 15.1 i förordning (EU) 2024/590), åtföljda av en försäkran om överensstämmelse som innehåller bevis för bindande arrangemang för återlämning av behållarna för påfyllning (artikel 15.3 i föror...</Name>
       <Name lang="en">Refillable container for ozone-depleting substances (article 15.1 of Regulation (EU) 2024/590), accompanied by a declaration of conformity including evidence of binding arrangements for the return of the containers for the purpose of refilling (Article 15</Name>
       <StartDate>2024-03-11</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -108332,5 +108370,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-04-26T06:05:02.953</Generated>
+  <Generated>2024-05-01T06:05:07.200</Generated>
 </CodeLists>
