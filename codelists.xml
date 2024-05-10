@@ -19159,6 +19159,44 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>D023</Code>
+      <Name lang="fi">Asetuksessa (EU) 2024/1267 tarkoitettu kauppalasku ja valssaamotodistus</Name>
+      <Name lang="sv">Faktura och fabriksintyg enligt förordning (EU) 2024/1267</Name>
+      <Name lang="en">Commercial invoice and mill certificate as defined in Regulation (EU) 2024/1267</Name>
+      <StartDate>2024-05-08</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>D024</Code>
+      <Name lang="fi">Asetuksessa (EU) 2024/1268 tarkoitettu kauppalasku ja valssaamotodistus</Name>
+      <Name lang="sv">Faktura och fabriksintyg enligt förordning (EU) 2024/1268</Name>
+      <Name lang="en">Commercial invoice and mill certificate as defined in Regulation (EU) 2024/1268</Name>
+      <StartDate>2024-05-08</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>E012</Code>
       <Name lang="fi">Vientiluvan "kulttuuriesineiden" (Asetus (EY) N:o 116/2009)</Name>
       <Name lang="sv">Exportlicens "Kulturföremål" (Förordning (EG) nr 116/2009)</Name>
@@ -36404,8 +36442,8 @@
     <CodeItem>
       <Code>FIEML</Code>
       <Name lang="fi">Tavaroiden esittäminen Tullille maantieliikenteessä</Name>
-      <Name lang="sv">sv: Tavaroiden esittäminen Tullille maantieliikenteessä</Name>
-      <Name lang="en">en: Tavaroiden esittäminen Tullille maantieliikenteessä</Name>
+      <Name lang="sv">Anmälan av varors ankomst till Tullen i vägtrafik</Name>
+      <Name lang="en">Presentation of goods carried by road to Customs</Name>
       <StartDate>2023-08-24</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -37567,10 +37605,10 @@
     </CodeItem>
     <CodeItem>
       <Code>FIRFI</Code>
-      <Name lang="fi">fi: Request for information about house level transport document details</Name>
-      <Name lang="sv">sv: Request for information about house level transport document details</Name>
-      <Name lang="en">Request for information about house level transport document details</Name>
-      <StartDate>2023-06-09</StartDate>
+      <Name lang="fi">Pyyntö ilmoitustietojen yhteenvedosta</Name>
+      <Name lang="sv">Begäran om sammandrag av deklarationsuppgifter</Name>
+      <Name lang="en">Request for summary of declaration data</Name>
+      <StartDate>2023-04-17</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -108370,5 +108408,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-05-01T06:05:07.200</Generated>
+  <Generated>2024-05-09T06:05:04.003</Generated>
 </CodeLists>
