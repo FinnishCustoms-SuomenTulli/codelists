@@ -86917,7 +86917,7 @@ customs warehousing procedure</Description>
     </CodeItem>
     <CodeItem>
       <Code>D0047</Code>
-      <Name lang="fi">Tavarat on tarkastettu tai tavarasta on otettu näyte oikean verokohtelun määrittämiseksi. Nimikkeen oikeellisuuden varmistaminen on kesken ja tullauksella on varattu vakuutta XX,XX eur kunnes tutkimuksen tulos on vahvistettu.</Name>
+      <Name lang="fi">Tavarasta on otettu näyte oikean verokohtelun määrittämiseksi. Nimikkeen oikeellisuuden varmistaminen on kesken ja tullauksella on varattu vakuutta XX,XX eur. Vakuus vapautetaan tutkimusten valmistuttua, jos nimike ei muutu tai jos nimikkeen muuttuminen ei vaikuta veronkantoon. Tulli tekee jälkikannon, jos nimikkeen muuttuminen vaikuttaa veronkantoon.</Name>
       <Name lang="sv">Varorna har granskats eller ett prov har tagits på varan för fastställande av rätt skattebehandling. Säkerställandet av varukodens riktighet är inte slutfört och XX,XX euro har reserverats i garanti för förtullningen tills resultatet av undersökningen har bestyrkts.</Name>
       <Name lang="en">The goods have been inspected or a sample has been taken of the goods to determine the correct tax treatment. The verification of the correctness of the commodity code is still underway and a guarantee of XX.XX euros has been reserved for the clearance until the result of the examination has been confirmed.</Name>
       <StartDate>2021-05-06</StartDate>
@@ -108408,5 +108408,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-05-09T06:05:04.003</Generated>
+  <Generated>2024-05-14T06:05:04.880</Generated>
 </CodeLists>
