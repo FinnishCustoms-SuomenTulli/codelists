@@ -19163,7 +19163,7 @@
       <Name lang="fi">Asetuksessa (EU) 2024/1267 tarkoitettu kauppalasku ja valssaamotodistus</Name>
       <Name lang="sv">Faktura och fabriksintyg enligt förordning (EU) 2024/1267</Name>
       <Name lang="en">Commercial invoice and mill certificate as defined in Regulation (EU) 2024/1267</Name>
-      <StartDate>2024-05-08</StartDate>
+      <StartDate>2023-08-15</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -19182,7 +19182,7 @@
       <Name lang="fi">Asetuksessa (EU) 2024/1268 tarkoitettu kauppalasku ja valssaamotodistus</Name>
       <Name lang="sv">Faktura och fabriksintyg enligt förordning (EU) 2024/1268</Name>
       <Name lang="en">Commercial invoice and mill certificate as defined in Regulation (EU) 2024/1268</Name>
-      <StartDate>2024-05-08</StartDate>
+      <StartDate>2023-08-15</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -108408,5 +108408,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-05-14T06:05:04.880</Generated>
+  <Generated>2024-05-15T06:05:12.770</Generated>
 </CodeLists>
