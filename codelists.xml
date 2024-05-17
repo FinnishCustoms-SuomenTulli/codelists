@@ -11487,6 +11487,16 @@
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>SH</Code>
+      <Name lang="fi">Saint Helena, Ascension ja Trist</Name>
+      <Name lang="sv">Sankt Helena inkl. Ascension</Name>
+      <Description lang="sv">St. Helena</Description>
+      <Name lang="en">Saint Helena, Ascension and Tristan</Name>
+      <Description lang="en">St. Helena</Description>
+      <StartDate>2024-01-18</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>SI</Code>
       <Name lang="fi">Slovenia</Name>
       <Name lang="sv">Slovenien</Name>
@@ -108408,5 +108418,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-05-15T06:05:12.770</Generated>
+  <Generated>2024-05-17T06:05:04.270</Generated>
 </CodeLists>
