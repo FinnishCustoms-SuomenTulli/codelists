@@ -40968,15 +40968,33 @@
       <Name lang="sv">Fast köp eller försäljning</Name>
       <Name lang="en">Outright purchase/sale</Name>
       <StartDate>2010-04-01</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2021-12-15</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>11</Code>
       <Name lang="fi">Suora myynti/osto</Name>
       <Name lang="sv">Direkt försäljning/köp</Name>
       <Name lang="en">Outright purchase/sale</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
+      <EndDate>2024-04-23</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>11</Code>
+      <Name lang="fi">Suora myynti/osto</Name>
+      <Name lang="sv">Direkt försäljning/köp</Name>
+      <Name lang="en">Outright purchase/sale</Name>
+      <StartDate>2024-04-24</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>12</Code>
@@ -40984,15 +41002,33 @@
       <Name lang="sv">Leverans för försäljning via konsignation, inkl. lageöve</Name>
       <Name lang="en">Supply for sale on approval or after trial for consignment</Name>
       <StartDate>2010-04-01</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2021-12-15</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>12</Code>
       <Name lang="fi">Suora kauppa yksityisten kuluttajien kanssa tai yksityisten kuluttajien harjoittama suora kauppa (ml. etämyynti)</Name>
       <Name lang="sv">Direkt handel med/av privata konsumenter (inkl. distansförsäljning)</Name>
       <Name lang="en">Direct trade with/by private consumers (incl. distance sale)</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
+      <EndDate>2024-04-23</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>12</Code>
+      <Name lang="fi">Suora kauppa yksityisten kuluttajien kanssa tai yksityisten kuluttajien harjoittama suora kauppa (ml. etämyynti)</Name>
+      <Name lang="sv">Direkt handel med/av privata konsumenter (inkl. distansförsäljning)</Name>
+      <Name lang="en">Direct trade with/by private consumers (incl. distance sale)</Name>
+      <StartDate>2024-04-24</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>13</Code>
@@ -41000,7 +41036,10 @@
       <Name lang="sv">Byteshandel (ersätting i natura)</Name>
       <Name lang="en">Barter trade  (compensation in kind)</Name>
       <StartDate>2010-04-01</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2021-12-15</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>14</Code>
@@ -41008,7 +41047,10 @@
       <Name lang="sv">Finansiell leasing (hyrköp)</Name>
       <Name lang="en">Financial leasing (hire-purchase)</Name>
       <StartDate>2010-01-01</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2021-12-15</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>19</Code>
@@ -41016,7 +41058,10 @@
       <Name lang="sv">Annan</Name>
       <Name lang="en">Other</Name>
       <StartDate>2010-01-01</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2021-12-15</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>21</Code>
@@ -41024,15 +41069,33 @@
       <Name lang="sv">Återlämmade varor</Name>
       <Name lang="en">Return of goods</Name>
       <StartDate>2001-01-01</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2021-12-15</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>21</Code>
       <Name lang="fi">Tavaroiden palauttaminen</Name>
       <Name lang="sv">Återlämnade varor</Name>
       <Name lang="en">Return of goods</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
+      <EndDate>2024-04-23</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>21</Code>
+      <Name lang="fi">Tavaroiden palauttaminen</Name>
+      <Name lang="sv">Återlämnade varor</Name>
+      <Name lang="en">Return of goods</Name>
+      <StartDate>2024-04-24</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>22</Code>
@@ -41040,15 +41103,33 @@
       <Name lang="sv">Ersättningsleverans för återlämnad vara</Name>
       <Name lang="en">Replacement for returned goods</Name>
       <StartDate>2001-01-01</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2021-12-15</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>22</Code>
       <Name lang="fi">Palautettujen tavaroiden korvaaminen</Name>
       <Name lang="sv">Ersättningsleveranser för återlämnade varor</Name>
       <Name lang="en">Replacement for returned goods</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
+      <EndDate>2024-04-23</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>22</Code>
+      <Name lang="fi">Palautettujen tavaroiden korvaaminen</Name>
+      <Name lang="sv">Ersättningsleveranser för återlämnade varor</Name>
+      <Name lang="en">Replacement for returned goods</Name>
+      <StartDate>2024-04-24</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>23</Code>
@@ -41056,15 +41137,33 @@
       <Name lang="sv">Ersättningsleverans för vara som inte returnerats</Name>
       <Name lang="en">Replace (e.g. terms of quarantee ) for goods not returned</Name>
       <StartDate>2001-01-01</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2021-12-15</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>23</Code>
       <Name lang="fi">Palauttamattomien tavaroiden korvaaminen (esim. takuun perusteella)</Name>
       <Name lang="sv">Ersättningsleveranser för icke-återlämnade varor (t.ex. enligt garanti)</Name>
       <Name lang="en">Replacement (e.g. under warranty) for goods not being returned</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
+      <EndDate>2024-04-23</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>23</Code>
+      <Name lang="fi">Palauttamattomien tavaroiden korvaaminen (esim. takuun perusteella)</Name>
+      <Name lang="sv">Ersättningsleveranser för icke-återlämnade varor (t.ex. enligt garanti)</Name>
+      <Name lang="en">Replacement (e.g. under warranty) for goods not being returned</Name>
+      <StartDate>2024-04-24</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>29</Code>
@@ -41072,7 +41171,10 @@
       <Name lang="sv">Andra returförsändelser av varor</Name>
       <Name lang="en">Other transaction of returning   of goods</Name>
       <StartDate>2010-01-01</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2021-12-15</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>30</Code>
@@ -41080,39 +41182,102 @@
       <Name lang="sv">Avgiftsfria varuleveranser</Name>
       <Name lang="en">Transactions involving transfer of ownership without fin...</Name>
       <StartDate>2010-01-01</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2022-08-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>31</Code>
       <Name lang="fi">Kuljetus varastoon tai varastosta (pl. call off -varastot ja lähetysvarastot)</Name>
       <Name lang="sv">Förflyttningar till/från ett lager (utom avropslager och konsignationslager)</Name>
       <Name lang="en">Movements to/from a warehouse (excluding call-off and consignment stock)</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
+      <EndDate>2024-04-23</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>31</Code>
+      <Name lang="fi">Kuljetus varastoon tai varastosta (pl. call off -varastot ja lähetysvarastot)</Name>
+      <Name lang="sv">Förflyttningar till/från ett lager (utom avropslager och konsignationslager)</Name>
+      <Name lang="en">Movements to/from a warehouse (excluding call-off and consignment stock)</Name>
+      <StartDate>2024-04-24</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>32</Code>
       <Name lang="fi">Toimitus myyntiin hyväksynnän yhteydessä tai testauksen jälkeen (ml. call off -varastot ja lähetysvarastot)</Name>
       <Name lang="sv">Leverans för försäljning efter godkännande eller efter provning (inklusive avropslager och konsignationslager)</Name>
       <Name lang="en">Supply for sale on approval or after trial (including call-off and consignment stock)</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
+      <EndDate>2024-04-23</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>32</Code>
+      <Name lang="fi">Toimitus myyntiin hyväksynnän yhteydessä tai testauksen jälkeen (ml. call off -varastot ja lähetysvarastot)</Name>
+      <Name lang="sv">Leverans för försäljning efter godkännande eller efter provning (inklusive avropslager och konsignationslager)</Name>
+      <Name lang="en">Supply for sale on approval or after trial (including call-off and consignment stock)</Name>
+      <StartDate>2024-04-24</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>33</Code>
       <Name lang="fi">Rahoitusleasing</Name>
       <Name lang="sv">Finansiell leasing</Name>
       <Name lang="en">Financial leasing</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
+      <EndDate>2024-04-23</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>33</Code>
+      <Name lang="fi">Rahoitusleasing</Name>
+      <Name lang="sv">Finansiell leasing</Name>
+      <Name lang="en">Financial leasing</Name>
+      <StartDate>2024-04-24</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>34</Code>
       <Name lang="fi">Liiketoimet, joihin liittyy omistuksen siirto ilman rahallista korvausta</Name>
       <Name lang="sv">Transaktioner som innebär ägarbyte utan ekonomisk ersättning</Name>
       <Name lang="en">Transactions involving transfer of ownership without financial compensation</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
+      <EndDate>2024-04-23</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>34</Code>
+      <Name lang="fi">Liiketoimet, joihin liittyy omistuksen siirto ilman rahallista korvausta</Name>
+      <Name lang="sv">Transaktioner som innebär ägarbyte utan ekonomisk ersättning</Name>
+      <Name lang="en">Transactions involving transfer of ownership without financial compensation</Name>
+      <StartDate>2024-04-24</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>41</Code>
@@ -41120,15 +41285,33 @@
       <Name lang="sv">Varor för lönbearbetning (till avsändnigslandet)</Name>
       <Name lang="en">Goods expected to return to the initial country of export</Name>
       <StartDate>2010-01-01</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2021-12-15</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>41</Code>
       <Name lang="fi">Palkkatyötä varten toim. tavarat, palautus alkuperäiseen jäsenvaltioon/vientimaahan</Name>
       <Name lang="sv">Varor för lönbearbetning som förväntas återföras till den ursprungliga exporterande medlemsstaten/det ursprungliga exportlandet</Name>
       <Name lang="en">Goods for processing under contract expected to return to the initial Member State/country of export</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
+      <EndDate>2024-04-23</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>41</Code>
+      <Name lang="fi">Palkkatyötä varten toim. tavarat, palautus alkuperäiseen jäsenvaltioon/vientimaahan</Name>
+      <Name lang="sv">Varor för lönbearbetning som förväntas återföras till den ursprungliga exporterande medlemsstaten/det ursprungliga exportlandet</Name>
+      <Name lang="en">Goods for processing under contract expected to return to the initial Member State/country of export</Name>
+      <StartDate>2024-04-24</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>42</Code>
@@ -41136,15 +41319,33 @@
       <Name lang="sv">Varor för lönbearbetning (inte till avsändningslandet)</Name>
       <Name lang="en">Goods  not expected to return to the initial country of expo</Name>
       <StartDate>2010-01-01</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2021-12-15</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>42</Code>
       <Name lang="fi">Palkkatyötä varten toim. tavarat, eivät palaudu alkuperäiseen jäsenvaltioon/vientimaahan</Name>
       <Name lang="sv">Varor för lönbearbetning som inte förväntas återföras till den ursprungliga exporterande medlemsstaten/det ursprungliga exportlandet</Name>
       <Name lang="en">Goods for processing under contract not expected to return to the initial Member State/country of export</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
+      <EndDate>2024-04-23</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>42</Code>
+      <Name lang="fi">Palkkatyötä varten toim. tavarat, eivät palaudu alkuperäiseen jäsenvaltioon/vientimaahan</Name>
+      <Name lang="sv">Varor för lönbearbetning som inte förväntas återföras till den ursprungliga exporterande medlemsstaten/det ursprungliga exportlandet</Name>
+      <Name lang="en">Goods for processing under contract not expected to return to the initial Member State/country of export</Name>
+      <StartDate>2024-04-24</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>51</Code>
@@ -41152,15 +41353,33 @@
       <Name lang="sv">Returnering av varor efter lönbearb. till avsändningslande</Name>
       <Name lang="en">Goods returning to the initial country of export</Name>
       <StartDate>2010-01-01</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2021-12-15</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>51</Code>
       <Name lang="fi">Tavaroiden palautus palkkatyöstä alkuperäiseen jäsenvaltioon/vientimaahan</Name>
       <Name lang="sv">Varor som efter lönbearbetning återförs till den ursprungliga exporterande medlemsstaten/det ursprungliga exportlandet</Name>
       <Name lang="en">Returning goods after processing under contract to the initial Member State/country of export</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
+      <EndDate>2024-04-23</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>51</Code>
+      <Name lang="fi">Tavaroiden palautus palkkatyöstä alkuperäiseen jäsenvaltioon/vientimaahan</Name>
+      <Name lang="sv">Varor som efter lönbearbetning återförs till den ursprungliga exporterande medlemsstaten/det ursprungliga exportlandet</Name>
+      <Name lang="en">Returning goods after processing under contract to the initial Member State/country of export</Name>
+      <StartDate>2024-04-24</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>52</Code>
@@ -41168,15 +41387,33 @@
       <Name lang="sv">Returnering av varor efter lönbearb. ej till avsändningsla</Name>
       <Name lang="en">Goods not returning  to the initial country of export</Name>
       <StartDate>2010-01-01</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2021-12-15</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>52</Code>
       <Name lang="fi">Tavaroiden palautus palkkatyöstä muualle kuin alkuperäiseen jäsenvaltioon/vientimaahan</Name>
       <Name lang="sv">Varor som efter lönbearbetning inte återförs till den ursprungliga exporterande medlemsstaten/det ursprungliga exportlandet</Name>
       <Name lang="en">Returning goods after processing under contract, not to the initial Member State/country of export</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
+      <EndDate>2024-04-23</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>52</Code>
+      <Name lang="fi">Tavaroiden palautus palkkatyöstä muualle kuin alkuperäiseen jäsenvaltioon/vientimaahan</Name>
+      <Name lang="sv">Varor som efter lönbearbetning inte återförs till den ursprungliga exporterande medlemsstaten/det ursprungliga exportlandet</Name>
+      <Name lang="en">Returning goods after processing under contract, not to the initial Member State/country of export</Name>
+      <StartDate>2024-04-24</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>60</Code>
@@ -41185,6 +41422,9 @@
       <Name lang="en">Transactions not involving transfer of ownership e.g. :</Name>
       <StartDate>2010-04-01</StartDate>
       <EndDate>2021-06-30</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>60</Code>
@@ -41193,6 +41433,9 @@
       <Name lang="en">Transactions not involving transfer of ownership e.g. :</Name>
       <StartDate>2021-07-01</StartDate>
       <EndDate>2021-07-29</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>60</Code>
@@ -41200,15 +41443,33 @@
       <Name lang="sv">Varor levererade till reparation samt returnerade</Name>
       <Name lang="en">Transactions not involving transfer of ownership e.g. :</Name>
       <StartDate>2021-07-30</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2021-12-15</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>60</Code>
       <Name lang="fi">Liiketoimet, joihin ei liity omistussuhteen muutosta, kuten esim. tavaroiden korjaus; vuokraus, laina, käyttöleasing tai muu väliaikainen käyttö, alle 24 kk kestävä</Name>
       <Name lang="sv">Transaktioner som inte omfattar överföring av äganderätten, t.ex. reparation av varor; uthyrning, operationell leasing eller annan tillfällig användning om tiden understiger 24 månader</Name>
       <Name lang="en">Transactions not involving transfer of ownership, e.g. repair of goods; hire, loan, operational leasing or other temporary uses, for less than 24 months</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
+      <EndDate>2024-04-23</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>60</Code>
+      <Name lang="fi">Liiketoimet, joihin ei liity omistussuhteen muutosta, kuten esim. tavaroiden korjaus; vuokraus, laina, käyttöleasing tai muu väliaikainen käyttö, alle 24 kk kestävä</Name>
+      <Name lang="sv">Transaktioner som inte omfattar överföring av äganderätten, t.ex. reparation av varor; uthyrning, operationell leasing eller annan tillfällig användning om tiden understiger 24 månader</Name>
+      <Name lang="en">Transactions not involving transfer of ownership, e.g. repair of goods; hire, loan, operational leasing or other temporary uses, for less than 24 months</Name>
+      <StartDate>2024-04-24</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>70</Code>
@@ -41216,23 +41477,44 @@
       <Name lang="sv">Gemensamma försvarsprojekt och produktionsprogram</Name>
       <Name lang="en">Operations under joint defence projects or other joint</Name>
       <StartDate>2010-04-01</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2021-12-15</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>71</Code>
       <Name lang="fi">Kvasi-tuonti (tavaroiden tuontitullaus vapaaseen liikkeeseen ainoana tarkoituksena viedä ne edelleen toiseen EU-maahan)</Name>
       <Name lang="sv">Kvasi-import (varornas importdeklaration med övergång till fri omsättning med efterföljande export till ett annat EU-land)</Name>
       <Name lang="en">Quasi-import (import declaration for release of goods for free circulation with a subsequent export to another EU-country)</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>72</Code>
       <Name lang="fi">Kvasi-vienti (kun tavarat on kuljetettu Suomeen toisesta EU-maasta vain vientitullausta varten)</Name>
       <Name lang="sv">Kvasi-export (då varorna har transporterats till Finland från ett annat EU-land endast för exportförtullning)</Name>
       <Name lang="en">Quasi-export (transportation of goods to Finland from another EU-country only for export declaration)</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
+      <EndDate>2024-04-23</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>72</Code>
+      <Name lang="fi">Kvasi-vienti (kun tavarat on kuljetettu Suomeen toisesta EU-maasta vain vientitullausta varten)</Name>
+      <Name lang="sv">Kvasi-export (då varorna har transporterats till Finland från ett annat EU-land endast för exportförtullning)</Name>
+      <Name lang="en">Quasi-export (transportation of goods to Finland from another EU-country only for export declaration)</Name>
+      <StartDate>2024-04-24</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>80</Code>
@@ -41240,15 +41522,33 @@
       <Name lang="sv">Leverans i samband med byggnads- och ingenjörsarbete</Name>
       <Name lang="en">Transactions involving the supply of building materials</Name>
       <StartDate>2010-04-01</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2021-12-15</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>80</Code>
       <Name lang="fi">Rakennusmateriaalien ja tekn.laitteiden toimitukset, kun sopimuksen tavarat laskutetaan yhdellä laskulla.</Name>
       <Name lang="sv">Leveranser av byggnadsmaterial och tekn.utrustning då avtalets varor faktureras med en faktura.</Name>
       <Name lang="en">Supply of building materials and technical equipment when all goods of the contract are invoiced with a single invoice.</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
+      <EndDate>2024-04-23</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>80</Code>
+      <Name lang="fi">Rakennusmateriaalien ja tekn.laitteiden toimitukset, kun sopimuksen tavarat laskutetaan yhdellä laskulla.</Name>
+      <Name lang="sv">Leveranser av byggnadsmaterial och tekn.utrustning då avtalets varor faktureras med en faktura.</Name>
+      <Name lang="en">Supply of building materials and technical equipment when all goods of the contract are invoiced with a single invoice.</Name>
+      <StartDate>2024-04-24</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>91</Code>
@@ -41256,15 +41556,33 @@
       <Name lang="sv">Hyra, lån och operationell leasing över 2 år</Name>
       <Name lang="en">Hire , loan and operational leasing longer than 24 months</Name>
       <StartDate>2010-01-01</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2021-12-15</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>91</Code>
       <Name lang="fi">Yli 24 kuukautta kestävä vuokraus, lainaus tai käyttöleasing</Name>
       <Name lang="sv">Hyra, lån och operationell leasing som överstiger 24 månader</Name>
       <Name lang="en">Hire, loan, and operational leasing longer than 24 months</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
+      <EndDate>2024-04-23</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>91</Code>
+      <Name lang="fi">Yli 24 kuukautta kestävä vuokraus, lainaus tai käyttöleasing</Name>
+      <Name lang="sv">Hyra, lån och operationell leasing som överstiger 24 månader</Name>
+      <Name lang="en">Hire, loan, and operational leasing longer than 24 months</Name>
+      <StartDate>2024-04-24</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>99</Code>
@@ -41272,15 +41590,33 @@
       <Name lang="sv">Övriga transaktioner  ej  klassificeras  enligt andra koder</Name>
       <Name lang="en">Other (not specfied)</Name>
       <StartDate>2001-01-01</StartDate>
-      <EndDate>2021-12-31</EndDate>
+      <EndDate>2021-12-15</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
     </CodeItem>
     <CodeItem>
       <Code>99</Code>
       <Name lang="fi">Muut liiketoimet, joita ei voi luokitella muihin koodeihin</Name>
       <Name lang="sv">Övriga transaktioner som inte kan klassificeras under andra koder</Name>
       <Name lang="en">Other transactions which cannot be classified under other codes</Name>
-      <StartDate>2022-01-01</StartDate>
+      <StartDate>2021-12-16</StartDate>
+      <EndDate>2024-04-23</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>99</Code>
+      <Name lang="fi">Muut liiketoimet, joita ei voi luokitella muihin koodeihin</Name>
+      <Name lang="sv">Övriga transaktioner som inte kan klassificeras under andra koder</Name>
+      <Name lang="en">Other transactions which cannot be classified under other codes</Name>
+      <StartDate>2024-04-24</StartDate>
       <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
     </CodeItem>
   </CodeList>
   <CodeList>
@@ -108418,5 +108754,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-05-17T06:05:04.270</Generated>
+  <Generated>2024-05-20T06:05:17.223</Generated>
 </CodeLists>
