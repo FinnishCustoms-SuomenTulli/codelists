@@ -16753,6 +16753,25 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>C082</Code>
+      <Name lang="fi">Asetuksen (EU) 2016/879 1 artiklan 2 kohdassa ja sen liitteessä tarkoitettu jäljennös vaatimustenmukaisuusvakuutuksesta – vaihtoehto C</Name>
+      <Name lang="sv">Kopia av försäkran om överensstämmelse – alternativ C, som avses i artikel 1.2 och i bilagan till förordning (EU) 2016/879</Name>
+      <Name lang="en">Copy of the declaration of conformity - Option C, as referred to in Article 1.2 and in the Annex of Regulation (EU) 2016/879</Name>
+      <StartDate>2019-10-23</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>C083</Code>
       <Name lang="fi">Yhdistyneessä kuningaskunnassa tuotetun ja sieltä Euroopan unioniin tuodun viinin itse annettu todistus (kauppa- ja yhteistyösopimus – lisäys 15-C)</Name>
       <Name lang="sv">Egenutfärdat intyg för vin som framställs i och importeras från Förenade kungariket till Europeiska unionen (handels- och samarbetsavtalet – tillägg 15-C)</Name>
@@ -108754,5 +108773,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-05-20T06:05:17.223</Generated>
+  <Generated>2024-05-23T06:05:04.260</Generated>
 </CodeLists>
