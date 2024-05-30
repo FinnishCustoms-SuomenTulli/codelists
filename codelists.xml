@@ -107176,7 +107176,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">sv: Customs goods manifest</Name>
       <Name lang="en">Customs goods manifest</Name>
       <StartDate>2024-04-23</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2024-05-29</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
       </Filter>
@@ -110671,5 +110671,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-05-29T06:05:04.630</Generated>
+  <Generated>2024-05-30T06:05:03.427</Generated>
 </CodeLists>
