@@ -16496,6 +16496,25 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>C053</Code>
+      <Name lang="fi">Viljan purkamisasiakirja (asetuksen (EU) 2023/2834 16 artiklan 3 kohta)</Name>
+      <Name lang="sv">Lossningsdokument för spannmål (artikel 16.3 i förordning (EU) 2023/2834)</Name>
+      <Name lang="en">Document of unloading for cereals (Art. 16(3) of Regulation (UE) 2023/2834)</Name>
+      <StartDate>2024-06-05</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>C055</Code>
       <Name lang="fi">Vaatimustenmukaisuusilmoitus (Asetuksen (EU) No 10/2011 Liite IV)</Name>
       <Name lang="sv">Förklaring om överensstämmelse (Bilaga IV till förordning (EU) nr 10/2011)</Name>
@@ -17683,6 +17702,44 @@
       <Name lang="sv">AWB - Tillstånd till status som godkänd vägare av bananer (Kolumn 7e, bilaga A till delegerade förordning (EU) 2015/2446)</Name>
       <Name lang="en">AWB - Authorisation for the status of authorised weigher of bananas (Column 7e, Annex A of Delegated Regulation (EU) 2015/2446)</Name>
       <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>C550</Code>
+      <Name lang="fi">CGM - Unionitavaran tullioikeudellisen aseman osoittava tullikäyttöön tarkoitettu tavaraluettelo</Name>
+      <Name lang="sv">CGM - Manifest för tulländamål som styrker varors tullstatus som unionsvaror</Name>
+      <Name lang="en">CGM - Customs goods manifest establishing the customs status of Union goods</Name>
+      <StartDate>2024-06-13</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>C551</Code>
+      <Name lang="fi">CGMF - Erityisille veroalueille, erityisiltä veroalueilta tai erityisten veroalueiden välillä lähetettävien unionitavaroiden tullioikeudellisen aseman osoittava tullikäyttöön tarkoitettu tavaraluettelo</Name>
+      <Name lang="sv">CGMF - Manifest för tulländamål som styrker tullstatus som unionsvaror i fråga om varor som sänds till, från eller mellan särskilda skatteområden</Name>
+      <Name lang="en">CGMF - Customs goods manifest establishing the customs status of Union goods consigned to, from or between special fiscal territories</Name>
+      <StartDate>2024-06-13</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -24411,7 +24468,7 @@
       <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3a)</Name>
       <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3a)</Name>
       <StartDate>2022-10-07</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2024-06-05</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
         <Value>1</Value>
@@ -25969,6 +26026,25 @@
       <Name lang="sv">Undantag enligt artikel 1.3 i förordning (EU) 2019/1793</Name>
       <Name lang="en">Exemption by virtue paragraph 3 of Article 1 of Regulation (EU) 2019/1793</Name>
       <StartDate>2020-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y980</Code>
+      <Name lang="fi">Tavarat, joille myönnetään vapautus eläinlääkinnällisistä tarkastuksista Komission delegoidun asetuksen (EU) 2019/2126 4 artiklan mukaisesti</Name>
+      <Name lang="sv">Varor som omfattas av undantag från veterinärkontroller enligt artikel 4 i KOMMISSIONENS DELEGERADE FÖRORDNING (EU) 2019/2126</Name>
+      <Name lang="en">Goods benefitting from derogation to veterinary controls according to Article 4 of Commission Delegated Regulation (EU) 2019/2126</Name>
+      <StartDate>2021-01-19</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -33714,6 +33790,7 @@
       <EndDate>2024-05-01</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
@@ -33739,6 +33816,7 @@
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
@@ -37318,6 +37396,30 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>FIGAM</Code>
+      <Name lang="fi">GAM-tuonti</Name>
+      <Name lang="sv">GAM-import</Name>
+      <Name lang="en">GAM-import</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>FIGLO</Code>
       <Name lang="fi">Sisäisen jalostuksen koonti (kuukausina)</Name>
       <Name lang="sv">Sammanslagning vid aktiv förädling (i månader)</Name>
@@ -39972,6 +40074,30 @@
       <Name lang="sv">Ytterligare uppgifter för  identifiering av varan</Name>
       <Name lang="en">Additional information for identification of goods</Name>
       <StartDate>2021-04-15</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>FIXIP</Code>
+      <Name lang="fi">Teollisen yhteistyön tuonti</Name>
+      <Name lang="sv">Import under industriell deltagande</Name>
+      <Name lang="en">Import under Industrial Participation</Name>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -61661,6 +61787,7 @@ customs warehousing procedure</Description>
       <EndDate>2024-05-01</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
@@ -61686,6 +61813,7 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_ENTRY</Name>
@@ -75292,6 +75420,40 @@ customs warehousing procedure</Description>
       <Name lang="sv">Net mass of fluorinated greenhouse gases charged in products and equipment</Name>
       <Name lang="en">Net mass of fluorinated greenhouse gases charged in products and equipment</Name>
       <StartDate>2024-03-19</StartDate>
+      <EndDate>2024-06-02</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y163</Code>
+      <Name lang="fi">Tuotteisiin ja laitteisiin täytettyjen fluorattujen kasvihuonekaasujen nettomassa</Name>
+      <Name lang="sv">Nettomassa av fluorerade växthusgaser som fyllts på i produkter och utrustning</Name>
+      <Name lang="en">Net mass of fluorinated greenhouse gases charged in products and equipment</Name>
+      <StartDate>2024-06-03</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y165</Code>
+      <Name lang="fi">Viejän laatimassa alkuperävakuutuksessa olevat erityismerkinnät</Name>
+      <Name lang="sv">Särskilda uppgifter i den ursprungsförsäkran som upprättats av exportören</Name>
+      <Name lang="en">Special entries on the statement on origin made out by the exporter</Name>
+      <StartDate>2024-06-03</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -76516,6 +76678,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Declaration of net mass of ozone -depleting substance(s), when included in products and equipment</Name>
       <Name lang="en">Declaration of net mass of ozone -depleting substance(s), when included in products and equipment</Name>
       <StartDate>2024-03-12</StartDate>
+      <EndDate>2024-06-02</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y798</Code>
+      <Name lang="fi">Tuotteisiin ja laitteisiin sisältyvien otsonikerrosta heikentävien aineiden nettomassailmoitus</Name>
+      <Name lang="sv">Deklaration av nettomassan av det eller de ozonnedbrytande ämnena, när det eller de ingår i produkter och utrustning</Name>
+      <Name lang="en">Declaration of net mass of ozone-depleting substance(s), when included in products and equipment</Name>
+      <StartDate>2024-06-03</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -78828,7 +79007,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3a)</Name>
       <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3i.3a)</Name>
       <StartDate>2023-06-14</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2024-06-05</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
       </Filter>
@@ -79801,6 +79980,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Förbuden i artikel 3k.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3k.3aa)</Name>
       <Name lang="en">The prohibitions defined in article 3k.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3k.3aa)</Name>
       <StartDate>2024-01-06</StartDate>
+      <EndDate>2024-06-05</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y891</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3k.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3k.3aa artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3k.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3k.3aa)</Name>
+      <Name lang="en">The prohibitions defined in article 3k.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3k.3aa)</Name>
+      <StartDate>2024-06-06</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -82081,6 +82277,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Exemption from the reduction of the quantity of hydrofluorocarbons placed on the market by virtue of Article 16.2 (a), (b), (d), (e) of Regulation (EU) 2024/573</Name>
       <Name lang="en">Exemption from the reduction of the quantity of hydrofluorocarbons placed on the market by virtue of Article 16.2 (a), (b), (d), (e) of Regulation (EU) 2024/573</Name>
       <StartDate>2024-03-19</StartDate>
+      <EndDate>2024-06-02</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y951</Code>
+      <Name lang="fi">Vapautus markkinoille saatettujen fluorihiilivetyjen määrän vähentämisestä asetuksen (EU) 2024/573 16 artiklan 2 kohdan a, b, d ja e alakohdan nojalla</Name>
+      <Name lang="sv">Undantag från minskning av mängden fluorkolväten som släpps ut på marknaden i enlighet med artikel 16.2 a, b, d och e i förordning (EU) 2024/573</Name>
+      <Name lang="en">Exemption from the reduction of the quantity of hydrofluorocarbons placed on the market by virtue of Article 16.2 (a), (b), (d), (e) of Regulation (EU) 2024/573</Name>
+      <StartDate>2024-06-03</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -82200,6 +82413,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Goods other than those falling under the import prohibitions defined in article 4.6 of Regulation (EU) 2024/573</Name>
       <Name lang="en">Goods other than those falling under the import prohibitions defined in article 4.6 of Regulation (EU) 2024/573</Name>
       <StartDate>2024-03-19</StartDate>
+      <EndDate>2024-06-02</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y955</Code>
+      <Name lang="fi">Tavarat, jotka eivät kuulu asetuksen (EU) 2024/573 4 artiklan 6 kohdassa määriteltyjen tuontikieltojen soveltamisalaan</Name>
+      <Name lang="sv">Andra varor än de som omfattas av importförbud enligt artikel 4.6 i förordning (EU) 2024/573</Name>
+      <Name lang="en">Goods other than those falling under the import prohibitions defined in article 4.6 of Regulation (EU) 2024/573</Name>
+      <StartDate>2024-06-03</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -82574,6 +82804,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Andra varor än de som beskrivs i ”MG”-fotnoterna till åtgärden (bilag III till förordning (EU) nr 267/2012)</Name>
       <Name lang="en">Goods other than those described in the MG footnotes linked to the measure (Missile Technology Control Regime list - Annex III of Reg. (EU) 267/2012)</Name>
       <StartDate>2023-06-14</StartDate>
+      <EndDate>2024-06-02</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y966</Code>
+      <Name lang="fi">Muut kuin asianomaiseen toimenpiteeseen liittyvissä MG-alaviitteissä kuvatut tavarat (asetuksen (EU) 267/2012 liite III)</Name>
+      <Name lang="sv">Andra varor än de som beskrivs i ”MG”-fotnoterna till åtgärden (bilag III till förordning (EU) nr 267/2012)</Name>
+      <Name lang="en">Goods other than those described in the MG footnotes linked to the measure (Missile Technology Control Regime list - Annex III of Reg. (EU) 267/2012)</Name>
+      <StartDate>2024-06-03</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -90357,6 +90604,46 @@ customs warehousing procedure</Description>
       <Name lang="fi">Tulli-ilmoituksen oikeellisuutta ei ole tutkittu muilta osin kuin mitä päätöksen perusteluissa on todettu.</Name>
       <Name lang="sv">Tulldeklarationens riktighet har inte undersökts i övrigt än vad som angetts i motiveringen av beslutet.</Name>
       <Name lang="en">The correctness of the customs declaration has not been examined in other respects than what is stated in the grounds for the decision.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0284</Code>
+      <Name lang="fi">Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Tulli on ottanut haltuunsa tulli-ilmoituksen tavarat Tullilain 10 § ja 11 § mukaisesti.</Name>
+      <Name lang="sv">sv: Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Tulli on ottanut haltuunsa tulli-ilmoituksen tavarat Tullilain 10 § ja 11 § mukaisesti.</Name>
+      <Name lang="en">en: Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Tulli on ottanut haltuunsa tulli-ilmoituksen tavarat Tullilain 10 § ja 11 § mukaisesti.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0285</Code>
+      <Name lang="fi">Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Lähetys on sisältänyt tuotteen ____, joka on todettu tuoteväärennökseksi. Tavarat on hävitetty tullivalvonnassa hävitystodistuksen ____ mukaisesti.</Name>
+      <Name lang="sv">sv: Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Lähetys on sisältänyt tuotteen ____, joka on todettu tuoteväärennökseksi. Tavarat on hävitetty tullivalvonnassa hävitystodistuksen ____ mukaisesti.</Name>
+      <Name lang="en">en: Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Lähetys on sisältänyt tuotteen ____, joka on todettu tuoteväärennökseksi. Tavarat on hävitetty tullivalvonnassa hävitystodistuksen ____ mukaisesti.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0286</Code>
+      <Name lang="fi">Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Ruokavirasto on hylännyt CHEDP.____ mukaisten tavaroiden tuonnin ____ takia. Tavarat on hävitetty tullivalvonnassa hävitystodistuksen ____ mukaisesti.</Name>
+      <Name lang="sv">sv: Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Ruokavirasto on hylännyt CHEDP.____ mukaisten tavaroiden tuonnin ____ takia. Tavarat on hävitetty tullivalvonnassa hävitystodistuksen ____ mukaisesti.</Name>
+      <Name lang="en">en: Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Ruokavirasto on hylännyt CHEDP.____ mukaisten tavaroiden tuonnin ____ takia. Tavarat on hävitetty tullivalvonnassa hävitystodistuksen ____ mukaisesti.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0287</Code>
+      <Name lang="fi">Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Ruokavirasto on hylännyt CHEDP.____ mukaisten tavaroiden tuonnin ____ takia. Tavarat on palautettu lähetysmaahan ____:lla ____.</Name>
+      <Name lang="sv">sv: Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Ruokavirasto on hylännyt CHEDP.____ mukaisten tavaroiden tuonnin ____ takia. Tavarat on palautettu lähetysmaahan ____:lla ____.</Name>
+      <Name lang="en">en: Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Ruokavirasto on hylännyt CHEDP.____ mukaisten tavaroiden tuonnin ____ takia. Tavarat on palautettu lähetysmaahan ____:lla ____.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>D0288</Code>
+      <Name lang="fi">Tavaroiden luovutus vapaaseen liikkeeseen on evätty Tullin terveys- ja vaatimustenmukaisuustarkastuksen perusteella. Lähetys on hävitetty Tullin valvonnassa hävitystodistuksen ____ mukaisesti.</Name>
+      <Name lang="sv">sv: Tavaroiden luovutus vapaaseen liikkeeseen on evätty Tullin terveys- ja vaatimustenmukaisuustarkastuksen perusteella. Lähetys on hävitetty Tullin valvonnassa hävitystodistuksen ____ mukaisesti.</Name>
+      <Name lang="en">en: Tavaroiden luovutus vapaaseen liikkeeseen on evätty Tullin terveys- ja vaatimustenmukaisuustarkastuksen perusteella. Lähetys on hävitetty Tullin valvonnassa hävitystodistuksen ____ mukaisesti.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -110671,5 +110958,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-05-30T06:05:03.427</Generated>
+  <Generated>2024-06-17T06:05:04.077</Generated>
 </CodeLists>
