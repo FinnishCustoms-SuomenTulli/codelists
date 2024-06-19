@@ -32538,6 +32538,14 @@
       <StartDate>2021-06-17</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
+    <CodeItem>
+      <Code>7</Code>
+      <Name lang="fi">Tulliviranomainen on vaihtanut, lisännyt tai poistanut sinettejä.</Name>
+      <Name lang="sv">Förseglingar ersattes, lades till eller togs bort av tullmyndigheterna.</Name>
+      <Name lang="en">Seals were replaced, added or removed by the customs authorities.</Name>
+      <StartDate>2024-07-15</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
   </CodeList>
   <CodeList>
     <Identification>CL023</Identification>
@@ -75334,6 +75342,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">sv: Goods other than those concerned by article 11.3 Regulation 2024/573</Name>
       <Name lang="en">Goods other than those concerned by article 11.3 Regulation 2024/573</Name>
       <StartDate>2024-03-11</StartDate>
+      <EndDate>2024-06-30</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y155</Code>
+      <Name lang="fi">Venäjän federaatiosta tai Valko-Venäjältä suoraan tai välillisesti viedyt tuotteet</Name>
+      <Name lang="sv">Produkter som exporteras direkt eller indirekt från Ryska federationen eller Belarus</Name>
+      <Name lang="en">Products exported directly or indirectly from the Russian Federation or Belarus</Name>
+      <StartDate>2024-07-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -110958,5 +110983,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-06-17T06:05:04.077</Generated>
+  <Generated>2024-06-19T06:05:04.270</Generated>
 </CodeLists>
