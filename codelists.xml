@@ -76460,6 +76460,244 @@ customs warehousing procedure</Description>
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>Y706</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3i.3 cf artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3i.3cf)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3cf)</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y707</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3k.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3k.3ad artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3k.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3k.3ad)</Name>
+      <Name lang="en">The prohibitions defined in article 3k.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3k.3ad)</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y708</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3k artiklan 1 kohdassa määriteltyjä kieltoja ei sovelleta (ks. sopimuspoikkeukset 3k artiklan 4a kohdassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3k.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3k.4a)</Name>
+      <Name lang="en">The prohibitions defined in article 3k paragraph 1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3k paragraph 4a)</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y709</Code>
+      <Name lang="fi">Todisteet ensimmäisestä tuontipäivästä Euroopan unioniin</Name>
+      <Name lang="sv">Bevis på datum för den första importen till Europeiska unionen</Name>
+      <Name lang="en">Evidence of the date of initial importation into the European Union</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y710</Code>
+      <Name lang="fi">Todisteet ensimmäisestä tuontipäivästä kolmanteen maahan</Name>
+      <Name lang="sv">Bevis på datum för den första importen till tredjelandet</Name>
+      <Name lang="en">Evidence of the date of initial importation into the third country</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y711</Code>
+      <Name lang="fi">Todisteet kolmannessa maassa tapahtuneen lopullisen jalostuksen tai valmistuksen päivämäärästä</Name>
+      <Name lang="sv">Bevis på datum för slutlig bearbetning eller tillverkning i tredjelandet</Name>
+      <Name lang="en">Evidence of the date of final processing or manufacturing in the third country</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y712</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 p artiklan 4 kohdassa määriteltyjä kieltoja ei sovelleta (ks. poikkeukset 3 p artiklan 13 kohdassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3p punkt 4 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantagen i artikel 3p punkt 13)</Name>
+      <Name lang="en">The prohibitions defined in article 3p paragraph 4 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3p paragraph 13)</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y713</Code>
+      <Name lang="fi">Euroopan kaasuverkkoon liitettyjen unionissa sijaitsevien terminaalien kautta tuodut tavarat</Name>
+      <Name lang="sv">Varor som importeras genom terminaler i unionen som är anslutna till det europeiska gasnätet</Name>
+      <Name lang="en">Goods imported through terminals in the Union connected to the European gas grid</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y714</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 u artiklan 1 kohdassa määriteltyjä kieltoja ei sovelleta (ks. poikkeukset 3 u artiklan 3 kohdassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3u punkt 1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantagen i artikel 3u punkt 3)</Name>
+      <Name lang="en">The prohibitions defined in article 3u paragraph 1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3u paragraph 3)</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y715</Code>
+      <Name lang="fi">Ukrainasta ennen 1 päivää maaliskuuta 2014 viedyt tavarat</Name>
+      <Name lang="sv">Varor som exporterats från Ukraina före den 1 mars 2014</Name>
+      <Name lang="en">Goods exported from Ukraine prior to 1 March 2014</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y716</Code>
+      <Name lang="fi">Tavarat, jotka palautetaan niiden laillisille omistajille Ukrainassa</Name>
+      <Name lang="sv">Varor som återsänds till sina rättmätiga ägare i Ukraina</Name>
+      <Name lang="en">Goods returned to their legitimate owners in Ukraine</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y717</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3t artiklan 1 kohdassa, 2 kohdassa määriteltyjä kieltoja ei sovelleta (ks. poikkeukset 3t artiklan 3 kohdassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3t punkt 1, punkt 2 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantagen i artikel 3t punkt 3)</Name>
+      <Name lang="en">The prohibitions defined in article 3t paragraphs 1 and 2 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3t paragraph 3)</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y741</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3k.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3k.3ae artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3k.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3k.3ae)</Name>
+      <Name lang="en">The prohibitions defined in article 3k.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3k.3ae)</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y742</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3k.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3k.3af artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3k.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3k.3af)</Name>
+      <Name lang="en">The prohibitions defined in article 3k.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3k.3af)</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>Y784</Code>
       <Name lang="fi">Containers other than those falling under the import/export prohibitions defined Regulation (EU) 2024/590</Name>
       <Name lang="sv">Containers other than those falling under the import/export prohibitions defined Regulation (EU) 2024/590</Name>
@@ -79747,6 +79985,23 @@ customs warehousing procedure</Description>
       <Name lang="en">Goods other than those concerned by the prohibitions defined in article 3q paragraph 1 of Regulation (EU) No 833/2014</Name>
       <StartDate>2024-01-06</StartDate>
       <EndDate>2024-01-22</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y871</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso poikkeukset 3i.3d artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3d)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3i.3d)</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
       </Filter>
@@ -110983,5 +111238,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-06-19T06:05:04.270</Generated>
+  <Generated>2024-06-26T06:05:03.810</Generated>
 </CodeLists>
