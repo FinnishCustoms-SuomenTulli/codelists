@@ -17070,6 +17070,25 @@
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>C101</Code>
+      <Name lang="fi">Toimitettuun varastoilmoitukseen perustuva todistus, jonka on antanut neuvoston asetuksen (EU) N:o 833/2014 liitteessä XXXVIIIB mainittu viranomainen</Name>
+      <Name lang="sv">Intyg, baserat på en inlämnad lagerdeklaration, utfärdat av den myndighet som anges i bilaga XXXVIIIB till rådets förordning (EU) nr 833/2014</Name>
+      <Name lang="en">Certificate, based on a submitted stock declaration, issued by the authority specified in Annex XXXVIIIB to Council Regulation (EU) No 833/2014</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>C119</Code>
       <Name lang="fi">Huolto- ja valmistustodistus (EASA 1 -lomake) (ks. asetuksen (EU) N:o 748/2012 liitteessä I oleva lisäys I) tai vastaava todistus</Name>
       <Name lang="sv">Intyg om auktoriserat underhåll/tillverkning – EASA-blankett 1 (tillägg I till bilaga I till förordning (EU) nr 748/2012), eller likvärdigt intyg</Name>
@@ -20019,6 +20038,25 @@
       <Name lang="sv">Bevis på ursprungsland för de diamanter eller produkter som innehåller diamanter som används som insatsvaror vid bearbetningen av produkten i ett tredjeland (artikel 3p.10 i rådets förordning (EU) nr 833/2014)</Name>
       <Name lang="en">Evidence of the country of origin of the diamonds or products incorporating diamonds,used as inputs for the processing of the product in a third country (Article 3p paragraph 10 of Council Regulation (EU) No 833/2014)</Name>
       <StartDate>2024-03-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>L148</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 i artiklan 3 ce kohdan mukainen tuontilupa</Name>
+      <Name lang="sv">Importtillstånd enligt artikel 3i.3ce i rådets förordning (EU) nr 833/2014</Name>
+      <Name lang="en">Import authorisation by virtue of article 3i paragraph 3ce of Council Regulation (EU) 833/2014</Name>
+      <StartDate>2024-06-26</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -23594,6 +23632,25 @@
       <Name lang="sv">sv: Goods other than those concerned by article 11.3 Regulation 2024/573</Name>
       <Name lang="en">Goods other than those concerned by article 11.3 Regulation 2024/573</Name>
       <StartDate>2024-03-11</StartDate>
+      <EndDate>2024-06-30</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y155</Code>
+      <Name lang="fi">Venäjän federaatiosta tai Valko-Venäjältä suoraan tai välillisesti viedyt tuotteet</Name>
+      <Name lang="sv">Produkter som exporteras direkt eller indirekt från Ryska federationen eller Belarus</Name>
+      <Name lang="en">Products exported directly or indirectly from the Russian Federation or Belarus</Name>
+      <StartDate>2024-07-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -23727,6 +23784,158 @@
       <Name lang="sv">Diamanter med en vikt av mindre än 1.0 karat</Name>
       <Name lang="en">Diamonds with a weight less than 1.0 carats</Name>
       <StartDate>2024-03-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y706</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3i.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3i.3 cf artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3i.3cf)</Name>
+      <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3i.3cf)</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y709</Code>
+      <Name lang="fi">Todisteet ensimmäisestä tuontipäivästä Euroopan unioniin</Name>
+      <Name lang="sv">Bevis på datum för den första importen till Europeiska unionen</Name>
+      <Name lang="en">Evidence of the date of initial importation into the European Union</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y710</Code>
+      <Name lang="fi">Todisteet ensimmäisestä tuontipäivästä kolmanteen maahan</Name>
+      <Name lang="sv">Bevis på datum för den första importen till tredjelandet</Name>
+      <Name lang="en">Evidence of the date of initial importation into the third country</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y711</Code>
+      <Name lang="fi">Todisteet kolmannessa maassa tapahtuneen lopullisen jalostuksen tai valmistuksen päivämäärästä</Name>
+      <Name lang="sv">Bevis på datum för slutlig bearbetning eller tillverkning i tredjelandet</Name>
+      <Name lang="en">Evidence of the date of final processing or manufacturing in the third country</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y712</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 p artiklan 4 kohdassa määriteltyjä kieltoja ei sovelleta (ks. poikkeukset 3 p artiklan 13 kohdassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3p punkt 4 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantagen i artikel 3p punkt 13)</Name>
+      <Name lang="en">The prohibitions defined in article 3p paragraph 4 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3p paragraph 13)</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y713</Code>
+      <Name lang="fi">Euroopan kaasuverkkoon liitettyjen unionissa sijaitsevien terminaalien kautta tuodut tavarat</Name>
+      <Name lang="sv">Varor som importeras genom terminaler i unionen som är anslutna till det europeiska gasnätet</Name>
+      <Name lang="en">Goods imported through terminals in the Union connected to the European gas grid</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y714</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 u artiklan 1 kohdassa määriteltyjä kieltoja ei sovelleta (ks. poikkeukset 3 u artiklan 3 kohdassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3u punkt 1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantagen i artikel 3u punkt 3)</Name>
+      <Name lang="en">The prohibitions defined in article 3u paragraph 1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3u paragraph 3)</Name>
+      <StartDate>2024-06-26</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y715</Code>
+      <Name lang="fi">Ukrainasta ennen 1 päivää maaliskuuta 2014 viedyt tavarat</Name>
+      <Name lang="sv">Varor som exporterats från Ukraina före den 1 mars 2014</Name>
+      <Name lang="en">Goods exported from Ukraine prior to 1 March 2014</Name>
+      <StartDate>2024-06-26</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -76482,6 +76691,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Förbuden i artikel 3k.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3k.3ad)</Name>
       <Name lang="en">The prohibitions defined in article 3k.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3k.3ad)</Name>
       <StartDate>2024-06-26</StartDate>
+      <EndDate>2024-06-27</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y707</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3k.1 artiklassa määriteltyjä kieltoja ei sovelleta (katso sopimuspoikkeukset 3k.3ad artiklassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3k.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se avtalsundantagen i artikel 3k.3ad)</Name>
+      <Name lang="en">The prohibitions defined in article 3k.1 of Council Regulation (EU) No 833/2014 do not apply (see contractual exemptions in article 3k.3ad)</Name>
+      <StartDate>2024-06-28</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -76601,6 +76827,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Förbuden i artikel 3u punkt 1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantagen i artikel 3u punkt 3)</Name>
       <Name lang="en">The prohibitions defined in article 3u paragraph 1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3u paragraph 3)</Name>
       <StartDate>2024-06-26</StartDate>
+      <EndDate>2024-06-27</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y714</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3 u artiklan 1 kohdassa määriteltyjä kieltoja ei sovelleta (ks. poikkeukset 3 u artiklan 3 kohdassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3u punkt 1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantagen i artikel 3u punkt 3)</Name>
+      <Name lang="en">The prohibitions defined in article 3u paragraph 1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3u paragraph 3)</Name>
+      <StartDate>2024-06-28</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -76652,6 +76895,23 @@ customs warehousing procedure</Description>
       <Name lang="sv">Förbuden i artikel 3t punkt 1, punkt 2 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantagen i artikel 3t punkt 3)</Name>
       <Name lang="en">The prohibitions defined in article 3t paragraphs 1 and 2 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3t paragraph 3)</Name>
       <StartDate>2024-06-26</StartDate>
+      <EndDate>2024-06-27</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y717</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 833/2014 3t artiklan 1 kohdassa, 2 kohdassa määriteltyjä kieltoja ei sovelleta (ks. poikkeukset 3t artiklan 3 kohdassa)</Name>
+      <Name lang="sv">Förbuden i artikel 3t punkt 1, punkt 2 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantagen i artikel 3t punkt 3)</Name>
+      <Name lang="en">The prohibitions defined in article 3t paragraphs 1 and 2 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3t paragraph 3)</Name>
+      <StartDate>2024-06-28</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -80001,7 +80261,7 @@ customs warehousing procedure</Description>
       <Name lang="sv">Förbuden i artikel 3i.1 i rådets förordning (EU) nr 833/2014 är inte tillämpliga (se undantag i artikel 3i.3d)</Name>
       <Name lang="en">The prohibitions defined in article 3i.1 of Council Regulation (EU) No 833/2014 do not apply (see exemptions in article 3i.3d)</Name>
       <StartDate>2024-06-26</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2024-06-27</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
       </Filter>
@@ -90890,7 +91150,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>D0284</Code>
       <Name lang="fi">Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Tulli on ottanut haltuunsa tulli-ilmoituksen tavarat Tullilain 10 § ja 11 § mukaisesti.</Name>
-      <Name lang="sv">sv: Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Tulli on ottanut haltuunsa tulli-ilmoituksen tavarat Tullilain 10 § ja 11 § mukaisesti.</Name>
+      <Name lang="sv">Övergången av varorna till fri omsättning har förvägrats. Tullen har omhändertagit varorna i tulldeklarationen enligt 10 § och 11 % i tullagen.</Name>
       <Name lang="en">en: Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Tulli on ottanut haltuunsa tulli-ilmoituksen tavarat Tullilain 10 § ja 11 § mukaisesti.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -90898,7 +91158,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>D0285</Code>
       <Name lang="fi">Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Lähetys on sisältänyt tuotteen ____, joka on todettu tuoteväärennökseksi. Tavarat on hävitetty tullivalvonnassa hävitystodistuksen ____ mukaisesti.</Name>
-      <Name lang="sv">sv: Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Lähetys on sisältänyt tuotteen ____, joka on todettu tuoteväärennökseksi. Tavarat on hävitetty tullivalvonnassa hävitystodistuksen ____ mukaisesti.</Name>
+      <Name lang="sv">Övergången av varorna till fri omsättning har förvägrats. Sändningen har innehållit _____ som konstaterats vara en produktförfalskning. Varorna har förstörts under tullövervakning enligt förstöringsbeviset ____.</Name>
       <Name lang="en">en: Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Lähetys on sisältänyt tuotteen ____, joka on todettu tuoteväärennökseksi. Tavarat on hävitetty tullivalvonnassa hävitystodistuksen ____ mukaisesti.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -90906,7 +91166,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>D0286</Code>
       <Name lang="fi">Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Ruokavirasto on hylännyt CHEDP.____ mukaisten tavaroiden tuonnin ____ takia. Tavarat on hävitetty tullivalvonnassa hävitystodistuksen ____ mukaisesti.</Name>
-      <Name lang="sv">sv: Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Ruokavirasto on hylännyt CHEDP.____ mukaisten tavaroiden tuonnin ____ takia. Tavarat on hävitetty tullivalvonnassa hävitystodistuksen ____ mukaisesti.</Name>
+      <Name lang="sv">Övergången av varorna till fri omsättning har förvägrats. Livsmedelsverket har avvisat importen av varorna i CHEDP_____ på grund av _____. Varorna har förstörts under tullövervakning enligt förstöringsbeviset ____.</Name>
       <Name lang="en">en: Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Ruokavirasto on hylännyt CHEDP.____ mukaisten tavaroiden tuonnin ____ takia. Tavarat on hävitetty tullivalvonnassa hävitystodistuksen ____ mukaisesti.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -90914,7 +91174,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>D0287</Code>
       <Name lang="fi">Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Ruokavirasto on hylännyt CHEDP.____ mukaisten tavaroiden tuonnin ____ takia. Tavarat on palautettu lähetysmaahan ____:lla ____.</Name>
-      <Name lang="sv">sv: Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Ruokavirasto on hylännyt CHEDP.____ mukaisten tavaroiden tuonnin ____ takia. Tavarat on palautettu lähetysmaahan ____:lla ____.</Name>
+      <Name lang="sv">Övergången av varorna till fri omsättning har förvägrats. Livsmedelsverket har avvisat importen av varorna i CHEDP_____ på grund av _____. Varan har returnerats till avsändningslandet med _____ ____.</Name>
       <Name lang="en">en: Tavaroiden luovutus vapaaseen liikkeeseen on evätty. Ruokavirasto on hylännyt CHEDP.____ mukaisten tavaroiden tuonnin ____ takia. Tavarat on palautettu lähetysmaahan ____:lla ____.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -90922,7 +91182,7 @@ customs warehousing procedure</Description>
     <CodeItem>
       <Code>D0288</Code>
       <Name lang="fi">Tavaroiden luovutus vapaaseen liikkeeseen on evätty Tullin terveys- ja vaatimustenmukaisuustarkastuksen perusteella. Lähetys on hävitetty Tullin valvonnassa hävitystodistuksen ____ mukaisesti.</Name>
-      <Name lang="sv">sv: Tavaroiden luovutus vapaaseen liikkeeseen on evätty Tullin terveys- ja vaatimustenmukaisuustarkastuksen perusteella. Lähetys on hävitetty Tullin valvonnassa hävitystodistuksen ____ mukaisesti.</Name>
+      <Name lang="sv">Övergången av varorna till fri omsättning har förvägrats med stöd av Tullens sundhetskontroll och kontroll av överensstämmelse. Sändningen har förstörts under tullövervakning enligt förstöringsbeviset ____.</Name>
       <Name lang="en">en: Tavaroiden luovutus vapaaseen liikkeeseen on evätty Tullin terveys- ja vaatimustenmukaisuustarkastuksen perusteella. Lähetys on hävitetty Tullin valvonnassa hävitystodistuksen ____ mukaisesti.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -111238,5 +111498,5 @@ customs warehousing procedure</Description>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
-  <Generated>2024-06-26T06:05:03.810</Generated>
+  <Generated>2024-07-01T06:05:02.717</Generated>
 </CodeLists>
