@@ -632197,8 +632197,8 @@
     <CodeItem>
       <Code>FIYKS</Code>
       <Name lang="fi">Yksityishenkilön tullaus</Name>
-      <Name lang="sv">sv: Yksityishenkilön tullaus</Name>
-      <Name lang="en">en: Yksityishenkilön tullaus</Name>
+      <Name lang="sv">Förtullning gjord av en privatperson</Name>
+      <Name lang="en">Customs clearance by private individual</Name>
       <StartDate>2026-08-12</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -654077,38 +654077,6 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="sv">Intyg om att diamanterna inte bryts, bearbetas eller produceras i Ryssland (artikel 3p.10 i rådets förordning (EU) nr 833/2014)</Name>
       <Name lang="en">Certificate certifying that the diamonds are not mined, processed or produced in Russia (Article 3p paragraph 10 of Council Regulation (EU) No 833/2014)</Name>
       <StartDate>2025-03-01</StartDate>
-      <EndDate>2025-03-05</EndDate>
-      <Filter>
-        <Name>Filter_EXP-D</Name>
-        <Value>1</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_EXP-SI</Name>
-        <Value>1</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_IMP-D</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_IMP-SI</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>Filter_TRA</Name>
-        <Value>0</Value>
-      </Filter>
-      <Filter>
-        <Name>NationalCode</Name>
-        <Value>0</Value>
-      </Filter>
-    </CodeItem>
-    <CodeItem>
-      <Code>C121</Code>
-      <Name lang="fi">Todistus siitä, että timantteja ei louhita, jalosteta tai tuoteta Venäjällä (EU) N:o 833/2014 3 p artiklan 10 kohta)</Name>
-      <Name lang="sv">Intyg om att diamanterna inte bryts, bearbetas eller produceras i Ryssland (artikel 3p.10 i rådets förordning (EU) nr 833/2014)</Name>
-      <Name lang="en">Certificate certifying that the diamonds are not mined, processed or produced in Russia (Article 3p paragraph 10 of Council Regulation (EU) No 833/2014)</Name>
-      <StartDate>2025-03-06</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_EXP-D</Name>
@@ -654124,7 +654092,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       </Filter>
       <Filter>
         <Name>Filter_IMP-SI</Name>
-        <Value>0</Value>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -673918,6 +673886,38 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="en">Goods exempted from prohibition by virtue of Article 10f of Regulation (EU) 267/2012</Name>
       <StartDate>2025-10-08</StartDate>
       <EndDate>2025-11-21</EndDate>
+      <Filter>
+        <Name>Filter_EXP-D</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP-SI</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP-D</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP-SI</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>NationalCode</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y387</Code>
+      <Name lang="fi">Tuontiteräksen ”sulatus- ja valamismaa”: muut maat</Name>
+      <Name lang="sv">Land för "smältning och gjutning" av det importerade stålet: övriga länder</Name>
+      <Name lang="en">Country of ‘melt and pour’ of the imported steel: other countries</Name>
+      <StartDate>2026-10-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_EXP-D</Name>
         <Value>0</Value>
@@ -708796,8 +708796,8 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
     <CodeItem>
       <Code>FIYKS</Code>
       <Name lang="fi">Yksityishenkilön tullaus</Name>
-      <Name lang="sv">sv: Yksityishenkilön tullaus</Name>
-      <Name lang="en">en: Yksityishenkilön tullaus</Name>
+      <Name lang="sv">Förtullning gjord av en privatperson</Name>
+      <Name lang="en">Customs clearance by private individual</Name>
       <StartDate>2026-08-12</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -719362,8 +719362,8 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
     <CodeItem>
       <Code>FIYKS</Code>
       <Name lang="fi">Yksityishenkilön tullaus</Name>
-      <Name lang="sv">sv: Yksityishenkilön tullaus</Name>
-      <Name lang="en">en: Yksityishenkilön tullaus</Name>
+      <Name lang="sv">Förtullning gjord av en privatperson</Name>
+      <Name lang="en">Customs clearance by private individual</Name>
       <StartDate>2026-08-12</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -731803,7 +731803,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="sv">Undantag från tillämpningsområdet för förordning (EU) 2023/1115 om avskogning och skogsförstörelse i enlighet med artikel 1.2</Name>
       <Name lang="en">Exemption from the provisions of Regulation (EU) 2023/1115 on deforestation and forest degradation by virtue of paragraph 2 of Article 1</Name>
       <StartDate>2024-12-30</StartDate>
-      <EndDate>2026-12-29</EndDate>
+      <EndDate>2026-10-07</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
         <Value>1</Value>
@@ -731823,10 +731823,10 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
     </CodeItem>
     <CodeItem>
       <Code>Y132</Code>
-      <Name lang="fi">Metsäkadosta ja metsien tilan heikkenemisestä annetun asetuksen (EU) 2023/1115 soveltamisalan ulkopuolelle jättäminen 1 artiklan 2 kohdan nojalla</Name>
-      <Name lang="sv">Undantag från tillämpningsområdet för förordning (EU) 2023/1115 om avskogning och skogsförstörelse i enlighet med artikel 1.2</Name>
-      <Name lang="en">Exemption from the provisions of Regulation (EU) 2023/1115 by virtue of Article 1(2) - products produced before 29.06.2023</Name>
-      <StartDate>2026-12-30</StartDate>
+      <Name lang="fi">Exemption from the provisions of Regulation (EU) 2023/1115 by virtue of Article 1(2) - relevant products listed in Annex I produced before 29.06.2023</Name>
+      <Name lang="sv">Exemption from the provisions of Regulation (EU) 2023/1115 by virtue of Article 1(2) - relevant products listed in Annex I produced before 29.06.2023</Name>
+      <Name lang="en">Exemption from the provisions of Regulation (EU) 2023/1115 by virtue of Article 1(2) - relevant products listed in Annex I produced before 29.06.2023</Name>
+      <StartDate>2026-10-08</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -731875,6 +731875,30 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="sv">Undantag från bestämmelserna i förordning (EU) 2023/1115 om avskogning och skogsförstörelse i enlighet med andra stycket i bilaga I (varor som framställts av material som har avslutat sin livscykel)</Name>
       <Name lang="en">Exemption from the provisions of Regulation (EU) 2023/1115 on deforestation and forest degradation by virtue of the second explanatory paragraph of Annex I (goods produced from material that has completed its lifecycle)</Name>
       <StartDate>2024-12-30</StartDate>
+      <EndDate>2026-12-29</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y133</Code>
+      <Name lang="fi">Exemption from the provisions of Regulation (EU) 2023/1115 for used and second-hand products, for waste (as defined in Article 3, point (1) of Directive 2008/98/EC) and recovered (waste and scrap) products, products derived from recovered (waste and scrap) products, and goods produced from materials that have completed their lifecycle and would otherwise have been discarded as waste (by virtue of the second explanatory paragraph of Annex I)</Name>
+      <Name lang="sv">Exemption from the provisions of Regulation (EU) 2023/1115 for used and second-hand products, for waste (as defined in Article 3, point (1) of Directive 2008/98/EC) and recovered (waste and scrap) products, products derived from recovered (waste and scrap) products, and goods produced from materials that have completed their lifecycle and would otherwise have been discarded as waste (by virtue of the second explanatory paragraph of Annex I)</Name>
+      <Name lang="en">Exemption from the provisions of Regulation (EU) 2023/1115 for used and second-hand products, for waste (as defined in Article 3, point (1) of Directive 2008/98/EC) and recovered (waste and scrap) products, products derived from recovered (waste and scrap) products, and goods produced from materials that have completed their lifecycle and would otherwise have been discarded as waste (by virtue of the second explanatory paragraph of Annex I)</Name>
+      <StartDate>2026-12-30</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -732235,6 +732259,30 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="sv">Undantag för verksamhetsutövare enligt definitionen i artikel 38.3 i förordning (EU) 2023/1115</Name>
       <Name lang="en">Exemption for operators, as defined in Article 38(3) of Regulation (EU) 2023/1115</Name>
       <StartDate>2024-12-30</StartDate>
+      <EndDate>2026-12-29</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y141</Code>
+      <Name lang="fi">Exemption for operators or natural persons, as defined in Article 38(3) of Regulation (EU) 2023/1115 (natural persons or micro- or small undertakings, established as such by 31 December 2024)</Name>
+      <Name lang="sv">Exemption for operators or natural persons, as defined in Article 38(3) of Regulation (EU) 2023/1115 (natural persons or micro- or small undertakings, established as such by 31 December 2024)</Name>
+      <Name lang="en">Exemption for operators or natural persons, as defined in Article 38(3) of Regulation (EU) 2023/1115 (natural persons or micro- or small undertakings, established as such by 31 December 2024)</Name>
+      <StartDate>2026-12-30</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -732283,6 +732331,30 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="sv">Undantag för icke-kommersiell verksamhet (artikel 2.15, 2.17 och 2.18 i förordning (EU) 2023/1115)</Name>
       <Name lang="en">Exemption for non-commercial activity (Article 2 (15), 2(17) and 2(18) of Regulation (EU) 2023/1115)</Name>
       <StartDate>2024-12-30</StartDate>
+      <EndDate>2026-12-29</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y142</Code>
+      <Name lang="fi">Exemption for non-commercial activity for consumer to consumer consignment (C2C) (other than Article 2 (15), 2 (15a), 2 (15b), 2(19) and 2(38) of Regulation (EU) 2023/1115)</Name>
+      <Name lang="sv">Exemption for non-commercial activity for consumer to consumer consignment (C2C) (other than Article 2 (15), 2 (15a), 2 (15b), 2(19) and 2(38) of Regulation (EU) 2023/1115)</Name>
+      <Name lang="en">Exemption for non-commercial activity for consumer to consumer consignment (C2C) (other than Article 2 (15), 2 (15a), 2 (15b), 2(19) and 2(38) of Regulation (EU) 2023/1115)</Name>
+      <StartDate>2026-12-30</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -732547,6 +732619,54 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="sv">Undantag enligt artikel 2.2 och 2.3 i förordning (EU) 649/2012</Name>
       <Name lang="en">Exemption by virtue paragraphs 2 and 3 of Article 2 of Regulation (EU) 649/2012</Name>
       <StartDate>2025-02-12</StartDate>
+      <EndDate>2026-10-01</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y150</Code>
+      <Name lang="fi">Asetuksen (EU) 649/2012 2 artiklan 2 kohdan mukainen poikkeus</Name>
+      <Name lang="sv">Undantag enligt artikel 2.2 i förordning (EU) 649/2012</Name>
+      <Name lang="en">Exemption by virtue paragraphs 2 of Article 2 of Regulation (EU) 649/2012</Name>
+      <StartDate>2026-10-02</StartDate>
+      <EndDate>2026-10-02</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y150</Code>
+      <Name lang="fi">Asetuksen (EU) 649/2012 2 artiklan 2 kohdan mukainen poikkeus</Name>
+      <Name lang="sv">Undantag enligt artikel 2.2 i förordning (EU) 649/2012</Name>
+      <Name lang="en">Exemption by virtue paragraph 2 of Article 2 of Regulation (EU) 649/2012</Name>
+      <StartDate>2026-10-03</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -734509,6 +734629,102 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>Y187</Code>
+      <Name lang="fi">Exemption for samples of products, which are of negligible value and quantity and can be consumed or used only to solicit orders for goods and for products which are to undergo examination, analysis or tests (Table note (5) a) and b) of Annex I of Regulation (EU) 2023/1115)</Name>
+      <Name lang="sv">Exemption for samples of products, which are of negligible value and quantity and can be consumed or used only to solicit orders for goods and for products which are to undergo examination, analysis or tests (Table note (5) a) and b) of Annex I of Regulation (EU) 2023/1115)</Name>
+      <Name lang="en">Exemption for samples of products, which are of negligible value and quantity and can be consumed or used only to solicit orders for goods and for products which are to undergo examination, analysis or tests (Table note (5) a) and b) of Annex I of Regulation (EU) 2023/1115)</Name>
+      <StartDate>2026-12-30</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y188</Code>
+      <Name lang="fi">Exemption for micro, small and medium-sized downstream operator (not registered in the Information System) (Article 2(15b) and 26(4) of Regulation (EU) 2023/1115)</Name>
+      <Name lang="sv">Exemption for micro, small and medium-sized downstream operator (not registered in the Information System) (Article 2(15b) and 26(4) of Regulation (EU) 2023/1115)</Name>
+      <Name lang="en">Exemption for micro, small and medium-sized downstream operator (not registered in the Information System) (Article 2(15b) and 26(4) of Regulation (EU) 2023/1115)</Name>
+      <StartDate>2026-12-30</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y190</Code>
+      <Name lang="fi">Exemption for single use packing material, packing containers used exclusively to support, protect or carry another product made available on the market or exported and presented with that product, and for packing material and packing containers clearly suitable for repetitive use used exclusively to support, protect or carry another product made available on the market or exported and presented with that product (Annex I of Regulation (EU) 2023/1115)</Name>
+      <Name lang="sv">Exemption for single use packing material, packing containers used exclusively to support, protect or carry another product made available on the market or exported and presented with that product, and for packing material and packing containers clearly suitable for repetitive use used exclusively to support, protect or carry another product made available on the market or exported and presented with that product (Annex I of Regulation (EU) 2023/1115)</Name>
+      <Name lang="en">Exemption for single use packing material, packing containers used exclusively to support, protect or carry another product made available on the market or exported and presented with that product, and for packing material and packing containers clearly suitable for repetitive use used exclusively to support, protect or carry another product made available on the market or exported and presented with that product (Annex I of Regulation (EU) 2023/1115)</Name>
+      <StartDate>2026-12-30</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y191</Code>
+      <Name lang="fi">Exemption for products to the extent they are used in the manufacturing of medicinal products for human or veterinary use within the scope of Directive 2001/83/EC, Regulation (EC) No 726/2004 or Regulation (EU) 2019/6 and for items of correspondence and marketing and information materials exclusively accompanying another product made available on the market or exported, or supplied for marketing or information purposes free of charge (Annex I of Regulation (EU) 2023/1115)</Name>
+      <Name lang="sv">Exemption for products to the extent they are used in the manufacturing of medicinal products for human or veterinary use within the scope of Directive 2001/83/EC, Regulation (EC) No 726/2004 or Regulation (EU) 2019/6 and for items of correspondence and marketing and information materials exclusively accompanying another product made available on the market or exported, or supplied for marketing or information purposes free of charge (Annex I of Regulation (EU) 2023/1115)</Name>
+      <Name lang="en">Exemption for products to the extent they are used in the manufacturing of medicinal products for human or veterinary use within the scope of Directive 2001/83/EC, Regulation (EC) No 726/2004 or Regulation (EU) 2019/6 and for items of correspondence and marketing and information materials exclusively accompanying another product made available on the market or exported, or supplied for marketing or information purposes free of charge (Annex I of Regulation (EU) 2023/1115)</Name>
+      <StartDate>2026-12-30</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>Y193</Code>
       <Name lang="fi">Fluorattujen kasvihuonekaasujen uudelleentäytettävät säiliöt</Name>
       <Name lang="sv">Påfyllningsbara behållare för fluorerade växthusgaser</Name>
@@ -734574,6 +734790,30 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Filter>
         <Name>Filter_IMP</Name>
         <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y196</Code>
+      <Name lang="fi">Exemption for non-micro, small and medium-sized downstream operator (registered in the Information System) (Article 2(15b) and 26(4) of Regulation (EU) 2023/1115)</Name>
+      <Name lang="sv">Exemption for non-micro, small and medium-sized downstream operator (registered in the Information System) (Article 2(15b) and 26(4) of Regulation (EU) 2023/1115)</Name>
+      <Name lang="en">Exemption for non-micro, small and medium-sized downstream operator (registered in the Information System) (Article 2(15b) and 26(4) of Regulation (EU) 2023/1115)</Name>
+      <StartDate>2026-12-30</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>0</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -737534,7 +737774,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="fi">Tuontiteräksen ”sulatus- ja valamismaa”: Japani</Name>
       <Name lang="sv">Land för smältning och gjutning av det importerade stålet: Japan</Name>
       <Name lang="en">Country of ‘melt and pour’ of the imported steel: Japan</Name>
-      <StartDate>2026-09-24</StartDate>
+      <StartDate>2026-10-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -737558,7 +737798,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="fi">Tuontiteräksen ”sulatus- ja valamismaa”: Korea tasavalta</Name>
       <Name lang="sv">Land för smältning och gjutning av det importerade stålet: Sydkorea</Name>
       <Name lang="en">Country of ‘melt and pour’ of the imported steel: South Korea</Name>
-      <StartDate>2026-09-24</StartDate>
+      <StartDate>2026-10-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -737582,7 +737822,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="fi">Tuontiteräksen ”sulatus- ja valamismaa”: Turkki</Name>
       <Name lang="sv">Land för smältning och gjutning av det importerade stålet: Turkiet</Name>
       <Name lang="en">Country of ‘melt and pour’ of the imported steel: Türkiye</Name>
-      <StartDate>2026-09-25</StartDate>
+      <StartDate>2026-10-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -738303,6 +738543,30 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="sv">Varor som redan var på väg till unionen den 18/11/2025 och vars bestämmelseort inte kan ändras</Name>
       <Name lang="en">Goods which were already on their way to the Union on 18/11/2025, whose destination cannot be changed</Name>
       <StartDate>2025-11-18</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y501</Code>
+      <Name lang="fi">Tavarat, jotka eivät sisällä teräslaminaatteja tai -sydämiä</Name>
+      <Name lang="sv">Varor som inte innehåller stållamineringar eller stålkärnor</Name>
+      <Name lang="en">Goods not containing steel laminations and cores</Name>
+      <StartDate>2026-10-03</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -757135,6 +757399,14 @@ As the applicant, provide the declarant in the original declaration, that is, th
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>NR0048</Code>
+      <Name lang="fi">Pyydetyn menettelyn muuttaminen ei ole sallittu.</Name>
+      <Name lang="sv">Ändring av det begärda förfarandet är inte tillåtet.</Name>
+      <Name lang="en">The requested procedure cannot be amended.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>NR0049</Code>
       <Name lang="fi">Palveluntarjoaja ei saa ilmoittaa itseään missään toimijaroolissa ilmoituksella (ilmoittaja, edustaja, viejä tai tuoja).</Name>
       <Name lang="sv">Tjänsteleverantören får inte ange sig själv i någon aktörsroll i deklarationen (deklarant, ombud, exportör eller importör).</Name>
@@ -758804,14 +759076,6 @@ As the applicant, provide the declarant in the original declaration, that is, th
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
-      <Code>NR1357</Code>
-      <Name lang="fi">Voit korjata valmisteverovarastoon kuljetettavan (tullimenettelykoodi 44, 45 tai 07) tavaran ilmoituksen vasta, kun olet saanut luovutuspäätöksen.</Name>
-      <Name lang="sv">Du kan korrigera deklarationen för varor som transporteras till ett punktskatteupplag (tullförfarandekod 44, 45 eller 07) först när du har fått beslutet om frigörande.</Name>
-      <Name lang="en">You can only amend a declaration for goods transported to an excise warehouse (customs procedure code 44, 45 or 07) when you have received a release decision.</Name>
-      <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
-    </CodeItem>
-    <CodeItem>
       <Code>NR1358</Code>
       <Name lang="fi">Kun ilmoitetaan lisätietokoodi FIKAT, välillistä edustusta tai suoraa edustusta takaajan vastuulla ei voi käyttää.</Name>
       <Name lang="sv">När man anger koden för ytterligare uppgifter FIKAT kan man inte använda indirekt ombudskap eller direkt ombudskap med garantens ansvar.</Name>
@@ -759014,6 +759278,14 @@ As the applicant, provide the declarant in the original declaration, that is, th
       <Name lang="fi">Ilmoituksen lähettäjän pitää olla luvanhaltija, edustaja tai palveluntarjoaja.</Name>
       <Name lang="sv">Avsändaren av deklarationen ska vara tillståndshavare, ombud eller tjänsteleverantör.</Name>
       <Name lang="en">The submitter of the declaration must be the authorisation holder, representative or service provider.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NR2018</Code>
+      <Name lang="fi">Sähköpostiosoite on ilmoitettava.</Name>
+      <Name lang="sv">E-postadress ska anges.</Name>
+      <Name lang="en">The email address must be provided.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -760217,6 +760489,14 @@ As the applicant, provide the declarant in the original declaration, that is, th
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>NR4073</Code>
+      <Name lang="fi">Vakuuden viitenumero on pakollinen.</Name>
+      <Name lang="sv">Garantins referensnummer är en obligatorisk uppgift.</Name>
+      <Name lang="en">The guarantee reference number is mandatory.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>NR4074</Code>
       <Name lang="fi">Muutosilmoituksessa ilmoittamasi vakuuden viitenumero GRN ei ole sama vakuus kuin alkuperäisessä ilmoituksessa. Tarkista GRN-viitenumero.</Name>
       <Name lang="sv">Garantins referensnummer som du angett i den ändrade deklarationen är inte samma nummer som i den ursprungliga deklarationen. Kontrollera GRN-referensnumret.</Name>
@@ -760310,6 +760590,38 @@ As the applicant, provide the declarant in the original declaration, that is, th
       <Name lang="sv">EU kan inte anges som ursprungsland om det begärda förfarandet är 44, 51 eller 53.</Name>
       <Name lang="en">EU cannot be provided as the country of origin if the requested customs procedure is 44, 51 or 53.</Name>
       <StartDate>2025-02-13</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NR4107</Code>
+      <Name lang="fi">Kuulemisen vastaussanoman päiväys ei voi olla tulevaisuudessa eikä aikaisempi kuin kuulemispyynnön lähettämispäivä.</Name>
+      <Name lang="sv">Datumet för svaret på meddelandet om hörande kan inte vara i framtiden eller tidigare än avsändningsdagen för begäran om hörande.</Name>
+      <Name lang="en">The date of a hearing response cannot be in the future or earlier than the date when the hearing request was sent.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NR4116</Code>
+      <Name lang="fi">Yksityishenkilö ei voi olla ilmoittaja, jos teet IOSS-lähetyksen tullausta.</Name>
+      <Name lang="sv">En privatperson kan inte vara deklarant om du förtullar en IOSS-försändelse.</Name>
+      <Name lang="en">If you are declaring an IOSS consignment, a private individual cannot be the declarant.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NR4117</Code>
+      <Name lang="fi">Edustusmuoto on virheellinen. IOSS lähetyksen tulli-ilmoituksella edustajan on oltava välillinen edustaja tai suora edustaja takaajan vastuulla</Name>
+      <Name lang="sv">Typen av ombudskap är felaktig. I en tulldeklaration för en IOSS-försändelse ska ombudet vara ett indirekt ombud eller ett direkt ombud med garantens ansvar.</Name>
+      <Name lang="en">The type of representation is incorrect. In the customs declaration for an IOSS consignment, the representative must be an indirect representative or a direct representative on guarantor’s responsibility.</Name>
+      <StartDate>2017-01-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>NR4122</Code>
+      <Name lang="fi">Kun lähetyksen arvo ylittää 150 euroa, lisämenettelykoodin F53 ilmoittaminen ei ole sallittua.</Name>
+      <Name lang="sv">Om försändelsens värde överstiger 150 euro är det inte tillåtet att använda koden för ytterligare förfarande F53.</Name>
+      <Name lang="en">When the value of the consignment exceeds 150 euros, the use of the additional procedure code F53 is not permitted.</Name>
+      <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -798855,87 +799167,51 @@ Check the customs office in the authorisation for centralised clearance for impo
     <Name lang="sv">Skatteproduktgrupp</Name>
     <Name lang="en">Tax product group</Name>
     <CodeItem>
-      <Code>1</Code>
-      <Name lang="fi">Savukkeet</Name>
-      <Name lang="sv">Cigaretter</Name>
-      <StartDate>2017-01-01</StartDate>
-      <EndDate>2025-09-30</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>6A</Code>
-      <Name lang="fi">sokeriton</Name>
-      <Name lang="sv">sockerfria</Name>
-      <Name lang="en">Sugar-free</Name>
-      <StartDate>2025-04-30</StartDate>
-      <EndDate>2025-05-01</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>12</Code>
-      <Name lang="fi">Olut yli 2,8 %</Name>
-      <Name lang="sv">Öl över 2,8 %</Name>
-      <StartDate>2017-01-01</StartDate>
-      <EndDate>2025-09-30</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>22A</Code>
-      <Name lang="fi">Siideri 2,8 - 5,5 %</Name>
-      <Name lang="sv">Cider 2,8 - 5,5 %</Name>
-      <StartDate>2025-05-12</StartDate>
-      <EndDate>2025-09-30</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>91</Code>
-      <Name lang="fi">Lentobensiini</Name>
-      <Name lang="sv">Flygbensin</Name>
-      <StartDate>2017-01-01</StartDate>
-      <EndDate>2025-09-30</EndDate>
-    </CodeItem>
-    <CodeItem>
       <Code>A11</Code>
-      <Name lang="fi">yli 0,5 % mutta enintään 3,5 %</Name>
-      <Name lang="sv">över 0,5 % men högst 3,5%</Name>
+      <Name lang="fi">Olut, jonka alkoholipitoisuus on yli 0,5 mutta enintään 3,5 til.-%</Name>
+      <Name lang="sv">Öl över 0,5 % men högst 3,5%</Name>
       <Name lang="en">Beerpan over 0,5 % but at most 3,5 %</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>A12</Code>
-      <Name lang="fi">yli 3,5 %</Name>
+      <Name lang="fi">Olut, jonka alkoholipitoisuus on yli 3,5 til.-%</Name>
       <Name lang="sv">Öl över 3,5 %</Name>
       <Name lang="en">Beerpan over 3,5 %</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>A21</Code>
-      <Name lang="fi">Viinit yli 1,2 % mutta enintään 2,8 %</Name>
-      <Name lang="sv">Vin över 1,2 % men högst 2,8 %</Name>
+      <Name lang="fi">Viini ja muu käymisteitse valmistettu alkoholijuoma, jonka alkoholipitoisuus on yli 1,2 mutta enintään 2,8 til.-%</Name>
+      <Name lang="sv">Viner och andra genom jäsning tillverkade alkoholdrycker över 1,2 % men högst 2,8 %</Name>
       <Name lang="en">Wines and other fermented alcoholic beverages over 1,2 % but at most 2,8 %</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>A22</Code>
-      <Name lang="fi">Viinit yli 2,8 % mutta enintään 5,5 %</Name>
-      <Name lang="sv">Vin över 2,8 % men högst 5,5 %</Name>
+      <Name lang="fi">Viini ja muu käymisteitse valmistettu alkoholijuoma, jonka alkoholipitoisuus on yli 2,8 mutta enintään 5,5 til.-%</Name>
+      <Name lang="sv">Viner och andra genom jäsning tillverkade alkoholdryckeröver 2,8 % men högst 5,5 %</Name>
       <Name lang="en">Wines and other fermented alcoholic beverages over 2,8  % but at most 5,5 %</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>A23</Code>
-      <Name lang="fi">Viinit yli 5,5 % mutta enintään  8 %</Name>
-      <Name lang="sv">Vin över 5,5 % men högst 8 %</Name>
+      <Name lang="fi">Viini ja muu käymisteitse valmistettu alkoholijuoma, jonka alkoholipitoisuus on yli 5,5 mutta enintään 8,0 til.-%</Name>
+      <Name lang="sv">Viner och andra genom jäsning tillverkade alkoholdrycker över 5,5 % men högst 8 %</Name>
       <Name lang="en">Wines and other fermented alcoholic beverages over 5,5 %  but at most 8 %</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>A24</Code>
-      <Name lang="fi">Viinit yli 8 % mutta enintään 15 %</Name>
-      <Name lang="sv">Vin över 8 % men högst 15 %</Name>
+      <Name lang="fi">Viini ja muu käymisteitse valmistettu alkoholijuoma, jonka alkoholipitoisuus on yli 8,0 mutta enintään 15 til.-%</Name>
+      <Name lang="sv">Viner och andra genom jäsning tillverkade alkoholdrycker över 8 % men högst 15 %</Name>
       <Name lang="en">Wines and other fermented alcoholic beverages over 8 % but at most 15 %</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -798943,55 +799219,55 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Viinit yli 15 % mutta enintään 18 %</Name>
       <Name lang="sv">Vin över 15 % men högst 18 %</Name>
       <Name lang="en">Wines over 15 % but at most 18 %</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>A31</Code>
-      <Name lang="fi">Välituotteet yli 1,2 % mutta enintään 15 %</Name>
+      <Name lang="fi">Välituote, jonka alkoholipitoisuus on yli 1,2 mutta enintään 15 til.-%</Name>
       <Name lang="sv">Mellanprodukter över 1,2 % men högst 15 %</Name>
       <Name lang="en">Intermediate products over 1,2 %but at most 15 %</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>A32</Code>
-      <Name lang="fi">Välituotteet yli 15 % mutta enintään 22 %</Name>
+      <Name lang="fi">Välituote, jonka alkoholipitoisuus on yli 15 mutta enintään 22 til.-%</Name>
       <Name lang="sv">Mellanprodukter över 15 % men högst 22 %</Name>
       <Name lang="en">Intermediate products over 15 but at most 22</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>A41</Code>
-      <Name lang="fi">Etyylialkoholi yli 1,2 % mutta enintään 2,8 %</Name>
+      <Name lang="fi">Juotavaksi tarkoitettu etyylialkoholi, jonka alkoholipitoisuus on yli 1,2 mutta enintään 2,8 til.-%</Name>
       <Name lang="sv">Etylalkohol över 1,2 % men högst 2,8 %</Name>
       <Name lang="en">Ethyl alcohol over 1,2 % but at most 2,8 %</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>A42</Code>
-      <Name lang="fi">Etyylialkoholi yli 2,8 % mutta enintään 10 %</Name>
+      <Name lang="fi">Juotavaksi tarkoitettu etyylialkoholi, jonka alkoholipitoisuus on yli 2,8 mutta enintään 10 til.-%</Name>
       <Name lang="sv">Etylalkohol över 2,8 % men högst 10 %</Name>
       <Name lang="en">Ethyl alcohol over 2,8 % but at most 10 %</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>A43</Code>
-      <Name lang="fi">Etyylialkoholi yli 10 %</Name>
+      <Name lang="fi">Juotavaksi tarkoitettu etyylialkoholi, jonka alkoholipitoisuus on yli 10 til.-%</Name>
       <Name lang="sv">Etylalkohol över 10 %</Name>
       <Name lang="en">Ethyl alcohol over 10 %</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>A46</Code>
-      <Name lang="fi">Muut</Name>
+      <Name lang="fi">Muu etyylialkoholia sisältävä juoma tai tuote</Name>
       <Name lang="sv">Övriga</Name>
       <Name lang="en">other</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799063,7 +799339,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Moottoribensiini</Name>
       <Name lang="sv">Motorbensin</Name>
       <Name lang="en">Motorgasoline</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799071,7 +799347,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Pienmoottoribensiini</Name>
       <Name lang="sv">Bensin för små motorer</Name>
       <Name lang="en">Small engine gasoline</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799079,7 +799355,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Bioetanoli</Name>
       <Name lang="sv">Bioetanol</Name>
       <Name lang="en">Bioethanol</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799087,7 +799363,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Bioetanoli R</Name>
       <Name lang="sv">Bioetanol R</Name>
       <Name lang="en">Bioethanol R</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799095,7 +799371,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Bioetanoli T</Name>
       <Name lang="sv">Bioetanol T</Name>
       <Name lang="en">Bioethanol T</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799103,7 +799379,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">MTBE</Name>
       <Name lang="sv">MTBE  </Name>
       <Name lang="en">MTBE</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799111,7 +799387,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">MTBE R</Name>
       <Name lang="sv">MTBE R</Name>
       <Name lang="en">MTBE R</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799119,7 +799395,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">MTBE T</Name>
       <Name lang="sv">MTBE T</Name>
       <Name lang="en">MTBE T</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799127,7 +799403,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">TAME</Name>
       <Name lang="sv">TAME</Name>
       <Name lang="en">TAME</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799135,7 +799411,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">TAME R</Name>
       <Name lang="sv">TAME R</Name>
       <Name lang="en">TAME R</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799143,7 +799419,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">TAME T</Name>
       <Name lang="sv">TAME T</Name>
       <Name lang="en">TAME T</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799151,7 +799427,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">ETBE</Name>
       <Name lang="sv">ETBE</Name>
       <Name lang="en">ETBE</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799159,7 +799435,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">ETBE R</Name>
       <Name lang="sv">ETBE R</Name>
       <Name lang="en">ETBE R</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799167,7 +799443,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">ETBE T</Name>
       <Name lang="sv">ETBE T</Name>
       <Name lang="en">ETBE T</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799175,7 +799451,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">TAEE</Name>
       <Name lang="sv">TAEE</Name>
       <Name lang="en">TAEE</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799183,7 +799459,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">TAEE R</Name>
       <Name lang="sv">TAEE R</Name>
       <Name lang="en">TAEE R</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799191,7 +799467,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">TAEE T</Name>
       <Name lang="sv">TAEE T</Name>
       <Name lang="en">TAEE T</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799199,7 +799475,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Biobensiini</Name>
       <Name lang="sv">Biobensin</Name>
       <Name lang="en">Biogasoline</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799207,7 +799483,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Biobensiini R</Name>
       <Name lang="sv">Biobensin R</Name>
       <Name lang="en">Biogasoline R</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799215,7 +799491,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Biobensiini T</Name>
       <Name lang="sv">Biobensin T</Name>
       <Name lang="en">Biogasoline T</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799223,7 +799499,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Etanolidiesel</Name>
       <Name lang="sv">Etanoldiesel</Name>
       <Name lang="en">Ethanol-diesel</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799231,7 +799507,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Etanolidiesel R</Name>
       <Name lang="sv">Etanoldiesel R</Name>
       <Name lang="en">Ethanol-diesel R</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799239,7 +799515,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Etanolidiesel T</Name>
       <Name lang="sv">Etanoldiesel T</Name>
       <Name lang="en">Ethanol-diesel T</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799247,7 +799523,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Dieselöljy</Name>
       <Name lang="sv">Dieselolja</Name>
       <Name lang="en">Dieseloil</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799255,7 +799531,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Dieselöljy para</Name>
       <Name lang="sv">Dieselolja para</Name>
       <Name lang="en">Dieseloil paraffin</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799263,7 +799539,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Biodieselöljy</Name>
       <Name lang="sv">Biodieselolja</Name>
       <Name lang="en">Biodieseloil</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799271,7 +799547,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Biodieselöljy R</Name>
       <Name lang="sv">Biodieselolja R</Name>
       <Name lang="en">Biodieseloil R</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799279,7 +799555,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Biodieselöljy T</Name>
       <Name lang="sv">Biodieselolja T</Name>
       <Name lang="en">Biodieseloil T</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799287,7 +799563,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Biodieselöljy P</Name>
       <Name lang="sv">Biodieselolja P</Name>
       <Name lang="en">Biodieseloil, paraffin</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799295,7 +799571,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Biodieselöljy P R</Name>
       <Name lang="sv">Biodieselolja P R</Name>
       <Name lang="en">Biodieseloil, paraffin R</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799303,7 +799579,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Biodieselöljy P T</Name>
       <Name lang="sv">Biodieselolja P T</Name>
       <Name lang="en">Biodieseloil, paraffin T</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799311,7 +799587,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Kevyt polttoöljy</Name>
       <Name lang="sv">Lätt brännolja</Name>
       <Name lang="en">Light fuel oil</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799319,7 +799595,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Kevyt polttoöljy rikitön</Name>
       <Name lang="sv">Lätt brännolja svavelfri</Name>
       <Name lang="en">Light fuel oil,sulphur-free</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799327,7 +799603,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Biopolttoöljy</Name>
       <Name lang="sv">Biobrännolja c</Name>
       <Name lang="en">Biofuel oil</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799335,7 +799611,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Biopolttoöljy R</Name>
       <Name lang="sv">Biobrännolja R</Name>
       <Name lang="en">Biofuel oil R</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799343,7 +799619,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Biopolttoöljy T</Name>
       <Name lang="sv">Biobrännolja T</Name>
       <Name lang="en">Biofuel oil T</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799351,7 +799627,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Raskas polttoöljy</Name>
       <Name lang="sv">Tung brännolja</Name>
       <Name lang="en">Heavy fuel oil</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799359,7 +799635,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Lentopetroli</Name>
       <Name lang="sv">Flygpetroleum</Name>
       <Name lang="en">Kerosene-type jet fuel</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799367,7 +799643,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Lentobensiini</Name>
       <Name lang="sv">Flygbensin</Name>
       <Name lang="en">Aviation gasoline</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799375,7 +799651,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Metanoli</Name>
       <Name lang="sv">Metanol</Name>
       <Name lang="en">Methanol</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799383,7 +799659,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Metanoli R</Name>
       <Name lang="sv">Metanol R</Name>
       <Name lang="en">Methanol R</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799391,7 +799667,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Metanoli T</Name>
       <Name lang="sv">Metanol T</Name>
       <Name lang="en">Methanol T</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799399,7 +799675,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Nestekaasu</Name>
       <Name lang="sv">Flytgas</Name>
       <Name lang="en">LPG</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799407,7 +799683,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Bionestekaasu</Name>
       <Name lang="sv">Bioflytgas</Name>
       <Name lang="en">Bio-LPG</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799415,7 +799691,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Bionestekaasu R</Name>
       <Name lang="sv">Bioflytgas R</Name>
       <Name lang="en">Bio-LPG R</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799423,7 +799699,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Bionestekaasu T</Name>
       <Name lang="sv">Bioflytgas T</Name>
       <Name lang="en">Bio-LPG T</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799431,7 +799707,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Savukkeet</Name>
       <Name lang="sv">Cigaretter</Name>
       <Name lang="en">Cigarettes</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799439,7 +799715,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Savukkeet joista on suoritettava vähimmäisvero</Name>
       <Name lang="sv">Cigaretter för vilka minimiaccis ska betalas</Name>
       <Name lang="en">Minimum excise duty on cigarettes</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799447,7 +799723,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Sikarit</Name>
       <Name lang="sv">Cigarrer</Name>
       <Name lang="en">Cigars</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799455,7 +799731,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Sikarit joista on suoritettava vähimmäisvero</Name>
       <Name lang="sv">Cigarrer för vilka minimiaccis ska betalas</Name>
       <Name lang="en">Minimum excise duty on cigars</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799463,7 +799739,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Pikkusikarit</Name>
       <Name lang="sv">Cigariller</Name>
       <Name lang="en">Cigarillos</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799471,7 +799747,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Pikkusikarit joista on suoritettava vähimmäisvero</Name>
       <Name lang="sv">Cigariller för vilka minimiaccis ska betalas</Name>
       <Name lang="en">Minimum excise duty on cigarillos</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799479,7 +799755,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Piippu-ja savuketupakka</Name>
       <Name lang="sv">Pip- och cigarettobak</Name>
       <Name lang="en">Pipe and cigarette tobacco</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799487,7 +799763,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Savukkeiksi käärittävä hienoksi leikattu tupakka</Name>
       <Name lang="sv">Finskuren tobak avsedd att rullas till cigaretter</Name>
       <Name lang="en">Fine-cut rolling tobacco</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799495,7 +799771,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Savukkeiksi käärittävä hienoksi leikattu tupakka, joista on suoritettava vähimmäisvero</Name>
       <Name lang="sv">Finskuren tobak avsedd att rullas till cigaretter, för vilka minimiaccis ska betalas</Name>
       <Name lang="en">Minimum excise duty on fine-cut rolling tobacco</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799503,7 +799779,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Savukepaperi</Name>
       <Name lang="sv">Cigarettpapper</Name>
       <Name lang="en">Cigarette paper</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799511,7 +799787,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Muu tupakkaa sisältävä tuote</Name>
       <Name lang="sv">Annan produkt som innehåller tobak</Name>
       <Name lang="en">Other products containing tobacco</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799519,7 +799795,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Sähkösavukeneste, nikotiinipitoinen</Name>
       <Name lang="sv">Vätska för elektroniska cigaretter, nikotinhaltig</Name>
       <Name lang="en">Electronic cigarette liquid With nicotine</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799527,7 +799803,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Sähkösavukeneste, nikotiiniton</Name>
       <Name lang="sv">Vätska för elektroniska cigaretter,  nikotinfri</Name>
       <Name lang="en">Electronic cigarette liquid Without nicotine</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799535,7 +799811,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Kuumennettava tupakkatuote</Name>
       <Name lang="sv">Tobaksprodukter avsedda för upphettning</Name>
       <Name lang="en">Heated tobacco product</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799543,7 +799819,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Savuton nikotiinituote, muu kuin nestemäinen</Name>
       <Name lang="sv">Rökfria nikotinprodukter som inte är i vätskeform</Name>
       <Name lang="en">Smokeless nicotine product in non-liquid form (such as nicotine pouches)</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799551,7 +799827,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Muun kuin nestemäisen savuttoman nikotiinituotteen vähimmäisvero</Name>
       <Name lang="sv">Minimiaccis på rökfria nikotinprodukter som inte är i vätskeform</Name>
       <Name lang="en">Minimum excise duty on smokeless nicotine products in non-liquid form (such as nicotine pouches)</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799559,7 +799835,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Savuton nikotiinituote, nestemäinen</Name>
       <Name lang="sv">Rökfria nikotinprodukter i vätskeform</Name>
       <Name lang="en">Smokeless nicotine product in liquid form</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799567,22 +799843,22 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Käymättömät hedelmä- ja kasvismehut, alkoholipitoisuus enintään 0,5 tilavuus-%.</Name>
       <Name lang="sv">Frukt- och bärsaft, ojäst, alkoholhalt högst 0,5 volym-%.</Name>
       <Name lang="en">Unfermented fruit and vegetable juices, alcohol content max. 0.5 % by volume.</Name>
-      <StartDate>2025-05-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2026-03-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V1A</Code>
       <Name lang="fi">Käymättömät hedelmä- ja kasvismehut, alkoholipitoisuus enintään 0,5 t-%, sokeriton</Name>
       <Name lang="sv">Frukt- och bärsaft, ojäst, alkoholhalt högst 0,5 volym-%, utan socker</Name>
-      <Name lang="en">Unfermented fruit and vegetable juices, alcohol content max. 0,5 % by volume, sugar-free</Name>
-      <StartDate>2025-05-01</StartDate>
+      <Name lang="en">Unfermented fruit and vegetable juices, alcohol content max. 0.5 % by volume, sugar-free</Name>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2026-03-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V1A</Code>
       <Name lang="fi">Sokerittomat käymättömät hedelmä-, pähkinä- ja kasvismehut, alkoholipitoisuus enintään 0,5 til.-%</Name>
-      <Name lang="sv">Sockerfri ojäst frukt- och grönsakssaft med en alkoholhalt på högst 0,5 volymprocent</Name>
-      <Name lang="en">Unfermented fruit juices and vegetable juices without added sugar, with an alcohol content of no more than 0.5 vol%</Name>
+      <Name lang="sv">Sockerfri ojäst frukt-, nöt- och grönsakssaft med en alkoholhalt på högst 0,5 volymprocent</Name>
+      <Name lang="en">Unfermented fruit, nut and vegetable juices without added sugar, with an alcohol content of no more than 0.5 vol%</Name>
       <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -799592,45 +799868,93 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="sv">Frukt- och bärsaftskoncentrat, ojäst, alkoholhalt högst 0,5 volym-%, utan socker</Name>
       <Name lang="en">Unfermented fruit and vegetable juices, alcohol content max. 0.5% by volume, sugar-free</Name>
       <StartDate>2025-05-01</StartDate>
+      <EndDate>2026-03-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V1AL</Code>
+      <Name lang="fi">Sokerittomat käymättömät hedelmä-, pähkinä- ja kasvismehutiivisteet, alkoholipitoisuus enintään 0,5 til.-%</Name>
+      <Name lang="sv">Sockerfritt ojäst frukt-, nöt- och grönsakssaftkoncentrat med en alkoholhalt på högst 0,5 volymprocent</Name>
+      <Name lang="en">Sugar-free, unfermented fruit, nut and vegetable juice concentrates with an alcohol content of no more than 0.5 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V1B</Code>
       <Name lang="fi">Käymättömät hedelmä-, pähkinä- ja kasvismehut, sokeripitoisuus yli 0,5 mutta enintään 2,5 g/100ml, alkoholipitoisuus enintään 0,5 til.-%</Name>
-      <Name lang="sv">Ojäst frukt- och grönsakssaft, sockerhalt mer än 0,5 men högst 2,5 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
-      <Name lang="en">Unfermented fruit juices and vegetable juices, sugar content over 0.5 but no more than 2.5g/100ml, alcohol content no more than 0.5 vol%</Name>
+      <Name lang="sv">Varukod 2009 Ojäst frukt-, nöt- och grönsakssaft, sockerhalt mer än 0,5 men högst 2,5 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
+      <Name lang="en">Unfermented fruit, nut and vegetable juices, sugar content over 0.5 but no more than 2.5g/100ml, alcohol content no more than 0.5 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V1BL</Code>
+      <Name lang="fi">Käymättömät hedelmä-, pähkinä- ja kasvismehutiivisteet, sokeripitoisuus yli 0,5 mutta enintään 2,5 g/100ml, alkoholipitoisuus enintään 0,5 til.-%</Name>
+      <Name lang="sv">Ojäst frukt-, nöt- och grönsakssaftkoncentrat, sockerhalt mer än 0,5 men högst 2,5 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
+      <Name lang="en">Unfermented fruit, nut and vegetable juice concentrates, sugar content over 0.5 but no more than 2.5g/100ml, alcohol content no more than 0.5 vol%</Name>
       <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V1C</Code>
       <Name lang="fi">Käymättömät hedelmä-, pähkinä- ja kasvismehut, sokeripitoisuus yli 2,5 mutta enintään 5 g/100ml, alkoholipitoisuus enintään 0,5 til.-%</Name>
-      <Name lang="sv">Varukod 2009 Ojäst frukt- och grönsakssaft, sockerhalt mer än 2,5 men högst 5 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
-      <Name lang="en">Heading 2009 Unfermented fruit juices and vegetable juices, sugar content over 2.5 but no more than 5g/100ml, alcohol content no more than 0.5 vol%</Name>
+      <Name lang="sv">Ojäst frukt-, nöt- och grönsakssaft, sockerhalt mer än 2,5 men högst 5 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
+      <Name lang="en">Unfermented fruit, nut and vegetable juices, sugar content over 2.5 but no more than 5g/100ml, alcohol content no more than 0.5 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V1CL</Code>
+      <Name lang="fi">Käymättömät hedelmä-, pähkinä- ja kasvismehutiivisteet, sokeripitoisuus yli 2,5 mutta enintään 5 g/100ml, alkoholipitoisuus enintään 0,5 til.-%</Name>
+      <Name lang="sv">Ojäst frukt-, nöt- och grönsakssaftkoncentrat, sockerhalt mer än 2,5 men högst 5 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
+      <Name lang="en">Unfermented fruit, nut and vegetable juice concentrates, sugar content over 2.5 but no more than 5g/100ml, alcohol content no more than 5. vol%</Name>
       <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V1D</Code>
       <Name lang="fi">Käymättömät hedelmä-, pähkinä- ja kasvismehut, sokeripitoisuus yli 5 mutta enintään 8 g/100ml, alkoholipitoisuus enintään 0,5 til.-%</Name>
-      <Name lang="sv">Ojäst frukt- och grönsakssaft, sockerhalt mer än 5 men högst 8 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
-      <Name lang="en">Unfermented fruit juices and vegetable juices, sugar content over 5 but no more than 8g/100ml, alcohol content no more than 0.5 vol%</Name>
+      <Name lang="sv">Varukod 2009 Ojäst frukt-, nöt- och grönsakssaft, sockerhalt mer än 5 men högst 8 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
+      <Name lang="en">Unfermented fruit, nut and vegetable juices, sugar content over 5 but no more than 8g/100ml, alcohol content no more than 0.5 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V1DL</Code>
+      <Name lang="fi">Käymättömät hedelmä-, pähkinä- ja kasvismehutiivisteet, sokeripitoisuus yli 5 mutta enintään 8 g/100ml, alkoholipitoisuus enintään 0,5 til.-%</Name>
+      <Name lang="sv">Ojäst frukt-, nöt- och grönsakssaftkoncentrat, sockerhalt mer än 5 men högst 8 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
+      <Name lang="en">Unfermented fruit, nut and vegetable juice concentrates, sugar content over 5 but no more than 8g/100ml, alcohol content no more than 0.5 vol%</Name>
       <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V1E</Code>
       <Name lang="fi">Käymättömät hedelmä-, pähkinä- ja kasvismehut, sokeripitoisuus yli 8 mutta enintään 11 g/100ml, alkoholipitoisuus enintään 0,5 til.-%</Name>
-      <Name lang="sv">Varukod 2009 Ojäst frukt- och grönsakssaft, sockerhalt mer än 8 men högst 11 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
-      <Name lang="en">Unfermented fruit juices and vegetable juices, sugar content over 8 but no more than 11g/100ml, alcohol content no more than 0.5 vol%</Name>
+      <Name lang="sv">Ojäst frukt-, nöt- och grönsakssaft, sockerhalt mer än 8 men högst 11 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
+      <Name lang="en">Unfermented fruit, nut and vegetable juices, sugar content over 8 but no more than 11g/100ml, alcohol content no more than 0.5 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V1EL</Code>
+      <Name lang="fi">Käymättömät hedelmä-, pähkinä- ja kasvismehutiivisteet, sokeripitoisuus yli 8 mutta enintään 11 g/100ml, alkoholipitoisuus enintään 0,5 til.-%</Name>
+      <Name lang="sv">Ojäst frukt, nöt- och grönsakssaftkoncentrat, sockerhalt mer än 8 men högst 11 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
+      <Name lang="en">Unfermented fruit, nut and vegetable juice concentrates, sugar content over 8 but no more than 11g/100ml, alcohol content no more than 0.5 vol%</Name>
       <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V1F</Code>
-      <Name lang="fi">Nimike 2009 Käymättömät hedelmä-, pähkinä- ja kasvismehut, sokeripitoisuus yli 11 g/100ml, alkoholipitoisuus enintään 0,5 til.-%</Name>
-      <Name lang="sv">Varukod 2009 Ojäst frukt- och grönsakssaft, sockerhalt mer än 11 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
-      <Name lang="en">Unfermented fruit juices and vegetable juices, sugar content over 11g/100ml, alcohol content no more than 0.5 vol%</Name>
+      <Name lang="fi">Käymättömät hedelmä-, pähkinä- ja kasvismehut, sokeripitoisuus yli 11 g/100ml, alkoholipitoisuus enintään 0,5 til.-%</Name>
+      <Name lang="sv">Varukod 2009 Ojäst frukt-, nöt- och grönsakssaft, sockerhalt mer än 11 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
+      <Name lang="en">Unfermented fruit, nut and vegetable juices, sugar content over 11g/100ml, alcohol content no more than 0.5 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V1FL</Code>
+      <Name lang="fi">Käymättömät hedelmä-, pähkinä- ja kasvismehutiivisteet, sokeripitoisuus yli 11 g/100ml, alkoholipitoisuus enintään 0,5 til.-%</Name>
+      <Name lang="sv">Saftkoncentrat av frukt, nötter och grönsaker, ojästa, sockerhalt mer än 11 g/100ml, alkoholhalt högst 0,5 volym-%</Name>
+      <Name lang="en">Concentrates of fruit, nut and vegetable juices, unfermented, sugar content over 11 g/100 ml, alcohol content no more than 0.5% by volume</Name>
       <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -799645,8 +799969,16 @@ Check the customs office in the authorisation for centralised clearance for impo
     <CodeItem>
       <Code>V1P</Code>
       <Name lang="fi">Pakkaamattomat käymättömät hedelmä-, pähkinä- ja kasvismehut, alkoholipitoisuus enintään 0,5 til.-%</Name>
-      <Name lang="sv">sv: Pakkaamattomat käymättömät hedelmä-, pähkinä- ja kasvismehut, alkoholipitoisuus enintään 0,5 til.-%</Name>
-      <Name lang="en">en: Pakkaamattomat käymättömät hedelmä-, pähkinä- ja kasvismehut, alkoholipitoisuus enintään 0,5 til.-%</Name>
+      <Name lang="sv">Tulltariffnr 2009 Saft av frukt, nötter och grönsaker, ojäst, inte färdigförpackad, alkoholhalt högst 0,5 volym-%</Name>
+      <Name lang="en">Fruit, nut and vegetable juices, unfermented and unpackaged, alcohol content no more than 0.5% by volume</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V1PL</Code>
+      <Name lang="fi">Pakkaamattomat käymättömät hedelmä-, pähkinä- ja kasvismehutiivisteet, alkoholipitoisuus enintään 0,5 til.-%</Name>
+      <Name lang="sv">Saftkoncentrat av frukt, nötter och grönsaker, ojästa, inte färdigförpackade, alkoholhalt högst 0,5 volym-%</Name>
+      <Name lang="en">Concentrates of fruit, nut and vegetable juices, unfermented and unpackaged, alcohol content no more than 0.5% by volume</Name>
       <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -799655,15 +799987,55 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Kiinteät juoma-ainekset, alkoholipitoisuus enintään 1,2 t-%</Name>
       <Name lang="sv">Dryckesingredienser i fast form, alkoholhalt högst 1,2 volym-%</Name>
       <Name lang="en">Solid drinking stuffs, alcohol content max. 1.2 % by volume</Name>
-      <StartDate>2025-05-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2026-03-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V2A</Code>
-      <Name lang="fi">Kiinteät juoma-ainekset, alkoholipitoisuus enintään 1,2 t-%, sokeriton</Name>
+      <Name lang="fi">Sokerittomat kiinteät juoma-ainekset, alkoholipitoisuus enintään 1,2 til.-%</Name>
       <Name lang="sv">Dryckesingredienser i fast form, alkoholhalt högst 1,2 volym-%, utan socker</Name>
       <Name lang="en">Solid drinking stuffs, alcohol content max. 1.2 % by volume, sugar-free</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V2B</Code>
+      <Name lang="fi">Kiinteät juoma-ainekset, sokeripitoisuus yli 0,5 mutta enintään 2,5 g/100ml, alkoholipitoisuus enintään 1,2 til.-%</Name>
+      <Name lang="sv">Dryckesingredienser i fast form, sockerhalt mer än 2,5 men högst 5 g/100ml, alkoholhalt högst 1,2 volym-%</Name>
+      <Name lang="en">Solid drinking stuffs, sugar content over 0.5 but no more than 2.5 g/100ml, alcohol content no more than 1.2% by volume</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V2C</Code>
+      <Name lang="fi">Kiinteät juoma-ainekset, sokeripitoisuus yli 2,5 mutta enintään 5 g/100ml, alkoholipitoisuus enintään 1,2 til.-%</Name>
+      <Name lang="sv">Dryckesingredienser i fast form, sockerhalt mer än 5 men högst 8 g/100ml, alkoholhalt högst 1,2 volym-%</Name>
+      <Name lang="en">Solid drinking stuffs, sugar content over 2.5 but no more than 5 g/100ml, alcohol content no more than 1.2% by volume</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V2D</Code>
+      <Name lang="fi">Kiinteät juoma-ainekset, sokeripitoisuus yli 5 mutta enintään 8 g/100ml, alkoholipitoisuus enintään 1,2 til.-%</Name>
+      <Name lang="sv">Dryckesingredienser i fast form, sockerhalt mer än 8 men högst 11 g/100ml, alkoholhalt högst 1,2 volym-%</Name>
+      <Name lang="en">Solid drinking stuffs, sugar content over 5 but no more than 8 g/100ml, alcohol content no more than 1.2% by volume</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V2E</Code>
+      <Name lang="fi">Kiinteät juoma-ainekset, sokeripitoisuus yli 8 mutta enintään 11 g/100ml, alkoholipitoisuus enintään 1,2 til.-%</Name>
+      <Name lang="sv">Dryckesingredienser i fast form, sockerhalt mer än 11 g/100ml, alkoholhalt högst 1,2 volym-%</Name>
+      <Name lang="en">Solid drinking stuffs, sugar content over 8 but no more than 11 g/100ml, alcohol content no more than 1.2% by volume</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V2F</Code>
+      <Name lang="fi">Kiinteät juoma-ainekset, sokeripitoisuus yli 11 g/100ml, alkoholipitoisuus enintään 1,2 til.-%</Name>
+      <Name lang="sv">Dryckesingredienser i fast form, sockerhalt mer än 11 g/100ml, alkoholhalt högst 1,2 volym-%</Name>
+      <Name lang="en">Solid drinking stuffs, sugar content more than 11 g/100ml, alcohol content no more than 1.2% by volume</Name>
+      <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799671,23 +800043,71 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Nestemäiset juoma-ainekset, alkoholipitoisuus enintään 1,2 tilavuus-%</Name>
       <Name lang="sv">Dryckesingredienser i flytande form, alkoholhalt högst 1,2 volym-%</Name>
       <Name lang="en">Liquid drinking stuffs, alcohol content max. 1.2 % by volume</Name>
-      <StartDate>2025-05-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2026-03-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V3A</Code>
-      <Name lang="fi">Nestemäiset juoma-ainekset, alkoholipitoisuus enintään 1,2 tilavuus-%, sokeriton</Name>
+      <Name lang="fi">Sokerittomat nestemäiset juoma-ainekset, alkoholipitoisuus enintään 1,2 til.-%</Name>
       <Name lang="sv">Dryckesingredienser i flytande form, alkoholhalt högst 1,2 volym-%, utan socker</Name>
       <Name lang="en">Liquid drinking stuffs, alcohol content max. 1.2 % by volume, sugar-free</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V3B</Code>
+      <Name lang="fi">Nestemäiset juoma-ainekset, sokeripitoisuus yli 0,5 mutta enintään 2,5 g/100ml, alkoholipitoisuus enintään 1,2 til.-%</Name>
+      <Name lang="sv">Dryckesingredienser i flytande form, sockerhalt mer än 0,5 men högst 2,5 g / 100 ml, alkoholhalt högst 1,2 volymprocent</Name>
+      <Name lang="en">Liquid beverage ingredients, sugar content over 0.5 but no more than 2.5g/100ml, alcohol content no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V3C</Code>
+      <Name lang="fi">Nestemäiset juoma-ainekset, sokeripitoisuus yli 2,5 mutta enintään 5 g/100ml, alkoholipitoisuus enintään 1,2 til.-%</Name>
+      <Name lang="sv">Dryckesingredienser i flytande form, sockerhalt mer än 2,5 men högst 5 g / 100 ml, alkoholhalt högst 1,2 volymprocent</Name>
+      <Name lang="en">Liquid beverage ingredients, sugar content over 2.5 but no more than 5g/100ml, alcohol content no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V3D</Code>
+      <Name lang="fi">Nestemäiset juoma-ainekset, sokeripitoisuus yli 5 mutta enintään 8 g/100ml, alkoholipitoisuus enintään 1,2 til.-%</Name>
+      <Name lang="sv">Dryckesingredienser i flytande form, sockerhalt mer än 5 men högst 8 g / 100 ml, alkoholhalt högst 1,2 volymprocent</Name>
+      <Name lang="en">Liquid beverage ingredients, sugar content over 5 but no more than 8g/100ml, alcohol content no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V3E</Code>
+      <Name lang="fi">Nestemäiset juoma-ainekset, sokeripitoisuus yli 8 mutta enintään 11 g/100ml, alkoholipitoisuus enintään 1,2 til.-%</Name>
+      <Name lang="sv">Dryckesingredienser i flytande form, sockerhalt mer än 8 men högst 11 g / 100 ml, alkoholhalt högst 1,2 volymprocent</Name>
+      <Name lang="en">Liquid beverage ingredients, sugar content over 8 but no more than 11g/100ml, alcohol content no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V3F</Code>
+      <Name lang="fi">Nestemäiset juoma-ainekset, sokeripitoisuus yli 11 g/100ml, alkoholipitoisuus enintään 1,2 til.-%</Name>
+      <Name lang="sv">Dryckesingredienser i flytande form, sockerhalt mer än 11 g / 100 ml, alkoholhalt högst 1,2 volymprocent</Name>
+      <Name lang="en">Liquid beverage ingredients, sugar content over 11g/100ml, alcohol content no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V4A</Code>
-      <Name lang="fi">Hiilihapoton ja hiilihapotettu vesi, sokeriton</Name>
-      <Name lang="sv">Icke kolsyrat och kolsyrat vatten, utan socker</Name>
-      <Name lang="en">Uncarbonated and carbonated water, sugar-free</Name>
-      <StartDate>2025-05-01</StartDate>
+      <Name lang="fi">Sokerittomat hiilihapottomat ja hiilihapotetut vedet</Name>
+      <Name lang="sv">Sockerfria icke-kolsyrade och kolsyrade vatten</Name>
+      <Name lang="en">Sugar-free mineral waters and aerated waters</Name>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V4P</Code>
+      <Name lang="fi">Pakkaamattomat hiilihapottomat ja hiilihapotetut vedet</Name>
+      <Name lang="sv">Vatten med eller utan kolsyra, inte färdigförpackat</Name>
+      <Name lang="en">Vatten med eller utan kolsyra, inte färdigförpackat</Name>
+      <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799695,15 +800115,63 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Vedet, makeutetut tai maustetut, alkoholipitoisuus enintään 0,5 tilavuus-%</Name>
       <Name lang="sv">Vatten, sötade eller smaksatta, alkoholhalt högst 0,5 volym-%</Name>
       <Name lang="en">Water sweetened or seasoned, alcohol content max. 0.5 % by volume</Name>
-      <StartDate>2025-05-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2026-03-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V5A</Code>
-      <Name lang="fi">Vedet, makeutetut, maustetut, alkoholipitoisuus enintään 0,5 t-%, sokeriton</Name>
-      <Name lang="sv">Vatten, sötade eller smaksatta, alkoholhalt högst 0,5 volym-%, utan socker</Name>
-      <Name lang="en">Water, sweetened, seasoned, alcohol content max. 0.5% by volume, sugar-free</Name>
-      <StartDate>2025-05-01</StartDate>
+      <Name lang="fi">Sokerittomat vedet, makeutetut, maustetut, alkoholipitoisuus enintään 0,5 til.-%</Name>
+      <Name lang="sv">Sockerfria sötade och smaksatta vatten med en alkoholhalt på högst 0,5 volymprocent</Name>
+      <Name lang="en">Sugar-free waters, sweetened, flavoured, alcohol content no more than 0.5 vol%</Name>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V5B</Code>
+      <Name lang="fi">Vedet, makeutetut, maustetut, sokeripitoisuus yli 0,5 mutta enintään 2,5 g/100ml, alkoholipitoisuus enintään 0,5 til.-%</Name>
+      <Name lang="sv">Sötade och smaksatta vatten, sockerhalt mer än 0,5 men högst 2,5 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
+      <Name lang="en">Waters, sweetened, flavoured, sugar content over 0.5 but no more than 2.5g/100ml, alcohol content no more than 0.5 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V5C</Code>
+      <Name lang="fi">Vedet, makeutetut, maustetut, sokeripitoisuus yli 2,5 mutta enintään 5 g/100ml, alkoholipitoisuus enintään 0,5 til.-%</Name>
+      <Name lang="sv">Sötade och smaksatta vatten, sockerhalt mer än 2,5 men högst 5 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
+      <Name lang="en">Waters, sweetened, flavoured, sugar content over 2.5 but no more than 5g/100ml, alcohol content no more than 0.5 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V5D</Code>
+      <Name lang="fi">Vedet, makeutetut, maustetut, sokeripitoisuus yli 5 mutta enintään 8 g/100ml, alkoholipitoisuus enintään 0,5 til.-%</Name>
+      <Name lang="sv">Sötade och smaksatta vatten, sockerhalt mer än 5 men högst 8 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
+      <Name lang="en">Waters, sweetened, flavoured, sugar content over 5 but no more than 8g/100ml, alcohol content no more than 0.5 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V5E</Code>
+      <Name lang="fi">Vedet, makeutetut, maustetut, sokeripitoisuus yli 8 mutta enintään 11 g/100ml, alkoholipitoisuus enintään 0,5 til.-%</Name>
+      <Name lang="sv">Sötade och smaksatta vatten, sockerhalt mer än 8 men högst 11 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
+      <Name lang="en">Waters, sweetened, flavoured, sugar content over 8 but no more than 11g/100ml, alcohol content no more than 0.5 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V5F</Code>
+      <Name lang="fi">Vedet, makeutetut, maustetut, sokeripitoisuus yli 11 g/100ml, alkoholipitoisuus enintään 0,5 til.-%</Name>
+      <Name lang="sv">Sötade och smaksatta vatten, sockerhalt mer än 11 g / 100 ml, alkoholhalt högst 0,5 volymprocent</Name>
+      <Name lang="en">Waters, sweetened, flavoured, sugar content over 11g/100ml, alcohol content no more than 0.5 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V5P</Code>
+      <Name lang="fi">Pakkaamattomat vedet, makeutetut, maustetut, alkoholipitoisuus enintään 0,5 til.-%</Name>
+      <Name lang="sv">Vatten med tillsats av socker eller annat sötningsmedel, smaksatt, alkoholhalt högst 0,5 volym-%, inte färdigförpackat</Name>
+      <Name lang="en">Waters, sweetened, flavoured, alcohol content no more than 0.5% by volume, unpackaged</Name>
+      <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799711,15 +800179,63 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Viini tuoreista rypäleistä alkoholipitoisuus yli 0,5 max 1.2%</Name>
       <Name lang="sv">Vin av färska druvor, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%</Name>
       <Name lang="en">Wine from fresh grapes. Alcohol over 0.5 max 1.2%</Name>
-      <StartDate>2025-05-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2026-03-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V6A</Code>
-      <Name lang="fi">Viini tuoreista rypäleistä, alkoholipitoisuus yli 0,5 t-%, mutta enintään 1,2 t-%, sokeriton</Name>
-      <Name lang="sv">Vin av färska druvor, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%, utan socker</Name>
-      <Name lang="en">Wine from fresh grapes, alcohol content over 0.5% but no more than 1.2% by volume, sugar-free</Name>
-      <StartDate>2025-05-01</StartDate>
+      <Name lang="fi">Sokeriton viini tuoreista rypäleistä, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Sockerfritt vin på färska druvor, en alkoholhalt på mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Sugar-free wine from fresh grapes, with an alcohol content of more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V6B</Code>
+      <Name lang="fi">Viini tuoreista rypäleistä, sokeripitoisuus yli 0,5 mutta enintään 2,5 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Vin på färska druvor, sockerhalt mer än 0,5 men högst 2,5 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Wine from fresh grapes, sugar content over 0.5 but no more than 2.5g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V6C</Code>
+      <Name lang="fi">Viini tuoreista rypäleistä, sokeripitoisuus yli 2,5 mutta enintään 5 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Vin på färska druvor, sockerhalt mer än 2,5 men högst 5 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Wine from fresh grapes, sugar content over 2.5 but no more than 5g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V6D</Code>
+      <Name lang="fi">Viini tuoreista rypäleistä, sokeripitoisuus yli 5 mutta enintään 8 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Vin på färska druvor, sockerhalt mer än 2,5 men högst 5 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Wine from fresh grapes, sugar content over 5 but no more than 8g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V6E</Code>
+      <Name lang="fi">Viini tuoreista rypäleistä, sokeripitoisuus yli 8 mutta enintään 11 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Vin på färska druvor, sockerhalt mer än 8 men högst 11 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Wine from fresh grapes, sugar content over 8 but no more than 11g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V6F</Code>
+      <Name lang="fi">Viini tuoreista rypäleistä, sokeripitoisuus yli 11 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Vin på färska druvor, sockerhalt mer än 11 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Wine from fresh grapes, sugar content over 11g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V6P</Code>
+      <Name lang="fi">Pakkaamaton viini tuoreista rypäleistä, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Vin av färska druvor, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%, inte färdigförpackat</Name>
+      <Name lang="en">Wine of fresh grapes, alcohol content over 0.5% by volume but no more than 1.2% by volume, unpackaged</Name>
+      <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799727,15 +800243,63 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Vermutti ja muu rypäleistä valmistettu maustettu viini, alkoholipitoisuus yli 0,5 tilavuus-%, mutta enintään 1,2 tilavuus-%</Name>
       <Name lang="sv">Vermouth och annat vin av druvor, smaksatt, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%</Name>
       <Name lang="en">Vermouth and other flavoured wine produced from grapes, alcohol content over 0.5 % but no more than 1.2 % by volume</Name>
-      <StartDate>2025-05-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2026-03-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V7A</Code>
-      <Name lang="fi">Vermutti ja muu rypäleistä valmistettu maustettu viini, alkoholipitoisuus yli 0,5 t-%, mutta enintään 1,2 t-%, sokeriton</Name>
-      <Name lang="sv">Vermouth och annat vin av druvor, smaksatt, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%, utan socker</Name>
-      <Name lang="en">Vermouth and other flavoured wine produced from grapes, alcohol content over 0.5 %, but no more than 1.2 % by volume, sugar-free</Name>
-      <StartDate>2025-05-01</StartDate>
+      <Name lang="fi">Sokeriton vermutti ja muu rypäleistä valmistettu maustettu viini, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Sockerfri vermouth och annat smaksatt vin på färska druvor, en alkoholhalt på mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Sugar-free vermouth and other flavoured wine of grapes, with an alcohol content of more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V7B</Code>
+      <Name lang="fi">Vermutti ja muu rypäleistä valmistettu maustettu viini, sokeripitoisuus yli 0,5 mutta enintään 2,5 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Vermouth och annat smaksatt vin på färska druvor, sockerhalt mer än 0,5 men högst 2,5 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Vermouth and other flavoured wine of grapes, sugar content over 0.5 but no more than 2.5g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V7C</Code>
+      <Name lang="fi">Vermutti ja muu rypäleistä valmistettu maustettu viini, sokeripitoisuus yli 2,5 mutta enintään 5 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Vermouth och annat smaksatt vin på färska druvor, sockerhalt mer än 2,5 men högst 5 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Vermouth and other flavoured wine of grapes, sugar content over 2.5 but no more than 5g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V7D</Code>
+      <Name lang="fi">Vermutti ja muu rypäleistä valmistettu maustettu viini, sokeripitoisuus yli 5 mutta enintään 8 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Vermouth och annat smaksatt vin på färska druvor, sockerhalt mer än 5 men högst 8 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Vermouth and other flavoured wine of grapes, sugar content over 5 but no more than 8g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V7E</Code>
+      <Name lang="fi">Vermutti ja muu rypäleistä valmistettu maustettu viini, sokeripitoisuus yli 8 mutta enintään 11 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Vermouth och annat smaksatt vin på färska druvor, sockerhalt mer än 8 men högst 11 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Vermouth and other flavoured wine of grapes, sugar content over 8 but no more than 11g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V7F</Code>
+      <Name lang="fi">Vermutti ja muu rypäleistä valmistettu maustettu viini,  sokeripitoisuus yli 11 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Vermouth och annat smaksatt vin på färska druvor, sockerhalt mer än 11 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Vermouth and other flavoured wine of grapes, sugar content over 11g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V7P</Code>
+      <Name lang="fi">Pakkaamaton vermutti ja muu rypäleistä valmistettu maustettu viini, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Vermouth och annat smaksatt vin av druvor, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%, inte färdigförpackad</Name>
+      <Name lang="en">Vermouth and other flavoured wine produced from grapes, alcohol content over 0.5% by volume but no more than 1.2% by volume, unpackaged</Name>
+      <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799743,31 +800307,127 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Muut käymisen avulla valmistetut juomat. Alkoholipitoisuus yli 0,5 max 1,2 %</Name>
       <Name lang="sv">Andra jästa drycker, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%</Name>
       <Name lang="en">Other fermented beverages. Alcohol over 0.5 max 1.2 %</Name>
-      <StartDate>2025-05-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2026-03-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V8A</Code>
-      <Name lang="fi">Muut käymisen avulla valmistetut juomat, alkoholipitoisuus yli 0,5 t-%, mutta enintään 1,2 t-%, sokeriton</Name>
-      <Name lang="sv">Andra jästa drycker, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%, utan socker</Name>
-      <Name lang="en">Other fermented beverages, alcohol content over 0.5 % but no more than 1.2 % by volume, sugar-free</Name>
-      <StartDate>2025-05-01</StartDate>
+      <Name lang="fi">Muut sokerittomat käymisen avulla valmistetut juomat, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Andra sockerfria jästa drycker med en alkoholhalt på mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Other sugar-free fermented beverages with an alcohol content of more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V8B</Code>
+      <Name lang="fi">Muut käymisen avulla valmistetut juomat, sokeripitoisuus yli 0,5 mutta enintään 2,5 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Andra jästa drycker, sockerhalt mer än 0,5 men högst 2,5 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Other fermented beverages, sugar content over 0.5 but no more than 2.5g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V8C</Code>
+      <Name lang="fi">Muut käymisen avulla valmistetut juomat, sokeripitoisuus yli 2,5 mutta enintään 5 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Andra jästa drycker, sockerhalt mer än 2,5 men högst 5 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Other fermented beverages, sugar content over 2.5 but no more than 5g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V8D</Code>
+      <Name lang="fi">Muut käymisen avulla valmistetut juomat, sokeripitoisuus yli 5 mutta enintään 8 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Andra jästa drycker, sockerhalt mer än 5 men högst 8 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Other fermented beverages, sugar content over 5 but no more than 8g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V8E</Code>
+      <Name lang="fi">Muut käymisen avulla valmistetut juomat, sokeripitoisuus yli 8 mutta enintään 11 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Andra jästa drycker, sockerhalt mer än 8 men högst 11 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Other fermented beverages, sugar content over 8 but no more than 11g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V8F</Code>
+      <Name lang="fi">Muut käymisen avulla valmistetut juomat, sokeripitoisuus yli 11 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Andra jästa drycker, sockerhalt mer än 11 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Other fermented beverages, sugar content over 11g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V8P</Code>
+      <Name lang="fi">Pakkaamattomat muut käymisen avulla valmistetut juomat, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Andra jästa drycker, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%, inte färdigförpackade</Name>
+      <Name lang="en">Other fermented beverages, alcohol content over 0.5% by volume but no more than 1.2% by volume, unpackaged</Name>
+      <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V9</Code>
       <Name lang="fi">Etyylialkoholijuoma, alkoholipitoisuus yli 0,5 t-%, mutta enintään 1,2 t-%, hiilihapotettu</Name>
-      <Name lang="sv">Etylalkoholdryck, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%, kolsyrad, utan socker</Name>
-      <Name lang="en">Ethyl alcohol beverage, alcohol content over 0.5 % but no more than 1.2 % by volume, carbonated, sugar-free</Name>
-      <StartDate>2025-05-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <Name lang="sv">Etylalkoholdryck, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%, kolsyrad</Name>
+      <Name lang="en">Ethyl alcohol beverage, alcohol content over 0.5% by volume but no more than 1.2% by volume, carbonated</Name>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2026-03-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V9A</Code>
-      <Name lang="fi">Etyylialkoholijuoma, alkoholipitoisuus yli 0,5 t-%, mutta enintään 1,2 t-%, hiilihapotettu, sokeriton</Name>
-      <Name lang="sv">Etylalkoholdryck, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%, kolsyrad, utan socker</Name>
-      <Name lang="en">Ethyl alcohol beverage, alcohol content over 0.5 % but no more than 1.2 % by volume, carbonated, sugar-free</Name>
-      <StartDate>2025-05-01</StartDate>
+      <Name lang="fi">Sokeriton etyylialkoholijuoma, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%, hiilihapotettu</Name>
+      <Name lang="sv">Sockerfri etylalkoholdryck med en alkoholhalt på mer än 0,5 men högst 1,2 volymprocent, kolsyrad</Name>
+      <Name lang="en">Sugar-free ethyl alcohol beverage with an alcohol content of more than 0.5% but no more than 1.2 vol%, aerated</Name>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V9B</Code>
+      <Name lang="fi">Etyylialkoholijuoma, sokeripitoisuus yli 0,5 mutta enintään 2,5 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%, hiilihapotettu</Name>
+      <Name lang="sv">Etylalkoholdryck, sockerhalt mer än 0,5 men högst 2,5 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent, kolsyrad</Name>
+      <Name lang="en">Ethyl alcohol beverage, sugar content over 0.5 but no more than 2.5g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%, aerated</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V9C</Code>
+      <Name lang="fi">Etyylialkoholijuoma, sokeripitoisuus yli 2,5 mutta enintään 5 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%, hiilihapotettu</Name>
+      <Name lang="sv">Etylalkoholdryck, sockerhalt mer än 2,5 men högst 5 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent, kolsyrad</Name>
+      <Name lang="en">Ethyl alcohol beverage, sugar content over 2.5 but no more than 5g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%, aerated</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V9D</Code>
+      <Name lang="fi">Etyylialkoholijuoma, sokeripitoisuus yli 5 mutta enintään 8 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%, hiilihapotettu</Name>
+      <Name lang="sv">Etylalkoholdryck, sockerhalt mer än 5 men högst 8 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent, kolsyrad</Name>
+      <Name lang="en">Ethyl alcohol beverage, sugar content over 5 but no more than 8g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%, aerated</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V9E</Code>
+      <Name lang="fi">Etyylialkoholijuoma, sokeripitoisuus yli 8 mutta enintään 11 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%, hiilihapotettu</Name>
+      <Name lang="sv">Etylalkoholdryck, sockerhalt mer än 8 men högst 11 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent, kolsyrad</Name>
+      <Name lang="en">Ethyl alcohol beverage, sugar content over 8 but no more than 11g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%, aerated</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V9F</Code>
+      <Name lang="fi">Etyylialkoholijuoma, sokeripitoisuus yli 11 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%, hiilihapotettu</Name>
+      <Name lang="sv">Etylalkoholdryck, sockerhalt mer än 11 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent, kolsyrad</Name>
+      <Name lang="en">Ethyl alcohol beverage, sugar content over 11g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%, aerated</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V9P</Code>
+      <Name lang="fi">Pakkaamaton etyylialkoholijuoma, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%, hiilihapotettu</Name>
+      <Name lang="sv">Etylalkoholdryck, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%, kolsyrad, inte färdigförpackad</Name>
+      <Name lang="en">Ethyl alcohol beverage, alcohol content over 0.5% by volume but no more than 1.2% by volume, carbonated, unpackaged</Name>
+      <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799775,15 +800435,63 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Etyylialkoholijuoma yli 0,5 max 1,2 %, muut</Name>
       <Name lang="sv">Etylalkoholdryck, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%, andra</Name>
       <Name lang="en">Ethyl alcohol beverage, alcohol over 0.5 max 1.2 % vol, others</Name>
-      <StartDate>2025-05-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2026-03-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V10A</Code>
-      <Name lang="fi">Etyylialkoholijuoma, alkoholipitoisuus yli 0,5 t-%, mutta enintään 1,2 t-%, muut, sokeriton</Name>
-      <Name lang="sv">Etylalkoholdryck, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%, andra, utan socker</Name>
-      <Name lang="en">Ethyl alcohol beverage, alcohol content over 0.5 % but no more than 1.2 % by volume, others, sugar-free</Name>
-      <StartDate>2025-05-01</StartDate>
+      <Name lang="fi">10A Nimikkeestä 2208 Sokeriton etyylialkoholijuoma, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%, muut</Name>
+      <Name lang="sv">Sockerfri etylalkoholdryck med en alkoholhalt på mer än 0,5 men högst 1,2 volymprocent, övriga</Name>
+      <Name lang="en">Sugar-free ethyl alcohol beverage with an alcohol content of more than 0.5% but no more than 1.2 vol%, others</Name>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V10B</Code>
+      <Name lang="fi">Juomateollisuudessa käytettävät tuotteet, hyvänhajuiset, sokeripitoisuus yli 0,5 mutta enintään 2,5 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Etylalkoholdryck, sockerhalt mer än 0,5 men högst 2,5 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent, övriga</Name>
+      <Name lang="en">Ethyl alcohol beverage, sugar content over 0.5 but no more than 2.5g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%, others</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V10C</Code>
+      <Name lang="fi">Juomateollisuudessa käytettävät tuotteet, hyvänhajuiset, sokeripitoisuus yli 2,5 mutta enintään 5 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Etylalkoholdryck, sockerhalt mer än 2,5 men högst 5 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent, övriga</Name>
+      <Name lang="en">Ethyl alcohol beverage, sugar content over 2.5 but no more than 5g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%, others</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V10D</Code>
+      <Name lang="fi">Juomateollisuudessa käytettävät tuotteet, hyvänhajuiset,  sokeripitoisuus yli 5 mutta enintään 8 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Etylalkoholdryck, sockerhalt mer än 5 men högst 8 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent, övriga</Name>
+      <Name lang="en">Ethyl alcohol beverage, sugar content over 5 but no more than 8g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%, others</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V10E</Code>
+      <Name lang="fi">Juomateollisuudessa käytettävät tuotteet, hyvänhajuiset, sokeripitoisuus yli 8 mutta enintään 11 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Etylalkoholdryck, sockerhalt mer än 8 men högst 11 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent, övriga</Name>
+      <Name lang="en">Ethyl alcohol beverage, sugar content over 8 but no more than 11g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%, others</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V10F</Code>
+      <Name lang="fi">Juomateollisuudessa käytettävät tuotteet, hyvänhajuiset, sokeripitoisuus yli 11 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Etylalkoholdryck, sockerhalt mer än 11 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent, övriga</Name>
+      <Name lang="en">Ethyl alcohol beverage, sugar content over 11g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%, others</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V10P</Code>
+      <Name lang="fi">Pakkaamaton etyylialkoholijuoma, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%, muut</Name>
+      <Name lang="sv">Etylalkoholdryck, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%, inte färdigförpackad</Name>
+      <Name lang="en">Ethyl alcohol beverage, alcohol content over 0.5% by volume but no more than 1.2% by volume, unpackaged, others</Name>
+      <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799791,15 +800499,55 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Juomateollisuudessa käytettävät tuotteet, hyvänhajuiset, alkoholipitoisuus yli 0,5 t-%, mutta enintään 1,2 t-%</Name>
       <Name lang="sv">Produkter som används vid industriell tillverkning av drycker, med luktämnen, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%</Name>
       <Name lang="en">Products used in beverage production, aromatic, alcohol content over 0.5 % but no more than 1.2 % by volume</Name>
-      <StartDate>2025-05-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2026-03-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V11A</Code>
-      <Name lang="fi">Juomateollisuudessa käytettävät tuotteet, hyvänhajuiset, alkoholipitoisuus yli 0,5 t-%, mutta enintään 1,2 t-%, sokeriton</Name>
-      <Name lang="sv">Produkter som används vid industriell tillverkning av drycker, med luktämnen, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%, utan socker</Name>
-      <Name lang="en">Products used in beverage production, aromatic, alcohol content over 0.5 % but no more than 1.2 % by volume, sugar-free</Name>
-      <StartDate>2025-05-01</StartDate>
+      <Name lang="fi">Sokerittomat juomateollisuudessa käytettävät tuotteet, hyvänhajuiset, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Sockerfria produkter som används i dryckesindustrin, baserade på luktämnen, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Sugar-free preparations used for the manufacture of beverages, odoriferous, with an alcohol content of more than 0.5 but no more than 1.2 vol%</Name>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V11B</Code>
+      <Name lang="fi">Juomateollisuudessa käytettävät tuotteet, hyvänhajuiset, sokeripitoisuus yli 0,5 mutta enintään 2,5 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Produkter som används i dryckesindustrin, baserade på luktämnen, sockerhalt mer än 0,5 men högst 2,5 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Preparations used for the manufacture of beverages, odoriferous, sugar content over 0.5 but no more than 2.5g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V11C</Code>
+      <Name lang="fi">Juomateollisuudessa käytettävät tuotteet, hyvänhajuiset, sokeripitoisuus yli 2,5 mutta enintään 5 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Produkter som används i dryckesindustrin, baserade på luktämnen, sockerhalt mer än 2,5 men högst 5 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Preparations used for the manufacture of beverages, odoriferous, sugar content over 2.5 but no more than 5g/100ml, alcohol content more than 0.5% but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V11D</Code>
+      <Name lang="fi">Juomateollisuudessa käytettävät tuotteet, hyvänhajuiset,  sokeripitoisuus yli 5 mutta enintään 8 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Produkter som används i dryckesindustrin, baserade på luktämnen, sockerhalt mer än 5 men högst 8 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Preparations used for the manufacture of beverages, odoriferous, sugar content over 5 but no more than 8g/100ml, alcohol content more than 0.5 but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V11E</Code>
+      <Name lang="fi">Juomateollisuudessa käytettävät tuotteet, hyvänhajuiset, sokeripitoisuus yli 8 mutta enintään 11 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Produkter som används i dryckesindustrin, baserade på luktämnen, sockerhalt mer än 8 men högst 11 g / 100 ml, alkoholhalt mer än 0,5 men högst 1,2 volymprocent</Name>
+      <Name lang="en">Preparations used for the manufacture of beverages, odoriferous, sugar content over 8 but no more than 11g/100ml, alcohol content more than 0.5 but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V11F</Code>
+      <Name lang="fi">Juomateollisuudessa käytettävät tuotteet, hyvänhajuiset, sokeripitoisuus yli 11 g/100ml, alkoholipitoisuus yli 0,5 til.-%, mutta enintään 1,2 til.-%</Name>
+      <Name lang="sv">Etylalkoholdryck, alkoholhalt mer än 0,5 volym-% men högst 1,2 volym-%, inte färdigförpackad</Name>
+      <Name lang="en">Preparations used for the manufacture of beverages, odoriferous, sugar content over 11g/100ml, alcohol content more than 0.5 but no more than 1.2 vol%</Name>
+      <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799807,15 +800555,55 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Juomien valmistukseen soveltuvat kivennäissuolaliuokset</Name>
       <Name lang="sv">Mineralsaltlösningar lämpliga för tillverkning av drycker</Name>
       <Name lang="en">Mineral salt liquids suitable for beverage production</Name>
-      <StartDate>2025-05-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2026-03-31</EndDate>
     </CodeItem>
     <CodeItem>
       <Code>V12A</Code>
-      <Name lang="fi">Juomien valmistukseen soveltuvat kivennäissuolaliuokset, sokeriton</Name>
-      <Name lang="sv">Mineralsaltlösningar lämpliga för tillverkning av drycker, utan socker</Name>
-      <Name lang="en">Mineral salt liquids suitable for beverage production, sugar-free</Name>
-      <StartDate>2025-05-01</StartDate>
+      <Name lang="fi">Sokerittomat juomien valmistukseen soveltuvat kivennäissuolaliuokset</Name>
+      <Name lang="sv">Sockerfria mineralsaltlösningar som lämpar sig för tillverkning av drycker</Name>
+      <Name lang="en">Sugar-free mineral salt solutions suited for preparation of beverages</Name>
+      <StartDate>2025-09-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V12B</Code>
+      <Name lang="fi">Juomien valmistukseen soveltuvat kivennäissuolaliuokset, sokeripitoisuus yli 0,5 mutta enintään 2,5 g/100ml</Name>
+      <Name lang="sv">Mineralsaltlösningar som lämpar sig för tillverkning av drycker, sockerhalt mer än 0,5 men högst 2,5 g / 100 ml</Name>
+      <Name lang="en">Mineral salt solutions suited for preparation of beverages, sugar content over 0.5 but no more than 2.5g/100ml</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V12C</Code>
+      <Name lang="fi">Juomien valmistukseen soveltuvat kivennäissuolaliuokset, sokeripitoisuus yli 2,5 mutta enintään 5 g/100ml</Name>
+      <Name lang="sv">Mineralsaltlösningar som lämpar sig för tillverkning av drycker, sockerhalt mer än 2,5 men högst 5 g / 100 ml</Name>
+      <Name lang="en">Mineral salt solutions suited for preparation of beverages, sugar content over 2.5 but no more than 5g/100ml</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V12D</Code>
+      <Name lang="fi">Juomien valmistukseen soveltuvat kivennäissuolaliuokset, sokeripitoisuus yli 5 mutta enintään 8 g/100ml</Name>
+      <Name lang="sv">Mineralsaltlösningar som lämpar sig för tillverkning av drycker, sockerhalt mer än 5 men högst 8 g / 100 ml</Name>
+      <Name lang="en">Mineral salt solutions suited for preparation of beverages, sugar content over 5 but no more than 8g/100ml</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V12E</Code>
+      <Name lang="fi">Juomien valmistukseen soveltuvat kivennäissuolaliuokset, sokeripitoisuus yli 8 mutta enintään 11 g/100ml</Name>
+      <Name lang="sv">Mineralsaltlösningar som lämpar sig för tillverkning av drycker, sockerhalt mer än 8 men högst 11 g / 100 ml</Name>
+      <Name lang="en">Mineral salt solutions suited for preparation of beverages, sugar content over 8 but no more than 11g/100ml</Name>
+      <StartDate>2026-04-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
+      <Code>V12F</Code>
+      <Name lang="fi">Juomien valmistukseen soveltuvat kivennäissuolaliuokset, sokeripitoisuus yli 11 g/100ml</Name>
+      <Name lang="sv">Mineralsaltlösningar som lämpar sig för tillverkning av drycker, sockerhalt mer än 11 g / 100 ml</Name>
+      <Name lang="en">Mineral salt solutions suited for preparation of beverages, sugar content over 11g/100ml</Name>
+      <StartDate>2026-04-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
@@ -799823,7 +800611,7 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Name lang="fi">Ei verotuoteryhmää</Name>
       <Name lang="sv">ingen skattemässig produktgrupp</Name>
       <Name lang="en">No tax product group</Name>
-      <StartDate>2025-05-01</StartDate>
+      <StartDate>2025-09-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
   </CodeList>
@@ -800562,5 +801350,5 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Definition lang="en">Mandatory description</Definition>
     </Filter>
   </Definitions>
-  <Generated>2026-10-01T14:58:09.000</Generated>
+  <Generated>2026-10-09T09:12:38.000</Generated>
 </CodeLists>
