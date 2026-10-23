@@ -656632,6 +656632,38 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>C623</Code>
+      <Name lang="fi">Uudelleenlastaustodistus EXP.1</Name>
+      <Name lang="sv">Omlastningscertifikat EXP.1</Name>
+      <Name lang="en">Transhipment certificate EXP.1</Name>
+      <StartDate>2026-04-30</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP-D</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP-SI</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP-D</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP-SI</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>NationalCode</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>C624</Code>
       <Name lang="fi">Lomake 302</Name>
       <Name lang="sv">Formulär 302</Name>
@@ -663089,6 +663121,38 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Filter>
         <Name>Filter_TRA</Name>
         <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>NationalCode</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>N861</Code>
+      <Name lang="fi">Alkuperätodistus (yleinen alkuper</Name>
+      <Name lang="sv">Urprungsintyg (allmänt ursprung)</Name>
+      <Name lang="en">Certificate of origin general</Name>
+      <StartDate>2024-08-29</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP-D</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP-SI</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP-D</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP-SI</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
       </Filter>
       <Filter>
         <Name>NationalCode</Name>
@@ -719587,7 +719651,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="fi">Etelämanner</Name>
       <Name lang="sv">Antarktis</Name>
       <Name lang="en">Antarctica</Name>
-      <StartDate>2026-05-20</StartDate>
+      <StartDate>2026-04-17</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_EXP</Name>
@@ -720819,7 +720883,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="fi">Euroopan Unioni</Name>
       <Name lang="sv">Europeiska unionen</Name>
       <Name lang="en">European Union</Name>
-      <StartDate>2026-05-29</StartDate>
+      <StartDate>2026-04-17</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_EXP</Name>
@@ -768552,6 +768616,38 @@ Check the customs office in the authorisation for centralised clearance for impo
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>N785</Code>
+      <Name lang="fi">Rahtiasiakirja</Name>
+      <Name lang="sv">Fraktmanifest</Name>
+      <Name lang="en">Cargo manifest</Name>
+      <StartDate>2025-09-17</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP-D</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP-SI</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_SSD</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>N787</Code>
       <Name lang="fi">Lähetysluettelo</Name>
       <Name lang="sv">Bordereau</Name>
@@ -768581,6 +768677,38 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Filter>
         <Name>Filter_TRA</Name>
         <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>N787</Code>
+      <Name lang="fi">Lähetysluettelo</Name>
+      <Name lang="sv">Bordereau</Name>
+      <Name lang="en">Bordereau (cargo load list)</Name>
+      <StartDate>2025-09-17</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP-D</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP-SI</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_SSD</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
       </Filter>
     </CodeItem>
     <CodeItem>
@@ -768645,6 +768773,38 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Filter>
         <Name>Filter_TRA</Name>
         <Value>1</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>N955</Code>
+      <Name lang="fi">ATA-carnet</Name>
+      <Name lang="sv">ATA-carnet</Name>
+      <Name lang="en">ATA carnet</Name>
+      <StartDate>2025-09-17</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_ENTRY</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP-D</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP-SI</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_SSD</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
       </Filter>
     </CodeItem>
   </CodeList>
@@ -801350,5 +801510,5 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Definition lang="en">Mandatory description</Definition>
     </Filter>
   </Definitions>
-  <Generated>2026-10-09T09:12:38.000</Generated>
+  <Generated>2026-10-23T10:30:31.000</Generated>
 </CodeLists>
