@@ -638821,7 +638821,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="sv">Varuförsändelser av lågt värde (högst 150 euro) Tullfri. Rådets förordning (EG) nr 1186/2009 om upprättandet av ett gemenskapssystem för tullbefrielse, art. 23</Name>
       <Name lang="en">Consignments of negligible value (the intrinsic value does not exceed 150 euros). Customs duty exemption. Article 23 Council Regulation (EC) No 1186/2009 setting up a Community system of reliefs from customs duty</Name>
       <StartDate>2017-01-01</StartDate>
-      <EndDate>2099-12-31</EndDate>
+      <EndDate>2026-10-01</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
         <Value>0</Value>
@@ -654233,8 +654233,8 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
     </CodeItem>
     <CodeItem>
       <Code>C127</Code>
-      <Name lang="fi">Kaupan tuotetunniste</Name>
-      <Name lang="sv">Identifierare för saluförd produkt</Name>
+      <Name lang="fi">Kauppiaan tuotetunniste</Name>
+      <Name lang="sv">Handlarens produktbeteckning</Name>
       <Name lang="en">Merchant product identifier</Name>
       <StartDate>2026-06-01</StartDate>
       <EndDate>2099-12-31</EndDate>
@@ -664801,6 +664801,38 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Filter>
         <Name>Filter_EXP-D</Name>
         <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP-SI</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP-D</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP-SI</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+      <Filter>
+        <Name>NationalCode</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>U082</Code>
+      <Name lang="fi">Armenian rekisteröidyn viejän laatima kauppalaskuilmoitus</Name>
+      <Name lang="sv">Fakturadeklaration upprättad av en registrerad exportör i Armenien</Name>
+      <Name lang="en">Invoice declaration made out by a registered exporter in Armenia</Name>
+      <StartDate>2026-10-10</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_EXP-D</Name>
+        <Value>0</Value>
       </Filter>
       <Filter>
         <Name>Filter_EXP-SI</Name>
@@ -713314,8 +713346,8 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
     <CodeItem>
       <Code>FIMUO</Code>
       <Name lang="fi">Ahvenanmaan kautta Ruotsiin tai Tanskaan tai Suomen ja Norjan välillä liikennöivälle matkustaja-alukselle Suomessa toimitettavat muut tavarat, joiden yksikköhinta ylittää 65 euroa. Laki ulkomaanliikenteessä olevissa matkustaja-aluksissa myytävien tavaroiden verottamisesta eräissä tapauksissa 13.6.1969/397 5 §</Name>
-      <Name lang="sv">sv: Ahvenanmaan kautta Ruotsiin tai Tanskaan tai Suomen ja Norjan välillä liikennöivälle matkustaja-alukselle Suomessa toimitettavat muut tavarat, joiden yksikköhinta ylittää 65 euroa. Laki ulkomaanliikenteessä olevissa matkustaja-aluksissa myytävien tavaroiden verottamisesta eräissä tapauksissa 13.6.1969/397 5 §</Name>
-      <Name lang="en">en: Ahvenanmaan kautta Ruotsiin tai Tanskaan tai Suomen ja Norjan välillä liikennöivälle matkustaja-alukselle Suomessa toimitettavat muut tavarat, joiden yksikköhinta ylittää 65 euroa. Laki ulkomaanliikenteessä olevissa matkustaja-aluksissa myytävien tavaroiden verottamisesta eräissä tapauksissa 13.6.1969/397 5 §</Name>
+      <Name lang="sv">Andra varor som levereras i Finland till passagerarfartyg i trafik mellan Finland och Sverige eller Danmark via Åland eller mellan Finland och Norge, och vars pris per enhet överstiger 65 euro. Lagen om beskattning i vissa fall av varor, som säljes ombord på passagerarfartyg i utrikestrafik 13.6.1969/397, 5 §</Name>
+      <Name lang="en">Other goods with a unit price exceeding 65 euros to be delivered in Finland to passenger ships in traffic to Sweden or Denmark via Åland or in traffic between Finland and Norway. Finnish legal act on the taxation of goods sold on board passenger ships in foreign traffic in specific cases 13.6.1969/397, section 5.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
@@ -731123,6 +731155,30 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="sv">Undantag från kravet på bevis på förmånsberättigande ursprung inom ramen för EU:s förmånsordningar på handelsområdet</Name>
       <Name lang="en">Waiver of the proof of preferential origin, in the framework of EU preferential trade arrangements</Name>
       <StartDate>2023-01-21</StartDate>
+      <EndDate>2026-10-28</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y119</Code>
+      <Name lang="fi">Vapautus etuuskohteluun oikeuttavan alkuperän todistamisesta EU:n etuuskohteluun perustuvien kauppajärjestelyjen yhteydessä pienten pakettien ja matkustajien henkilökohtaisten matkatavaroiden osalta</Name>
+      <Name lang="sv">Befrielse från krav på bevis om förmånsberättigande ursprung inom ramen för EU:s förmånsordningar för småpaket och resandes personliga bagage</Name>
+      <Name lang="en">Waiver of the proof of preferential origin, in the framework of EU preferential trade arrangements, for small packages and travellers’ personal luggage</Name>
+      <StartDate>2026-10-29</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -731675,6 +731731,54 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="sv">Goods sold in distance sales</Name>
       <Name lang="en">Goods sold in distance sales</Name>
       <StartDate>2026-07-01</StartDate>
+      <EndDate>2026-10-20</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y126</Code>
+      <Name lang="fi">Goods sold in distance sales</Name>
+      <Name lang="sv">Hanteringsavgift</Name>
+      <Name lang="en">Customs handling fee</Name>
+      <StartDate>2026-10-21</StartDate>
+      <EndDate>2026-10-28</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y126</Code>
+      <Name lang="fi">Etämyynnissä myydyt tavarat</Name>
+      <Name lang="sv">Varor som säljs på distans</Name>
+      <Name lang="en">Goods sold in distance sales</Name>
+      <StartDate>2026-10-29</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -734701,7 +734805,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
-        <Value>0</Value>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_EXP</Name>
@@ -734709,7 +734813,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
-        <Value>0</Value>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -734725,7 +734829,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
-        <Value>0</Value>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_EXP</Name>
@@ -734733,7 +734837,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
-        <Value>0</Value>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -734749,7 +734853,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
-        <Value>0</Value>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_EXP</Name>
@@ -734757,7 +734861,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
-        <Value>0</Value>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -734773,7 +734877,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
-        <Value>0</Value>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_EXP</Name>
@@ -734781,7 +734885,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
-        <Value>0</Value>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -734869,7 +734973,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
-        <Value>0</Value>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_EXP</Name>
@@ -734877,7 +734981,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       </Filter>
       <Filter>
         <Name>Filter_IMP</Name>
-        <Value>0</Value>
+        <Value>1</Value>
       </Filter>
       <Filter>
         <Name>Filter_TRA</Name>
@@ -738602,6 +738706,30 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>Y424</Code>
+      <Name lang="fi">kansainvälisen järjestön virallisessa toiminnassaan maahan tuomat tai sen lukuun toimivan tahon toimesta maahan tuodut tavarat, jotka ovat vapaita tulleista ja veroista sekä tuontikielloista ja -rajoituksista kansainvälisten sopimusten tai päätoimipaikkaa koskevien sopimusten nojalla.</Name>
+      <Name lang="sv">Varor som importeras av en internationell organisation eller på dess vägnar för dess officiella verksamhet och som omfattas av befrielse från avgifter och skatter och från gällande förbud mot eller restriktioner för import enligt internationella avtal eller avtal om huvudkontor.</Name>
+      <Name lang="en">Goods imported by or on behalf of an international organisation for its official activities, benefiting from exemptions from duties and taxes and from applicable prohibitions and restrictions on imports under international or headquarters agreements</Name>
+      <StartDate>2026-10-10</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>Y500</Code>
       <Name lang="fi">Tavarat, jotka olivat jo matkalla unioniin 18.11.2025 ja joiden määräpaikkaa ei voida muuttaa</Name>
       <Name lang="sv">Varor som redan var på väg till unionen den 18/11/2025 och vars bestämmelseort inte kan ändras</Name>
@@ -738775,7 +738903,7 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="sv">Import till Ungern av varor som omfattas av KN-nummer 2901 10 00 med ursprung i Ryssland eller som exporteras från Ryssland och som uteslutande är avsedda för användning i Ungern (artikel 3i.3bc i förordning (EU) nr 833/2014)</Name>
       <Name lang="en">Import to Hungary of goods falling under CN code 2901 10 00 originating in Russia or exported from Russia, and intended for exclusive use in Hungary (Article 3i paragraph 3bc of Regulation (EU) No 833/2014)</Name>
       <StartDate>2026-01-26</StartDate>
-      <EndDate>2026-07-24</EndDate>
+      <EndDate>2026-12-30</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
         <Value>1</Value>
@@ -740092,6 +740220,30 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="sv">Förbuden i artikel 3k.1 i rådets förordning (EU) nr 765/2006 är inte tillämpliga (se avtalsundantagen i artikel 3k.4a)</Name>
       <Name lang="en">The prohibitions defined in article 1fd paragraph 1 of Council Regulation (EU) No 765/2006 do not apply (see exemptions in article 1fd paragraph 3)</Name>
       <StartDate>2024-12-04</StartDate>
+      <EndDate>2026-10-20</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y720</Code>
+      <Name lang="fi">Neuvoston asetuksen (EU) N:o 765/2006 1fd artiklan 1 kohdassa määriteltyjä kieltoja ei sovelleta (ks. sopimuspoikkeukset 1fd artiklan 3 kohdassa)</Name>
+      <Name lang="sv">Förbuden i artikel 1fd.1 rådets förordning (EU) nr 765/2006 är inte tillämpliga (se avtalsundantagen i artikel 1fd.3)</Name>
+      <Name lang="en">The prohibitions defined in article 1fd paragraph 1 of Council Regulation (EU) No 765/2006 do not apply (see exemptions in article 1fd paragraph 3)</Name>
+      <StartDate>2026-10-21</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -742485,6 +742637,30 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       </Filter>
     </CodeItem>
     <CodeItem>
+      <Code>Y765</Code>
+      <Name lang="fi">Neuvoston asetuksen (EY) N:o 1183/2005 1 a artiklan 1 kohdassa määriteltyjä kieltoja ei sovelleta (ks. poikkeukset 1 b artiklan 1 kohdassa).</Name>
+      <Name lang="sv">Förbuden i artikel 1a.1 i rådets förordning (EG) nr 1183/2005 är inte tillämpliga (se undantagen i artikel 1b.1)</Name>
+      <Name lang="en">The prohibitions defined in article 1a.1 of Council Regulation (EC) No 1183/2005 do not apply (see exemptions in article 1b.1)</Name>
+      <StartDate>2026-10-28</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
       <Code>Y766</Code>
       <Name lang="fi">Neuvoston asetuksen (EU) N:o 2022/263 5.2b artiklassa määriteltyjä kieltoja ei sovelleta (katso poikkeukset 5.6 artiklassa)</Name>
       <Name lang="sv">Förbuden i artikel 5.2b i rådets förordning (EU) nr 2022/263 är inte tillämpliga (se undantag i artikel 5.6)</Name>
@@ -742802,6 +742978,30 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
       <Name lang="sv">De förbud som definieras i artikel 1b.1 i förordning (EU) 2023/2147 är inte tillämpliga (se avtalsmässiga undantag i artikel 1b.4).</Name>
       <Name lang="en">The prohibitions defined in article 1b paragraph 1 of Regulation (EU) 2023/2147 do not apply (see contractual exemptions in article 1b paragraph 4)</Name>
       <StartDate>2026-07-15</StartDate>
+      <EndDate>2099-12-31</EndDate>
+      <Filter>
+        <Name>Filter_CWAR</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_EXP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_IMP</Name>
+        <Value>1</Value>
+      </Filter>
+      <Filter>
+        <Name>Filter_TRA</Name>
+        <Value>0</Value>
+      </Filter>
+    </CodeItem>
+    <CodeItem>
+      <Code>Y774</Code>
+      <Name lang="fi">Neuvoston asetuksen (EY) N:o 1183/2005 1 a artiklan 1 kohdassa määriteltyjä kieltoja ei sovelleta (ks. poikkeukset 1 b artiklan 2 kohdassa).</Name>
+      <Name lang="sv">Förbuden i artikel 1a.1 i rådets förordning (EG) nr 1183/2005 är inte tillämpliga (se undantagen i artikel 1b.2)</Name>
+      <Name lang="en">The prohibitions defined in article 1a.1 of Council Regulation (EC) No 1183/2005 do not apply (see exemptions in article 1b.2)</Name>
+      <StartDate>2026-10-28</StartDate>
       <EndDate>2099-12-31</EndDate>
       <Filter>
         <Name>Filter_CWAR</Name>
@@ -753790,6 +753990,12 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
     </CodeItem>
   </CodeList>
   <CodeList>
+    <Identification>CL389</Identification>
+    <Name lang="fi">Maa (alusilmoitus)</Name>
+    <Name lang="sv">Land (fartygsleverans)</Name>
+    <Name lang="en">Country (ship supply)</Name>
+  </CodeList>
+  <CodeList>
     <Identification>CL393</Identification>
     <Name lang="fi">Poistumisen tarkastustulos</Name>
     <Name lang="sv">Kontrollresultat vid utförsel</Name>
@@ -754514,9 +754720,9 @@ Agreement between the Parties to the North Atlantic Treaty regarding the Status 
     </CodeItem>
     <CodeItem>
       <Code>C0822</Code>
-      <Name lang="fi">Ilmoituksessa on kerrottava, ovatko tavarat kontissa (arvo 0 tai 1).</Name>
-      <Name lang="sv">I deklarationen ska man ange om varorna är i en container (värdet 0 eller 1).</Name>
-      <Name lang="en">It must be indicated in the declaration whether the goods are in a container (value 0 or 1).</Name>
+      <Name lang="fi">Tulli-ilmoituksella on ilmoitettava tavaroiden lastaus konttiin käyttämällä arvoa 1. Muussa tapauksessa on käytettävä arvoa 0.</Name>
+      <Name lang="sv">I deklarationen ska det anges om varorna finns i en container genom att använda värdet 1. I annat fall används värdet 0.</Name>
+      <Name lang="en">It must be indicated in the declaration whether the goods are in a container by using value 1.Otherwise value 0 must be used.</Name>
       <StartDate>2017-01-01</StartDate>
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
@@ -785772,6 +785978,14 @@ Check the customs office in the authorisation for centralised clearance for impo
       <EndDate>2099-12-31</EndDate>
     </CodeItem>
     <CodeItem>
+      <Code>5008</Code>
+      <Name lang="fi">Vapaakauppasopimuskumppanit</Name>
+      <Name lang="sv">Vapaakauppasopimuskumppanit</Name>
+      <Name lang="en">Vapaakauppasopimuskumppanit</Name>
+      <StartDate>2026-10-01</StartDate>
+      <EndDate>2099-12-31</EndDate>
+    </CodeItem>
+    <CodeItem>
       <Code>5500</Code>
       <Name lang="fi">Mercosur</Name>
       <Name lang="sv">Mercosur</Name>
@@ -799034,60 +799248,6 @@ Check the customs office in the authorisation for centralised clearance for impo
     </CodeItem>
   </CodeList>
   <CodeList>
-    <Identification>NCL501</Identification>
-    <Name lang="fi">Maa (alusilmoitus)</Name>
-    <Name lang="sv">Land (fartygsleverans)</Name>
-    <Name lang="en">Country (ship supply)</Name>
-    <CodeItem>
-      <Code>QR</Code>
-      <Name lang="fi">Toimitukset aluksiin sisäkaupassa</Name>
-      <Name lang="sv">Leverans till fartyg, intra handeln</Name>
-      <Name lang="en">Supplies to vessels, intra trade</Name>
-      <StartDate>2005-01-01</StartDate>
-      <EndDate>2023-10-20</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>QR</Code>
-      <Name lang="fi">Alusten elintarvike- ja polttoainevarastot EU:n sisäisessä kaupassa</Name>
-      <Name lang="sv">Bunkring och underhåll vid handel inom EU</Name>
-      <Name lang="en">Stores and provisions intra-Comm</Name>
-      <StartDate>2023-10-21</StartDate>
-      <EndDate>2024-01-21</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>QR</Code>
-      <Name lang="fi">Alusten elintarvike- ja polttoainevarastot EU:n sisäisessä kaupassa</Name>
-      <Name lang="sv">Bunkring och underhåll vid handel inom EU</Name>
-      <Name lang="en">Stores and provisions within the framework of intra-Union trade</Name>
-      <StartDate>2024-01-22</StartDate>
-      <EndDate>2099-12-31</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>QS</Code>
-      <Name lang="fi">Toimitukset aluksiin ulkokaupassavarastot kolm. maiden kaup</Name>
-      <Name lang="sv">Bungring och underhåll vid handel med tredje land</Name>
-      <Name lang="en">Stores and provisions 3rd countries</Name>
-      <StartDate>2007-01-01</StartDate>
-      <EndDate>2023-10-20</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>QS</Code>
-      <Name lang="fi">Toimitukset aluksiin ulkokaupassa</Name>
-      <Name lang="sv">Bunkring och underhåll vid handel med tredjeland</Name>
-      <Name lang="en">Stores and provisions 3rd countries</Name>
-      <StartDate>2023-10-21</StartDate>
-      <EndDate>2024-01-21</EndDate>
-    </CodeItem>
-    <CodeItem>
-      <Code>QS</Code>
-      <Name lang="fi">Toimitukset aluksiin ulkokaupassa</Name>
-      <Name lang="sv">Bunkring och underhåll vid handel med tredjeland</Name>
-      <Name lang="en">Stores and provisions within the framework of extra-Union trade</Name>
-      <StartDate>2024-01-22</StartDate>
-      <EndDate>2099-12-31</EndDate>
-    </CodeItem>
-  </CodeList>
-  <CodeList>
     <Identification>NCL502</Identification>
     <Name lang="fi">Kuljetusmuoto (alusilmoitus)</Name>
     <Name lang="sv">Transportsätt (fartygsleverans)</Name>
@@ -801510,5 +801670,5 @@ Check the customs office in the authorisation for centralised clearance for impo
       <Definition lang="en">Mandatory description</Definition>
     </Filter>
   </Definitions>
-  <Generated>2026-10-23T10:30:31.000</Generated>
+  <Generated>2026-11-02T13:32:28.000</Generated>
 </CodeLists>
